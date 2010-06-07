@@ -1,0 +1,9 @@
+
+
+== Test Starting Page ==
+
+More coming soon
+
+ [[Image(source:/page/trunk/xbxlogo.png),nolink,align=center]]
+
+[WikiSandbox]
