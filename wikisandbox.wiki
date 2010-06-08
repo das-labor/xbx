@@ -2,7 +2,8 @@
 
 == One table ==
 
-[[SortCSVsourceTableMacro(source:page/trunk/table1.csv,header=Cipher,Implementation,cs,bm, result, compiler)]]
+hallo
 
 == Another one ==
-[[SortCSVsourceTableMacro(source:page/trunk/table2.csv,header=title1,title2)]]
+
+test
