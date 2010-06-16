@@ -1,4 +1,4 @@
-| '''Cipher''' || '''Implementation''' || '''Try Cycles (1536)''' || '''Empty Message''' || '''1 byte''' || '''32 bytes''' || '''512 bytes''' || '''1024 bytes''' || '''2048 bytes''' || '''Long Messages''' || '''''' 
+| '''Cipher''' || '''Implementation''' || '''Try Cycles (1536)''' || '''Empty Message''' || '''1 byte''' || '''32 bytes''' || '''512 bytes''' || '''1024 bytes''' || '''2048 bytes''' || '''Long Messages''' || '''Details''' 
 |[wiki:ciphers_0hash 0hash] || empty || 36 || 36 || 36 || 1 || 0 || 0 || 0 || 0 || [wiki:runs_1 Details]
 |[wiki:ciphers_shabal512 shabal512] || ref || 55064 || 7054 || 7055 || 216 || 45 || 38 || 35 || 31 || [wiki:runs_1 Details]
 |[wiki:ciphers_blake32 blake32] || light || 110498 || 5083 || 5465 || 161 || 79 || 74 || 71 || 69 || [wiki:runs_1 Details]

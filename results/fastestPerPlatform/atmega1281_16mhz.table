@@ -1,4 +1,4 @@
-| '''Cipher''' || '''Implementation''' || '''Try Cycles (1536)''' || '''Empty Message''' || '''1 byte''' || '''32 bytes''' || '''512 bytes''' || '''1024 bytes''' || '''2048 bytes''' || '''Long Messages''' || '''''' 
+| '''Cipher''' || '''Implementation''' || '''Try Cycles (1536)''' || '''Empty Message''' || '''1 byte''' || '''32 bytes''' || '''512 bytes''' || '''1024 bytes''' || '''2048 bytes''' || '''Long Messages''' || '''Details''' 
 |[wiki:ciphers_0hash 0hash] || empty || 72 || 72 || 72 || 2 || 0 || 0 || 0 || 0 || [wiki:runs_2 Details]
 |[wiki:ciphers_mcssha5 mcssha5] || ref || 914568 || 71826 || 72386 || 2794 || 689 || 619 || 584 || 549 || [wiki:runs_2 Details]
 |[wiki:ciphers_mcssha6 mcssha6] || ref || 924840 || 82097 || 82658 || 3115 || 709 || 629 || 589 || 549 || [wiki:runs_2 Details]
