@@ -1,6 +1,12 @@
 
 == Run 2 ==
+
+ * Date: 20100614
+ * Hostname: hal
+ * Platform: atmega1281_16mhz
+ * XBX-Version 1.1.0
     
+
 === Try Results ===
 [[SortCSVsourceTable(source:page/trunk/results/triesByRun/2.table)]]
   
