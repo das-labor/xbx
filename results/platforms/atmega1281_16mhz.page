@@ -1,5 +1,5 @@
 
     = Platform atmega1281_16mhz =
     
-    == Fastest algorithms ==
+    == Fastest Algorithms ==
   [[SortCSVsourceTable(source:page/trunk/results/fastestPerPlatform/atmega1281_16mhz.table)]]
