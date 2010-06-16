@@ -1,9 +1,7 @@
-
-    = Run 1 =
+== Run 1 ==
     
-    == Try Results ==
-  [[SortCSVsourceTable(source:page/trunk/results/triesByRun/1.table)]]
+=== Try Results ===
+[[SortCSVsourceTable(source:page/trunk/results/triesByRun/1.table)]]
   
-    == Measure Results ==
-  [[SortCSVsourceTable(source:page/trunk/results/measuresByRun/1.table)]]
-  
+== Measure Results ==
+[[SortCSVsourceTable(source:page/trunk/results/measuresByRun/1.table)]]
