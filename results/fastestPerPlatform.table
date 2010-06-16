@@ -1,0 +1,12 @@
+Syntax: 
+  report.pl OPTIONS COMMAND
+COMMANDS:
+  help                                This help
+  platforms                           List all platforms
+  excludedRuns                        List all excluded runs
+  triesByRun RUNID                    List all tries for a run
+  measuresByRun RUNID                 List all tries for a run
+  runs                                List all valid runs
+  fastestPerPlatform PLATFORMNAME     List fastest implementation of each cipher per platform
+OPTIONS
+  -w, --wiki		Format tables using wiki syntax
