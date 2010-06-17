@@ -1,6 +1,6 @@
 
 == Cipher mcssha5 ==
      
-=== Fastest Algorithms ===
+=== Fastest Implementations ===
 
 [[SortCSVsourceTable(source:page/trunk/results/fastestPerCipher/mcssha5.table)]]

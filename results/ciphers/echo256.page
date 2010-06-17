@@ -1,6 +1,6 @@
 
 == Cipher echo256 ==
      
-=== Fastest Algorithms ===
+=== Fastest Implementations ===
 
 [[SortCSVsourceTable(source:page/trunk/results/fastestPerCipher/echo256.table)]]
