@@ -1,6 +1,10 @@
 
 == Cipher 0hash ==
-     
+
+The 0hash cipher is a 256-bit hash function always returning 0000...0000.
+It is used to create a baseline memory and stack footprint.
+
+
 === Fastest Implementations ===
 
 [[SortCSVsourceTable(source:page/trunk/results/fastestPerCipher/0hash.table)]]

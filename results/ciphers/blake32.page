@@ -1,6 +1,8 @@
 
 == Cipher blake32 ==
-     
+
+
+
 === Fastest Implementations ===
 
 [[SortCSVsourceTable(source:page/trunk/results/fastestPerCipher/blake32.table)]]

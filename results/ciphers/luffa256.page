@@ -1,6 +1,8 @@
 
 == Cipher luffa256 ==
-     
+
+
+
 === Fastest Implementations ===
 
 [[SortCSVsourceTable(source:page/trunk/results/fastestPerCipher/luffa256.table)]]
