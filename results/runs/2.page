@@ -1,10 +1,12 @@
 
 == Run 2 ==
 
- * Date: 20100614
- * Hostname: hal
- * Platform: atmega1281_16mhz
- * XBX-Version 1.1.0
+ * Date: 20100616
+ * Hostname: alix
+ * Platform: lm3s811-evb
+ * XBX Version 1.1.0
+ * XBH Revision 
+ * Bootloader Revision 
 
 
 

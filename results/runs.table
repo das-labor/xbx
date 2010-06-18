@@ -1,3 +1,12 @@
-| '''ID''' || '''Date''' || '''Platform''' || '''Hostname''' || '''Version''' || '''Details''' 
-|2 || 20100614 || atmega1281_16mhz || hal || 1.1.0 || [wiki:runs_2 Details]
-|1 || 20100615 || lm3s811-evb || alix || 1.1.0 || [wiki:runs_1 Details]
+| '''ID''' || '''Date''' || '''Platform''' || '''Hostname''' || '''Version''' || '''XBH Revision''' || '''Bootloader Revision''' || '''Details''' 
+|11 || 20100618 || atmega1281_16mhz || toad || 1.1.0 || 00736 ||  || [wiki:runs_11 Details]
+|10 || 20100618 || atmega1281_16mhz || toad || 1.1.0 || 00736 ||  || [wiki:runs_10 Details]
+|9 || 20100618 || atmega1281_16mhz || toad || 1.1.0 || 00736 ||  || [wiki:runs_9 Details]
+|8 || 20100618 || atmega1281_16mhz || toad || 1.1.0 || 00736 ||  || [wiki:runs_8 Details]
+|7 || 20100618 || atmega1281_16mhz || toad || 1.1.0 || 00736 ||  || [wiki:runs_7 Details]
+|6 || 20100618 || atmega1281_16mhz || toad || 1.1.0 || 00736 ||  || [wiki:runs_6 Details]
+|5 || 20100618 || atmega1281_16mhz || toad || 1.1.0 || 00736 ||  || [wiki:runs_5 Details]
+|4 || 20100618 || atmega1281_16mhz || toad || 1.1.0 || 00736 ||  || [wiki:runs_4 Details]
+|3 || 20100618 || atmega1281_16mhz || toad || 1.1.0 || 00736 ||  || [wiki:runs_3 Details]
+|2 || 20100616 || lm3s811-evb || alix || 1.1.0 ||  ||  || [wiki:runs_2 Details]
+|1 || 20100618 || atmega1281_16mhz || toad || 1.1.0 || 00736 ||  || [wiki:runs_1 Details]

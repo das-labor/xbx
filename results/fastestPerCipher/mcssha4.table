@@ -1,2 +1,2 @@
 | '''Platform''' || '''Implementation''' || '''Try Cycles (1536)''' || '''Empty Message''' || '''1 byte''' || '''32 bytes''' || '''512 bytes''' || '''1024 bytes''' || '''2048 bytes''' || '''Long Messages''' || '''Source''' 
-|[wiki:platforms_lm3s811-evb lm3s811-evb] || ref || 227177 || 13686 || 13826 || 567 || 166 || 152 || 146 || 139 || [wiki:runs_1 Run 1]
+|[wiki:platforms_lm3s811-evb lm3s811-evb] || ref || 227177 || 13686 || 13825 || 567 || 166 || 152 || 146 || 139 || [wiki:runs_2 Run 2]
