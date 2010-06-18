@@ -1,2 +1,2 @@
-| '''Platform''' || '''Implementation''' || '''Try Cycles (1536)''' || '''Empty Message''' || '''1 byte''' || '''32 bytes''' || '''512 bytes''' || '''1024 bytes''' || '''2048 bytes''' || '''Long Messages''' || '''Details''' 
-|[wiki:platforms_atmega1281_16mhz atmega1281_16mhz] || gcc || 23438633 || 480309 || 1425363 || 44540 || 16506 || 15571 || 15104 || 14637 || [wiki:runs_2 Details]
+| '''Platform''' || '''Implementation''' || '''Try Cycles (1536)''' || '''Empty Message''' || '''1 byte''' || '''32 bytes''' || '''512 bytes''' || '''1024 bytes''' || '''2048 bytes''' || '''Long Messages''' || '''Run''' 
+|[wiki:platforms_atmega1281_16mhz atmega1281_16mhz] || gcc || 23438633 || 480309 || 1425363 || 44540 || 16506 || 15571 || 15104 || 14637 || [wiki:runs_2 2]

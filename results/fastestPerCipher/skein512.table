@@ -1,2 +1,2 @@
-| '''Platform''' || '''Implementation''' || '''Try Cycles (1536)''' || '''Empty Message''' || '''1 byte''' || '''32 bytes''' || '''512 bytes''' || '''1024 bytes''' || '''2048 bytes''' || '''Long Messages''' || '''Details''' 
-|[wiki:platforms_atmega1281_16mhz atmega1281_16mhz] || opt-xbx-pruned-rolled || 10541020 || 847690 || 847733 || 26494 || 7419 || 7002 || 6793 || 6585 || [wiki:runs_2 Details]
+| '''Platform''' || '''Implementation''' || '''Try Cycles (1536)''' || '''Empty Message''' || '''1 byte''' || '''32 bytes''' || '''512 bytes''' || '''1024 bytes''' || '''2048 bytes''' || '''Long Messages''' || '''Run''' 
+|[wiki:platforms_atmega1281_16mhz atmega1281_16mhz] || opt-xbx-pruned-rolled || 10541020 || 847690 || 847733 || 26494 || 7419 || 7002 || 6793 || 6585 || [wiki:runs_2 2]

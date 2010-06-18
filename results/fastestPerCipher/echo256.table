@@ -1,2 +1,2 @@
-| '''Platform''' || '''Implementation''' || '''Try Cycles (1536)''' || '''Empty Message''' || '''1 byte''' || '''32 bytes''' || '''512 bytes''' || '''1024 bytes''' || '''2048 bytes''' || '''Long Messages''' || '''Details''' 
-|[wiki:platforms_lm3s811-evb lm3s811-evb] || generic_opt32 || 322319 || 37852 || 38316 || 1193 || 213 || 211 || 192 || 173 || [wiki:runs_1 Details]
+| '''Platform''' || '''Implementation''' || '''Try Cycles (1536)''' || '''Empty Message''' || '''1 byte''' || '''32 bytes''' || '''512 bytes''' || '''1024 bytes''' || '''2048 bytes''' || '''Long Messages''' || '''Run''' 
+|[wiki:platforms_lm3s811-evb lm3s811-evb] || generic_opt32 || 322319 || 37852 || 38316 || 1193 || 213 || 211 || 192 || 173 || [wiki:runs_1 1]
