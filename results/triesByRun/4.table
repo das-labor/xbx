@@ -1,0 +1,6 @@
+| '''Cipher''' || '''Implementation''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' 
+|[wiki:ciphers_0hash 0hash] || empty || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 47392850 || 137 || 0 || 0 || 0 || 0 || Checksum OK
+|[wiki:ciphers_0hash 0hash] || empty || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 5105793 || 82 || 0 || 0 || 0 || 0 || Checksum OK
+|[wiki:ciphers_0hash 0hash] || empty || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 4339353 || 72 || 0 || 0 || 0 || 0 || Checksum OK
+|[wiki:ciphers_0hash 0hash] || empty || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 4339353 || 72 || 0 || 0 || 0 || 0 || Checksum OK
+|[wiki:ciphers_0hash 0hash] || empty || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 4269843 || 72 || 0 || 0 || 0 || 0 || Checksum OK

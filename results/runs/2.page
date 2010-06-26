@@ -1,11 +1,11 @@
 
 == Run 2 ==
 
- * Date: 20100616
- * Hostname: alix
- * Platform: lm3s811-evb
+ * Date: 20100618
+ * Hostname: toad
+ * Platform: atmega1281_16mhz
  * XBX Version 1.1.0
- * XBH Revision 
+ * XBH Revision 00736
  * Bootloader Revision 
 
 

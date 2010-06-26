@@ -1,2 +1,2 @@
 | '''Platform''' || '''Implementation''' || '''Try Cycles (1536)''' || '''Empty Message''' || '''1 byte''' || '''32 bytes''' || '''512 bytes''' || '''1024 bytes''' || '''2048 bytes''' || '''Long Messages''' || '''Source''' 
-|[wiki:platforms_lm3s811-evb lm3s811-evb] || ref-xbx || 10581544 || 1174273 || 1174580 || 36813 || 8421 || 7274 || 6697 || 6120 || [wiki:runs_2 Run 2]
+|[wiki:platforms_atmega644_16mhz atmega644_16mhz] || daslabor || 19713770 || 2192288 || 2192296 || 68517 || 15689 || 13548 || 12478 || 11407 || [wiki:runs_7 Run 7]

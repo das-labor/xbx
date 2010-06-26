@@ -1,16 +1,14 @@
-| '''Cipher''' || '''Implementation''' || '''Compiler''' || '''Version''' || '''Checksumming Cycles''' || '''Benchmark Cycles (1536 byte)''' || '''Stack (bytes)''' || '''Result''' 
-|[wiki:ciphers_0hash 0hash] || empty || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 4269811 || 72 || 0 || Checksum OK
-|[wiki:ciphers_blake32 blake32] || daslabor || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 21656508 || 1775616 || 275 || Checksum failed
-|[wiki:ciphers_blake32 blake32] || light || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 20202762 || 1552233 || 417 || Checksum OK
-|[wiki:ciphers_blake64 blake64] || daslabor || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 88111622 || 6649204 || 511 || Checksum failed
-|[wiki:ciphers_bmw256 bmw256] || daslabor || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 37440884 || 2300727 || 564 || Checksum OK
-|[wiki:ciphers_bmw256 bmw256] || daslabor_asm || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 16034543 || 808566 || 339 || Checksum OK
-|[wiki:ciphers_bmw256 bmw256] || optc02 || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 27635823 || 1620302 || 1659 || Checksum OK
-|[wiki:ciphers_bmw256 bmw256] || optc03 || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 27840352 || 1592763 || 1755 || Checksum OK
-|[wiki:ciphers_bmw256 bmw256] || optc04 || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 27924887 || 1601532 || 1779 || Checksum OK
-|[wiki:ciphers_bmw256 bmw256] || ref || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 37501775 || 2302054 || 1256 || Checksum OK
-|[wiki:ciphers_bmw256 bmw256] || ref_xbx-pruned || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 37369936 || 2300899 || 865 || Checksum OK
-|[wiki:ciphers_bmw512 bmw512] || daslabor || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 113356383 || 5378116 || 1074 || Checksum failed
-|[wiki:ciphers_bmw512 bmw512] || ref || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 117432785 || 5589466 || 1854 || Checksum failed
-|[wiki:ciphers_cubehash161 cubehash161] || simple || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 2966476192 || 357834177 || 278 || Checksum OK
-|[wiki:ciphers_cubehash161 cubehash161] || spec || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 2838817979 || 347604331 || 628 || Checksum OK
+| '''Cipher''' || '''Implementation''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' 
+|[wiki:ciphers_0hash 0hash] || empty || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 4269808 || 72 || 0 || 0 || 0 || 0 || Checksum OK
+|[wiki:ciphers_blake32 blake32] || daslabor || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 21656493 || 1775615 || 3522 || 0 || 0 || 275 || Checksum failed
+|[wiki:ciphers_blake32 blake32] || light || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 20202749 || 1552232 || 7972 || 288 || 0 || 417 || Checksum OK
+|[wiki:ciphers_blake64 blake64] || daslabor || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 88111588 || 6649201 || 6974 || 0 || 32 || 511 || Checksum failed
+|[wiki:ciphers_bmw256 bmw256] || daslabor || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 37440871 || 2300726 || 6624 || 32 || 0 || 564 || Checksum OK
+|[wiki:ciphers_bmw256 bmw256] || daslabor_asm || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 16034536 || 808566 || 3594 || 0 || 0 || 339 || Checksum OK
+|[wiki:ciphers_bmw256 bmw256] || optc02 || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 27635814 || 1620301 || 99410 || 64 || 0 || 1659 || Checksum OK
+|[wiki:ciphers_bmw256 bmw256] || optc03 || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 27840339 || 1592762 || 67224 || 64 || 0 || 1755 || Checksum OK
+|[wiki:ciphers_bmw256 bmw256] || optc04 || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 27924879 || 1601532 || 67444 || 64 || 0 || 1779 || Checksum OK
+|[wiki:ciphers_bmw256 bmw256] || ref || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 37501761 || 2302054 || 103692 || 576 || 0 || 1256 || Checksum OK
+|[wiki:ciphers_bmw256 bmw256] || ref_xbx-pruned || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 37369923 || 2300899 || 18222 || 128 || 0 || 865 || Checksum OK
+|[wiki:ciphers_bmw512 bmw512] || daslabor || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 113356335 || 5378112 || 17596 || 32 || 32 || 1074 || Checksum failed
+|[wiki:ciphers_bmw512 bmw512] || ref || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 117432740 || 5589464 || 103692 || 576 || 32 || 1854 || Checksum failed

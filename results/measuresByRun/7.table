@@ -1,0 +1,22 @@
+| '''Cipher''' || '''Implementation''' || '''Empty Message''' || '''1 byte''' || '''32 bytes''' || '''512 bytes''' || '''1024 bytes''' || '''2048 bytes''' || '''Long Messages''' 
+|[wiki:ciphers_0hash 0hash] || empty || 72 || 72 || 2 || 0 || 0 || 0 || 0
+|[wiki:ciphers_blake32 blake32] || light || 68839 || 69851 || 2183 || 1101 || 1034 || 1000 || 966
+|[wiki:ciphers_cubehash161 cubehash161] || spec || 4346386 || 4570053 || 359436 || 232100 || 227855 || 225733 || 223611
+|[wiki:ciphers_cubehash1616 cubehash1616] || simple || 4836811 || 4837773 || 166457 || 24750 || 20027 || 17665 || 15303
+|[wiki:ciphers_cubehash162 cubehash162] || simple || 4836815 || 4837776 || 266610 || 124903 || 120179 || 117818 || 115456
+|[wiki:ciphers_cubehash1632 cubehash1632] || simple || 4836815 || 4837777 || 159302 || 17595 || 12871 || 10509 || 8147
+|[wiki:ciphers_cubehash164 cubehash164] || simple || 4836816 || 4837777 || 209402 || 67695 || 62972 || 60610 || 58248
+|[wiki:ciphers_cubehash168 cubehash168] || simple || 4836815 || 4837776 || 180772 || 39065 || 34341 || 31979 || 29618
+|[wiki:ciphers_cubehash81 cubehash81] || simple || 2433159 || 2548659 || 191536 || 120248 || 117872 || 116684 || 115496
+|[wiki:ciphers_cubehash816 cubehash816] || simple || 2433159 || 2434121 || 84189 || 12902 || 10526 || 9337 || 8149
+|[wiki:ciphers_cubehash82 cubehash82] || simple || 2433159 || 2434120 || 134266 || 62978 || 60602 || 59414 || 58226
+|[wiki:ciphers_cubehash832 cubehash832] || simple || 2433160 || 2434122 || 80611 || 9323 || 6947 || 5759 || 4571
+|[wiki:ciphers_cubehash84 cubehash84] || simple || 2433160 || 2434121 || 105673 || 34386 || 32009 || 30821 || 29633
+|[wiki:ciphers_cubehash88 cubehash88] || simple || 2433156 || 2434117 || 91350 || 20063 || 17686 || 16498 || 15310
+|[wiki:ciphers_groestl256 groestl256] || opt32-avr || 136361 || 136471 || 4371 || 1576 || 1443 || 1376 || 1309
+|[wiki:ciphers_groestl512 groestl512] || daslabor || 2192288 || 2192296 || 68517 || 15689 || 13548 || 12478 || 11407
+|[wiki:ciphers_mcssha4 mcssha4] || ref || 30617 || 31177 || 1517 || 620 || 590 || 575 || 560
+|[wiki:ciphers_mcssha5 mcssha5] || ref || 62870 || 63430 || 2525 || 683 || 621 || 591 || 560
+|[wiki:ciphers_mcssha6 mcssha6] || ref || 80458 || 81018 || 3074 || 717 || 639 || 599 || 560
+|[wiki:ciphers_shabal512 shabal512] || daslabor_asm || 233535 || 233543 || 7306 || 1379 || 1151 || 1036 || 922
+|[wiki:ciphers_skein512 skein512] || daslabor_asm || 280793 || 280806 || 8788 || 1817 || 1632 || 1540 || 1448

@@ -1,3 +1,2 @@
 | '''Platform''' || '''Implementation''' || '''Try Cycles (1536)''' || '''Empty Message''' || '''1 byte''' || '''32 bytes''' || '''512 bytes''' || '''1024 bytes''' || '''2048 bytes''' || '''Long Messages''' || '''Source''' 
-|[wiki:platforms_lm3s811-evb lm3s811-evb] || simple || 1369141 || 122727 || 122813 || 4648 || 1051 || 931 || 871 || 811 || [wiki:runs_2 Run 2]
-|[wiki:platforms_atmega1281_16mhz atmega1281_16mhz] || simple || 50299333 || 4833918 || 4834878 || 180664 || 39041 || 34321 || 31960 || 29600 || [wiki:runs_11 Run 11]
+|[wiki:platforms_atmega644_16mhz atmega644_16mhz] || simple || 50329473 || 4836815 || 4837776 || 180772 || 39065 || 34341 || 31979 || 29618 || [wiki:runs_7 Run 7]

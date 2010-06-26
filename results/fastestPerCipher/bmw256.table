@@ -1,0 +1,2 @@
+| '''Platform''' || '''Implementation''' || '''Try Cycles (1536)''' || '''Empty Message''' || '''1 byte''' || '''32 bytes''' || '''512 bytes''' || '''1024 bytes''' || '''2048 bytes''' || '''Long Messages''' || '''Source''' 
+|[wiki:platforms_atmega1281_16mhz atmega1281_16mhz] || daslabor_asm || 808566 || 64249 || 64249 || 2010 || 610 || 547 || 516 || 485 || [wiki:runs_1 Run 1]

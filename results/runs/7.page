@@ -1,0 +1,23 @@
+
+== Run 7 ==
+
+ * Date: 20100620
+ * Hostname: toad
+ * Platform: atmega644_16mhz
+ * XBX Version 1.1.0
+ * XBH Revision 00816
+ * Bootloader Revision 
+
+
+
+[wiki:runs_7#MeasureResults Measure Results] - [wiki:runs_7#TryResults Try Results] - [wiki:runs_7#DriftMeasurements Drift Measurements]
+
+=== Measure Results ===
+[[SortCSVsourceTable(source:page/trunk/results/measuresByRun/7.table)]]
+
+=== Try Results ===
+[[SortCSVsourceTable(source:page/trunk/results/triesByRun/7.table)]]
+
+=== Drift Measurements ===
+[[SortCSVsourceTable(source:page/trunk/results/driftByRun/7.table)]]
+  

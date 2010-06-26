@@ -1,0 +1,2 @@
+| '''Cipher''' || '''Implementation''' || '''Empty Message''' || '''1 byte''' || '''32 bytes''' || '''512 bytes''' || '''1024 bytes''' || '''2048 bytes''' || '''Long Messages''' 
+|[wiki:ciphers_0hash 0hash] || empty || 72 || 72 || 2 || 0 || 0 || 0 || 0

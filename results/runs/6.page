@@ -1,0 +1,23 @@
+
+== Run 6 ==
+
+ * Date: 20100619
+ * Hostname: hal
+ * Platform: atmega1281_16mhz
+ * XBX Version 1.1.0
+ * XBH Revision 00777
+ * Bootloader Revision 
+
+
+
+[wiki:runs_6#MeasureResults Measure Results] - [wiki:runs_6#TryResults Try Results] - [wiki:runs_6#DriftMeasurements Drift Measurements]
+
+=== Measure Results ===
+[[SortCSVsourceTable(source:page/trunk/results/measuresByRun/6.table)]]
+
+=== Try Results ===
+[[SortCSVsourceTable(source:page/trunk/results/triesByRun/6.table)]]
+
+=== Drift Measurements ===
+[[SortCSVsourceTable(source:page/trunk/results/driftByRun/6.table)]]
+  
