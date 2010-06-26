@@ -1,4 +1,4 @@
-| '''Cipher''' || '''Implementation''' || '''Empty Message''' || '''1 byte''' || '''32 bytes''' || '''512 bytes''' || '''1024 bytes''' || '''2048 bytes''' || '''Long Messages''' 
-|[wiki:ciphers_0hash 0hash] || empty || 72 || 72 || 2 || 0 || 0 || 0 || 0
-|[wiki:ciphers_blake32 blake32] || light || 68797 || 69809 || 2182 || 1100 || 1033 || 999 || 966
-|[wiki:ciphers_bmw256 bmw256] || daslabor_asm || 64249 || 64249 || 2010 || 610 || 547 || 516 || 485
+| '''Cipher''' || '''Implementation''' || '''Empty Message''' || '''1 byte''' || '''32 bytes''' || '''512 bytes''' || '''1024 bytes''' || '''2048 bytes''' || '''Long Messages''' || '''Details''' 
+|[wiki:ciphers_0hash 0hash] || empty || 72 || 72 || 2 || 0 || 0 || 0 || 0 || [wiki:measureDetailsPage_1_0hash_empty Details]
+|[wiki:ciphers_blake32 blake32] || light || 68797 || 69809 || 2182 || 1100 || 1033 || 999 || 966 || [wiki:measureDetailsPage_1_blake32_light Details]
+|[wiki:ciphers_bmw256 bmw256] || daslabor_asm || 64249 || 64249 || 2010 || 610 || 547 || 516 || 485 || [wiki:measureDetailsPage_1_bmw256_daslabor_asm Details]
