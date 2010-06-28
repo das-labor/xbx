@@ -1,2 +1,2 @@
 | '''Platform''' || '''Implementation''' || '''Try Cycles (1536)''' || '''Empty Message''' || '''1 byte''' || '''32 bytes''' || '''512 bytes''' || '''1024 bytes''' || '''2048 bytes''' || '''Long Messages''' || '''Source''' 
-|[wiki:platforms_atmega644_16mhz atmega644_16mhz] || ref || 940587 || 80458 || 81018 || 3074 || 717 || 639 || 599 || 560 || [wiki:runs_7 Run 7]
+|[wiki:platforms_atmega1281_16mhz atmega1281_16mhz] || ref || 924833 || 82097 || 82657 || 3115 || 709 || 629 || 589 || 549 || [wiki:runs_1 Run 1]

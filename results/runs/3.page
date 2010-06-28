@@ -1,12 +1,12 @@
 
 == Run 3 ==
 
- * Date: 20100618
- * Hostname: toad
- * Platform: atmega1281_16mhz
- * XBX Version 1.1.0
- * XBH Revision 00736
- * Bootloader Revision 
+ * Date: 20100627
+ * Hostname: blix
+ * Platform: lm3s811-evb
+ * XBX Version 1.2.0
+ * XBH Revision 00904
+ * Bootloader Revision 00909
 
 
 

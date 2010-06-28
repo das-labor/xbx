@@ -1,1 +1,2 @@
 | '''Platform''' || '''Implementation''' || '''Try Cycles (1536)''' || '''Empty Message''' || '''1 byte''' || '''32 bytes''' || '''512 bytes''' || '''1024 bytes''' || '''2048 bytes''' || '''Long Messages''' || '''Source''' 
+|[wiki:platforms_atmega1281_16mhz atmega1281_16mhz] || gcc || 23437950 || 479826 || 1424874 || 44525 || 16504 || 15570 || 15103 || 14636 || [wiki:runs_1 Run 1]

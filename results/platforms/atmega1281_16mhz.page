@@ -3,6 +3,16 @@
 
 
 
+[wiki:platforms_atmega1281_16mhz#FastestAlgorithms FastestAlgorithms] - [wiki:platforms_atmega1281_16mhz#SmallestAlgorithmsROM Smallest Algorithms (ROM)] - [wiki:platforms_atmega1281_16mhz#SmallestAlgorithmsRAM Smallest Algorithms (RAM)]
+
 === Fastest Algorithms ===
 
 [[SortCSVsourceTable(source:page/trunk/results/fastestPerPlatform/atmega1281_16mhz.table)]]
+
+=== Smallest Algorithms (ROM) ===
+
+[[SortCSVsourceTable(source:page/trunk/results/smallestRomPerPlatform/atmega1281_16mhz.table)]]
+
+=== Smallest Algorithms (RAM) ===
+
+[[SortCSVsourceTable(source:page/trunk/results/smallestRamPerPlatform/atmega1281_16mhz.table)]]

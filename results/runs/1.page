@@ -1,12 +1,12 @@
 
 == Run 1 ==
 
- * Date: 20100618
- * Hostname: toad
+ * Date: 20100626
+ * Hostname: hal
  * Platform: atmega1281_16mhz
- * XBX Version 1.1.0
- * XBH Revision 00736
- * Bootloader Revision 
+ * XBX Version 1.2.0
+ * XBH Revision 00879
+ * Bootloader Revision 00816
 
 
 

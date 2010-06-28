@@ -1,2 +1,2 @@
 | '''Platform''' || '''Implementation''' || '''Try Cycles (1536)''' || '''Empty Message''' || '''1 byte''' || '''32 bytes''' || '''512 bytes''' || '''1024 bytes''' || '''2048 bytes''' || '''Long Messages''' || '''Source''' 
-|[wiki:platforms_atmega644_16mhz atmega644_16mhz] || daslabor_asm || 2412982 || 280793 || 280806 || 8788 || 1817 || 1632 || 1540 || 1448 || [wiki:runs_7 Run 7]
+|[wiki:platforms_atmega1281_16mhz atmega1281_16mhz] || avrcryptolib_asm || 2404070 || 279781 || 279794 || 8756 || 1810 || 1626 || 1535 || 1443 || [wiki:runs_1 Run 1]
