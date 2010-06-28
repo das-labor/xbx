@@ -1,3 +1,3 @@
 | '''Platform''' || '''Implementation''' || '''Try Cycles (1536)''' || '''Empty Message''' || '''1 byte''' || '''32 bytes''' || '''512 bytes''' || '''1024 bytes''' || '''2048 bytes''' || '''Long Messages''' || '''Source''' 
-|[wiki:platforms_lm3s811-evb lm3s811-evb] || generic_opt64 || 822525 || 64655 || 64744 || 2019 || 620 || 557 || 525 || 493 || [wiki:runs_3 Run 3]
-|[wiki:platforms_atmega1281_16mhz atmega1281_16mhz] || avrcryptolib || 3509404 || 272671 || 272637 || 8528 || 2640 || 2374 || 2240 || 2107 || [wiki:runs_1 Run 1]
+|[wiki:platform_lm3s811-evb ⇱] lm3s811-evb [wiki:platforms_ciphers_lm3s811-evb_echo512 ↴] || generic_opt64 || 822525 || 64655 || 64744 || 2019 || 620 || 557 || 525 || 493 || [wiki:runs_3 Run 3]
+|[wiki:platform_atmega1281_16mhz ⇱] atmega1281_16mhz [wiki:platforms_ciphers_atmega1281_16mhz_echo512 ↴] || avrcryptolib || 3509404 || 272671 || 272637 || 8528 || 2640 || 2374 || 2240 || 2107 || [wiki:runs_1 Run 1]

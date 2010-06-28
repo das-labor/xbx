@@ -1,2 +1,2 @@
 | '''Platform''' || '''Implementation''' || '''Try Cycles (1536)''' || '''Empty Message''' || '''1 byte''' || '''32 bytes''' || '''512 bytes''' || '''1024 bytes''' || '''2048 bytes''' || '''Long Messages''' || '''Source''' 
-|[wiki:platforms_atmega1281_16mhz atmega1281_16mhz] || ref-xbx || 4004849 || 202758 || 214272 || 8859 || 2873 || 2674 || 2574 || 2474 || [wiki:runs_2 Run 2]
+|[wiki:platform_atmega1281_16mhz ⇱] atmega1281_16mhz [wiki:platforms_ciphers_atmega1281_16mhz_fugue256 ↴] || ref-xbx || 4004849 || 202758 || 214272 || 8859 || 2873 || 2674 || 2574 || 2474 || [wiki:runs_2 Run 2]

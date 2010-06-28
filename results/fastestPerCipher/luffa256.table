@@ -1,2 +1,2 @@
 | '''Platform''' || '''Implementation''' || '''Try Cycles (1536)''' || '''Empty Message''' || '''1 byte''' || '''32 bytes''' || '''512 bytes''' || '''1024 bytes''' || '''2048 bytes''' || '''Long Messages''' || '''Source''' 
-|[wiki:platforms_lm3s811-evb lm3s811-evb] || opt32 || 125976 || 5669 || 5690 || 256 || 89 || 84 || 81 || 78 || [wiki:runs_3 Run 3]
+|[wiki:platform_lm3s811-evb ⇱] lm3s811-evb [wiki:platforms_ciphers_lm3s811-evb_luffa256 ↴] || opt32 || 125976 || 5669 || 5690 || 256 || 89 || 84 || 81 || 78 || [wiki:runs_3 Run 3]

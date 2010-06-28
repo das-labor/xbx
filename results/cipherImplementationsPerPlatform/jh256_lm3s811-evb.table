@@ -1,0 +1,5 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Source''' 
+|bitslice_opt32 || 447296 || 5164 || 416 || [wiki:runs_3 Run 3]
+|bitslice_ref32 || 503923 || 8648 || 444 || [wiki:runs_3 Run 3]
+|bitslice_opt64 || 1169960 || 23248 || 900 || [wiki:runs_3 Run 3]
+|bitslice_ref64 || 1276902 || 7056 || 552 || [wiki:runs_3 Run 3]

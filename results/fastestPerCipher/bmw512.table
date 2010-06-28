@@ -1,3 +1,3 @@
 | '''Platform''' || '''Implementation''' || '''Try Cycles (1536)''' || '''Empty Message''' || '''1 byte''' || '''32 bytes''' || '''512 bytes''' || '''1024 bytes''' || '''2048 bytes''' || '''Long Messages''' || '''Source''' 
-|[wiki:platforms_lm3s811-evb lm3s811-evb] || optc04 || 114701 || 17030 || 17070 || 529 || 97 || 80 || 72 || 63 || [wiki:runs_3 Run 3]
-|[wiki:platforms_atmega1281_16mhz atmega1281_16mhz] || avrcryptolib || 5323174 || 765807 || 765815 || 23939 || 4463 || 3715 || 3341 || 2967 || [wiki:runs_1 Run 1]
+|[wiki:platform_lm3s811-evb ⇱] lm3s811-evb [wiki:platforms_ciphers_lm3s811-evb_bmw512 ↴] || optc04 || 114701 || 17030 || 17070 || 529 || 97 || 80 || 72 || 63 || [wiki:runs_3 Run 3]
+|[wiki:platform_atmega1281_16mhz ⇱] atmega1281_16mhz [wiki:platforms_ciphers_atmega1281_16mhz_bmw512 ↴] || avrcryptolib || 5323174 || 765807 || 765815 || 23939 || 4463 || 3715 || 3341 || 2967 || [wiki:runs_1 Run 1]

@@ -1,0 +1,5 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Source''' 
+|generic_opt32 || 399315 || 20520 || 948 || [wiki:runs_3 Run 3]
+|powerpc_pp32cv2 || 502313 || 26088 || 948 || [wiki:runs_3 Run 3]
+|generic_opt64 || 584776 || 30372 || 928 || [wiki:runs_3 Run 3]
+|powerpc_pp32cv1 || 721791 || 21196 || 948 || [wiki:runs_3 Run 3]
