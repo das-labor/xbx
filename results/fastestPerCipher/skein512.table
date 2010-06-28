@@ -1,2 +1,2 @@
 | '''Platform''' || '''Implementation''' || '''Try Cycles (1536)''' || '''Empty Message''' || '''1 byte''' || '''32 bytes''' || '''512 bytes''' || '''1024 bytes''' || '''2048 bytes''' || '''Long Messages''' || '''Source''' 
-|[wiki:platform_atmega1281_16mhz UP] atmega1281_16mhz [wiki:platforms_ciphers_atmega1281_16mhz_skein512 DOWN] || avrcryptolib_asm || 2404070 || 279781 || 279794 || 8756 || 1810 || 1626 || 1535 || 1443 || [wiki:runs_1 Run 1]
+|[wiki:platforms_atmega1281_16mhz UP] atmega1281_16mhz [wiki:platformsciphers_atmega1281_16mhz_skein512 DOWN] || avrcryptolib_asm || 2404070 || 279781 || 279794 || 8756 || 1810 || 1626 || 1535 || 1443 || [wiki:runs_1 Run 1]
