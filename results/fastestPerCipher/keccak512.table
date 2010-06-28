@@ -1,2 +1,2 @@
 | '''Platform''' || '''Implementation''' || '''Try Cycles (1536)''' || '''Empty Message''' || '''1 byte''' || '''32 bytes''' || '''512 bytes''' || '''1024 bytes''' || '''2048 bytes''' || '''Long Messages''' || '''Source''' 
-|[wiki:platform_atmega1281_16mhz ⇱] atmega1281_16mhz [wiki:platforms_ciphers_atmega1281_16mhz_keccak512 ↴] || avrcryptolib || 26329077 || 1199644 || 1199653 || 37497 || 18703 || 17532 || 16946 || 16360 || [wiki:runs_1 Run 1]
+|[wiki:platform_atmega1281_16mhz UP] atmega1281_16mhz [wiki:platforms_ciphers_atmega1281_16mhz_keccak512 DOWN] || avrcryptolib || 26329077 || 1199644 || 1199653 || 37497 || 18703 || 17532 || 16946 || 16360 || [wiki:runs_1 Run 1]

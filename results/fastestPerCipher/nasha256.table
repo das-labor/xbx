@@ -1,2 +1,2 @@
 | '''Platform''' || '''Implementation''' || '''Try Cycles (1536)''' || '''Empty Message''' || '''1 byte''' || '''32 bytes''' || '''512 bytes''' || '''1024 bytes''' || '''2048 bytes''' || '''Long Messages''' || '''Source''' 
-|[wiki:platform_atmega1281_16mhz ⇱] atmega1281_16mhz [wiki:platforms_ciphers_atmega1281_16mhz_nasha256 ↴] || opt || 852896 || 51565 || 52423 || 1616 || 623 || 572 || 547 || 521 || [wiki:runs_1 Run 1]
+|[wiki:platform_atmega1281_16mhz UP] atmega1281_16mhz [wiki:platforms_ciphers_atmega1281_16mhz_nasha256 DOWN] || opt || 852896 || 51565 || 52423 || 1616 || 623 || 572 || 547 || 521 || [wiki:runs_1 Run 1]

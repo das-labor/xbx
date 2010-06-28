@@ -1,3 +1,3 @@
 | '''Platform''' || '''Implementation''' || '''Try Cycles (1536)''' || '''Empty Message''' || '''1 byte''' || '''32 bytes''' || '''512 bytes''' || '''1024 bytes''' || '''2048 bytes''' || '''Long Messages''' || '''Source''' 
-|[wiki:platform_lm3s811-evb ⇱] lm3s811-evb [wiki:platforms_ciphers_lm3s811-evb_bmw256 ↴] || ref_xbx-pruned || 90383 || 7773 || 7811 || 240 || 69 || 61 || 58 || 54 || [wiki:runs_3 Run 3]
-|[wiki:platform_atmega1281_16mhz ⇱] atmega1281_16mhz [wiki:platforms_ciphers_atmega1281_16mhz_bmw256 ↴] || avrcryptolib_asm || 808563 || 64249 || 64249 || 2010 || 610 || 547 || 516 || 485 || [wiki:runs_1 Run 1]
+|[wiki:platform_lm3s811-evb UP] lm3s811-evb [wiki:platforms_ciphers_lm3s811-evb_bmw256 DOWN] || ref_xbx-pruned || 90383 || 7773 || 7811 || 240 || 69 || 61 || 58 || 54 || [wiki:runs_3 Run 3]
+|[wiki:platform_atmega1281_16mhz UP] atmega1281_16mhz [wiki:platforms_ciphers_atmega1281_16mhz_bmw256 DOWN] || avrcryptolib_asm || 808563 || 64249 || 64249 || 2010 || 610 || 547 || 516 || 485 || [wiki:runs_1 Run 1]
