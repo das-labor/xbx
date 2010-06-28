@@ -1,5 +1,5 @@
 
-== Implementations of bmw512 on Platform atmega1281_16mhz ==
+== Implementations of [wiki:ciphers_bmw512 bmw512] on Platform [wiki:platforms_atmega1281_16mhz atmega1281_16mhz] ==
 
 [[SortCSVsourceTable(source:page/trunk/results/cipherImplementationsPerPlatform/bmw512_atmega1281_16mhz.table)]]
 

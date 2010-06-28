@@ -1,5 +1,5 @@
 
-== Implementations of shabal256 on Platform atmega1281_16mhz ==
+== Implementations of [wiki:ciphers_shabal256 shabal256] on Platform [wiki:platforms_atmega1281_16mhz atmega1281_16mhz] ==
 
 [[SortCSVsourceTable(source:page/trunk/results/cipherImplementationsPerPlatform/shabal256_atmega1281_16mhz.table)]]
 

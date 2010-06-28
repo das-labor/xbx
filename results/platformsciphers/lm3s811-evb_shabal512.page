@@ -1,5 +1,5 @@
 
-== Implementations of shabal512 on Platform lm3s811-evb ==
+== Implementations of [wiki:ciphers_shabal512 shabal512] on Platform [wiki:platforms_lm3s811-evb lm3s811-evb] ==
 
 [[SortCSVsourceTable(source:page/trunk/results/cipherImplementationsPerPlatform/shabal512_lm3s811-evb.table)]]
 

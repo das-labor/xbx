@@ -1,5 +1,5 @@
 
-== Implementations of cubehash1632 on Platform atmega1281_16mhz ==
+== Implementations of [wiki:ciphers_cubehash1632 cubehash1632] on Platform [wiki:platforms_atmega1281_16mhz atmega1281_16mhz] ==
 
 [[SortCSVsourceTable(source:page/trunk/results/cipherImplementationsPerPlatform/cubehash1632_atmega1281_16mhz.table)]]
 

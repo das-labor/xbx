@@ -1,5 +1,5 @@
 
-== Implementations of echosp512 on Platform lm3s811-evb ==
+== Implementations of [wiki:ciphers_echosp512 echosp512] on Platform [wiki:platforms_lm3s811-evb lm3s811-evb] ==
 
 [[SortCSVsourceTable(source:page/trunk/results/cipherImplementationsPerPlatform/echosp512_lm3s811-evb.table)]]
 
