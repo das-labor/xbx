@@ -1,2 +1,2 @@
 | '''Platform''' || '''Implementation''' || '''Try Cycles (1536)''' || '''Empty Message''' || '''1 byte''' || '''32 bytes''' || '''512 bytes''' || '''1024 bytes''' || '''2048 bytes''' || '''Long Messages''' || '''Source''' 
-|[wiki:platforms_atmega1281_16mhz UP] atmega1281_16mhz [wiki:platformsciphers_atmega1281_16mhz_groestl256 DOWN] || opt32-avr || 2146349 || 136279 || 136389 || 4369 || 1575 || 1442 || 1375 || 1309 || [wiki:runs_1 Run 1]
+|[wiki:platforms_atmega1281_16mhz ⇱] atmega1281_16mhz [wiki:platformsciphers_atmega1281_16mhz_groestl256 ↴] || opt32-avr || 2146349 || 136279 || 136389 || 4369 || 1575 || 1442 || 1375 || 1309 || [wiki:runs_1 Run 1]
