@@ -1,4 +1,5 @@
 
-  = Hash Function Overview =
+= Hash Function Overview =
+[wiki:sha3ciphers Show only SHA3 round 2 candidates]  
 
   [[SortCSVsourceTable(source:page/trunk/results/ciphers.table)]]

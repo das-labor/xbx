@@ -1,5 +1,6 @@
 
 == Platform lm3s811-evb (SHA3 Round 2 Only)==
+[wiki:platforms_lm3s811-evb Show all hash functions] 
 
 
 This is a Stellaris LM3S811 Evaluation Board without any hardware modifications.
