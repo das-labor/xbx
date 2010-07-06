@@ -1,4 +1,4 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Source''' 
-|avrcryptolib_asm || 374701 || 1898 || 330 || [wiki:runs_1 Run 1]
-|ref || 847888 || 79594 || 2844 || [wiki:runs_1 Run 1]
-|avrcryptolib || 1613933 || 8308 || 369 || [wiki:runs_1 Run 1]
+|avrcryptolib_asm || 374700 || 1898 || 330 || [wiki:runs_4 Run 4]
+|ref || 847884 || 79594 || 2844 || [wiki:runs_4 Run 4]
+|avrcryptolib || 1613927 || 8308 || 369 || [wiki:runs_4 Run 4]

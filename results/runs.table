@@ -1,4 +1,6 @@
 | '''ID''' || '''Date''' || '''Platform''' || '''Hostname''' || '''Version''' || '''XBH Revision''' || '''Bootloader Revision''' || '''Details''' 
+|5 || 20100630 || atmega1281_16mhz || hal || 1.2.0 || 00932 || 00916 || [wiki:runs_5 Run 5]
+|4 || 20100629 || atmega1281_16mhz || hal || 1.2.0 || 00904 || 00916 || [wiki:runs_4 Run 4]
 |3 || 20100627 || lm3s811-evb || blix || 1.2.0 || 00904 || 00909 || [wiki:runs_3 Run 3]
 |2 || 20100627 || atmega1281_16mhz || blix || 1.2.0 || 00904 || 00900 || [wiki:runs_2 Run 2]
 |1 || 20100626 || atmega1281_16mhz || hal || 1.2.0 || 00879 || 00816 || [wiki:runs_1 Run 1]

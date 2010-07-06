@@ -1,0 +1,18 @@
+
+== Platform atmega1281_16mhz ==
+
+
+
+[wiki:sha3platforms_atmega1281_16mhz#FastestAlgorithms FastestAlgorithms] - [wiki:sha3platforms_atmega1281_16mhz#SmallestAlgorithmsROM Smallest Algorithms (ROM)] - [wiki:sha3platforms_atmega1281_16mhz#SmallestAlgorithmsRAM Smallest Algorithms (RAM)]
+
+=== Fastest Algorithms ===
+
+[[SortCSVsourceTable(source:page/trunk/results/fastestPerPlatform/sha3atmega1281_16mhz.table)]]
+
+=== Smallest Algorithms (ROM) ===
+
+[[SortCSVsourceTable(source:page/trunk/results/smallestRomPerPlatform/sha3atmega1281_16mhz.table)]]
+
+=== Smallest Algorithms (RAM) ===
+
+[[SortCSVsourceTable(source:page/trunk/results/smallestRamPerPlatform/sha3atmega1281_16mhz.table)]]

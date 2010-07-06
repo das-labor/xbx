@@ -1,5 +1,5 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Source''' 
-|bitslice_opt32 || 5326351 || 23792 || 2302 || [wiki:runs_1 Run 1]
-|bitslice_ref32 || 5873653 || 41416 || 1903 || [wiki:runs_1 Run 1]
-|bitslice_opt64 || 14183350 || 58648 || 2581 || [wiki:runs_1 Run 1]
-|bitslice_ref64 || 16833762 || 24706 || 2444 || [wiki:runs_1 Run 1]
+|bitslice_opt32 || 5326327 || 23792 || 2302 || [wiki:runs_4 Run 4]
+|bitslice_ref32 || 5873628 || 41416 || 1903 || [wiki:runs_4 Run 4]
+|bitslice_opt64 || 14183290 || 58648 || 2581 || [wiki:runs_4 Run 4]
+|bitslice_ref64 || 16833693 || 24706 || 2444 || [wiki:runs_4 Run 4]

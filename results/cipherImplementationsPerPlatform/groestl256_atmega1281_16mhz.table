@@ -1,4 +1,4 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Source''' 
-|opt32-avr || 2146349 || 24596 || 487 || [wiki:runs_1 Run 1]
-|avrcryptolib || 11309545 || 3484 || 429 || [wiki:runs_1 Run 1]
-|ref-xbx || 17369323 || 11492 || 1369 || [wiki:runs_1 Run 1]
+|opt32-avr || 2146340 || 24596 || 487 || [wiki:runs_4 Run 4]
+|avrcryptolib || 11309502 || 3484 || 429 || [wiki:runs_4 Run 4]
+|ref-xbx || 17367025 || 11492 || 1369 || [wiki:runs_5 Run 5]

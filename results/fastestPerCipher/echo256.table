@@ -1,3 +1,3 @@
 | '''Platform''' || '''Implementation''' || '''Try Cycles (1536)''' || '''Empty Message''' || '''1 byte''' || '''32 bytes''' || '''512 bytes''' || '''1024 bytes''' || '''2048 bytes''' || '''Long Messages''' || '''Source''' 
 |[wiki:platforms_lm3s811-evb <-] lm3s811-evb [wiki:platformsciphers_lm3s811-evb_echo256 ->] || generic_opt64 || 461060 || 52599 || 52689 || 1642 || 301 || 300 || 275 || 249 || [wiki:runs_3 Run 3]
-|[wiki:platforms_atmega1281_16mhz <-] atmega1281_16mhz [wiki:platformsciphers_atmega1281_16mhz_echo256 ->] || avrcryptolib || 1963588 || 220541 || 220508 || 6899 || 1284 || 1280 || 1172 || 1064 || [wiki:runs_1 Run 1]
+|[wiki:platforms_atmega1281_16mhz <-] atmega1281_16mhz [wiki:platformsciphers_atmega1281_16mhz_echo256 ->] || avrcryptolib || 1963585 || 220541 || 220507 || 6899 || 1284 || 1280 || 1172 || 1064 || [wiki:runs_4 Run 4]

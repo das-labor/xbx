@@ -1,9 +1,0 @@
-| '''Cipher''' || '''Implementation''' || '''Empty Message''' || '''1 byte''' || '''32 bytes''' || '''512 bytes''' || '''1024 bytes''' || '''2048 bytes''' || '''Long Messages''' 
-|[wiki:ciphers_0hash 0hash] || empty || 72 || 72 || 2 || 0 || 0 || 0 || 0
-|[wiki:ciphers_blake32 blake32] || light || 68797 || 69808 || 2182 || 1100 || 1033 || 999 || 966
-|[wiki:ciphers_bmw256 bmw256] || daslabor_asm || 64249 || 64249 || 2010 || 610 || 547 || 516 || 485
-|[wiki:ciphers_cubehash161 cubehash161] || spec || 4343780 || 4567313 || 359220 || 231961 || 227719 || 225598 || 223477
-|[wiki:ciphers_cubehash162 cubehash162] || simple || 4833920 || 4834879 || 266451 || 124828 || 120107 || 117747 || 115387
-|[wiki:ciphers_cubehash1632 cubehash1632] || simple || 4833918 || 4834880 || 159206 || 17584 || 12863 || 10503 || 8143
-|[wiki:ciphers_cubehash164 cubehash164] || simple || 4833918 || 4834879 || 209277 || 67655 || 62934 || 60574 || 58213
-|[wiki:ciphers_cubehash168 cubehash168] || simple || 4833918 || 4834878 || 180664 || 39041 || 34321 || 31960 || 29600
