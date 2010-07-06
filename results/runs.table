@@ -1,4 +1,5 @@
 | '''ID''' || '''Date''' || '''Platform''' || '''Hostname''' || '''Version''' || '''XBH Revision''' || '''Bootloader Revision''' || '''Details''' 
+|6 || 20100706 || artila_m501 || toad || 1.2.0 || 00969 || 00961 || [wiki:runs_6 Run 6]
 |5 || 20100630 || atmega1281_16mhz || hal || 1.2.0 || 00932 || 00916 || [wiki:runs_5 Run 5]
 |4 || 20100629 || atmega1281_16mhz || hal || 1.2.0 || 00904 || 00916 || [wiki:runs_4 Run 4]
 |3 || 20100627 || lm3s811-evb || blix || 1.2.0 || 00904 || 00909 || [wiki:runs_3 Run 3]

@@ -1,3 +1,4 @@
 | '''Platform''' || '''Implementation''' || '''Try Cycles (1536)''' || '''Empty Message''' || '''1 byte''' || '''32 bytes''' || '''512 bytes''' || '''1024 bytes''' || '''2048 bytes''' || '''Long Messages''' || '''Source''' 
+|[wiki:platforms_artila_m501 <-] artila_m501 [wiki:platformsciphers_artila_m501_bmw256 ->] || optc04 || 59175 || 20903 || 20858 || 660 || 66 || 46 || 35 || 25 || [wiki:runs_6 Run 6]
 |[wiki:platforms_lm3s811-evb <-] lm3s811-evb [wiki:platformsciphers_lm3s811-evb_bmw256 ->] || ref_xbx-pruned || 90383 || 7773 || 7811 || 240 || 69 || 61 || 58 || 54 || [wiki:runs_3 Run 3]
 |[wiki:platforms_atmega1281_16mhz <-] atmega1281_16mhz [wiki:platformsciphers_atmega1281_16mhz_bmw256 ->] || avrcryptolib_asm || 808558 || 64248 || 64249 || 2010 || 610 || 547 || 516 || 485 || [wiki:runs_4 Run 4]

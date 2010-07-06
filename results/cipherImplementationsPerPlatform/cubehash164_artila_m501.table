@@ -1,0 +1,3 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Source''' 
+|simple || 15380719 || 1312 || 296 || [wiki:runs_6 Run 6]
+|spec || 18551228 || 2444 || 644 || [wiki:runs_6 Run 6]

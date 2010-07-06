@@ -1,0 +1,20 @@
+
+== Platform artila_m501 ==
+[wiki:sha3platforms_artila_m501 Show only SHA3 round 2 candidates]
+
+
+
+
+[wiki:platforms_artila_m501#FastestAlgorithms FastestAlgorithms] - [wiki:platforms_artila_m501#SmallestAlgorithmsROM Smallest Algorithms (ROM)] - [wiki:platforms_artila_m501#SmallestAlgorithmsRAM Smallest Algorithms (RAM)]
+
+=== Fastest Algorithms ===
+
+[[SortCSVsourceTable(source:page/trunk/results/fastestPerPlatform/artila_m501.table)]]
+
+=== Smallest Algorithms (ROM) ===
+
+[[SortCSVsourceTable(source:page/trunk/results/smallestRomPerPlatform/artila_m501.table)]]
+
+=== Smallest Algorithms (RAM) ===
+
+[[SortCSVsourceTable(source:page/trunk/results/smallestRamPerPlatform/artila_m501.table)]]

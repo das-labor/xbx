@@ -1,8 +1,8 @@
 | '''Cipher''' || '''Number of Implementations''' 
 |[wiki:ciphers_blake32 blake32] || 2
 |[wiki:ciphers_blake64 blake64] || 1
-|[wiki:ciphers_bmw256 bmw256] || 8
-|[wiki:ciphers_bmw512 bmw512] || 3
+|[wiki:ciphers_bmw256 bmw256] || 9
+|[wiki:ciphers_bmw512 bmw512] || 6
 |[wiki:ciphers_cubehash1632 cubehash1632] || 4
 |[wiki:ciphers_echo256 echo256] || 2
 |[wiki:ciphers_echo512 echo512] || 2

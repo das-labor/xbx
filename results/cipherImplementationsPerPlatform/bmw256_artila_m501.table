@@ -1,0 +1,7 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Source''' 
+|optc04 || 59175 || 11124 || 752 || [wiki:runs_6 Run 6]
+|optc03 || 60964 || 11248 || 808 || [wiki:runs_6 Run 6]
+|optc02 || 76590 || 17496 || 920 || [wiki:runs_6 Run 6]
+|optc01 || 78401 || 76540 || 2624 || [wiki:runs_6 Run 6]
+|ref_xbx-pruned || 86254 || 13200 || 820 || [wiki:runs_6 Run 6]
+|ref || 87030 || 14680 || 1220 || [wiki:runs_6 Run 6]
