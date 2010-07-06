@@ -1,1 +1,2 @@
 | '''Platform''' || '''Implementation''' || '''Try Cycles (1536)''' || '''Empty Message''' || '''1 byte''' || '''32 bytes''' || '''512 bytes''' || '''1024 bytes''' || '''2048 bytes''' || '''Long Messages''' || '''Source''' 
+|[wiki:platforms_atmega1281_16mhz <-] atmega1281_16mhz [wiki:platformsciphers_atmega1281_16mhz_essence256 ->] || gcc || 23438382 || 480305 || 1425351 || 44540 || 16505 || 15571 || 15104 || 14636 || [wiki:runs_4 Run 4]

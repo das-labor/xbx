@@ -1,1 +1,3 @@
 | '''Platform''' || '''Implementation''' || '''Try Cycles (1536)''' || '''Empty Message''' || '''1 byte''' || '''32 bytes''' || '''512 bytes''' || '''1024 bytes''' || '''2048 bytes''' || '''Long Messages''' || '''Source''' 
+|[wiki:platforms_lm3s811-evb <-] lm3s811-evb [wiki:platformsciphers_lm3s811-evb_cubehash832 ->] || unrolled || 239028 || 53650 || 53707 || 1798 || 225 || 173 || 147 || 121 || [wiki:runs_3 Run 3]
+|[wiki:platforms_atmega1281_16mhz <-] atmega1281_16mhz [wiki:platformsciphers_atmega1281_16mhz_cubehash832 ->] || unrolled || 6696637 || 1762408 || 1763596 || 58309 || 6656 || 4934 || 4073 || 3212 || [wiki:runs_2 Run 2]

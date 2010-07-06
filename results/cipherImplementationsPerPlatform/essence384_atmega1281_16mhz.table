@@ -1,1 +1,2 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Source''' 
+|gcc || 25084880 || 77744 || 4759 || [wiki:runs_4 Run 4]

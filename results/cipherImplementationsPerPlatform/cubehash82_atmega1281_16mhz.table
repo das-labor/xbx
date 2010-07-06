@@ -1,1 +1,4 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Source''' 
+|unrolled || 66681769 || 11230 || 556 || [wiki:runs_2 Run 2]
+|simple || 84824204 || 40952 || 992 || [wiki:runs_4 Run 4]
+|spec || 96890074 || 5328 || 668 || [wiki:runs_4 Run 4]
