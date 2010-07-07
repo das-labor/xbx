@@ -1,2 +1,2 @@
-| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Source''' 
-|opt || 852892 || 66666 || 2850 || [wiki:runs_4 Run 4]
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|opt || 852892 || 66666 || 2850 || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || [wiki:runs_4 Run 4]

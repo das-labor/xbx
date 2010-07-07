@@ -1,4 +1,4 @@
-| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Source''' 
-|avrcryptolib_asm || 374700 || 1898 || 330 || [wiki:runs_4 Run 4]
-|ref || 847884 || 79594 || 2844 || [wiki:runs_4 Run 4]
-|avrcryptolib || 1613927 || 8308 || 369 || [wiki:runs_4 Run 4]
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|avrcryptolib_asm || 374700 || 1898 || 330 || avr-gcc atmega1281 Os || 4.3.4 (GCC) || [wiki:runs_4 Run 4]
+|ref || 847884 || 79594 || 2844 || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || [wiki:runs_4 Run 4]
+|avrcryptolib || 1613927 || 8308 || 369 || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || [wiki:runs_4 Run 4]

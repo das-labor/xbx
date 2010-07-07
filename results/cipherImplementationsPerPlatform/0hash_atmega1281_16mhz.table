@@ -1,2 +1,2 @@
-| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Source''' 
-|empty || 72 || 0 || 0 || [wiki:runs_5 Run 5]
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|empty || 72 || 0 || 0 || avr-gcc atmega1281 Os || 4.3.4 (GCC) || [wiki:runs_5 Run 5]

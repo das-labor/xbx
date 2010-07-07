@@ -1,4 +1,4 @@
-| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Source''' 
-|unrolled || 20232468 || 11224 || 556 || [wiki:runs_2 Run 2]
-|simple || 25838960 || 41142 || 992 || [wiki:runs_2 Run 2]
-|spec || 40849948 || 5288 || 668 || [wiki:runs_5 Run 5]
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|unrolled || 20232468 || 11224 || 556 || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || [wiki:runs_2 Run 2]
+|simple || 25838960 || 41142 || 992 || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || [wiki:runs_2 Run 2]
+|spec || 40849948 || 5288 || 668 || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || [wiki:runs_5 Run 5]

@@ -1,2 +1,2 @@
-| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Source''' 
-|generic_opt64 || 822525 || 40000 || 596 || [wiki:runs_3 Run 3]
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|generic_opt64 || 822525 || 40000 || 596 || arm-elf-gcc -Wl,--entry,ResetISR -Wl,-T,XBD AF ld -mthumb -mcpu=cortex-m3 -MD -std=c99 -DPART LM3S811 -Dgcc -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections -lc -lgcc -O3 || 4.3.2 (GCC) || [wiki:runs_3 Run 3]

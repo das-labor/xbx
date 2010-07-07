@@ -1,2 +1,2 @@
-| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Source''' 
-|gcc || 3198319 || 53992 || 7148 || [wiki:runs_6 Run 6]
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|gcc || 3198319 || 53992 || 7148 || arm-linux-gcc -funsigned-char -funsigned-bitfields -fpack-struct -fshort-enums  -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_6 Run 6]

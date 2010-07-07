@@ -1,5 +1,5 @@
-| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Source''' 
-|generic_opt32 || 252819 || 20520 || 916 || [wiki:runs_3 Run 3]
-|powerpc_pp32cv2 || 319595 || 26088 || 916 || [wiki:runs_3 Run 3]
-|generic_opt64 || 366698 || 30372 || 896 || [wiki:runs_3 Run 3]
-|powerpc_pp32cv1 || 455589 || 21196 || 916 || [wiki:runs_3 Run 3]
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|generic_opt32 || 252819 || 20520 || 916 || arm-elf-gcc -Wl,--entry,ResetISR -Wl,-T,XBD AF ld -mthumb -mcpu=cortex-m3 -MD -std=c99 -DPART LM3S811 -Dgcc -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections -lc -lgcc -O3 || 4.3.2 (GCC) || [wiki:runs_3 Run 3]
+|powerpc_pp32cv2 || 319595 || 26088 || 916 || arm-elf-gcc -Wl,--entry,ResetISR -Wl,-T,XBD AF ld -mthumb -mcpu=cortex-m3 -MD -std=c99 -DPART LM3S811 -Dgcc -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections -lc -lgcc -O3 || 4.3.2 (GCC) || [wiki:runs_3 Run 3]
+|generic_opt64 || 366698 || 30372 || 896 || arm-elf-gcc -Wl,--entry,ResetISR -Wl,-T,XBD AF ld -mthumb -mcpu=cortex-m3 -MD -std=c99 -DPART LM3S811 -Dgcc -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections -lc -lgcc -O2 || 4.3.2 (GCC) || [wiki:runs_3 Run 3]
+|powerpc_pp32cv1 || 455589 || 21196 || 916 || arm-elf-gcc -Wl,--entry,ResetISR -Wl,-T,XBD AF ld -mthumb -mcpu=cortex-m3 -MD -std=c99 -DPART LM3S811 -Dgcc -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections -lc -lgcc -O3 || 4.3.2 (GCC) || [wiki:runs_3 Run 3]

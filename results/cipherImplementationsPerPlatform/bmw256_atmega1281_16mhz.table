@@ -1,9 +1,9 @@
-| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Source''' 
-|avrcryptolib_asm || 808558 || 3594 || 339 || [wiki:runs_4 Run 4]
-|avrcryptolib_tinyasm || 1367722 || 1942 || 335 || [wiki:runs_4 Run 4]
-|optc02 || 1569340 || 104076 || 1824 || [wiki:runs_4 Run 4]
-|optc04 || 1576717 || 72124 || 2266 || [wiki:runs_4 Run 4]
-|optc03 || 1578141 || 72132 || 2250 || [wiki:runs_4 Run 4]
-|avrcryptolib || 2076251 || 18638 || 808 || [wiki:runs_4 Run 4]
-|ref_xbx-pruned || 2262609 || 19026 || 997 || [wiki:runs_4 Run 4]
-|ref || 2263787 || 110472 || 1836 || [wiki:runs_4 Run 4]
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|avrcryptolib_asm || 808558 || 3594 || 339 || avr-gcc atmega1281 Os || 4.3.4 (GCC) || [wiki:runs_4 Run 4]
+|avrcryptolib_tinyasm || 1367722 || 1942 || 335 || avr-gcc atmega1281 Os || 4.3.4 (GCC) || [wiki:runs_4 Run 4]
+|optc02 || 1569340 || 104076 || 1824 || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || [wiki:runs_4 Run 4]
+|optc04 || 1576717 || 72124 || 2266 || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || [wiki:runs_4 Run 4]
+|optc03 || 1578141 || 72132 || 2250 || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || [wiki:runs_4 Run 4]
+|avrcryptolib || 2076251 || 18638 || 808 || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || [wiki:runs_4 Run 4]
+|ref_xbx-pruned || 2262609 || 19026 || 997 || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || [wiki:runs_4 Run 4]
+|ref || 2263787 || 110472 || 1836 || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || [wiki:runs_4 Run 4]

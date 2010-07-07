@@ -1,5 +1,5 @@
-| '''Cipher''' || '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Source''' 
-|[wiki:ciphers_cubehash1632 <-] cubehash1632 [wiki:platformsciphers_artila_m501_cubehash1632 ->] || simple || 2305215 || 1832 || 280 || [wiki:runs_6 Run 6]
-|[wiki:ciphers_blake32 <-] blake32 [wiki:platformsciphers_artila_m501_blake32 ->] || light || 275715 || 7213 || 408 || [wiki:runs_6 Run 6]
-|[wiki:ciphers_bmw256 <-] bmw256 [wiki:platformsciphers_artila_m501_bmw256 ->] || ref_xbx-pruned || 278224 || 31228 || 732 || [wiki:runs_6 Run 6]
-|[wiki:ciphers_bmw512 <-] bmw512 [wiki:platformsciphers_artila_m501_bmw512 ->] || optc03 || 681233 || 78744 || 1260 || [wiki:runs_6 Run 6]
+| '''Cipher''' || '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:ciphers_cubehash1632 <-] cubehash1632 [wiki:platformsciphers_artila_m501_cubehash1632 ->] || simple || 2305215 || 1832 || 280 || arm-linux-gcc -O3 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_6 Run 6]
+|[wiki:ciphers_blake32 <-] blake32 [wiki:platformsciphers_artila_m501_blake32 ->] || light || 275715 || 7213 || 408 || arm-linux-gcc -O0 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_6 Run 6]
+|[wiki:ciphers_bmw256 <-] bmw256 [wiki:platformsciphers_artila_m501_bmw256 ->] || ref_xbx-pruned || 278224 || 31228 || 732 || arm-linux-gcc -O0 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_6 Run 6]
+|[wiki:ciphers_bmw512 <-] bmw512 [wiki:platformsciphers_artila_m501_bmw512 ->] || optc03 || 681233 || 78744 || 1260 || arm-linux-gcc -funsigned-char -funsigned-bitfields -fpack-struct -fshort-enums  -O0 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_6 Run 6]

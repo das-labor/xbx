@@ -1,5 +1,5 @@
-| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Source''' 
-|ref || 164430 || 14680 || 1800 || [wiki:runs_6 Run 6]
-|optc01 || 432259 || 77896 || 2656 || [wiki:runs_6 Run 6]
-|optc02 || 434621 || 76532 || 2544 || [wiki:runs_6 Run 6]
-|optc03 || 681233 || 78744 || 1260 || [wiki:runs_6 Run 6]
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|ref || 164430 || 14680 || 1800 || arm-linux-gcc -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_6 Run 6]
+|optc01 || 432259 || 77896 || 2656 || arm-linux-gcc -funsigned-char -funsigned-bitfields -fpack-struct -fshort-enums  -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_6 Run 6]
+|optc02 || 434621 || 76532 || 2544 || arm-linux-gcc -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_6 Run 6]
+|optc03 || 681233 || 78744 || 1260 || arm-linux-gcc -funsigned-char -funsigned-bitfields -fpack-struct -fshort-enums  -O0 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_6 Run 6]
