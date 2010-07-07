@@ -1,0 +1,490 @@
+| '''Cipher''' || '''Implementation''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' 
+|[wiki:ciphers_0hash 0hash] || empty || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 47392179 || 137 || 0 || 0 || 0 || 0 || Checksum OK
+|[wiki:ciphers_0hash 0hash] || empty || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 5105725 || 82 || 0 || 0 || 0 || 0 || Checksum OK
+|[wiki:ciphers_0hash 0hash] || empty || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 4339296 || 72 || 0 || 0 || 0 || 0 || Checksum OK
+|[wiki:ciphers_0hash 0hash] || empty || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 4339296 || 72 || 0 || 0 || 0 || 0 || Checksum OK
+|[wiki:ciphers_0hash 0hash] || empty || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 4269788 || 72 || 0 || 0 || 0 || 0 || Checksum OK
+|[wiki:ciphers_blake32 blake32] || avrcryptolib || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 74966577 || 2820155 || 5016 || 0 || 0 || 285 || Checksum OK
+|[wiki:ciphers_blake32 blake32] || avrcryptolib || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 22678176 || 1796246 || 3586 || 0 || 0 || 269 || Checksum OK
+|[wiki:ciphers_blake32 blake32] || avrcryptolib || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 21512877 || 1756562 || 3752 || 0 || 0 || 279 || Checksum OK
+|[wiki:ciphers_blake32 blake32] || avrcryptolib || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 22877711 || 1912975 || 11224 || 0 || 0 || 287 || Checksum OK
+|[wiki:ciphers_blake32 blake32] || avrcryptolib || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 21634813 || 1774526 || 3592 || 0 || 0 || 275 || Checksum OK
+|[wiki:ciphers_blake32 blake32] || light || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 67803132 || 2032248 || 12786 || 288 || 0 || 479 || Checksum OK
+|[wiki:ciphers_blake32 blake32] || light || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 21104435 || 1582511 || 8704 || 288 || 0 || 451 || Checksum OK
+|[wiki:ciphers_blake32 blake32] || light || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 20518006 || 1604022 || 8790 || 288 || 0 || 476 || Checksum OK
+|[wiki:ciphers_blake32 blake32] || light || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 20213994 || 1587151 || 16740 || 288 || 0 || 534 || Checksum OK
+|[wiki:ciphers_blake32 blake32] || light || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 20202633 || 1552226 || 7972 || 288 || 0 || 417 || Checksum OK
+|[wiki:ciphers_blake64 blake64] || avrcryptolib || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 249094825 || 16125828 || 18220 || 0 || 32 || 819 || Checksum OK
+|[wiki:ciphers_blake64 blake64] || avrcryptolib || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 90138427 || 6748043 || 6472 || 0 || 32 || 495 || Checksum OK
+|[wiki:ciphers_blake64 blake64] || avrcryptolib || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 87516134 || 6597045 || 7200 || 0 || 32 || 509 || Checksum OK
+|[wiki:ciphers_blake64 blake64] || avrcryptolib || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 87518276 || 6599194 || 19188 || 0 || 32 || 584 || Checksum OK
+|[wiki:ciphers_blake64 blake64] || avrcryptolib || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 88116319 || 6649019 || 7068 || 0 || 32 || 510 || Checksum OK
+|[wiki:ciphers_bmw256 bmw256] || avrcryptolib || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 96689725 || 3417947 || 12136 || 32 || 0 || 554 || Checksum OK
+|[wiki:ciphers_bmw256 bmw256] || avrcryptolib || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 38275204 || 2301322 || 7346 || 32 || 0 || 562 || Checksum OK
+|[wiki:ciphers_bmw256 bmw256] || avrcryptolib || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 36418336 || 2224868 || 6964 || 32 || 0 || 562 || Checksum OK
+|[wiki:ciphers_bmw256 bmw256] || avrcryptolib || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 34275958 || 2076263 || 18606 || 32 || 0 || 776 || Checksum OK
+|[wiki:ciphers_bmw256 bmw256] || avrcryptolib || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 37440680 || 2300718 || 6624 || 32 || 0 || 564 || Checksum OK
+|[wiki:ciphers_bmw256 bmw256] || avrcryptolib_asm || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 59159038 || 808645 || 3620 || 0 || 0 || 337 || Checksum OK
+|[wiki:ciphers_bmw256 bmw256] || avrcryptolib_asm || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 16871422 || 808581 || 3610 || 0 || 0 || 337 || Checksum OK
+|[wiki:ciphers_bmw256 bmw256] || avrcryptolib_asm || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 16103962 || 808563 || 3594 || 0 || 0 || 339 || Checksum OK
+|[wiki:ciphers_bmw256 bmw256] || avrcryptolib_asm || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 16103963 || 808563 || 3594 || 0 || 0 || 339 || Checksum OK
+|[wiki:ciphers_bmw256 bmw256] || avrcryptolib_asm || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 16034454 || 808564 || 3594 || 0 || 0 || 339 || Checksum OK
+|[wiki:ciphers_bmw256 bmw256] || avrcryptolib_tinyasm || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 67164850 || 1367812 || 1968 || 0 || 0 || 333 || Checksum OK
+|[wiki:ciphers_bmw256 bmw256] || avrcryptolib_tinyasm || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 24877223 || 1367748 || 1958 || 0 || 0 || 333 || Checksum OK
+|[wiki:ciphers_bmw256 bmw256] || avrcryptolib_tinyasm || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 24109764 || 1367730 || 1942 || 0 || 0 || 335 || Checksum OK
+|[wiki:ciphers_bmw256 bmw256] || avrcryptolib_tinyasm || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 24109764 || 1367730 || 1942 || 0 || 0 || 335 || Checksum OK
+|[wiki:ciphers_bmw256 bmw256] || avrcryptolib_tinyasm || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 24040256 || 1367730 || 1942 || 0 || 0 || 335 || Checksum OK
+|[wiki:ciphers_bmw256 bmw256] || optc02 || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 72692890 || 1783018 || 87164 || 64 || 0 || 863 || Checksum OK
+|[wiki:ciphers_bmw256 bmw256] || optc02 || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 27686842 || 1569349 || 104012 || 64 || 0 || 1760 || Checksum OK
+|[wiki:ciphers_bmw256 bmw256] || optc02 || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 27395119 || 1608591 || 104754 || 64 || 0 || 1721 || Checksum OK
+|[wiki:ciphers_bmw256 bmw256] || optc02 || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 27395565 || 1608592 || 104756 || 64 || 0 || 1715 || Checksum OK
+|[wiki:ciphers_bmw256 bmw256] || optc02 || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 27635670 || 1620296 || 99410 || 64 || 0 || 1659 || Checksum OK
+|[wiki:ciphers_bmw256 bmw256] || optc03 || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 73293924 || 1726956 || 60032 || 64 || 0 || 1059 || Checksum OK
+|[wiki:ciphers_bmw256 bmw256] || optc03 || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 28373057 || 1578150 || 72068 || 64 || 0 || 2186 || Checksum OK
+|[wiki:ciphers_bmw256 bmw256] || optc03 || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 27818341 || 1591833 || 70986 || 64 || 0 || 1843 || Checksum OK
+|[wiki:ciphers_bmw256 bmw256] || optc03 || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 27818342 || 1591834 || 70986 || 64 || 0 || 1843 || Checksum OK
+|[wiki:ciphers_bmw256 bmw256] || optc03 || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 27840190 || 1592756 || 67224 || 64 || 0 || 1755 || Checksum OK
+|[wiki:ciphers_bmw256 bmw256] || optc04 || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 74152770 || 1816049 || 64754 || 64 || 0 || 1063 || Checksum OK
+|[wiki:ciphers_bmw256 bmw256] || optc04 || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 28359328 || 1576726 || 72060 || 64 || 0 || 2202 || Checksum OK
+|[wiki:ciphers_bmw256 bmw256] || optc04 || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 27868918 || 1597080 || 71136 || 64 || 0 || 1871 || Checksum OK
+|[wiki:ciphers_bmw256 bmw256] || optc04 || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 27868916 || 1597080 || 71136 || 64 || 0 || 1871 || Checksum OK
+|[wiki:ciphers_bmw256 bmw256] || optc04 || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 27924724 || 1601526 || 67444 || 64 || 0 || 1779 || Checksum OK
+|[wiki:ciphers_bmw256 bmw256] || ref || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 38265293 || 2299908 || 103288 || 576 || 0 || 1370 || Checksum OK
+|[wiki:ciphers_bmw256 bmw256] || ref || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 36998245 || 2263800 || 109896 || 576 || 0 || 1260 || Checksum OK
+|[wiki:ciphers_bmw256 bmw256] || ref || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 37501556 || 2302044 || 103692 || 576 || 0 || 1256 || Checksum OK
+|[wiki:ciphers_bmw256 bmw256] || ref_xbx-pruned || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 96319258 || 3390422 || 30784 || 128 || 0 || 853 || Checksum OK
+|[wiki:ciphers_bmw256 bmw256] || ref_xbx-pruned || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 38137442 || 2298827 || 20422 || 128 || 0 || 980 || Checksum OK
+|[wiki:ciphers_bmw256 bmw256] || ref_xbx-pruned || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 36864078 || 2262623 || 18898 || 128 || 0 || 869 || Checksum OK
+|[wiki:ciphers_bmw256 bmw256] || ref_xbx-pruned || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 37084735 || 2277127 || 20592 || 128 || 0 || 949 || Checksum OK
+|[wiki:ciphers_bmw256 bmw256] || ref_xbx-pruned || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 37369730 || 2300890 || 18222 || 128 || 0 || 865 || Checksum OK
+|[wiki:ciphers_bmw512 bmw512] || avrcryptolib || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 292464369 || 12103427 || 60048 || 32 || 32 || 1541 || Checksum OK
+|[wiki:ciphers_bmw512 bmw512] || avrcryptolib || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 122549935 || 5788050 || 16780 || 32 || 32 || 1096 || Checksum OK
+|[wiki:ciphers_bmw512 bmw512] || avrcryptolib || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 112303665 || 5323174 || 17864 || 32 || 32 || 1076 || Checksum OK
+|[wiki:ciphers_bmw512 bmw512] || avrcryptolib || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 118862042 || 5655006 || 86328 || 32 || 32 || 1701 || Checksum OK
+|[wiki:ciphers_bmw512 bmw512] || avrcryptolib || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 112779672 || 5349489 || 17562 || 32 || 32 || 1072 || Checksum OK
+|[wiki:ciphers_bmw512 bmw512] || ref || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 120046601 || 5681516 || 103288 || 576 || 32 || 1909 || Checksum OK
+|[wiki:ciphers_bmw512 bmw512] || ref || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 117509786 || 5592934 || 109896 || 576 || 32 || 1971 || Checksum OK
+|[wiki:ciphers_bmw512 bmw512] || ref || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 117432119 || 5589437 || 103692 || 576 || 32 || 1854 || Checksum OK
+|[wiki:ciphers_cubehash161 cubehash161] || simple || avr-gcc atmega1281 O0 || 4.3.4 (GCC) ||  ||  || 4896 || 0 || 32 ||  || error
+|[wiki:ciphers_cubehash161 cubehash161] || simple || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 3007956321 || 362637236 || 3944 || 0 || 32 || 290 || Checksum OK
+|[wiki:ciphers_cubehash161 cubehash161] || simple || avr-gcc atmega1281 O2 || 4.3.4 (GCC) ||  ||  || 3482 || 0 || 32 ||  || error
+|[wiki:ciphers_cubehash161 cubehash161] || simple || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 2722376556 || 332981740 || 41104 || 0 || 32 || 960 || Checksum OK
+|[wiki:ciphers_cubehash161 cubehash161] || simple || avr-gcc atmega1281 Os || 4.3.4 (GCC) ||  ||  || 2958 || 0 || 32 ||  || error
+|[wiki:ciphers_cubehash161 cubehash161] || spec || avr-gcc atmega1281 O0 || 4.3.4 (GCC) ||  ||  || 8288 || 8 || 32 ||  || error
+|[wiki:ciphers_cubehash161 cubehash161] || spec || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 3065533928 || 374729515 || 5470 || 8 || 32 || 592 || Checksum OK
+|[wiki:ciphers_cubehash161 cubehash161] || spec || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 2626646235 || 321664240 || 5286 || 8 || 32 || 628 || Checksum OK
+|[wiki:ciphers_cubehash161 cubehash161] || spec || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 2634694871 || 322856014 || 6184 || 8 || 32 || 786 || Checksum OK
+|[wiki:ciphers_cubehash161 cubehash161] || spec || avr-gcc atmega1281 Os || 4.3.4 (GCC) ||  ||  || 5118 || 8 || 32 ||  || error
+|[wiki:ciphers_cubehash1616 cubehash1616] || simple || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 1334732535 || 46942298 || 4896 || 0 || 32 || 332 || Checksum OK
+|[wiki:ciphers_cubehash1616 cubehash1616] || simple || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 778261546 || 28183479 || 3938 || 0 || 32 || 290 || Checksum OK
+|[wiki:ciphers_cubehash1616 cubehash1616] || simple || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 742767971 || 26962430 || 3476 || 0 || 32 || 284 || Checksum OK
+|[wiki:ciphers_cubehash1616 cubehash1616] || simple || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 675951784 || 26018724 || 41098 || 0 || 32 || 960 || Checksum OK
+|[wiki:ciphers_cubehash1616 cubehash1616] || simple || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 769742719 || 28325262 || 2950 || 0 || 32 || 278 || Checksum OK
+|[wiki:ciphers_cubehash1616 cubehash1616] || spec || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 1936746198 || 87873795 || 8288 || 8 || 32 || 634 || Checksum OK
+|[wiki:ciphers_cubehash1616 cubehash1616] || spec || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 871305174 || 44938554 || 5482 || 8 || 32 || 592 || Checksum OK
+|[wiki:ciphers_cubehash1616 cubehash1616] || spec || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 759270956 || 40850069 || 5280 || 8 || 32 || 628 || Checksum OK
+|[wiki:ciphers_cubehash1616 cubehash1616] || spec || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 765720335 || 41802804 || 6478 || 8 || 32 || 786 || Checksum OK
+|[wiki:ciphers_cubehash1616 cubehash1616] || spec || avr-gcc atmega1281 Os || 4.3.4 (GCC) ||  ||  || 5120 || 8 || 32 ||  || error
+|[wiki:ciphers_cubehash162 cubehash162] || simple || avr-gcc atmega1281 O0 || 4.3.4 (GCC) ||  ||  || 4896 || 0 || 32 ||  || error
+|[wiki:ciphers_cubehash162 cubehash162] || simple || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 1818610747 || 184235284 || 3944 || 0 || 32 || 290 || Checksum OK
+|[wiki:ciphers_cubehash162 cubehash162] || simple || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 1738954671 || 176389855 || 3482 || 0 || 32 || 284 || Checksum OK
+|[wiki:ciphers_cubehash162 cubehash162] || simple || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 1630774015 || 169241476 || 41104 || 0 || 32 || 960 || Checksum OK
+|[wiki:ciphers_cubehash162 cubehash162] || simple || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 1794691919 || 182067013 || 2958 || 0 || 32 || 278 || Checksum OK
+|[wiki:ciphers_cubehash162 cubehash162] || spec || avr-gcc atmega1281 O0 || 4.3.4 (GCC) ||  ||  || 8288 || 8 || 32 ||  || error
+|[wiki:ciphers_cubehash162 cubehash162] || spec || avr-gcc atmega1281 O1 || 4.3.4 (GCC) ||  ||  || 5492 || 8 || 32 ||  || error
+|[wiki:ciphers_cubehash162 cubehash162] || spec || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 1628182841 || 171847766 || 5320 || 8 || 32 || 628 || Checksum OK
+|[wiki:ciphers_cubehash162 cubehash162] || spec || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 1635361096 || 172909109 || 6204 || 8 || 32 || 786 || Checksum OK
+|[wiki:ciphers_cubehash162 cubehash162] || spec || avr-gcc atmega1281 Os || 4.3.4 (GCC) ||  ||  || 5152 || 8 || 32 ||  || error
+|[wiki:ciphers_cubehash1632 cubehash1632] || avrcryptolib || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 1124475994 || 25077688 || 3520 || 0 || 32 || 236 || Checksum OK
+|[wiki:ciphers_cubehash1632 cubehash1632] || avrcryptolib || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 635465365 || 14678831 || 2142 || 0 || 32 || 228 || Checksum OK
+|[wiki:ciphers_cubehash1632 cubehash1632] || avrcryptolib || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 537325175 || 12413620 || 2106 || 0 || 32 || 221 || Checksum OK
+|[wiki:ciphers_cubehash1632 cubehash1632] || avrcryptolib || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 574471232 || 13291710 || 41696 || 0 || 32 || 558 || Checksum OK
+|[wiki:ciphers_cubehash1632 cubehash1632] || avrcryptolib || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 556181614 || 12854036 || 1984 || 0 || 32 || 219 || Checksum OK
+|[wiki:ciphers_cubehash1632 cubehash1632] || simple || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 1210749508 || 28345141 || 4898 || 0 || 32 || 332 || Checksum OK
+|[wiki:ciphers_cubehash1632 cubehash1632] || simple || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 703913661 || 17031411 || 3946 || 0 || 32 || 290 || Checksum OK
+|[wiki:ciphers_cubehash1632 cubehash1632] || simple || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 671515343 || 16274653 || 3478 || 0 || 32 || 284 || Checksum OK
+|[wiki:ciphers_cubehash1632 cubehash1632] || simple || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 607712963 || 15783010 || 41106 || 0 || 32 || 960 || Checksum OK
+|[wiki:ciphers_cubehash1632 cubehash1632] || simple || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 696512294 || 17340984 || 2960 || 0 || 32 || 278 || Checksum OK
+|[wiki:ciphers_cubehash1632 cubehash1632] || spec || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 1772914423 || 62382397 || 8290 || 8 || 32 || 634 || Checksum OK
+|[wiki:ciphers_cubehash1632 cubehash1632] || spec || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 803381517 || 34045820 || 5492 || 8 || 32 || 592 || Checksum OK
+|[wiki:ciphers_cubehash1632 cubehash1632] || spec || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 702642070 || 31596501 || 5290 || 8 || 32 || 628 || Checksum OK
+|[wiki:ciphers_cubehash1632 cubehash1632] || spec || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 708811666 || 32513186 || 6198 || 8 || 32 || 786 || Checksum OK
+|[wiki:ciphers_cubehash1632 cubehash1632] || spec || avr-gcc atmega1281 Os || 4.3.4 (GCC) ||  ||  || 5130 || 8 || 32 ||  || error
+|[wiki:ciphers_cubehash1632 cubehash1632] || unrolled || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 641514289 || 15098186 || 14158 || 0 || 32 || 456 || Checksum OK
+|[wiki:ciphers_cubehash1632 cubehash1632] || unrolled || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 513753503 || 12606099 || 11504 || 0 || 32 || 586 || Checksum OK
+|[wiki:ciphers_cubehash1632 cubehash1632] || unrolled || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 501495419 || 12318035 || 10942 || 0 || 32 || 526 || Checksum OK
+|[wiki:ciphers_cubehash1632 cubehash1632] || unrolled || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 501451046 || 12317690 || 10972 || 0 || 32 || 526 || Checksum OK
+|[wiki:ciphers_cubehash1632 cubehash1632] || unrolled || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 529582998 || 13456287 || 9152 || 0 || 32 || 488 || Checksum OK
+|[wiki:ciphers_cubehash164 cubehash164] || simple || avr-gcc atmega1281 O0 || 4.3.4 (GCC) ||  ||  || 4896 || 0 || 32 ||  || error
+|[wiki:ciphers_cubehash164 cubehash164] || simple || avr-gcc atmega1281 O1 || 4.3.4 (GCC) ||  ||  || 3944 || 0 || 32 ||  || error
+|[wiki:ciphers_cubehash164 cubehash164] || simple || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 1169941316 || 91038539 || 3482 || 0 || 32 || 284 || Checksum OK
+|[wiki:ciphers_cubehash164 cubehash164] || simple || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 1085397922 || 87435737 || 41104 || 0 || 32 || 960 || Checksum OK
+|[wiki:ciphers_cubehash164 cubehash164] || simple || avr-gcc atmega1281 Os || 4.3.4 (GCC) ||  ||  || 2958 || 0 || 32 ||  || error
+|[wiki:ciphers_cubehash164 cubehash164] || spec || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 2956314554 || 241494389 || 8288 || 8 || 32 || 634 || Checksum OK
+|[wiki:ciphers_cubehash164 cubehash164] || spec || avr-gcc atmega1281 O1 || 4.3.4 (GCC) ||  ||  || 5488 || 8 || 32 ||  || error
+|[wiki:ciphers_cubehash164 cubehash164] || spec || avr-gcc atmega1281 O2 || 4.3.4 (GCC) ||  ||  || 5286 || 8 || 32 ||  || error
+|[wiki:ciphers_cubehash164 cubehash164] || spec || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 1136260173 || 97949927 || 6244 || 8 || 32 || 786 || Checksum OK
+|[wiki:ciphers_cubehash164 cubehash164] || spec || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 1225865282 || 105478039 || 5128 || 8 || 32 || 628 || Checksum OK
+|[wiki:ciphers_cubehash168 cubehash168] || simple || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 1582715368 || 84140131 || 4896 || 0 || 32 || 332 || Checksum OK
+|[wiki:ciphers_cubehash168 cubehash168] || simple || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 926958631 || 50488202 || 3946 || 0 || 32 || 290 || Checksum OK
+|[wiki:ciphers_cubehash168 cubehash168] || simple || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 885156239 || 48320814 || 3484 || 0 || 32 || 284 || Checksum OK
+|[wiki:ciphers_cubehash168 cubehash168] || simple || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 812430946 || 46490730 || 41106 || 0 || 32 || 960 || Checksum OK
+|[wiki:ciphers_cubehash168 cubehash168] || simple || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 916233444 || 50298984 || 2958 || 0 || 32 || 278 || Checksum OK
+|[wiki:ciphers_cubehash168 cubehash168] || spec || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 2274872160 || 139050116 || 8288 || 8 || 32 || 634 || Checksum OK
+|[wiki:ciphers_cubehash168 cubehash168] || spec || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 1015253349 || 66881459 || 5490 || 8 || 32 || 592 || Checksum OK
+|[wiki:ciphers_cubehash168 cubehash168] || spec || avr-gcc atmega1281 O2 || 4.3.4 (GCC) ||  ||  || 5288 || 8 || 32 ||  || error
+|[wiki:ciphers_cubehash168 cubehash168] || spec || avr-gcc atmega1291 O3 || 4.3.4 (GCC) ||  ||  || 6326 || 8 || 32 ||  || error
+|[wiki:ciphers_cubehash168 cubehash168] || spec || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 958711857 || 65159550 || 5128 || 8 || 32 || 628 || Checksum OK
+|[wiki:ciphers_cubehash81 cubehash81] || simple || avr-gcc atmega1281 O0 || 4.3.4 (GCC) ||  ||  || 4896 || 0 || 32 ||  || error
+|[wiki:ciphers_cubehash81 cubehash81] || simple || avr-gcc atmega1281 O1 || 4.3.4 (GCC) ||  ||  || 3944 || 0 || 32 ||  || error
+|[wiki:ciphers_cubehash81 cubehash81] || simple || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 1445313629 || 174118466 || 3482 || 0 || 32 || 284 || Checksum OK
+|[wiki:ciphers_cubehash81 cubehash81] || simple || avr-gcc atmega1291 O3 || 4.3.4 (GCC) ||  ||  || 40952 || 0 || 32 ||  || error
+|[wiki:ciphers_cubehash81 cubehash81] || simple || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 1492535025 || 179725838 || 2958 || 0 || 32 || 278 || Checksum OK
+|[wiki:ciphers_cubehash81 cubehash81] || spec || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 3731047897 || 454783576 || 8288 || 8 || 32 || 634 || Checksum OK
+|[wiki:ciphers_cubehash81 cubehash81] || spec || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 1624877714 || 200643026 || 5470 || 8 || 32 || 592 || Checksum OK
+|[wiki:ciphers_cubehash81 cubehash81] || spec || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 1402524845 || 173743609 || 5286 || 8 || 32 || 628 || Checksum OK
+|[wiki:ciphers_cubehash81 cubehash81] || spec || avr-gcc atmega1291 O3 || 4.3.4 (GCC) ||  ||  || 6184 || 8 || 32 ||  || error
+|[wiki:ciphers_cubehash81 cubehash81] || spec || avr-gcc atmega1281 Os || 4.3.4 (GCC) ||  ||  || 5118 || 8 || 32 ||  || error
+|[wiki:ciphers_cubehash816 cubehash816] || simple || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 698399143 || 24278376 || 4896 || 0 || 32 || 332 || Checksum OK
+|[wiki:ciphers_cubehash816 cubehash816] || simple || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 396971606 || 14603273 || 3946 || 0 || 32 || 290 || Checksum OK
+|[wiki:ciphers_cubehash816 cubehash816] || simple || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 377551173 || 13954688 || 3484 || 0 || 32 || 284 || Checksum OK
+|[wiki:ciphers_cubehash816 cubehash816] || simple || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 345248864 || 13642241 || 40954 || 0 || 32 || 960 || Checksum OK
+|[wiki:ciphers_cubehash816 cubehash816] || simple || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 393967971 || 14941486 || 2958 || 0 || 32 || 278 || Checksum OK
+|[wiki:ciphers_cubehash816 cubehash816] || spec || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 1089517898 || 57698434 || 8288 || 8 || 32 || 634 || Checksum OK
+|[wiki:ciphers_cubehash816 cubehash816] || spec || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 504013142 || 31856907 || 5490 || 8 || 32 || 592 || Checksum OK
+|[wiki:ciphers_cubehash816 cubehash816] || spec || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 447184371 || 29734547 || 5288 || 8 || 32 || 628 || Checksum OK
+|[wiki:ciphers_cubehash816 cubehash816] || spec || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 453633699 || 30687237 || 6486 || 8 || 32 || 786 || Checksum OK
+|[wiki:ciphers_cubehash816 cubehash816] || spec || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 491429291 || 33066497 || 5128 || 8 || 32 || 628 || Checksum OK
+|[wiki:ciphers_cubehash82 cubehash82] || simple || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 1565950315 || 154410508 || 4896 || 0 || 32 || 332 || Checksum OK
+|[wiki:ciphers_cubehash82 cubehash82] || simple || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 917326961 || 92656035 || 3944 || 0 || 32 || 290 || Checksum OK
+|[wiki:ciphers_cubehash82 cubehash82] || simple || avr-gcc atmega1281 O2 || 4.3.4 (GCC) ||  ||  || 3482 || 0 || 32 ||  || error
+|[wiki:ciphers_cubehash82 cubehash82] || simple || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 819799497 || 84824287 || 40952 || 0 || 32 || 960 || Checksum OK
+|[wiki:ciphers_cubehash82 cubehash82] || simple || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 906446645 || 91812584 || 2958 || 0 || 32 || 278 || Checksum OK
+|[wiki:ciphers_cubehash82 cubehash82] || spec || avr-gcc atmega1281 O0 || 4.3.4 (GCC) ||  ||  || 8288 || 8 || 32 ||  || error
+|[wiki:ciphers_cubehash82 cubehash82] || spec || avr-gcc atmega1281 O1 || 4.3.4 (GCC) ||  ||  || 5492 || 8 || 32 ||  || error
+|[wiki:ciphers_cubehash82 cubehash82] || spec || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 890481989 || 96890087 || 5320 || 8 || 32 || 628 || Checksum OK
+|[wiki:ciphers_cubehash82 cubehash82] || spec || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 897660032 || 97951379 || 6204 || 8 || 32 || 786 || Checksum OK
+|[wiki:ciphers_cubehash82 cubehash82] || spec || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 967592432 || 105350857 || 5152 || 8 || 32 || 628 || Checksum OK
+|[wiki:ciphers_cubehash832 cubehash832] || simple || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 636404738 || 14979280 || 4898 || 0 || 32 || 332 || Checksum OK
+|[wiki:ciphers_cubehash832 cubehash832] || simple || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 359766746 || 9022594 || 3946 || 0 || 32 || 290 || Checksum OK
+|[wiki:ciphers_cubehash832 cubehash832] || simple || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 341875827 || 8603446 || 3478 || 0 || 32 || 284 || Checksum OK
+|[wiki:ciphers_cubehash832 cubehash832] || simple || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 311315831 || 8552337 || 40954 || 0 || 32 || 960 || Checksum OK
+|[wiki:ciphers_cubehash832 cubehash832] || simple || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 357343510 || 9448014 || 2960 || 0 || 32 || 278 || Checksum OK
+|[wiki:ciphers_cubehash832 cubehash832] || spec || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 1008219873 || 44586786 || 8290 || 8 || 32 || 634 || Checksum OK
+|[wiki:ciphers_cubehash832 cubehash832] || spec || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 471869274 || 26331037 || 5492 || 8 || 32 || 592 || Checksum OK
+|[wiki:ciphers_cubehash832 cubehash832] || spec || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 420957434 || 25041263 || 5290 || 8 || 32 || 628 || Checksum OK
+|[wiki:ciphers_cubehash832 cubehash832] || spec || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 427126928 || 25957867 || 6198 || 8 || 32 || 786 || Checksum OK
+|[wiki:ciphers_cubehash832 cubehash832] || spec || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 464476212 || 28035861 || 5130 || 8 || 32 || 628 || Checksum OK
+|[wiki:ciphers_cubehash84 cubehash84] || simple || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 1070445790 || 80085306 || 4896 || 0 || 32 || 332 || Checksum OK
+|[wiki:ciphers_cubehash84 cubehash84] || simple || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 620219822 || 48090452 || 3944 || 0 || 32 || 290 || Checksum OK
+|[wiki:ciphers_cubehash84 cubehash84] || simple || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 591266907 || 46012001 || 3482 || 0 || 32 || 284 || Checksum OK
+|[wiki:ciphers_cubehash84 cubehash84] || simple || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 548866129 || 44184784 || 40952 || 0 || 32 || 960 || Checksum OK
+|[wiki:ciphers_cubehash84 cubehash84] || simple || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 613830791 || 47920768 || 2958 || 0 || 32 || 278 || Checksum OK
+|[wiki:ciphers_cubehash84 cubehash84] || spec || avr-gcc atmega1281 O0 || 4.3.4 (GCC) ||  ||  || 8288 || 8 || 32 ||  || error
+|[wiki:ciphers_cubehash84 cubehash84] || spec || avr-gcc atmega1281 O1 || 4.3.4 (GCC) ||  ||  || 5488 || 8 || 32 ||  || error
+|[wiki:ciphers_cubehash84 cubehash84] || spec || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 634998887 || 58473464 || 5286 || 8 || 32 || 628 || Checksum OK
+|[wiki:ciphers_cubehash84 cubehash84] || spec || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 641769524 || 59473693 || 6244 || 8 || 32 || 786 || Checksum OK
+|[wiki:ciphers_cubehash84 cubehash84] || spec || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 692674352 || 63990572 || 5128 || 8 || 32 || 628 || Checksum OK
+|[wiki:ciphers_cubehash88 cubehash88] || simple || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 822413676 || 42880459 || 4896 || 0 || 32 || 332 || Checksum OK
+|[wiki:ciphers_cubehash88 cubehash88] || simple || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 471385904 || 25765423 || 3938 || 0 || 32 || 290 || Checksum OK
+|[wiki:ciphers_cubehash88 cubehash88] || simple || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 448787975 || 24640216 || 3476 || 0 || 32 || 284 || Checksum OK
+|[wiki:ciphers_cubehash88 cubehash88] || simple || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 413119495 || 23822846 || 40946 || 0 || 32 || 960 || Checksum OK
+|[wiki:ciphers_cubehash88 cubehash88] || simple || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 467250662 || 25933827 || 2950 || 0 || 32 || 278 || Checksum OK
+|[wiki:ciphers_cubehash88 cubehash88] || spec || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 1262591361 || 84116198 || 8288 || 8 || 32 || 634 || Checksum OK
+|[wiki:ciphers_cubehash88 cubehash88] || spec || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 576406625 || 43066447 || 5482 || 8 || 32 || 592 || Checksum OK
+|[wiki:ciphers_cubehash88 cubehash88] || spec || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 508357284 || 39288541 || 5280 || 8 || 32 || 628 || Checksum OK
+|[wiki:ciphers_cubehash88 cubehash88] || spec || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 514915284 || 40257059 || 6318 || 8 || 32 || 786 || Checksum OK
+|[wiki:ciphers_cubehash88 cubehash88] || spec || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 556642120 || 43340273 || 5120 || 8 || 32 || 628 || Checksum OK
+|[wiki:ciphers_echo256 echo256] || avrcryptolib || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 104180177 || 3646328 || 6856 || 0 || 0 || 742 || Checksum OK
+|[wiki:ciphers_echo256 echo256] || avrcryptolib || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 37324184 || 2063742 || 3780 || 0 || 0 || 697 || Checksum OK
+|[wiki:ciphers_echo256 echo256] || avrcryptolib || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 35019284 || 1963588 || 3534 || 0 || 0 || 704 || Checksum OK
+|[wiki:ciphers_echo256 echo256] || avrcryptolib || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 35239984 || 1985108 || 7050 || 0 || 0 || 706 || Checksum OK
+|[wiki:ciphers_echo256 echo256] || avrcryptolib || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 35527564 || 2001036 || 3586 || 0 || 0 || 697 || Checksum OK
+|[wiki:ciphers_echo512 echo512] || avrcryptolib || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 129765786 || 6541165 || 6816 || 0 || 32 || 741 || Checksum OK
+|[wiki:ciphers_echo512 echo512] || avrcryptolib || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 51766473 || 3690147 || 3850 || 0 || 32 || 703 || Checksum OK
+|[wiki:ciphers_echo512 echo512] || avrcryptolib || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 48744304 || 3509404 || 3598 || 0 || 32 || 710 || Checksum OK
+|[wiki:ciphers_echo512 echo512] || avrcryptolib || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 49057368 || 3545592 || 6786 || 0 || 32 || 710 || Checksum OK
+|[wiki:ciphers_echo512 echo512] || avrcryptolib || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 49536572 || 3577166 || 3602 || 0 || 32 || 703 || Checksum OK
+|[wiki:ciphers_echosp256 echosp256] || generic_opt32 || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 105220740 || 2723350 || 96686 || 2048 || 11 || 2074 || Checksum failed
+|[wiki:ciphers_echosp256 echosp256] || generic_opt32 || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 32443994 || 1211566 || 39030 || 2304 || 11 || 749 || Checksum failed
+|[wiki:ciphers_echosp256 echosp256] || generic_opt32 || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 31657527 || 1211343 || 42268 || 2304 || 11 || 959 || Checksum failed
+|[wiki:ciphers_echosp256 echosp256] || generic_opt32 || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 31228726 || 1240956 || 44044 || 2304 || 11 || 1054 || Checksum failed
+|[wiki:ciphers_echosp256 echosp256] || generic_opt32 || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 31412321 || 1199740 || 39302 || 2304 || 11 || 941 || Checksum failed
+|[wiki:ciphers_echosp256 echosp256] || powerpc_pp32cv1 || avr-gcc atmega1281 O0 || 4.3.4 (GCC) ||  ||  || 47198 || 6144 || 11 ||  || error
+|[wiki:ciphers_echosp256 echosp256] || powerpc_pp32cv1 || avr-gcc atmega1281 O1 || 4.3.4 (GCC) ||  ||  || 19936 || 6400 || 11 ||  || error
+|[wiki:ciphers_echosp256 echosp256] || powerpc_pp32cv1 || avr-gcc atmega1281 O2 || 4.3.4 (GCC) ||  ||  || 21386 || 6400 || 11 ||  || error
+|[wiki:ciphers_echosp256 echosp256] || powerpc_pp32cv1 || avr-gcc atmega1291 O3 || 4.3.4 (GCC) ||  ||  || 23224 || 6400 || 11 ||  || error
+|[wiki:ciphers_echosp256 echosp256] || powerpc_pp32cv1 || avr-gcc atmega1281 Os || 4.3.4 (GCC) ||  ||  || 19634 || 6400 || 11 ||  || error
+|[wiki:ciphers_echosp256 echosp256] || powerpc_pp32cv2 || avr-gcc atmega1281 O1 || 4.3.4 (GCC) ||  ||  || 44598 || 4352 || 11 ||  || error
+|[wiki:ciphers_echosp256 echosp256] || powerpc_pp32cv2 || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 46025983 || 1940178 || 47008 || 4352 || 11 || 1062 || Checksum failed
+|[wiki:ciphers_echosp256 echosp256] || powerpc_pp32cv2 || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 34521272 || 1407991 || 47906 || 4352 || 11 || 1062 || Checksum failed
+|[wiki:ciphers_echosp256 echosp256] || powerpc_pp32cv2 || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 49538016 || 2119159 || 44274 || 4352 || 11 || 1062 || Checksum failed
+|[wiki:ciphers_echosp512 echosp512] || generic_opt32 || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 118249227 || 4229347 || 96686 || 2048 || 43 || 2074 || Checksum failed
+|[wiki:ciphers_echosp512 echosp512] || generic_opt32 || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 38752631 || 1877931 || 39030 || 2304 || 43 || 749 || Checksum failed
+|[wiki:ciphers_echosp512 echosp512] || generic_opt32 || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 37796477 || 1866674 || 42268 || 2304 || 43 || 959 || Checksum failed
+|[wiki:ciphers_echosp512 echosp512] || generic_opt32 || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 36873873 || 1914475 || 44044 || 2304 || 43 || 1054 || Checksum failed
+|[wiki:ciphers_echosp512 echosp512] || generic_opt32 || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 37714680 || 1860103 || 39302 || 2304 || 43 || 941 || Checksum failed
+|[wiki:ciphers_echosp512 echosp512] || powerpc_pp32cv1 || avr-gcc atmega1281 O0 || 4.3.4 (GCC) ||  ||  || 47198 || 6144 || 43 ||  || error
+|[wiki:ciphers_echosp512 echosp512] || powerpc_pp32cv1 || avr-gcc atmega1281 O1 || 4.3.4 (GCC) ||  ||  || 19936 || 6400 || 43 ||  || error
+|[wiki:ciphers_echosp512 echosp512] || powerpc_pp32cv1 || avr-gcc atmega1281 O2 || 4.3.4 (GCC) ||  ||  || 21386 || 6400 || 43 ||  || error
+|[wiki:ciphers_echosp512 echosp512] || powerpc_pp32cv1 || avr-gcc atmega1291 O3 || 4.3.4 (GCC) ||  ||  || 23224 || 6400 || 43 ||  || error
+|[wiki:ciphers_echosp512 echosp512] || powerpc_pp32cv1 || avr-gcc atmega1281 Os || 4.3.4 (GCC) ||  ||  || 19634 || 6400 || 43 ||  || error
+|[wiki:ciphers_echosp512 echosp512] || powerpc_pp32cv2 || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 53107693 || 2807395 || 44598 || 4352 || 43 || 1005 || Checksum failed
+|[wiki:ciphers_echosp512 echosp512] || powerpc_pp32cv2 || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 53246423 || 2867030 || 47008 || 4352 || 43 || 1030 || Checksum failed
+|[wiki:ciphers_echosp512 echosp512] || powerpc_pp32cv2 || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 40974848 || 2180035 || 47906 || 4352 || 43 || 1030 || Checksum failed
+|[wiki:ciphers_echosp512 echosp512] || powerpc_pp32cv2 || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 57903411 || 3167287 || 44274 || 4352 || 43 || 1030 || Checksum failed
+|[wiki:ciphers_essence224 essence224] || gcc || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 461278490 || 32901208 || 93610 || 3424 || -4 || 1419 || Checksum OK
+|[wiki:ciphers_essence224 essence224] || gcc || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 339405590 || 23437950 || 74320 || 3424 || -4 || 1144 || Checksum OK
+|[wiki:ciphers_essence224 essence224] || gcc || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 375013562 || 26315972 || 95900 || 3424 || -4 || 1187 || Checksum OK
+|[wiki:ciphers_essence224 essence224] || gcc || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 339929513 || 23457475 || 71942 || 3424 || -4 || 1125 || Checksum OK
+|[wiki:ciphers_essence256 essence256] || gcc || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 427741532 || 32902620 || 89544 || 3168 || 0 || 1419 || Checksum OK
+|[wiki:ciphers_essence256 essence256] || gcc || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 305512147 || 23438425 || 69780 || 3168 || 0 || 1144 || Checksum OK
+|[wiki:ciphers_essence256 essence256] || gcc || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 341120126 || 26316448 || 91360 || 3168 || 0 || 1187 || Checksum OK
+|[wiki:ciphers_essence256 essence256] || gcc || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 305703927 || 23457989 || 67430 || 3168 || 0 || 1125 || Checksum OK
+|[wiki:ciphers_essence384 essence384] || gcc || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 597422198 || 29790583 || 93610 || 3424 || 16 || 1642 || Checksum OK
+|[wiki:ciphers_essence384 essence384] || gcc || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 509049225 || 25084937 || 74320 || 3424 || 16 || 1319 || Checksum OK
+|[wiki:ciphers_essence384 essence384] || gcc || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 532272575 || 26374393 || 95900 || 3424 || 16 || 1413 || Checksum OK
+|[wiki:ciphers_essence384 essence384] || gcc || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 510953027 || 25171868 || 71942 || 3424 || 16 || 1313 || Checksum OK
+|[wiki:ciphers_essence512 essence512] || gcc || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 565167600 || 29800516 || 89544 || 3168 || 32 || 1642 || Checksum OK
+|[wiki:ciphers_essence512 essence512] || gcc || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 476077390 || 25091123 || 69780 || 3168 || 32 || 1319 || Checksum OK
+|[wiki:ciphers_essence512 essence512] || gcc || avr-gcc atmega1291 O3 || 4.3.4 (GCC) ||  ||  || 91360 || 3168 || 32 ||  || error
+|[wiki:ciphers_essence512 essence512] || gcc || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 477646769 || 25178083 || 67430 || 3168 || 32 || 1313 || Checksum OK
+|[wiki:ciphers_fugue256 fugue256] || ref-xbx || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 295772672 || 17176463 || 25452 || 380 || 2321 || 716 || Checksum OK
+|[wiki:ciphers_fugue256 fugue256] || ref-xbx || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 91521446 || 5630117 || 35118 || 380 || 2321 || 917 || Checksum OK
+|[wiki:ciphers_fugue256 fugue256] || ref-xbx || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 83474712 || 5125131 || 32054 || 380 || 2321 || 870 || Checksum OK
+|[wiki:ciphers_fugue256 fugue256] || ref-xbx || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 60261835 || 4008366 || 54342 || 380 || 2321 || 1088 || Checksum OK
+|[wiki:ciphers_fugue256 fugue256] || ref-xbx || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 90855223 || 5755140 || 9802 || 380 || 2321 || 323 || Checksum OK
+|[wiki:ciphers_fugue512 fugue512] || ref-xbx || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 540467388 || 34235978 || 25452 || 380 || 2353 || 716 || Checksum OK
+|[wiki:ciphers_fugue512 fugue512] || ref-xbx || avr-gcc atmega1281 O1 || 4.3.4 (GCC) ||  ||  || 35118 || 380 || 2353 ||  || error
+|[wiki:ciphers_fugue512 fugue512] || ref-xbx || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 155952933 || 10163269 || 32054 || 380 || 2353 || 870 || Checksum OK
+|[wiki:ciphers_fugue512 fugue512] || ref-xbx || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 119259458 || 7946883 || 54342 || 380 || 2353 || 1088 || Checksum OK
+|[wiki:ciphers_fugue512 fugue512] || ref-xbx || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 171212572 || 11448541 || 9802 || 380 || 2353 || 323 || Checksum OK
+|[wiki:ciphers_groestl256 groestl256] || avrcryptolib || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 403254285 || 29685455 || 3048 || 0 || 0 || 346 || Checksum OK
+|[wiki:ciphers_groestl256 groestl256] || avrcryptolib || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 241834830 || 19742854 || 2500 || 0 || 0 || 357 || Checksum OK
+|[wiki:ciphers_groestl256 groestl256] || avrcryptolib || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 160465815 || 13014947 || 2316 || 0 || 0 || 348 || Checksum OK
+|[wiki:ciphers_groestl256 groestl256] || avrcryptolib || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 140018655 || 11309545 || 3484 || 0 || 0 || 429 || Checksum OK
+|[wiki:ciphers_groestl256 groestl256] || avrcryptolib || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 163880490 || 13304818 || 2214 || 0 || 0 || 346 || Checksum OK
+|[wiki:ciphers_groestl256 groestl256] || opt32-avr || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 305133235 || 20767179 || 77960 || 0 || 0 || 1989 || Checksum OK
+|[wiki:ciphers_groestl256 groestl256] || opt32-avr || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 102629723 || 7905855 || 29352 || 0 || 0 || 504 || Checksum OK
+|[wiki:ciphers_groestl256 groestl256] || opt32-avr || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 37889298 || 2635548 || 27156 || 0 || 0 || 563 || Checksum OK
+|[wiki:ciphers_groestl256 groestl256] || opt32-avr || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 37175346 || 2584399 || 28974 || 0 || 0 || 547 || Checksum OK
+|[wiki:ciphers_groestl256 groestl256] || opt32-avr || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 31704096 || 2146349 || 24596 || 0 || 0 || 487 || Checksum OK
+|[wiki:ciphers_groestl256 groestl256] || opt32-xbx-rolled || avr-gcc atmega1281 O2 || 4.3.4 (GCC) ||  ||  || 104600 || 8192 || 0 ||  || error
+|[wiki:ciphers_groestl256 groestl256] || opt32-xbx-rolled || avr-gcc atmega1281 Os || 4.3.4 (GCC) ||  ||  || 103838 || 8192 || 0 ||  || error
+|[wiki:ciphers_groestl256 groestl256] || ref-xbx || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 3552616146 || 292137242 || 17500 || 288 || 0 || 821 || Checksum OK
+|[wiki:ciphers_groestl256 groestl256] || ref-xbx || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 983713218 || 81420646 || 10344 || 544 || 0 || 678 || Checksum OK
+|[wiki:ciphers_groestl256 groestl256] || ref-xbx || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 222470412 || 17903874 || 10208 || 544 || 0 || 689 || Checksum OK
+|[wiki:ciphers_groestl256 groestl256] || ref-xbx || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 216176013 || 17369323 || 10948 || 544 || 0 || 825 || Checksum OK
+|[wiki:ciphers_groestl256 groestl256] || ref-xbx || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 274483999 || 22209086 || 9600 || 544 || 0 || 674 || Checksum OK
+|[wiki:ciphers_groestl512 groestl512] || avrcryptolib || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 752770073 || 43773638 || 3276 || 0 || 32 || 610 || Checksum OK
+|[wiki:ciphers_groestl512 groestl512] || avrcryptolib || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 477144666 || 29281246 || 2616 || 0 || 32 || 623 || Checksum OK
+|[wiki:ciphers_groestl512 groestl512] || avrcryptolib || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 317017515 || 19389840 || 2388 || 0 || 32 || 610 || Checksum OK
+|[wiki:ciphers_groestl512 groestl512] || avrcryptolib || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 278090134 || 16974919 || 4354 || 0 || 32 || 787 || Checksum OK
+|[wiki:ciphers_groestl512 groestl512] || avrcryptolib || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 321986955 || 19701898 || 2306 || 0 || 32 || 610 || Checksum OK
+|[wiki:ciphers_groestl512 groestl512] || ref-xbx || avr-gcc atmega1281 O0 || 4.3.4 (GCC) ||  ||  || 17500 || 288 || 32 ||  || error
+|[wiki:ciphers_groestl512 groestl512] || ref-xbx || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 1948804858 || 120349145 || 10344 || 544 || 32 || 678 || Checksum OK
+|[wiki:ciphers_groestl512 groestl512] || ref-xbx || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 432878651 || 26242362 || 10208 || 544 || 32 || 689 || Checksum OK
+|[wiki:ciphers_groestl512 groestl512] || ref-xbx || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 420692902 || 25481850 || 10948 || 544 || 32 || 825 || Checksum OK
+|[wiki:ciphers_groestl512 groestl512] || ref-xbx || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 536078147 || 32602338 || 9600 || 544 || 32 || 674 || Checksum OK
+|[wiki:ciphers_jh224 jh224] || bitslice_opt32 || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 244843022 || 14012943 || 45218 || 1666 || -4 || 439 || Checksum OK
+|[wiki:ciphers_jh224 jh224] || bitslice_opt32 || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 120127227 || 5745229 || 23128 || 1922 || -4 || 378 || Checksum OK
+|[wiki:ciphers_jh224 jh224] || bitslice_opt32 || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 113698732 || 5326204 || 21870 || 1922 || -4 || 364 || Checksum OK
+|[wiki:ciphers_jh224 jh224] || bitslice_opt32 || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 125268771 || 6148399 || 77558 || 1538 || -4 || 454 || Checksum OK
+|[wiki:ciphers_jh224 jh224] || bitslice_opt32 || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 114734513 || 5378279 || 21568 || 1922 || -4 || 368 || Checksum OK
+|[wiki:ciphers_jh224 jh224] || bitslice_opt64 || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 238596458 || 14183210 || 56726 || 1922 || -4 || 643 || Checksum OK
+|[wiki:ciphers_jh224 jh224] || bitslice_opt64 || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 240498200 || 14357508 || 57668 || 1922 || -4 || 629 || Checksum OK
+|[wiki:ciphers_jh224 jh224] || bitslice_opt64 || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 240908933 || 14365062 || 57452 || 1922 || -4 || 635 || Checksum OK
+|[wiki:ciphers_jh224 jh224] || bitslice_ref32 || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 266950544 || 15587558 || 17346 || 1664 || -4 || 455 || Checksum OK
+|[wiki:ciphers_jh224 jh224] || bitslice_ref32 || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 124516096 || 6057827 || 11932 || 1920 || -4 || 322 || Checksum OK
+|[wiki:ciphers_jh224 jh224] || bitslice_ref32 || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 122644537 || 5963371 || 11876 || 1920 || -4 || 328 || Checksum OK
+|[wiki:ciphers_jh224 jh224] || bitslice_ref32 || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 121271780 || 5873475 || 39880 || 1536 || -4 || 351 || Checksum OK
+|[wiki:ciphers_jh224 jh224] || bitslice_ref32 || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 123988316 || 6037382 || 11608 || 1920 || -4 || 332 || Checksum OK
+|[wiki:ciphers_jh224 jh224] || bitslice_ref64 || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 643238596 || 42388702 || 74320 || 1664 || -4 || 2005 || Checksum OK
+|[wiki:ciphers_jh224 jh224] || bitslice_ref64 || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 276694867 || 16896774 || 23046 || 1920 || -4 || 501 || Checksum OK
+|[wiki:ciphers_jh224 jh224] || bitslice_ref64 || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 275262874 || 16833624 || 22786 || 1920 || -4 || 508 || Checksum OK
+|[wiki:ciphers_jh224 jh224] || bitslice_ref64 || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 301449089 || 18699351 || 41560 || 1536 || -4 || 554 || Checksum OK
+|[wiki:ciphers_jh224 jh224] || bitslice_ref64 || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 275807943 || 16850747 || 22518 || 1920 || -4 || 514 || Checksum OK
+|[wiki:ciphers_jh256 jh256] || bitslice_opt32 || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 244669626 || 14012947 || 45218 || 1666 || 0 || 439 || Checksum OK
+|[wiki:ciphers_jh256 jh256] || bitslice_opt32 || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 86409080 || 5745242 || 19062 || 1666 || 0 || 378 || Checksum OK
+|[wiki:ciphers_jh256 jh256] || bitslice_opt32 || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 79744968 || 5326218 || 17330 || 1666 || 0 || 364 || Checksum OK
+|[wiki:ciphers_jh256 jh256] || bitslice_opt32 || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 91316554 || 6148422 || 73018 || 1282 || 0 || 454 || Checksum OK
+|[wiki:ciphers_jh256 jh256] || bitslice_opt32 || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 80444200 || 5378292 || 17056 || 1666 || 0 || 368 || Checksum OK
+|[wiki:ciphers_jh256 jh256] || bitslice_opt64 || avr-gcc atmega1281 O1 || 4.3.4 (GCC) ||  ||  || 52660 || 1666 || 0 ||  || error
+|[wiki:ciphers_jh256 jh256] || bitslice_opt64 || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 206544498 || 14357520 || 53128 || 1666 || 0 || 629 || Checksum OK
+|[wiki:ciphers_jh256 jh256] || bitslice_opt64 || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 206618600 || 14365071 || 52940 || 1666 || 0 || 635 || Checksum OK
+|[wiki:ciphers_jh256 jh256] || bitslice_ref32 || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 266777225 || 15587564 || 17346 || 1664 || 0 || 455 || Checksum OK
+|[wiki:ciphers_jh256 jh256] || bitslice_ref32 || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 90797974 || 6057840 || 7866 || 1664 || 0 || 322 || Checksum OK
+|[wiki:ciphers_jh256 jh256] || bitslice_ref32 || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 88690788 || 5963384 || 7336 || 1664 || 0 || 328 || Checksum OK
+|[wiki:ciphers_jh256 jh256] || bitslice_ref32 || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 87319562 || 5873498 || 35340 || 1280 || 0 || 351 || Checksum OK
+|[wiki:ciphers_jh256 jh256] || bitslice_ref32 || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 89697996 || 6037394 || 7096 || 1664 || 0 || 332 || Checksum OK
+|[wiki:ciphers_jh256 jh256] || bitslice_ref64 || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 643065088 || 42388701 || 74320 || 1664 || 0 || 2005 || Checksum OK
+|[wiki:ciphers_jh256 jh256] || bitslice_ref64 || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 242976676 || 16896781 || 19152 || 1920 || 0 || 501 || Checksum OK
+|[wiki:ciphers_jh256 jh256] || bitslice_ref64 || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 241309066 || 16833633 || 18418 || 1920 || 0 || 508 || Checksum OK
+|[wiki:ciphers_jh256 jh256] || bitslice_ref64 || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 267495624 || 18699360 || 37192 || 1536 || 0 || 554 || Checksum OK
+|[wiki:ciphers_jh256 jh256] || bitslice_ref64 || avr-gcc atmega1281 Os || 4.3.4 (GCC) ||  ||  || 18178 || 1920 || 0 ||  || error
+|[wiki:ciphers_jh384 jh384] || bitslice_opt32 || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 244680527 || 14013117 || 45218 || 1666 || 16 || 439 || Checksum OK
+|[wiki:ciphers_jh384 jh384] || bitslice_opt32 || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 119960094 || 5745374 || 23128 || 1922 || 16 || 378 || Checksum OK
+|[wiki:ciphers_jh384 jh384] || bitslice_opt32 || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 113531611 || 5326351 || 21870 || 1922 || 16 || 364 || Checksum OK
+|[wiki:ciphers_jh384 jh384] || bitslice_opt32 || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 125105774 || 6148577 || 77558 || 1538 || 16 || 454 || Checksum OK
+|[wiki:ciphers_jh384 jh384] || bitslice_opt32 || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 114567387 || 5378424 || 21568 || 1922 || 16 || 368 || Checksum OK
+|[wiki:ciphers_jh384 jh384] || bitslice_opt64 || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 238429231 || 14183350 || 56726 || 1922 || 16 || 643 || Checksum OK
+|[wiki:ciphers_jh384 jh384] || bitslice_opt64 || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 240330999 || 14357648 || 57668 || 1922 || 16 || 629 || Checksum OK
+|[wiki:ciphers_jh384 jh384] || bitslice_opt64 || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 240741701 || 14365199 || 57452 || 1922 || 16 || 635 || Checksum OK
+|[wiki:ciphers_jh384 jh384] || bitslice_ref32 || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 266788076 || 15587731 || 17346 || 1664 || 16 || 455 || Checksum OK
+|[wiki:ciphers_jh384 jh384] || bitslice_ref32 || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 124348953 || 6057971 || 11932 || 1920 || 16 || 322 || Checksum OK
+|[wiki:ciphers_jh384 jh384] || bitslice_ref32 || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 122477402 || 5963516 || 11876 || 1920 || 16 || 328 || Checksum OK
+|[wiki:ciphers_jh384 jh384] || bitslice_ref32 || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 121108767 || 5873653 || 39880 || 1536 || 16 || 351 || Checksum OK
+|[wiki:ciphers_jh384 jh384] || bitslice_ref32 || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 123821186 || 6037527 || 11608 || 1920 || 16 || 332 || Checksum OK
+|[wiki:ciphers_jh384 jh384] || bitslice_ref64 || avr-gcc atmega1281 O0 || 4.3.4 (GCC) ||  ||  || 74320 || 1664 || 16 ||  || error
+|[wiki:ciphers_jh384 jh384] || bitslice_ref64 || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 276527658 || 16896913 || 23046 || 1920 || 16 || 501 || Checksum OK
+|[wiki:ciphers_jh384 jh384] || bitslice_ref64 || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 275095658 || 16833762 || 22786 || 1920 || 16 || 508 || Checksum OK
+|[wiki:ciphers_jh384 jh384] || bitslice_ref64 || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 301293041 || 18699574 || 41560 || 1536 || 16 || 554 || Checksum OK
+|[wiki:ciphers_jh384 jh384] || bitslice_ref64 || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 275640710 || 16850884 || 22518 || 1920 || 16 || 514 || Checksum OK
+|[wiki:ciphers_jh512 jh512] || bitslice_opt32 || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 244522286 || 14013259 || 45218 || 1666 || 32 || 439 || Checksum OK
+|[wiki:ciphers_jh512 jh512] || bitslice_opt32 || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 86441884 || 5745492 || 19062 || 1666 || 32 || 378 || Checksum OK
+|[wiki:ciphers_jh512 jh512] || bitslice_opt32 || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 79778028 || 5326468 || 17330 || 1666 || 32 || 364 || Checksum OK
+|[wiki:ciphers_jh512 jh512] || bitslice_opt32 || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 91355798 || 6148722 || 73018 || 1282 || 32 || 454 || Checksum OK
+|[wiki:ciphers_jh512 jh512] || bitslice_opt32 || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 80476889 || 5378542 || 17056 || 1666 || 32 || 368 || Checksum OK
+|[wiki:ciphers_jh512 jh512] || bitslice_opt64 || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 204911046 || 14183466 || 52660 || 1666 || 32 || 643 || Checksum OK
+|[wiki:ciphers_jh512 jh512] || bitslice_opt64 || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 206577424 || 14357764 || 53128 || 1666 || 32 || 629 || Checksum OK
+|[wiki:ciphers_jh512 jh512] || bitslice_opt64 || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 206651207 || 14365316 || 52940 || 1666 || 32 || 635 || Checksum OK
+|[wiki:ciphers_jh512 jh512] || bitslice_ref32 || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 266629894 || 15587877 || 17346 || 1664 || 32 || 455 || Checksum OK
+|[wiki:ciphers_jh512 jh512] || bitslice_ref32 || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 90830790 || 6058091 || 7866 || 1664 || 32 || 322 || Checksum OK
+|[wiki:ciphers_jh512 jh512] || bitslice_ref32 || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 88723857 || 5963635 || 7336 || 1664 || 32 || 328 || Checksum OK
+|[wiki:ciphers_jh512 jh512] || bitslice_ref32 || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 87358826 || 5873799 || 35340 || 1280 || 32 || 351 || Checksum OK
+|[wiki:ciphers_jh512 jh512] || bitslice_ref32 || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 89730681 || 6037644 || 7096 || 1664 || 32 || 332 || Checksum OK
+|[wiki:ciphers_jh512 jh512] || bitslice_ref64 || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 642917589 || 42389001 || 74320 || 1664 || 32 || 2005 || Checksum OK
+|[wiki:ciphers_jh512 jh512] || bitslice_ref64 || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 243009424 || 16897027 || 19152 || 1920 || 32 || 501 || Checksum OK
+|[wiki:ciphers_jh512 jh512] || bitslice_ref64 || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 241342053 || 16833878 || 18418 || 1920 || 32 || 508 || Checksum OK
+|[wiki:ciphers_jh512 jh512] || bitslice_ref64 || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 267542664 || 18699715 || 37192 || 1536 || 32 || 554 || Checksum OK
+|[wiki:ciphers_jh512 jh512] || bitslice_ref64 || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 241550210 || 16851001 || 18178 || 1920 || 32 || 514 || Checksum OK
+|[wiki:ciphers_keccak512 keccak512] || avrcryptolib || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 421938839 || 38123476 || 5466 || 0 || 32 || 639 || Checksum OK
+|[wiki:ciphers_keccak512 keccak512] || avrcryptolib || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 263990501 || 26329077 || 3928 || 0 || 32 || 606 || Checksum OK
+|[wiki:ciphers_keccak512 keccak512] || avrcryptolib || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 286127549 || 28661880 || 4512 || 0 || 32 || 614 || Checksum OK
+|[wiki:ciphers_keccak512 keccak512] || avrcryptolib || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 263757631 || 26383580 || 11840 || 0 || 32 || 671 || Checksum OK
+|[wiki:ciphers_keccak512 keccak512] || avrcryptolib || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 286784739 || 28735279 || 4268 || 0 || 32 || 610 || Checksum OK
+|[wiki:ciphers_luffa256 luffa256] || opt32 || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 67256060 || 1857180 || 64514 || 240 || 0 || 456 || Checksum failed
+|[wiki:ciphers_luffa256 luffa256] || opt32 || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 11954822 || 632299 || 22818 || 240 || 0 || 291 || Checksum failed
+|[wiki:ciphers_luffa256 luffa256] || opt32 || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 12711808 || 782170 || 22212 || 240 || 0 || 320 || Checksum failed
+|[wiki:ciphers_luffa256 luffa256] || opt32 || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 11700399 || 686571 || 29242 || 240 || 0 || 337 || Checksum failed
+|[wiki:ciphers_luffa256 luffa256] || opt32 || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 11188748 || 635335 || 18838 || 240 || 0 || 291 || Checksum failed
+|[wiki:ciphers_luffa384 luffa384] || opt32 || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 104188920 || 4431239 || 64514 || 240 || 16 || 563 || Checksum failed
+|[wiki:ciphers_luffa384 luffa384] || opt32 || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 54808756 || 1247000 || 26884 || 496 || 16 || 361 || Checksum failed
+|[wiki:ciphers_luffa384 luffa384] || opt32 || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 53670467 || 1201147 || 26752 || 496 || 16 || 390 || Checksum failed
+|[wiki:ciphers_luffa384 luffa384] || opt32 || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 52451289 || 1113271 || 33782 || 496 || 16 || 421 || Checksum failed
+|[wiki:ciphers_luffa384 luffa384] || opt32 || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 52153761 || 1052856 || 23350 || 496 || 16 || 355 || Checksum failed
+|[wiki:ciphers_luffa512 luffa512] || opt32 || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 131463028 || 6572698 || 64514 || 240 || 32 || 579 || Checksum failed
+|[wiki:ciphers_luffa512 luffa512] || opt32 || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 28509921 || 1812243 || 22818 || 240 || 32 || 405 || Checksum failed
+|[wiki:ciphers_luffa512 luffa512] || opt32 || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 26443102 || 1712547 || 22212 || 240 || 32 || 441 || Checksum failed
+|[wiki:ciphers_luffa512 luffa512] || opt32 || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 25223122 || 1628251 || 29242 || 240 || 32 || 477 || Checksum failed
+|[wiki:ciphers_luffa512 luffa512] || opt32 || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 24743980 || 1575293 || 18838 || 240 || 32 || 391 || Checksum failed
+|[wiki:ciphers_mcssha4 mcssha4] || ref || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 76048870 || 2115329 || 18344 || 256 || 32 || 654 || Checksum OK
+|[wiki:ciphers_mcssha4 mcssha4] || ref || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 18286442 || 1134693 || 10050 || 256 || 32 || 617 || Checksum OK
+|[wiki:ciphers_mcssha4 mcssha4] || ref || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 14306957 || 876786 || 9084 || 256 || 32 || 595 || Checksum OK
+|[wiki:ciphers_mcssha4 mcssha4] || ref || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 14268539 || 876488 || 9342 || 256 || 32 || 611 || Checksum OK
+|[wiki:ciphers_mcssha4 mcssha4] || ref || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 13902626 || 890209 || 8562 || 256 || 32 || 603 || Checksum OK
+|[wiki:ciphers_mcssha5 mcssha5] || ref || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 87071345 || 2200775 || 22280 || 256 || 32 || 654 || Checksum OK
+|[wiki:ciphers_mcssha5 mcssha5] || ref || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 20453680 || 1151493 || 11298 || 256 || 32 || 605 || Checksum OK
+|[wiki:ciphers_mcssha5 mcssha5] || ref || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 19217685 || 914854 || 11824 || 256 || 32 || 629 || Checksum OK
+|[wiki:ciphers_mcssha5 mcssha5] || ref || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 19180040 || 914562 || 11684 || 256 || 32 || 629 || Checksum OK
+|[wiki:ciphers_mcssha5 mcssha5] || ref || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 18060732 || 922442 || 10678 || 256 || 32 || 635 || Checksum OK
+|[wiki:ciphers_mcssha6 mcssha6] || ref || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 76790421 || 2121077 || 19558 || 256 || 32 || 616 || Checksum OK
+|[wiki:ciphers_mcssha6 mcssha6] || ref || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 22624393 || 1168321 || 11684 || 256 || 32 || 511 || Checksum OK
+|[wiki:ciphers_mcssha6 mcssha6] || ref || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 20505054 || 924833 || 10284 || 256 || 32 || 481 || Checksum OK
+|[wiki:ciphers_mcssha6 mcssha6] || ref || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 20520010 || 924950 || 10772 || 256 || 32 || 505 || Checksum OK
+|[wiki:ciphers_mcssha6 mcssha6] || ref || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 20328262 || 940019 || 9848 || 256 || 32 || 479 || Checksum OK
+|[wiki:ciphers_nasha256 nasha256] || opt || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 69619050 || 1921752 || 88294 || 1856 || 0 || 1727 || Checksum OK
+|[wiki:ciphers_nasha256 nasha256] || opt || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 17366172 || 982992 || 47644 || 1856 || 0 || 960 || Checksum OK
+|[wiki:ciphers_nasha256 nasha256] || opt || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 15599693 || 872637 || 56376 || 1856 || 0 || 937 || Checksum OK
+|[wiki:ciphers_nasha256 nasha256] || opt || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 15384748 || 852896 || 64810 || 1856 || 0 || 994 || Checksum OK
+|[wiki:ciphers_nasha256 nasha256] || opt || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 15504223 || 859366 || 51744 || 1856 || 0 || 922 || Checksum OK
+|[wiki:ciphers_nasha512 nasha512] || opt || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 74859278 || 1878280 || 88294 || 1856 || 32 || 2047 || Checksum OK
+|[wiki:ciphers_nasha512 nasha512] || opt || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 21601146 || 1030042 || 47644 || 1856 || 32 || 1518 || Checksum OK
+|[wiki:ciphers_nasha512 nasha512] || opt || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 19309760 || 885002 || 56376 || 1856 || 32 || 1426 || Checksum OK
+|[wiki:ciphers_nasha512 nasha512] || opt || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 19398663 || 893170 || 64810 || 1856 || 32 || 1468 || Checksum OK
+|[wiki:ciphers_nasha512 nasha512] || opt || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 19883335 || 920112 || 51744 || 1856 || 32 || 1396 || Checksum OK
+|[wiki:ciphers_shabal256 shabal256] || avrcryptolib || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 139282251 || 4236400 || 4478 || 0 || 0 || 312 || Checksum OK
+|[wiki:ciphers_shabal256 shabal256] || avrcryptolib || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 74557137 || 3191988 || 3110 || 0 || 0 || 326 || Checksum OK
+|[wiki:ciphers_shabal256 shabal256] || avrcryptolib || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 39622505 || 1625772 || 2860 || 0 || 0 || 328 || Checksum OK
+|[wiki:ciphers_shabal256 shabal256] || avrcryptolib || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 39471448 || 1613677 || 8308 || 0 || 0 || 337 || Checksum OK
+|[wiki:ciphers_shabal256 shabal256] || avrcryptolib || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 40131728 || 1650200 || 2724 || 0 || 0 || 322 || Checksum OK
+|[wiki:ciphers_shabal256 shabal256] || avrcryptolib_asm || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 55427593 || 374561 || 1926 || 0 || 0 || 296 || Checksum OK
+|[wiki:ciphers_shabal256 shabal256] || avrcryptolib_asm || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 13139909 || 374497 || 1916 || 0 || 0 || 296 || Checksum OK
+|[wiki:ciphers_shabal256 shabal256] || avrcryptolib_asm || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 12372449 || 374480 || 1900 || 0 || 0 || 298 || Checksum OK
+|[wiki:ciphers_shabal256 shabal256] || avrcryptolib_asm || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 12372448 || 374479 || 1900 || 0 || 0 || 298 || Checksum OK
+|[wiki:ciphers_shabal256 shabal256] || avrcryptolib_asm || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 12302941 || 374480 || 1900 || 0 || 0 || 298 || Checksum OK
+|[wiki:ciphers_shabal512 shabal512] || avrcryptolib || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 139126474 || 4236656 || 4478 || 0 || 32 || 312 || Checksum OK
+|[wiki:ciphers_shabal512 shabal512] || avrcryptolib || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 74590156 || 3192244 || 3110 || 0 || 32 || 326 || Checksum OK
+|[wiki:ciphers_shabal512 shabal512] || avrcryptolib || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 39655515 || 1626029 || 2860 || 0 || 32 || 328 || Checksum OK
+|[wiki:ciphers_shabal512 shabal512] || avrcryptolib || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 39504458 || 1613933 || 8308 || 0 || 32 || 337 || Checksum OK
+|[wiki:ciphers_shabal512 shabal512] || avrcryptolib || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 40164738 || 1650456 || 2724 || 0 || 32 || 322 || Checksum OK
+|[wiki:ciphers_shabal512 shabal512] || avrcryptolib_asm || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 55267437 || 374784 || 1924 || 0 || 32 || 296 || Checksum OK
+|[wiki:ciphers_shabal512 shabal512] || avrcryptolib_asm || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 13168533 || 374720 || 1914 || 0 || 32 || 296 || Checksum OK
+|[wiki:ciphers_shabal512 shabal512] || avrcryptolib_asm || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 12401073 || 374701 || 1898 || 0 || 32 || 298 || Checksum OK
+|[wiki:ciphers_shabal512 shabal512] || avrcryptolib_asm || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 12401072 || 374702 || 1898 || 0 || 32 || 298 || Checksum OK
+|[wiki:ciphers_shabal512 shabal512] || avrcryptolib_asm || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 12331565 || 374702 || 1898 || 0 || 32 || 298 || Checksum OK
+|[wiki:ciphers_shabal512 shabal512] || ref || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 65726618 || 882939 || 77308 || 176 || 32 || 594 || Checksum OK
+|[wiki:ciphers_shabal512 shabal512] || ref || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 23154640 || 847888 || 79418 || 176 || 32 || 2636 || Checksum OK
+|[wiki:ciphers_shabal512 shabal512] || ref || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 22915507 || 867673 || 82944 || 176 || 32 || 2696 || Checksum OK
+|[wiki:ciphers_shabal512 shabal512] || ref || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 22912472 || 867647 || 82934 || 176 || 32 || 2696 || Checksum OK
+|[wiki:ciphers_shabal512 shabal512] || ref || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 22893291 || 875551 || 79882 || 176 || 32 || 2620 || Checksum OK
+|[wiki:ciphers_shavite3256 shavite3256] || 256-nosalt-smallc || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 62207271 || 1343379 || 65650 || 4252 || 6 || 864 || Checksum failed
+|[wiki:ciphers_shavite3256 shavite3256] || 256-nosalt-smallc || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 16436640 || 1025364 || 62058 || 4508 || 6 || 907 || Checksum failed
+|[wiki:ciphers_shavite3256 shavite3256] || 256-nosalt-smallc || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 15742952 || 1033447 || 61810 || 4508 || 6 || 911 || Checksum failed
+|[wiki:ciphers_shavite3256 shavite3256] || 256-nosalt-smallc || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 16024636 || 1051746 || 75944 || 4508 || 6 || 911 || Checksum failed
+|[wiki:ciphers_shavite3256 shavite3256] || 256-nosalt-smallc || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 16837043 || 1052247 || 61414 || 4508 || 6 || 911 || Checksum failed
+|[wiki:ciphers_shavite3256 shavite3256] || no-salt-xbx-pruned || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 64324704 || 1559208 || 76944 || 4252 || 6 || 864 || Checksum failed
+|[wiki:ciphers_shavite3256 shavite3256] || no-salt-xbx-pruned || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 16448901 || 1026491 || 62118 || 4508 || 6 || 907 || Checksum failed
+|[wiki:ciphers_shavite3256 shavite3256] || no-salt-xbx-pruned || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 15750440 || 1034188 || 61812 || 4508 || 6 || 911 || Checksum failed
+|[wiki:ciphers_shavite3256 shavite3256] || no-salt-xbx-pruned || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 15994112 || 1050719 || 76284 || 4508 || 6 || 911 || Checksum failed
+|[wiki:ciphers_shavite3256 shavite3256] || no-salt-xbx-pruned || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 16847107 || 1053104 || 61454 || 4508 || 6 || 911 || Checksum failed
+|[wiki:ciphers_shavite3256 shavite3256] || with-salt-xbx-pruned || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 64749114 || 1563208 || 77162 || 4252 || 6 || 864 || Checksum failed
+|[wiki:ciphers_shavite3256 shavite3256] || with-salt-xbx-pruned || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 16873761 || 1030391 || 62382 || 4508 || 6 || 907 || Checksum failed
+|[wiki:ciphers_shavite3256 shavite3256] || with-salt-xbx-pruned || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 16184026 || 1038440 || 62240 || 4508 || 6 || 911 || Checksum failed
+|[wiki:ciphers_shavite3256 shavite3256] || with-salt-xbx-pruned || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 16403475 || 1054361 || 77398 || 4508 || 6 || 911 || Checksum failed
+|[wiki:ciphers_shavite3256 shavite3256] || with-salt-xbx-pruned || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 17271808 || 1056961 || 61698 || 4508 || 6 || 911 || Checksum failed
+|[wiki:ciphers_simd256 simd256] || opt || avr-gcc atmega1281 O0 || 4.3.4 (GCC) ||  ||  || 55318 || 2774 || 4 ||  || error
+|[wiki:ciphers_simd256 simd256] || opt || avr-gcc atmega1281 O1 || 4.3.4 (GCC) ||  ||  || 25608 || 2774 || 4 ||  || error
+|[wiki:ciphers_simd256 simd256] || opt || avr-gcc atmega1281 O2 || 4.3.4 (GCC) ||  ||  || 25862 || 2774 || 4 ||  || error
+|[wiki:ciphers_simd256 simd256] || opt || avr-gcc atmega1291 O3 || 4.3.4 (GCC) ||  ||  || 62518 || 2774 || 4 ||  || error
+|[wiki:ciphers_simd256 simd256] || opt || avr-gcc atmega1281 Os || 4.3.4 (GCC) ||  ||  || 24302 || 2774 || 4 ||  || error
+|[wiki:ciphers_simd256 simd256] || ref || avr-gcc atmega1281 O0 || 4.3.4 (GCC) ||  ||  || 15304 || 598 || 4 ||  || error
+|[wiki:ciphers_simd256 simd256] || ref || avr-gcc atmega1281 O1 || 4.3.4 (GCC) ||  ||  || 10072 || 598 || 4 ||  || error
+|[wiki:ciphers_simd256 simd256] || ref || avr-gcc atmega1281 O2 || 4.3.4 (GCC) ||  ||  || 10586 || 598 || 4 ||  || error
+|[wiki:ciphers_simd256 simd256] || ref || avr-gcc atmega1291 O3 || 4.3.4 (GCC) ||  ||  || 17430 || 598 || 4 ||  || error
+|[wiki:ciphers_simd256 simd256] || ref || avr-gcc atmega1281 Os || 4.3.4 (GCC) ||  ||  || 9226 || 598 || 4 ||  || error
+|[wiki:ciphers_simd512 simd512] || opt || avr-gcc atmega1281 O0 || 4.3.4 (GCC) ||  ||  || 55318 || 2774 || 36 ||  || error
+|[wiki:ciphers_simd512 simd512] || opt || avr-gcc atmega1281 O1 || 4.3.4 (GCC) ||  ||  || 25608 || 2774 || 36 ||  || error
+|[wiki:ciphers_simd512 simd512] || opt || avr-gcc atmega1281 O2 || 4.3.4 (GCC) ||  ||  || 25862 || 2774 || 36 ||  || error
+|[wiki:ciphers_simd512 simd512] || opt || avr-gcc atmega1291 O3 || 4.3.4 (GCC) ||  ||  || 62518 || 2774 || 36 ||  || error
+|[wiki:ciphers_simd512 simd512] || opt || avr-gcc atmega1281 Os || 4.3.4 (GCC) ||  ||  || 24302 || 2774 || 36 ||  || error
+|[wiki:ciphers_simd512 simd512] || ref || avr-gcc atmega1281 O0 || 4.3.4 (GCC) ||  ||  || 15304 || 598 || 36 ||  || error
+|[wiki:ciphers_simd512 simd512] || ref || avr-gcc atmega1281 O1 || 4.3.4 (GCC) ||  ||  || 10072 || 598 || 36 ||  || error
+|[wiki:ciphers_simd512 simd512] || ref || avr-gcc atmega1281 O2 || 4.3.4 (GCC) ||  ||  || 10586 || 598 || 36 ||  || error
+|[wiki:ciphers_simd512 simd512] || ref || avr-gcc atmega1291 O3 || 4.3.4 (GCC) ||  ||  || 17430 || 598 || 36 ||  || error
+|[wiki:ciphers_simd512 simd512] || ref || avr-gcc atmega1281 Os || 4.3.4 (GCC) ||  ||  || 9226 || 598 || 36 ||  || error
+|[wiki:ciphers_skein256 skein256] || avrcryptolib || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 301472854 || 19832567 || 19014 || 16 || 0 || 706 || Checksum OK
+|[wiki:ciphers_skein256 skein256] || avrcryptolib || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 152767145 || 11524375 || 6522 || 16 || 0 || 371 || Checksum OK
+|[wiki:ciphers_skein256 skein256] || avrcryptolib || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 150228649 || 11386600 || 6106 || 16 || 0 || 363 || Checksum OK
+|[wiki:ciphers_skein256 skein256] || avrcryptolib || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 149701780 || 11345151 || 8176 || 16 || 0 || 523 || Checksum OK
+|[wiki:ciphers_skein256 skein256] || avrcryptolib || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 153032988 || 11612561 || 5656 || 16 || 0 || 357 || Checksum OK
+|[wiki:ciphers_skein256 skein256] || avrcryptolib_asm || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 72324589 || 1927975 || 2484 || 0 || 0 || 276 || Checksum OK
+|[wiki:ciphers_skein256 skein256] || avrcryptolib_asm || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 30030077 || 1927859 || 2414 || 0 || 0 || 266 || Checksum OK
+|[wiki:ciphers_skein256 skein256] || avrcryptolib_asm || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 29262613 || 1927841 || 2398 || 0 || 0 || 268 || Checksum OK
+|[wiki:ciphers_skein256 skein256] || avrcryptolib_asm || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 29262609 || 1927841 || 2398 || 0 || 0 || 268 || Checksum OK
+|[wiki:ciphers_skein256 skein256] || avrcryptolib_asm || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 29193098 || 1927840 || 2398 || 0 || 0 || 268 || Checksum OK
+|[wiki:ciphers_skein512 skein512] || avrcryptolib || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 418829971 || 20043481 || 20698 || 32 || 32 || 861 || Checksum OK
+|[wiki:ciphers_skein512 skein512] || avrcryptolib || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 236755956 || 12498979 || 7126 || 32 || 32 || 519 || Checksum OK
+|[wiki:ciphers_skein512 skein512] || avrcryptolib || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 234611586 || 12425046 || 6474 || 32 || 32 || 511 || Checksum OK
+|[wiki:ciphers_skein512 skein512] || avrcryptolib || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 237136418 || 12561380 || 12518 || 32 || 32 || 801 || Checksum OK
+|[wiki:ciphers_skein512 skein512] || avrcryptolib || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 238489833 || 12639151 || 6120 || 32 || 32 || 507 || Checksum OK
+|[wiki:ciphers_skein512 skein512] || avrcryptolib_asm || avr-gcc atmega1281 O0 || 4.3.4 (GCC) || 92027320 || 2404204 || 2586 || 0 || 32 || 405 || Checksum OK
+|[wiki:ciphers_skein512 skein512] || avrcryptolib_asm || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || 49921641 || 2404088 || 2516 || 0 || 32 || 395 || Checksum OK
+|[wiki:ciphers_skein512 skein512] || avrcryptolib_asm || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || 49154177 || 2404070 || 2500 || 0 || 32 || 397 || Checksum OK
+|[wiki:ciphers_skein512 skein512] || avrcryptolib_asm || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || 49154175 || 2404070 || 2500 || 0 || 32 || 397 || Checksum OK
+|[wiki:ciphers_skein512 skein512] || avrcryptolib_asm || avr-gcc atmega1281 Os || 4.3.4 (GCC) || 49084660 || 2404070 || 2500 || 0 || 32 || 397 || Checksum OK
+|[wiki:ciphers_whirlpool whirlpool] || ref || avr-gcc atmega1281 O0 || 4.3.4 (GCC) ||  ||  || 36180 || 16472 || 32 ||  || error
+|[wiki:ciphers_whirlpool whirlpool] || ref || avr-gcc atmega1281 O1 || 4.3.4 (GCC) ||  ||  || 38066 || 16472 || 32 ||  || error
+|[wiki:ciphers_whirlpool whirlpool] || ref || avr-gcc atmega1281 O2 || 4.3.4 (GCC) ||  ||  || 41818 || 16472 || 32 ||  || error
+|[wiki:ciphers_whirlpool whirlpool] || ref || avr-gcc atmega1291 O3 || 4.3.4 (GCC) ||  ||  || 50024 || 16472 || 32 ||  || error
+|[wiki:ciphers_whirlpool whirlpool] || ref || avr-gcc atmega1281 Os || 4.3.4 (GCC) ||  ||  || 38780 || 16472 || 32 ||  || error
