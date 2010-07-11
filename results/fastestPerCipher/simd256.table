@@ -1,1 +1,2 @@
 | '''Platform''' || '''Implementation''' || '''Try Cycles (1536)''' || '''Empty Message''' || '''1 byte''' || '''32 bytes''' || '''512 bytes''' || '''1024 bytes''' || '''2048 bytes''' || '''Long Messages''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:platforms_artila_m501 <-] artila_m501 [wiki:platformsciphers_artila_m501_simd256 ->] || sphlib-small || 398396 || 31556 || 47385 || 1474 || 303 || 269 || 256 || 243 || arm-linux-gcc -O2 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_7 Run 7]

@@ -1,1 +1,2 @@
 | '''Platform''' || '''Implementation''' || '''Try Cycles (1536)''' || '''Empty Message''' || '''1 byte''' || '''32 bytes''' || '''512 bytes''' || '''1024 bytes''' || '''2048 bytes''' || '''Long Messages''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:platforms_artila_m501 <-] artila_m501 [wiki:platformsciphers_artila_m501_sarmal512 ->] || opt64 || 818978 || 90405 || 89888 || 2829 || 664 || 563 || 526 || 489 || arm-linux-gcc -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_8 Run 8]

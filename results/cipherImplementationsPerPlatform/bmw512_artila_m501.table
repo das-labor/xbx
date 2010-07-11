@@ -1,5 +1,7 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|ref || 164430 || 14680 || 1800 || arm-linux-gcc -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_6 Run 6]
+|sphlib-small || 160324 || 15612 || 1388 || arm-linux-gcc -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_8 Run 8]
+|ref || 164194 || 14680 || 1800 || arm-linux-gcc -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_8 Run 8]
 |optc01 || 432259 || 77896 || 2656 || arm-linux-gcc -funsigned-char -funsigned-bitfields -fpack-struct -fshort-enums  -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_6 Run 6]
-|optc02 || 434621 || 76532 || 2544 || arm-linux-gcc -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_6 Run 6]
-|optc03 || 681233 || 78744 || 1260 || arm-linux-gcc -funsigned-char -funsigned-bitfields -fpack-struct -fshort-enums  -O0 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_6 Run 6]
+|optc02 || 433744 || 76532 || 2544 || arm-linux-gcc -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_8 Run 8]
+|sphlib || 472568 || 29048 || 2016 || arm-linux-gcc -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_8 Run 8]
+|optc03 || 660375 || 77236 || 1276 || arm-linux-gcc -O0 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_8 Run 8]
