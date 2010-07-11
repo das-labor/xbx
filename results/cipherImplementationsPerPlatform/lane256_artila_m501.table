@@ -1,0 +1,2 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|c || 1382411 || 133840 || 616 || arm-linux-gcc -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_7 Run 7]

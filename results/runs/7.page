@@ -1,0 +1,23 @@
+
+== Run 7 ==
+
+ * Date: 20100710
+ * Hostname: toad
+ * Platform: artila_m501
+ * XBX Version 1.3.0
+ * XBH Revision 00970
+ * Bootloader Revision 00984
+
+
+
+[wiki:runs_7#MeasureResults Measure Results] - [wiki:runs_7#TryResults Try Results] - [wiki:runs_7#DriftMeasurements Drift Measurements]
+
+=== Measure Results ===
+[[SortCSVsourceTable(source:page/trunk/results/measuresByRun/7.table)]]
+
+=== Try Results ===
+[[SortCSVsourceTable(source:page/trunk/results/triesByRun/7.table)]]
+
+=== Drift Measurements ===
+[[SortCSVsourceTable(source:page/trunk/results/driftByRun/7.table)]]
+  

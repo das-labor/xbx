@@ -1,0 +1,5 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|generic_opt32 || 419546 || 23270 || 4888 || arm-linux-gcc -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_8 Run 8]
+|powerpc_pp32cv1 || 683550 || 20900 || 792 || arm-linux-gcc -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_7 Run 7]
+|powerpc_pp32cv2 || 813150 || 35480 || 1036 || arm-linux-gcc -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_8 Run 8]
+|generic_opt64 || 2492955 || 29908 || 5204 || arm-linux-gcc -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_8 Run 8]

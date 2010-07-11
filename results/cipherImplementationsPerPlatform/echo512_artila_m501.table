@@ -1,0 +1,4 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|sphlib || 568114 || 33820 || 1116 || arm-linux-gcc -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_8 Run 8]
+|sphlib-small || 614633 || 8584 || 872 || arm-linux-gcc -Os -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_8 Run 8]
+|generic_opt64 || 3588997 || 31140 || 5204 || arm-linux-gcc -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_8 Run 8]

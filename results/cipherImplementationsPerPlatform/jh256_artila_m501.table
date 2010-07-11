@@ -1,0 +1,7 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|bitslice_opt32 || 543904 || 6684 || 328 || arm-linux-gcc -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_7 Run 7]
+|bitslice_ref32 || 595103 || 4284 || 388 || arm-linux-gcc -Os -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_7 Run 7]
+|sphlib-small || 695633 || 8964 || 644 || arm-linux-gcc -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_7 Run 7]
+|bitslice_opt64 || 913972 || 13764 || 888 || arm-linux-gcc -Os -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_8 Run 8]
+|bitslice_ref64 || 1345421 || 7920 || 540 || arm-linux-gcc -Os -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_8 Run 8]
+|sphlib || 1419469 || 19796 || 648 || arm-linux-gcc -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_7 Run 7]

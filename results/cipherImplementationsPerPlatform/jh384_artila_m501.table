@@ -1,0 +1,5 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|bitslice_opt32 || 544016 || 6684 || 344 || arm-linux-gcc -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_7 Run 7]
+|bitslice_ref32 || 595114 || 4284 || 404 || arm-linux-gcc -Os -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_7 Run 7]
+|bitslice_opt64 || 942480 || 13764 || 904 || arm-linux-gcc -Os -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_7 Run 7]
+|bitslice_ref64 || 1328963 || 7920 || 556 || arm-linux-gcc -Os -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_7 Run 7]

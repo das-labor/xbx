@@ -1,0 +1,3 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|sphlib || 286527 || 47664 || 932 || arm-elf-gcc -Wl,--entry,ResetISR -Wl,-T,XBD AF ld -mthumb -mcpu=cortex-m3 -MD -std=c99 -DPART LM3S811 -Dgcc -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections -lc -lgcc -O3 || 4.3.2 (GCC) || [wiki:runs_10 Run 10]
+|sphlib-small || 314325 || 7644 || 932 || arm-elf-gcc -Wl,--entry,ResetISR -Wl,-T,XBD AF ld -mthumb -mcpu=cortex-m3 -MD -std=c99 -DPART LM3S811 -Dgcc -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections -lc -lgcc -O3 || 4.3.2 (GCC) || [wiki:runs_10 Run 10]
