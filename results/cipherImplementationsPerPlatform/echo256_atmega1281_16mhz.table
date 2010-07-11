@@ -1,2 +1,4 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
 |avrcryptolib || 1963585 || 3534 || 704 || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || [wiki:runs_4 Run 4]
+|sphlib || 2060680 || 45500 || 5303 || avr-gcc atmega1281 Os || 4.3.4 (GCC) || [wiki:runs_9 Run 9]
+|sphlib-small || 2068302 || 21166 || 5136 || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || [wiki:runs_9 Run 9]

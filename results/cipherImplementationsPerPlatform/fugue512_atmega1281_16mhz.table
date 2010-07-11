@@ -1,2 +1,3 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|sphlib || 2645562 || 50946 || 5421 || avr-gcc atmega1281 O1 || 4.3.4 (GCC) || [wiki:runs_9 Run 9]
 |ref-xbx || 7945720 || 54730 || 3821 || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || [wiki:runs_2 Run 2]
