@@ -1,0 +1,2 @@
+| '''Cipher''' || '''Implementation''' || '''Empty Message''' || '''1 byte''' || '''32 bytes''' || '''512 bytes''' || '''1024 bytes''' || '''2048 bytes''' || '''Long Messages''' || '''Details''' 
+|[wiki:ciphers_hamsi512 hamsi512] || sphlib-small || 41596 || 42427 || 2328 || 993 || 939 || 917 || 895 || [wiki:measureDetailsPage_12_hamsi512_sphlib-small Details]

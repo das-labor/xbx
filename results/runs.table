@@ -1,4 +1,7 @@
 | '''ID''' || '''Date''' || '''Platform''' || '''Hostname''' || '''Version''' || '''XBH Revision''' || '''Bootloader Revision''' || '''Details''' 
+|13 || 20100712 || nslu2-openwrt || knulp || 2.0.0 || 01013 || 01014 || [wiki:runs_13 Run 13]
+|12 || 20100712 || nslu2-openwrt || knulp || 2.0.0 || 01013 || 01014 || [wiki:runs_12 Run 12]
+|11 || 20100712 || nslu2-openwrt || knulp || 2.0.0 || 01013 || 01014 || [wiki:runs_11 Run 11]
 |10 || 20100708 || lm3s811-evb || blix || 1.3.0 || 00904 || 00909 || [wiki:runs_10 Run 10]
 |9 || 20100708 || atmega1281_16mhz || blix || 1.3.0 || 00934 || 00900 || [wiki:runs_9 Run 9]
 |8 || 20100711 || artila_m501 || toad || 1.3.0 || 00970 || 00984 || [wiki:runs_8 Run 8]

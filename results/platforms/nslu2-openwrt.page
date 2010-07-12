@@ -1,0 +1,20 @@
+
+== Platform nslu2-openwrt ==
+[wiki:sha3platforms_nslu2-openwrt Show only SHA3 round 2 candidates]
+
+
+
+
+[wiki:platforms_nslu2-openwrt#FastestAlgorithms FastestAlgorithms] - [wiki:platforms_nslu2-openwrt#SmallestAlgorithmsROM Smallest Algorithms (ROM)] - [wiki:platforms_nslu2-openwrt#SmallestAlgorithmsRAM Smallest Algorithms (RAM)]
+
+=== Fastest Algorithms ===
+
+[[SortCSVsourceTable(source:page/trunk/results/fastestPerPlatform/nslu2-openwrt.table)]]
+
+=== Smallest Algorithms (ROM) ===
+
+[[SortCSVsourceTable(source:page/trunk/results/smallestRomPerPlatform/nslu2-openwrt.table)]]
+
+=== Smallest Algorithms (RAM) ===
+
+[[SortCSVsourceTable(source:page/trunk/results/smallestRamPerPlatform/nslu2-openwrt.table)]]
