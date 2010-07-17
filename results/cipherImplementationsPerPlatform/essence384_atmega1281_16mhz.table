@@ -1,2 +1,2 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|gcc || 25084880 || 77744 || 4759 || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || [wiki:runs_4 Run 4]
+|gcc || 25084880 || 77744 || 4759 || [wiki:compilernames avr-gcc atmega1281 O2] || 4.3.4 (GCC) || [wiki:runs_4 Run 4]

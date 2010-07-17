@@ -1,4 +1,4 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|unrolled || 67723341 || 11230 || 556 || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || [wiki:runs_2 Run 2]
-|simple || 87292944 || 41148 || 992 || avr-gcc atmega1291 O3 || 4.3.4 (GCC) || [wiki:runs_2 Run 2]
-|spec || 96949637 || 5294 || 668 || avr-gcc atmega1281 O2 || 4.3.4 (GCC) || [wiki:runs_5 Run 5]
+|unrolled || 67723341 || 11230 || 556 || [wiki:compilernames avr-gcc atmega1291 O3] || 4.3.4 (GCC) || [wiki:runs_2 Run 2]
+|simple || 87292944 || 41148 || 992 || [wiki:compilernames avr-gcc atmega1291 O3] || 4.3.4 (GCC) || [wiki:runs_2 Run 2]
+|spec || 96949637 || 5294 || 668 || [wiki:compilernames avr-gcc atmega1281 O2] || 4.3.4 (GCC) || [wiki:runs_5 Run 5]
