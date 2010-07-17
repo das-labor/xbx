@@ -1,0 +1,6 @@
+| '''Shortname''' || '''Compiler''' 
+|avr-gcc atmega1281 Os || avr-gcc -funsigned-char -funsigned-bitfields -fpack-struct -fshort-enums  -mmcu=atmega1281 -DF CPU=16000000L -ffunction-sections -fdata-sections -Wl,-gc-sections -Os
+|avr-gcc atmega1281 O0 || avr-gcc -funsigned-char -funsigned-bitfields -fpack-struct -fshort-enums  -mmcu=atmega1281 -DF CPU=16000000L -ffunction-sections -fdata-sections -Wl,-gc-sections -O0
+|avr-gcc atmega1281 O1 || avr-gcc -funsigned-char -funsigned-bitfields -fpack-struct -fshort-enums  -mmcu=atmega1281 -DF CPU=16000000L -ffunction-sections -fdata-sections -Wl,-gc-sections -O1
+|avr-gcc atmega1281 O2 || avr-gcc -funsigned-char -funsigned-bitfields -fpack-struct -fshort-enums  -mmcu=atmega1281 -DF CPU=16000000L -ffunction-sections -fdata-sections -Wl,-gc-sections -O2
+|avr-gcc atmega1291 O3 || avr-gcc -funsigned-char -funsigned-bitfields -fpack-struct -fshort-enums  -mmcu=atmega1281 -DF CPU=16000000L -ffunction-sections -fdata-sections -Wl,-gc-sections -O3

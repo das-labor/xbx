@@ -1,0 +1,5 @@
+
+== Implementations of [wiki:ciphers_simd512 simd512] on Platform [wiki:platforms_nslu2-openwrt nslu2-openwrt] ==
+
+[[SortCSVsourceTable(source:page/trunk/results/cipherImplementationsPerPlatform/simd512_nslu2-openwrt.table)]]
+

@@ -1,4 +1,7 @@
 | '''ID''' || '''Date''' || '''Platform''' || '''Hostname''' || '''Version''' || '''XBH Revision''' || '''Bootloader Revision''' || '''Details''' 
+|16 || 20100713 || nslu2-openwrt || knulp || 2.0.0 || 01013 || 01014 || [wiki:runs_16 Run 16]
+|15 || 20100713 || nslu2-openwrt || knulp || 2.0.0 || 01013 || 01014 || [wiki:runs_15 Run 15]
+|14 || 20100713 || nslu2-openwrt || knulp || 2.0.0 || 01013 || 01014 || [wiki:runs_14 Run 14]
 |13 || 20100712 || nslu2-openwrt || knulp || 2.0.0 || 01013 || 01014 || [wiki:runs_13 Run 13]
 |12 || 20100712 || nslu2-openwrt || knulp || 2.0.0 || 01013 || 01014 || [wiki:runs_12 Run 12]
 |11 || 20100712 || nslu2-openwrt || knulp || 2.0.0 || 01013 || 01014 || [wiki:runs_11 Run 11]
