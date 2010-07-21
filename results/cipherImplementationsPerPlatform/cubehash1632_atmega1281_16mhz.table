@@ -1,6 +1,6 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|sphlib-small || 9840582 || 40126 || 406 || [wiki:compilernames avr-gcc atmega1281 Os] || 4.3.4 (GCC) || [wiki:runs_9 Run 9]
-|unrolled || 12317680 || 10972 || 558 || [wiki:compilernames avr-gcc atmega1291 O3] || 4.3.4 (GCC) || [wiki:runs_5 Run 5]
-|avrcryptolib || 12413599 || 2106 || 253 || [wiki:compilernames avr-gcc atmega1281 O2] || 4.3.4 (GCC) || [wiki:runs_5 Run 5]
-|simple || 15597146 || 41150 || 992 || [wiki:compilernames avr-gcc atmega1291 O3] || 4.3.4 (GCC) || [wiki:runs_2 Run 2]
-|spec || 31596501 || 5298 || 668 || [wiki:compilernames avr-gcc atmega1281 O2] || 4.3.4 (GCC) || [wiki:runs_1 Run 1]
+|[wiki:platformsimplementations_atmega1281_16mhz_cubehash1632_sphlib-small sphlib-small] || 9840582 || 40126 || 406 || [wiki:compilernames avr-gcc atmega1281 Os] || 4.3.4 (GCC) || [wiki:runs_9 Run 9]
+|[wiki:platformsimplementations_atmega1281_16mhz_cubehash1632_unrolled unrolled] || 12317680 || 10972 || 558 || [wiki:compilernames avr-gcc atmega1291 O3] || 4.3.4 (GCC) || [wiki:runs_5 Run 5]
+|[wiki:platformsimplementations_atmega1281_16mhz_cubehash1632_avrcryptolib avrcryptolib] || 12413599 || 2106 || 253 || [wiki:compilernames avr-gcc atmega1281 O2] || 4.3.4 (GCC) || [wiki:runs_5 Run 5]
+|[wiki:platformsimplementations_atmega1281_16mhz_cubehash1632_simple simple] || 15597146 || 41150 || 992 || [wiki:compilernames avr-gcc atmega1291 O3] || 4.3.4 (GCC) || [wiki:runs_2 Run 2]
+|[wiki:platformsimplementations_atmega1281_16mhz_cubehash1632_spec spec] || 31596501 || 5298 || 668 || [wiki:compilernames avr-gcc atmega1281 O2] || 4.3.4 (GCC) || [wiki:runs_1 Run 1]

@@ -1,2 +1,2 @@
 | '''Cipher''' || '''Implementation''' || '''Empty Message''' || '''8 byte''' || '''64 bytes''' || '''512 bytes''' || '''1024 bytes''' || '''2048 bytes''' || '''Long Messages''' || '''Details''' 
-|[wiki:ciphers_hamsi512 hamsi512] || sphlib || 92784 || 15551 || 2335 || 1006 || 898 || 853 || 808 || [wiki:measureDetailsPage_13_hamsi512_sphlib Details]
+|[wiki:ciphers_hamsi512 hamsi512] || [wiki:platformsimplementations_nslu2-openwrt_hamsi512_sphlib sphlib] || 92784 || 15551 || 2335 || 1006 || 898 || 853 || 808 || [wiki:measureDetailsPage_13_hamsi512_sphlib Details]

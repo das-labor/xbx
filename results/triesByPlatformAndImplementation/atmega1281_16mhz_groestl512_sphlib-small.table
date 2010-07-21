@@ -1,0 +1,6 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20100708 || blix || [wiki:compilernames avr-gcc atmega1281 O0] || 4.3.4 (GCC) || 180952862 || 8239834 || 32634 (52280) || 4208 (4782) || 32 (4782) || 882(890) || Checksum failed || [wiki:runs_9 Run 9]
+|20100708 || blix || [wiki:compilernames avr-gcc atmega1281 O1] || 4.3.4 (GCC) || 115778076 || 6827220 || 22816 (31786) || 4208 (4526) || 32 (4526) || 1181(1181) || Checksum OK || [wiki:runs_9 Run 9]
+|20100708 || blix || [wiki:compilernames avr-gcc atmega1281 O2] || 4.3.4 (GCC) || 100328546 || 5915178 || 19942 (27974) || 4208 (4526) || 32 (4526) || 1185(1185) || Checksum OK || [wiki:runs_9 Run 9]
+|20100708 || blix || [wiki:compilernames avr-gcc atmega1291 O3] || 4.3.4 (GCC) || 100193600 || 5914132 || 20844 (28790) || 4208 (4526) || 32 (4526) || 1185(1185) || Checksum OK || [wiki:runs_9 Run 9]
+|20100708 || blix || [wiki:compilernames avr-gcc atmega1281 Os] || 4.3.4 (GCC) || 98989812 || 5825282 || 19286 (26840) || 4208 (4526) || 32 (4526) || 1185(1185) || Checksum OK || [wiki:runs_9 Run 9]

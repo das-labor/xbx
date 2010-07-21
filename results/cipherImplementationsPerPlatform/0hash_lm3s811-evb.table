@@ -1,2 +1,2 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|empty || 36 || 0 || 0 || arm-elf-gcc -Wl,--entry,ResetISR -Wl,-T,XBD AF ld -mthumb -mcpu=cortex-m3 -MD -std=c99 -DPART LM3S811 -Dgcc -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections -lc -lgcc -Os || 4.3.2 (GCC) || [wiki:runs_10 Run 10]
+|[wiki:platformsimplementations_lm3s811-evb_0hash_empty empty] || 36 || 0 || 0 || arm-elf-gcc -Wl,--entry,ResetISR -Wl,-T,XBD AF ld -mthumb -mcpu=cortex-m3 -MD -std=c99 -DPART LM3S811 -Dgcc -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections -lc -lgcc -Os || 4.3.2 (GCC) || [wiki:runs_10 Run 10]

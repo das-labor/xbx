@@ -1,0 +1,11 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20100627 || blix || [wiki:compilernames avr-gcc atmega1281 O0] || 4.3.4 (GCC) || 828224597 || 79447519 || 14156 (33722) || 0 (574) || 32 (574) || 456(464) || Checksum OK || [wiki:runs_2 Run 2]
+|20100708 || blix || [wiki:compilernames avr-gcc atmega1281 O0] || 4.3.4 (GCC) || 828225031 || 79447563 || 14156 (33802) || 0 (574) || 32 (574) || 456(464) || Checksum OK || [wiki:runs_9 Run 9]
+|20100627 || blix || [wiki:compilernames avr-gcc atmega1281 O1] || 4.3.4 (GCC) || 674943666 || 68081420 || 11716 (20650) || 0 (318) || 32 (318) || 587(587) || Checksum OK || [wiki:runs_2 Run 2]
+|20100708 || blix || [wiki:compilernames avr-gcc atmega1281 O1] || 4.3.4 (GCC) || 674944022 || 68081454 || 11716 (20686) || 0 (318) || 32 (318) || 587(587) || Checksum OK || [wiki:runs_9 Run 9]
+|20100627 || blix || [wiki:compilernames avr-gcc atmega1281 O2] || 4.3.4 (GCC) || 659644716 || 66748388 || 11200 (19196) || 0 (318) || 32 (318) || 523(523) || Checksum OK || [wiki:runs_2 Run 2]
+|20100708 || blix || [wiki:compilernames avr-gcc atmega1281 O2] || 4.3.4 (GCC) || 659645040 || 66748422 || 11200 (19232) || 0 (318) || 32 (318) || 524(524) || Checksum OK || [wiki:runs_9 Run 9]
+|20100627 || blix || [wiki:compilernames avr-gcc atmega1291 O3] || 4.3.4 (GCC) || 658947955 || 66681769 || 11230 (19140) || 0 (318) || 32 (318) || 524(524) || Checksum OK || [wiki:runs_2 Run 2]
+|20100708 || blix || [wiki:compilernames avr-gcc atmega1291 O3] || 4.3.4 (GCC) || 658948293 || 66681802 || 11230 (19176) || 0 (318) || 32 (318) || 524(524) || Checksum OK || [wiki:runs_9 Run 9]
+|20100627 || blix || [wiki:compilernames avr-gcc atmega1281 Os] || 4.3.4 (GCC) || 692189564 || 70041789 || 9134 (16652) || 0 (318) || 32 (318) || 488(488) || Checksum OK || [wiki:runs_2 Run 2]
+|20100708 || blix || [wiki:compilernames avr-gcc atmega1281 Os] || 4.3.4 (GCC) || 692189866 || 70041820 || 9134 (16688) || 0 (318) || 32 (318) || 488(488) || Checksum OK || [wiki:runs_9 Run 9]

@@ -1,0 +1,9 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20100626 || hal || [wiki:compilernames avr-gcc atmega1281 O2] || 4.3.4 (GCC) ||  ||  || 104600 (112632) || 8192 (8510) || 0 (8510) || unk(unk) || error || [wiki:runs_1 Run 1]
+|20100629 || hal || [wiki:compilernames avr-gcc atmega1281 O2] || 4.3.4 (GCC) ||  ||  || 104600 (112632) || 8192 (8510) || 0 (8510) || unk(unk) || error || [wiki:runs_4 Run 4]
+|20100630 || hal || [wiki:compilernames avr-gcc atmega1281 O2] || 4.3.4 (GCC) ||  ||  || 104600 (112632) || 8192 (8510) || 0 (8510) || unk(unk) || error || [wiki:runs_5 Run 5]
+|20100626 || hal || [wiki:compilernames avr-gcc atmega1281 Os] || 4.3.4 (GCC) ||  ||  || 103838 (111356) || 8192 (8510) || 0 (8510) || unk(unk) || error || [wiki:runs_1 Run 1]
+|20100627 || blix || [wiki:compilernames avr-gcc atmega1281 Os] || 4.3.4 (GCC) ||  ||  || 103838 (111356) || 8192 (8510) || 0 (8510) || unk(unk) || error || [wiki:runs_2 Run 2]
+|20100629 || hal || [wiki:compilernames avr-gcc atmega1281 Os] || 4.3.4 (GCC) ||  ||  || 103838 (111356) || 8192 (8510) || 0 (8510) || unk(unk) || error || [wiki:runs_4 Run 4]
+|20100630 || hal || [wiki:compilernames avr-gcc atmega1281 Os] || 4.3.4 (GCC) ||  ||  || 103838 (111356) || 8192 (8510) || 0 (8510) || unk(unk) || error || [wiki:runs_5 Run 5]
+|20100708 || blix || [wiki:compilernames avr-gcc atmega1281 Os] || 4.3.4 (GCC) ||  ||  || 103838 (111392) || 8192 (8510) || 0 (8510) || unk(unk) || error || [wiki:runs_9 Run 9]

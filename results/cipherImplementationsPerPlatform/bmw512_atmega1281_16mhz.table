@@ -1,4 +1,4 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|avrcryptolib || 5323150 || 17896 || 1140 || [wiki:compilernames avr-gcc atmega1281 O2] || 4.3.4 (GCC) || [wiki:runs_4 Run 4]
-|sphlib-small || 5383751 || 84518 || 2290 || [wiki:compilernames avr-gcc atmega1281 Os] || 4.3.4 (GCC) || [wiki:runs_9 Run 9]
-|ref || 5589418 || 104268 || 2462 || [wiki:compilernames avr-gcc atmega1281 Os] || 4.3.4 (GCC) || [wiki:runs_4 Run 4]
+|[wiki:platformsimplementations_atmega1281_16mhz_bmw512_avrcryptolib avrcryptolib] || 5323150 || 17896 || 1140 || [wiki:compilernames avr-gcc atmega1281 O2] || 4.3.4 (GCC) || [wiki:runs_4 Run 4]
+|[wiki:platformsimplementations_atmega1281_16mhz_bmw512_sphlib-small sphlib-small] || 5383751 || 84518 || 2290 || [wiki:compilernames avr-gcc atmega1281 Os] || 4.3.4 (GCC) || [wiki:runs_9 Run 9]
+|[wiki:platformsimplementations_atmega1281_16mhz_bmw512_ref ref] || 5589418 || 104268 || 2462 || [wiki:compilernames avr-gcc atmega1281 Os] || 4.3.4 (GCC) || [wiki:runs_4 Run 4]

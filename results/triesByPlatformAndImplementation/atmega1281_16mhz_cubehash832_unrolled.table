@@ -1,0 +1,11 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20100627 || blix || [wiki:compilernames avr-gcc atmega1281 O0] || 4.3.4 (GCC) || 354733394 || 8424467 || 14158 (33724) || 0 (574) || 32 (574) || 456(464) || Checksum OK || [wiki:runs_2 Run 2]
+|20100708 || blix || [wiki:compilernames avr-gcc atmega1281 O0] || 4.3.4 (GCC) || 354733506 || 8424469 || 14158 (33804) || 0 (574) || 32 (574) || 456(464) || Checksum OK || [wiki:runs_9 Run 9]
+|20100627 || blix || [wiki:compilernames avr-gcc atmega1281 O1] || 4.3.4 (GCC) || 267329352 || 6939873 || 11718 (20652) || 0 (318) || 32 (318) || 587(587) || Checksum OK || [wiki:runs_2 Run 2]
+|20100708 || blix || [wiki:compilernames avr-gcc atmega1281 O1] || 4.3.4 (GCC) || 267329440 || 6939876 || 11718 (20688) || 0 (318) || 32 (318) || 587(587) || Checksum OK || [wiki:runs_9 Run 9]
+|20100627 || blix || [wiki:compilernames avr-gcc atmega1281 O2] || 4.3.4 (GCC) || 259336349 || 6702777 || 11204 (19200) || 0 (318) || 32 (318) || 524(524) || Checksum OK || [wiki:runs_2 Run 2]
+|20100708 || blix || [wiki:compilernames avr-gcc atmega1281 O2] || 4.3.4 (GCC) || 259336441 || 6702779 || 11204 (19236) || 0 (318) || 32 (318) || 524(524) || Checksum OK || [wiki:runs_9 Run 9]
+|20100627 || blix || [wiki:compilernames avr-gcc atmega1291 O3] || 4.3.4 (GCC) || 259042800 || 6696637 || 11234 (19144) || 0 (318) || 32 (318) || 524(524) || Checksum OK || [wiki:runs_2 Run 2]
+|20100708 || blix || [wiki:compilernames avr-gcc atmega1291 O3] || 4.3.4 (GCC) || 259042889 || 6696639 || 11234 (19180) || 0 (318) || 32 (318) || 524(524) || Checksum OK || [wiki:runs_9 Run 9]
+|20100627 || blix || [wiki:compilernames avr-gcc atmega1281 Os] || 4.3.4 (GCC) || 275538286 || 7544965 || 9136 (16654) || 0 (318) || 32 (318) || 488(488) || Checksum OK || [wiki:runs_2 Run 2]
+|20100708 || blix || [wiki:compilernames avr-gcc atmega1281 Os] || 4.3.4 (GCC) || 275538368 || 7544967 || 9136 (16690) || 0 (318) || 32 (318) || 488(488) || Checksum OK || [wiki:runs_9 Run 9]
