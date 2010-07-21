@@ -1,4 +1,4 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|unrolled || 1952124 || 2356 || 460 || armeb-linux-uclibc-gcc -pipe -O3 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 4.1.2 || [wiki:runs_14 Run 14]
+|unrolled || 1935998 || 2356 || 460 || armeb-linux-uclibc-gcc -pipe -O3 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 4.1.2 || [wiki:runs_22 Run 22]
 |simple || 3083655 || 8060 || 928 || armeb-linux-uclibc-gcc -pipe -O3 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 4.1.2 || [wiki:runs_16 Run 16]
 |spec || 11516354 || 3016 || 680 || armeb-linux-uclibc-gcc -pipe -O3 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 4.1.2 || [wiki:runs_15 Run 15]

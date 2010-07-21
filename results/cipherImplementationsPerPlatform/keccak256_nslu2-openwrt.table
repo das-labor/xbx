@@ -1,3 +1,3 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
 |sphlib-small || 557918 || 17976 || 4072 || armeb-linux-uclibc-gcc -pipe -Os -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 4.1.2 || [wiki:runs_14 Run 14]
-|sphlib || 631351 || 26232 || 4988 || armeb-linux-uclibc-gcc -pipe -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 4.1.2 || [wiki:runs_15 Run 15]
+|sphlib || 631251 || 26232 || 4988 || armeb-linux-uclibc-gcc -pipe -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 4.1.2 || [wiki:runs_20 Run 20]

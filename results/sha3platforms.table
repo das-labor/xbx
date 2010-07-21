@@ -1,5 +1,5 @@
 | '''Platform''' || '''Number of Datasets''' 
-|[wiki:sha3platforms_artila_m501 artila_m501] || 3
+|[wiki:sha3platforms_artila_m501 artila_m501] || 5
 |[wiki:sha3platforms_atmega1281_16mhz atmega1281_16mhz] || 5
 |[wiki:sha3platforms_lm3s811-evb lm3s811-evb] || 2
-|[wiki:sha3platforms_nslu2-openwrt nslu2-openwrt] || 6
+|[wiki:sha3platforms_nslu2-openwrt nslu2-openwrt] || 11

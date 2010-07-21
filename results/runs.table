@@ -1,4 +1,11 @@
 | '''ID''' || '''Date''' || '''Platform''' || '''Hostname''' || '''Version''' || '''XBH Revision''' || '''Bootloader Revision''' || '''Details''' 
+|23 || 20100721 || nslu2-openwrt || knulp || 2.0.0 || 01085 || 01090 || [wiki:runs_23 Run 23]
+|22 || 20100721 || nslu2-openwrt || knulp || 2.0.0 || 01085 || 01090 || [wiki:runs_22 Run 22]
+|21 || 20100720 || nslu2-openwrt || knulp || 2.0.0 || 01085 || 01089 || [wiki:runs_21 Run 21]
+|20 || 20100720 || nslu2-openwrt || knulp || 2.0.0 || 01085 || 01089 || [wiki:runs_20 Run 20]
+|19 || 20100720 || nslu2-openwrt || knulp || 2.0.0 || 01085 || 01089 || [wiki:runs_19 Run 19]
+|18 || 20100720 || artila_m501 || toad || 2.0.0 || 01085 || 01065 || [wiki:runs_18 Run 18]
+|17 || 20100719 || artila_m501 || toad || 2.0.0 || 01085 || 01065 || [wiki:runs_17 Run 17]
 |16 || 20100713 || nslu2-openwrt || knulp || 2.0.0 || 01013 || 01014 || [wiki:runs_16 Run 16]
 |15 || 20100713 || nslu2-openwrt || knulp || 2.0.0 || 01013 || 01014 || [wiki:runs_15 Run 15]
 |14 || 20100713 || nslu2-openwrt || knulp || 2.0.0 || 01013 || 01014 || [wiki:runs_14 Run 14]

@@ -1,0 +1,23 @@
+
+== Run 20 ==
+
+ * Date: 20100720
+ * Hostname: knulp
+ * Platform: nslu2-openwrt
+ * XBX Version 2.0.0
+ * XBH Revision 01085
+ * Bootloader Revision 01089
+
+
+
+[wiki:runs_20#MeasureResults Measure Results] - [wiki:runs_20#TryResults Try Results] - [wiki:runs_20#DriftMeasurements Drift Measurements]
+
+=== Measure Results ===
+[[SortCSVsourceTable(source:page/trunk/results/measuresByRun/20.table)]]
+
+=== Try Results ===
+[[SortCSVsourceTable(source:page/trunk/results/triesByRun/20.table)]]
+
+=== Drift Measurements ===
+[[SortCSVsourceTable(source:page/trunk/results/driftByRun/20.table)]]
+  
