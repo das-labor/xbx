@@ -1,5 +1,5 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:platformsimplementations_nslu2-openwrt_jh384_bitslice_opt32 bitslice_opt32] || 485866 || 8132 || 512 || armeb-linux-uclibc-gcc -pipe -Os -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 4.1.2 || [wiki:runs_14 Run 14]
-|[wiki:platformsimplementations_nslu2-openwrt_jh384_bitslice_ref32 bitslice_ref32] || 612731 || 5756 || 380 || armeb-linux-uclibc-gcc -pipe -Os -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 4.1.2 || [wiki:runs_16 Run 16]
-|[wiki:platformsimplementations_nslu2-openwrt_jh384_bitslice_opt64 bitslice_opt64] || 1171281 || 15304 || 1184 || armeb-linux-uclibc-gcc -pipe -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 4.1.2 || [wiki:runs_16 Run 16]
-|[wiki:platformsimplementations_nslu2-openwrt_jh384_bitslice_ref64 bitslice_ref64] || 1197549 || 8764 || 560 || armeb-linux-uclibc-gcc -pipe -Os -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 4.1.2 || [wiki:runs_14 Run 14]
+|[wiki:platformsimplementations_nslu2-openwrt_jh384_bitslice_opt32 bitslice_opt32] || 487279 || 8132 || 512 || [wiki:compilernames armeb-uclibc-gcc -Os] || 4.1.2 || [wiki:runs_17 Run 17]
+|[wiki:platformsimplementations_nslu2-openwrt_jh384_bitslice_ref32 bitslice_ref32] || 616339 || 5756 || 380 || [wiki:compilernames armeb-uclibc-gcc -Os] || 4.1.2 || [wiki:runs_17 Run 17]
+|[wiki:platformsimplementations_nslu2-openwrt_jh384_bitslice_opt64 bitslice_opt64] || 1173110 || 15304 || 1184 || [wiki:compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:runs_19 Run 19]
+|[wiki:platformsimplementations_nslu2-openwrt_jh384_bitslice_ref64 bitslice_ref64] || 1197565 || 8764 || 560 || [wiki:compilernames armeb-uclibc-gcc -Os] || 4.1.2 || [wiki:runs_17 Run 17]

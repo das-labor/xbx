@@ -1,0 +1,19 @@
+
+== Platform fritzbox-7170 (SHA3 Round 2 Only) ==
+[wiki:platforms_fritzbox-7170 Show all hash functions] 
+
+
+
+[wiki:sha3platforms_fritzbox-7170#FastestAlgorithms FastestAlgorithms] - [wiki:sha3platforms_fritzbox-7170#SmallestAlgorithmsROM Smallest Algorithms (ROM)] - [wiki:sha3platforms_fritzbox-7170#SmallestAlgorithmsRAM Smallest Algorithms (RAM)]
+
+=== Fastest Algorithms ===
+
+[[SortCSVsourceTable(source:page/trunk/results/fastestPerPlatform/sha3fritzbox-7170.table)]]
+
+=== Smallest Algorithms (ROM) ===
+
+[[SortCSVsourceTable(source:page/trunk/results/smallestRomPerPlatform/sha3fritzbox-7170.table)]]
+
+=== Smallest Algorithms (RAM) ===
+
+[[SortCSVsourceTable(source:page/trunk/results/smallestRamPerPlatform/sha3fritzbox-7170.table)]]

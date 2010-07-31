@@ -1,2 +1,2 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:platformsimplementations_artila_m501_0hash_empty empty] || 821 || 0 || 0 || arm-linux-gcc -Os -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_6 Run 6]
+|[wiki:platformsimplementations_artila_m501_0hash_empty empty] || 990 || 0 || 0 || [wiki:compilernames arm-artila-gcc -Os] || 3.3.2 || [wiki:runs_15 Run 15]

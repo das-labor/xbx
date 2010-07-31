@@ -1,2 +1,2 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:platformsimplementations_nslu2-openwrt_mcssha6_ref ref] || 226848 || 6416 || 628 || armeb-linux-uclibc-gcc -pipe -O3 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 4.1.2 || [wiki:runs_15 Run 15]
+|[wiki:platformsimplementations_nslu2-openwrt_mcssha6_ref ref] || 228627 || 6416 || 628 || [wiki:compilernames armeb-uclibc-gcc -O3] || 4.1.2 || [wiki:runs_17 Run 17]

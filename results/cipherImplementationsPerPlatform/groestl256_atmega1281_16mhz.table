@@ -1,4 +1,5 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:platformsimplementations_atmega1281_16mhz_groestl256_opt32-avr opt32-avr] || 2146340 || 24596 || 487 || [wiki:compilernames avr-gcc atmega1281 Os] || 4.3.4 (GCC) || [wiki:runs_4 Run 4]
-|[wiki:platformsimplementations_atmega1281_16mhz_groestl256_avrcryptolib avrcryptolib] || 11309502 || 3484 || 429 || [wiki:compilernames avr-gcc atmega1291 O3] || 4.3.4 (GCC) || [wiki:runs_4 Run 4]
-|[wiki:platformsimplementations_atmega1281_16mhz_groestl256_ref-xbx ref-xbx] || 17367025 || 11492 || 1369 || [wiki:compilernames avr-gcc atmega1291 O3] || 4.3.4 (GCC) || [wiki:runs_5 Run 5]
+|[wiki:platformsimplementations_atmega1281_16mhz_groestl256_opt32-avr opt32-avr] || 2147656 || 24596 || 487 || [wiki:compilernames avr-gcc -Os] || 4.3.4 (GCC) || [wiki:runs_4 Run 4]
+|[wiki:platformsimplementations_atmega1281_16mhz_groestl256_avrcryptolib avrcryptolib] || 11316435 || 3484 || 429 || [wiki:compilernames avr-gcc -O3] || 4.3.4 (GCC) || [wiki:runs_4 Run 4]
+|[wiki:platformsimplementations_atmega1281_16mhz_groestl256_armcryptolib armcryptolib] || 12325700 || 3048 || 664 || [wiki:compilernames avr-gcc -O3] || 4.3.4 (GCC) || [wiki:runs_4 Run 4]
+|[wiki:platformsimplementations_atmega1281_16mhz_groestl256_ref-xbx ref-xbx] || 17376578 || 11712 || 1369 || [wiki:compilernames avr-gcc -O3] || 4.3.4 (GCC) || [wiki:runs_2 Run 2]

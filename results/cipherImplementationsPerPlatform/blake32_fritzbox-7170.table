@@ -1,0 +1,5 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:platformsimplementations_fritzbox-7170_blake32_sphlib-small sphlib-small] || 123649 || 5938 || 568 || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:runs_11 Run 11]
+|[wiki:platformsimplementations_fritzbox-7170_blake32_sphlib sphlib] || 126803 || 12652 || 664 || [wiki:compilernames mips-uclib-gcc -O2] || 4.2.1 || [wiki:runs_12 Run 12]
+|[wiki:platformsimplementations_fritzbox-7170_blake32_light light] || 137615 || 4808 || 484 || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:runs_11 Run 11]
+|[wiki:platformsimplementations_fritzbox-7170_blake32_armcryptolib armcryptolib] || 185010 || 3170 || 348 || [wiki:compilernames mips-uclib-gcc -O2] || 4.2.1 || [wiki:runs_9 Run 9]

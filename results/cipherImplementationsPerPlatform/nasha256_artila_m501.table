@@ -1,3 +1,3 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:platformsimplementations_artila_m501_nasha256_opt_v4 opt_v4] || 111701 || 42380 || 131984 || arm-linux-gcc -Os -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_8 Run 8]
-|[wiki:platformsimplementations_artila_m501_nasha256_opt opt] || 127271 || 12908 || 1064 || arm-linux-gcc -Os -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_8 Run 8]
+|[wiki:platformsimplementations_artila_m501_nasha256_opt_v4 opt_v4] || 112163 || 45780 || 131956 || [wiki:compilernames arm-artila-gcc -O3] || 3.3.2 || [wiki:runs_16 Run 16]
+|[wiki:platformsimplementations_artila_m501_nasha256_opt opt] || 127035 || 12908 || 1064 || [wiki:compilernames arm-artila-gcc -Os] || 3.3.2 || [wiki:runs_16 Run 16]

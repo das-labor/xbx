@@ -1,0 +1,4 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:platformsimplementations_fritzbox-7170_shabal512_sphlib sphlib] || 123941 || 20566 || 1168 || [wiki:compilernames mips-uclib-gcc -O3] || 4.2.1 || [wiki:runs_12 Run 12]
+|[wiki:platformsimplementations_fritzbox-7170_shabal512_ref ref] || 130075 || 19330 || 1448 || [wiki:compilernames mips-uclib-gcc -Os] || 4.2.1 || [wiki:runs_11 Run 11]
+|[wiki:platformsimplementations_fritzbox-7170_shabal512_armcryptolib armcryptolib] || 168328 || 4107 || 540 || [wiki:compilernames mips-uclib-gcc -O3] || 4.2.1 || [wiki:runs_12 Run 12]

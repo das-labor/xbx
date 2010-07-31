@@ -1,0 +1,7 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:platformsimplementations_fritzbox-7170_cubehash1632_sphlib-small sphlib-small] || 357512 || 11939 || 752 || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:runs_9 Run 9]
+|[wiki:platformsimplementations_fritzbox-7170_cubehash1632_unrolled unrolled] || 459351 || 3497 || 472 || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:runs_12 Run 12]
+|[wiki:platformsimplementations_fritzbox-7170_cubehash1632_sphlib sphlib] || 484672 || 34385 || 1452 || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:runs_12 Run 12]
+|[wiki:platformsimplementations_fritzbox-7170_cubehash1632_armcryptolib armcryptolib] || 606347 || 12164 || 1088 || [wiki:compilernames mips-uclib-gcc -O3] || 4.2.1 || [wiki:runs_10 Run 10]
+|[wiki:platformsimplementations_fritzbox-7170_cubehash1632_simple simple] || 709630 || 10380 || 1120 || [wiki:compilernames mips-uclib-gcc -O3] || 4.2.1 || [wiki:runs_11 Run 11]
+|[wiki:platformsimplementations_fritzbox-7170_cubehash1632_spec spec] || 2296000 || 3205 || 704 || [wiki:compilernames mips-uclib-gcc -O2] || 4.2.1 || [wiki:runs_11 Run 11]

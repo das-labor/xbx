@@ -1,0 +1,5 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:platformsimplementations_fritzbox-7170_keccakc512_opt32u2 opt32u2] || 309441 || 30701 || 263480 || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:runs_11 Run 11]
+|[wiki:platformsimplementations_fritzbox-7170_keccakc512_opt32u6 opt32u6] || 459629 || 57917 || 264144 || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:runs_11 Run 11]
+|[wiki:platformsimplementations_fritzbox-7170_keccakc512_opt64u6 opt64u6] || 2902717 || 80161 || 3244 || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:runs_11 Run 11]
+|[wiki:platformsimplementations_fritzbox-7170_keccakc512_opt64u24 opt64u24] || 3453692 || 281394 || 7252 || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:runs_12 Run 12]

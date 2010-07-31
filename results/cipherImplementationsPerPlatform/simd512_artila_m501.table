@@ -1,3 +1,3 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:platformsimplementations_artila_m501_simd512_opt opt] || 576911 || 22918 || 1804 || arm-linux-gcc -O3 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_17 Run 17]
-|[wiki:platformsimplementations_artila_m501_simd512_ref ref] || 15678135 || 9738 || 3476 || arm-linux-gcc -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_7 Run 7]
+|[wiki:platformsimplementations_artila_m501_simd512_opt opt] || 574751 || 21174 || 1804 || [wiki:compilernames arm-artila-gcc -O2] || 3.3.2 || [wiki:runs_16 Run 16]
+|[wiki:platformsimplementations_artila_m501_simd512_ref ref] || 14245628 || 9834 || 3512 || [wiki:compilernames arm-artila-gcc -O2] || 3.3.2 || [wiki:runs_16 Run 16]

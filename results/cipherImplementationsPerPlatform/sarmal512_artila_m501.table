@@ -1,2 +1,2 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:platformsimplementations_artila_m501_sarmal512_opt64 opt64] || 818978 || 79656 || 17632 || arm-linux-gcc -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_8 Run 8]
+|[wiki:platformsimplementations_artila_m501_sarmal512_opt64 opt64] || 819259 || 79656 || 17632 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_16 Run 16]

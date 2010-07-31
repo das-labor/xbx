@@ -1,0 +1,2 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:platformsimplementations_fritzbox-7170_lane256_c c] || 2663131 || 146147 || 688 || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:runs_12 Run 12]

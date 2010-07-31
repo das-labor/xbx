@@ -1,0 +1,2 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:platformsimplementations_atmega1281_16mhz_luffa512_sphlib sphlib] || 7658056 || 46948 || 1476 || [wiki:compilernames avr-gcc -O3] || 4.3.4 (GCC) || [wiki:runs_4 Run 4]

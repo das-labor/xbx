@@ -1,2 +1,2 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:platformsimplementations_artila_m501_essence224_gcc gcc] || 5085720 || 50680 || 6980 || arm-linux-gcc -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_8 Run 8]
+|[wiki:platformsimplementations_artila_m501_essence224_gcc gcc] || 5136390 || 50680 || 6980 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_15 Run 15]

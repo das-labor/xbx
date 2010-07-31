@@ -1,0 +1,4 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:platformsimplementations_fritzbox-7170_fugue256_sphlib sphlib] || 237877 || 17134 || 888 || [wiki:compilernames mips-uclib-gcc -Os] || 4.2.1 || [wiki:runs_12 Run 12]
+|[wiki:platformsimplementations_fritzbox-7170_fugue256_ANSI_opt32 ANSI_opt32] || 266656 || 65172 || 220 || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:runs_10 Run 10]
+|[wiki:platformsimplementations_fritzbox-7170_fugue256_ANSI_opt64 ANSI_opt64] || 1749967 || 104296 || 2144 || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:runs_9 Run 9]

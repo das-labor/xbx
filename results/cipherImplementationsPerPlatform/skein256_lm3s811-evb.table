@@ -1,3 +1,4 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:platformsimplementations_lm3s811-evb_skein256_sphlib-small sphlib-small] || 221582 || 20276 || 892 || arm-elf-gcc -Wl,--entry,ResetISR -Wl,-T,XBD AF ld -mthumb -mcpu=cortex-m3 -MD -std=c99 -DPART LM3S811 -Dgcc -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections -lc -lgcc -O1 || 4.3.2 (GCC) || [wiki:runs_10 Run 10]
-|[wiki:platformsimplementations_lm3s811-evb_skein256_sphlib sphlib] || 226615 || 32364 || 892 || arm-elf-gcc -Wl,--entry,ResetISR -Wl,-T,XBD AF ld -mthumb -mcpu=cortex-m3 -MD -std=c99 -DPART LM3S811 -Dgcc -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections -lc -lgcc -O1 || 4.3.2 (GCC) || [wiki:runs_10 Run 10]
+|[wiki:platformsimplementations_lm3s811-evb_skein256_sphlib-small sphlib-small] || 223898 || 21424 || 888 || [wiki:compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:runs_8 Run 8]
+|[wiki:platformsimplementations_lm3s811-evb_skein256_sphlib sphlib] || 226441 || 32364 || 3400 || [wiki:compilernames arm-elf-gcc -O1] || 4.3.2 (GCC) || [wiki:runs_8 Run 8]
+|[wiki:platformsimplementations_lm3s811-evb_skein256_armcryptolib armcryptolib] || 746806 || 2020 || 520 || [wiki:compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:runs_8 Run 8]

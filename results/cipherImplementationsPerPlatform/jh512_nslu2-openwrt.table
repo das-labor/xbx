@@ -1,7 +1,7 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:platformsimplementations_nslu2-openwrt_jh512_bitslice_opt32 bitslice_opt32] || 485284 || 6576 || 524 || armeb-linux-uclibc-gcc -pipe -Os -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 4.1.2 || [wiki:runs_16 Run 16]
-|[wiki:platformsimplementations_nslu2-openwrt_jh512_bitslice_ref32 bitslice_ref32] || 613113 || 4200 || 392 || armeb-linux-uclibc-gcc -pipe -Os -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 4.1.2 || [wiki:runs_16 Run 16]
-|[wiki:platformsimplementations_nslu2-openwrt_jh512_sphlib-small sphlib-small] || 661442 || 8308 || 924 || armeb-linux-uclibc-gcc -pipe -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 4.1.2 || [wiki:runs_15 Run 15]
-|[wiki:platformsimplementations_nslu2-openwrt_jh512_sphlib sphlib] || 683271 || 18280 || 3100 || armeb-linux-uclibc-gcc -pipe -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 4.1.2 || [wiki:runs_16 Run 16]
-|[wiki:platformsimplementations_nslu2-openwrt_jh512_bitslice_opt64 bitslice_opt64] || 1170965 || 13752 || 1196 || armeb-linux-uclibc-gcc -pipe -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 4.1.2 || [wiki:runs_14 Run 14]
-|[wiki:platformsimplementations_nslu2-openwrt_jh512_bitslice_ref64 bitslice_ref64] || 1187258 || 7468 || 576 || armeb-linux-uclibc-gcc -pipe -Os -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 4.1.2 || [wiki:runs_20 Run 20]
+|[wiki:platformsimplementations_nslu2-openwrt_jh512_bitslice_opt32 bitslice_opt32] || 487212 || 6576 || 524 || [wiki:compilernames armeb-uclibc-gcc -Os] || 4.1.2 || [wiki:runs_20 Run 20]
+|[wiki:platformsimplementations_nslu2-openwrt_jh512_bitslice_ref32 bitslice_ref32] || 616305 || 4200 || 392 || [wiki:compilernames armeb-uclibc-gcc -Os] || 4.1.2 || [wiki:runs_20 Run 20]
+|[wiki:platformsimplementations_nslu2-openwrt_jh512_sphlib-small sphlib-small] || 662224 || 8308 || 924 || [wiki:compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:runs_19 Run 19]
+|[wiki:platformsimplementations_nslu2-openwrt_jh512_sphlib sphlib] || 685632 || 18280 || 3100 || [wiki:compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:runs_17 Run 17]
+|[wiki:platformsimplementations_nslu2-openwrt_jh512_bitslice_opt64 bitslice_opt64] || 1173293 || 13752 || 1196 || [wiki:compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:runs_17 Run 17]
+|[wiki:platformsimplementations_nslu2-openwrt_jh512_bitslice_ref64 bitslice_ref64] || 1192628 || 7468 || 576 || [wiki:compilernames armeb-uclibc-gcc -Os] || 4.1.2 || [wiki:runs_20 Run 20]

@@ -1,6 +1,6 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:platformsimplementations_nslu2-openwrt_cubehash1632_sphlib-small sphlib-small] || 297721 || 10028 || 540 || armeb-linux-uclibc-gcc -pipe -O3 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 4.1.2 || [wiki:runs_16 Run 16]
-|[wiki:platformsimplementations_nslu2-openwrt_cubehash1632_sphlib sphlib] || 304670 || 29952 || 3548 || armeb-linux-uclibc-gcc -pipe -O3 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 4.1.2 || [wiki:runs_15 Run 15]
-|[wiki:platformsimplementations_nslu2-openwrt_cubehash1632_unrolled unrolled] || 384104 || 2356 || 460 || armeb-linux-uclibc-gcc -pipe -O3 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 4.1.2 || [wiki:runs_16 Run 16]
-|[wiki:platformsimplementations_nslu2-openwrt_cubehash1632_simple simple] || 615358 || 8024 || 928 || armeb-linux-uclibc-gcc -pipe -O3 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 4.1.2 || [wiki:runs_16 Run 16]
-|[wiki:platformsimplementations_nslu2-openwrt_cubehash1632_spec spec] || 2886699 || 2636 || 632 || armeb-linux-uclibc-gcc -pipe -O2 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 4.1.2 || [wiki:runs_21 Run 21]
+|[wiki:platformsimplementations_nslu2-openwrt_cubehash1632_sphlib-small sphlib-small] || 299034 || 10028 || 540 || [wiki:compilernames armeb-uclibc-gcc -O3] || 4.1.2 || [wiki:runs_20 Run 20]
+|[wiki:platformsimplementations_nslu2-openwrt_cubehash1632_sphlib sphlib] || 307031 || 29952 || 3548 || [wiki:compilernames armeb-uclibc-gcc -O3] || 4.1.2 || [wiki:runs_20 Run 20]
+|[wiki:platformsimplementations_nslu2-openwrt_cubehash1632_unrolled unrolled] || 385384 || 2356 || 460 || [wiki:compilernames armeb-uclibc-gcc -O3] || 4.1.2 || [wiki:runs_20 Run 20]
+|[wiki:platformsimplementations_nslu2-openwrt_cubehash1632_simple simple] || 616405 || 8024 || 928 || [wiki:compilernames armeb-uclibc-gcc -O3] || 4.1.2 || [wiki:runs_20 Run 20]
+|[wiki:platformsimplementations_nslu2-openwrt_cubehash1632_spec spec] || 2888477 || 2636 || 632 || [wiki:compilernames armeb-uclibc-gcc -O2] || 4.1.2 || [wiki:runs_20 Run 20]

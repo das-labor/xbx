@@ -1,12 +1,12 @@
 
 == Run 1 ==
 
- * Date: 20100626
- * Hostname: hal
+ * Date: 20100721
+ * Hostname: blix
  * Platform: atmega1281_16mhz
- * XBX Version 1.2.0
- * XBH Revision 00879
- * Bootloader Revision 00816
+ * XBX Version 2.0.0
+ * XBH Revision 01076
+ * Bootloader Revision 01099
 
 
 

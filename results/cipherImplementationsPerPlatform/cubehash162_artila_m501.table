@@ -1,3 +1,3 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:platformsimplementations_artila_m501_cubehash162_simple simple] || 25624530 || 1832 || 280 || arm-linux-gcc -O3 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_8 Run 8]
-|[wiki:platformsimplementations_artila_m501_cubehash162_spec spec] || 28966770 || 2604 || 652 || arm-linux-gcc -O2 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_8 Run 8]
+|[wiki:platformsimplementations_artila_m501_cubehash162_simple simple] || 25626915 || 1832 || 280 || [wiki:compilernames arm-artila-gcc -O3] || 3.3.2 || [wiki:runs_14 Run 14]
+|[wiki:platformsimplementations_artila_m501_cubehash162_spec spec] || 28870346 || 2604 || 652 || [wiki:compilernames arm-artila-gcc -O2] || 3.3.2 || [wiki:runs_15 Run 15]

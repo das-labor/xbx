@@ -1,7 +1,7 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:platformsimplementations_artila_m501_groestl256_sphlib-small sphlib-small] || 409500 || 25900 || 1688 || arm-linux-gcc -Os -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_17 Run 17]
-|[wiki:platformsimplementations_artila_m501_groestl256_opt32-xbx-rolled opt32-xbx-rolled] || 425801 || 39088 || 448 || arm-linux-gcc -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_7 Run 7]
-|[wiki:platformsimplementations_artila_m501_groestl256_sphlib sphlib] || 630900 || 62032 || 896 || arm-linux-gcc -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_7 Run 7]
-|[wiki:platformsimplementations_artila_m501_groestl256_opt32 opt32] || 1825965 || 68688 || 452 || arm-linux-gcc -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_7 Run 7]
-|[wiki:platformsimplementations_artila_m501_groestl256_opt64 opt64] || 2149470 || 80100 || 708 || arm-linux-gcc -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_17 Run 17]
-|[wiki:platformsimplementations_artila_m501_groestl256_armcryptolib armcryptolib] || 14003123 || 1952 || 396 || arm-linux-gcc -O2 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_17 Run 17]
+|[wiki:platformsimplementations_artila_m501_groestl256_sphlib-small sphlib-small] || 410423 || 26100 || 1732 || [wiki:compilernames arm-artila-gcc -O2] || 3.3.2 || [wiki:runs_16 Run 16]
+|[wiki:platformsimplementations_artila_m501_groestl256_opt32-xbx-rolled opt32-xbx-rolled] || 425081 || 39088 || 448 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_15 Run 15]
+|[wiki:platformsimplementations_artila_m501_groestl256_sphlib sphlib] || 614891 || 62032 || 896 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_13 Run 13]
+|[wiki:platformsimplementations_artila_m501_groestl256_opt32 opt32] || 1687523 || 68688 || 452 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_16 Run 16]
+|[wiki:platformsimplementations_artila_m501_groestl256_opt64 opt64] || 1959570 || 80100 || 708 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_16 Run 16]
+|[wiki:platformsimplementations_artila_m501_groestl256_armcryptolib armcryptolib] || 12469826 || 3324 || 836 || [wiki:compilernames arm-artila-gcc -O3] || 3.3.2 || [wiki:runs_14 Run 14]

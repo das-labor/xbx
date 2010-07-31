@@ -1,4 +1,5 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:platformsimplementations_atmega1281_16mhz_bmw512_avrcryptolib avrcryptolib] || 5323150 || 17896 || 1140 || [wiki:compilernames avr-gcc atmega1281 O2] || 4.3.4 (GCC) || [wiki:runs_4 Run 4]
-|[wiki:platformsimplementations_atmega1281_16mhz_bmw512_sphlib-small sphlib-small] || 5383751 || 84518 || 2290 || [wiki:compilernames avr-gcc atmega1281 Os] || 4.3.4 (GCC) || [wiki:runs_9 Run 9]
-|[wiki:platformsimplementations_atmega1281_16mhz_bmw512_ref ref] || 5589418 || 104268 || 2462 || [wiki:compilernames avr-gcc atmega1281 Os] || 4.3.4 (GCC) || [wiki:runs_4 Run 4]
+|[wiki:platformsimplementations_atmega1281_16mhz_bmw512_avrcryptolib avrcryptolib] || 5326397 || 17896 || 1140 || [wiki:compilernames avr-gcc -O2] || 4.3.4 (GCC) || [wiki:runs_2 Run 2]
+|[wiki:platformsimplementations_atmega1281_16mhz_bmw512_armcryptolib armcryptolib] || 5328203 || 17800 || 1272 || [wiki:compilernames avr-gcc -O2] || 4.3.4 (GCC) || [wiki:runs_2 Run 2]
+|[wiki:platformsimplementations_atmega1281_16mhz_bmw512_sphlib-small sphlib-small] || 5383780 || 84518 || 2290 || [wiki:compilernames avr-gcc -Os] || 4.3.4 (GCC) || [wiki:runs_2 Run 2]
+|[wiki:platformsimplementations_atmega1281_16mhz_bmw512_ref ref] || 5592832 || 104310 || 2454 || [wiki:compilernames avr-gcc -Os] || 4.3.4 (GCC) || [wiki:runs_2 Run 2]

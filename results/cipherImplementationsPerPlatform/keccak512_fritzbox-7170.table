@@ -1,0 +1,4 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:platformsimplementations_fritzbox-7170_keccak512_sphlib-small sphlib-small] || 778782 || 18184 || 2120 || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:runs_10 Run 10]
+|[wiki:platformsimplementations_fritzbox-7170_keccak512_armcryptolib armcryptolib] || 1189082 || 5419 || 836 || [wiki:compilernames mips-uclib-gcc -O3] || 4.2.1 || [wiki:runs_12 Run 12]
+|[wiki:platformsimplementations_fritzbox-7170_keccak512_sphlib sphlib] || 4997171 || 27462 || 3356 || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:runs_10 Run 10]

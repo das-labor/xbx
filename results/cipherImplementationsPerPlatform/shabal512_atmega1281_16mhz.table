@@ -1,5 +1,6 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:platformsimplementations_atmega1281_16mhz_shabal512_avrcryptolib_asm avrcryptolib_asm] || 374700 || 1898 || 330 || [wiki:compilernames avr-gcc atmega1281 Os] || 4.3.4 (GCC) || [wiki:runs_4 Run 4]
-|[wiki:platformsimplementations_atmega1281_16mhz_shabal512_sphlib sphlib] || 842561 || 78922 || 2734 || [wiki:compilernames avr-gcc atmega1281 O1] || 4.3.4 (GCC) || [wiki:runs_9 Run 9]
-|[wiki:platformsimplementations_atmega1281_16mhz_shabal512_ref ref] || 847884 || 79594 || 2844 || [wiki:compilernames avr-gcc atmega1281 O1] || 4.3.4 (GCC) || [wiki:runs_4 Run 4]
-|[wiki:platformsimplementations_atmega1281_16mhz_shabal512_avrcryptolib avrcryptolib] || 1613927 || 8308 || 369 || [wiki:compilernames avr-gcc atmega1291 O3] || 4.3.4 (GCC) || [wiki:runs_4 Run 4]
+|[wiki:platformsimplementations_atmega1281_16mhz_shabal512_avrcryptolib_asm avrcryptolib_asm] || 374930 || 1898 || 330 || [wiki:compilernames avr-gcc -Os] || 4.3.4 (GCC) || [wiki:runs_4 Run 4]
+|[wiki:platformsimplementations_atmega1281_16mhz_shabal512_sphlib sphlib] || 842569 || 78922 || 2734 || [wiki:compilernames avr-gcc -O1] || 4.3.4 (GCC) || [wiki:runs_4 Run 4]
+|[wiki:platformsimplementations_atmega1281_16mhz_shabal512_ref ref] || 848404 || 79594 || 2844 || [wiki:compilernames avr-gcc -O1] || 4.3.4 (GCC) || [wiki:runs_4 Run 4]
+|[wiki:platformsimplementations_atmega1281_16mhz_shabal512_armcryptolib armcryptolib] || 1614427 || 7860 || 369 || [wiki:compilernames avr-gcc -O3] || 4.3.4 (GCC) || [wiki:runs_4 Run 4]
+|[wiki:platformsimplementations_atmega1281_16mhz_shabal512_avrcryptolib avrcryptolib] || 1614915 || 8308 || 369 || [wiki:compilernames avr-gcc -O3] || 4.3.4 (GCC) || [wiki:runs_4 Run 4]

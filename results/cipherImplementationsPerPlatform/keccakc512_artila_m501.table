@@ -1,5 +1,5 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:platformsimplementations_artila_m501_keccakc512_opt32u6 opt32u6] || 270248 || 55372 || 263140 || arm-linux-gcc -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_7 Run 7]
-|[wiki:platformsimplementations_artila_m501_keccakc512_opt32u2 opt32u2] || 284918 || 26864 || 263128 || arm-linux-gcc -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_17 Run 17]
-|[wiki:platformsimplementations_artila_m501_keccakc512_opt64u24 opt64u24] || 1475111 || 299992 || 1088 || arm-linux-gcc -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_8 Run 8]
-|[wiki:platformsimplementations_artila_m501_keccakc512_opt64u6 opt64u6] || 1515285 || 84128 || 1100 || arm-linux-gcc -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_18 Run 18]
+|[wiki:platformsimplementations_artila_m501_keccakc512_opt32u6 opt32u6] || 269978 || 55372 || 263140 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_16 Run 16]
+|[wiki:platformsimplementations_artila_m501_keccakc512_opt32u2 opt32u2] || 285221 || 26864 || 263128 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_13 Run 13]
+|[wiki:platformsimplementations_artila_m501_keccakc512_opt64u24 opt64u24] || 1461375 || 299992 || 1088 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_16 Run 16]
+|[wiki:platformsimplementations_artila_m501_keccakc512_opt64u6 opt64u6] || 1501436 || 84128 || 1100 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_13 Run 13]

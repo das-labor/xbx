@@ -1,0 +1,2 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:platformsimplementations_fritzbox-7170_0hash_empty empty] || 12468 || 0 || 0 || [wiki:compilernames mips-uclib-gcc -Os] || 4.2.1 || [wiki:runs_10 Run 10]

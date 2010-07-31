@@ -1,3 +1,3 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:platformsimplementations_nslu2-openwrt_bmw256_sphlib sphlib] || 86217 || 7124 || 740 || armeb-linux-uclibc-gcc -pipe -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 4.1.2 || [wiki:runs_14 Run 14]
-|[wiki:platformsimplementations_nslu2-openwrt_bmw256_sphlib-small sphlib-small] || 88079 || 7032 || 1080 || armeb-linux-uclibc-gcc -pipe -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 4.1.2 || [wiki:runs_14 Run 14]
+|[wiki:platformsimplementations_nslu2-openwrt_bmw256_sphlib sphlib] || 88395 || 7124 || 740 || [wiki:compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:runs_17 Run 17]
+|[wiki:platformsimplementations_nslu2-openwrt_bmw256_sphlib-small sphlib-small] || 89908 || 7032 || 1080 || [wiki:compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:runs_20 Run 20]

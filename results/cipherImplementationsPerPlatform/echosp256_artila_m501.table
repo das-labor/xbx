@@ -1,5 +1,5 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:platformsimplementations_artila_m501_echosp256_generic_opt32 generic_opt32] || 280789 || 23350 || 4856 || arm-linux-gcc -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_18 Run 18]
-|[wiki:platformsimplementations_artila_m501_echosp256_powerpc_pp32cv1 powerpc_pp32cv1] || 446805 || 20900 || 760 || arm-linux-gcc -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_18 Run 18]
-|[wiki:platformsimplementations_artila_m501_echosp256_powerpc_pp32cv2 powerpc_pp32cv2] || 568541 || 35480 || 1004 || arm-linux-gcc -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_8 Run 8]
-|[wiki:platformsimplementations_artila_m501_echosp256_generic_opt64 generic_opt64] || 1565134 || 29908 || 5172 || arm-linux-gcc -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_8 Run 8]
+|[wiki:platformsimplementations_artila_m501_echosp256_generic_opt32 generic_opt32] || 282893 || 23350 || 4856 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_16 Run 16]
+|[wiki:platformsimplementations_artila_m501_echosp256_powerpc_pp32cv1 powerpc_pp32cv1] || 446456 || 20900 || 760 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_16 Run 16]
+|[wiki:platformsimplementations_artila_m501_echosp256_powerpc_pp32cv2 powerpc_pp32cv2] || 564311 || 35480 || 1004 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_15 Run 15]
+|[wiki:platformsimplementations_artila_m501_echosp256_generic_opt64 generic_opt64] || 1565764 || 29908 || 5172 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_15 Run 15]

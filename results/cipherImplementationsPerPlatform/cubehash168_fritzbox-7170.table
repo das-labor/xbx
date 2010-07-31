@@ -1,0 +1,4 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:platformsimplementations_fritzbox-7170_cubehash168_unrolled unrolled] || 1224711 || 3496 || 472 || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:runs_10 Run 10]
+|[wiki:platformsimplementations_fritzbox-7170_cubehash168_simple simple] || 1922973 || 10379 || 1120 || [wiki:compilernames mips-uclib-gcc -O3] || 4.2.1 || [wiki:runs_10 Run 10]
+|[wiki:platformsimplementations_fritzbox-7170_cubehash168_spec spec] || 5003107 || 3204 || 704 || [wiki:compilernames mips-uclib-gcc -O2] || 4.2.1 || [wiki:runs_10 Run 10]

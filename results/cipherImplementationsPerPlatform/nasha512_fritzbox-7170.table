@@ -1,0 +1,3 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:platformsimplementations_fritzbox-7170_nasha512_opt opt] || 128061 || 13404 || 1312 || [wiki:compilernames mips-uclib-gcc -O2] || 4.2.1 || [wiki:runs_11 Run 11]
+|[wiki:platformsimplementations_fritzbox-7170_nasha512_opt_v4 opt_v4] || 1018064 || 47598 || 134088 || [wiki:compilernames mips-uclib-gcc -O2] || 4.2.1 || [wiki:runs_11 Run 11]

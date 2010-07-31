@@ -1,3 +1,4 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:platformsimplementations_lm3s811-evb_groestl512_sphlib sphlib] || 687338 || 37264 || 928 || arm-elf-gcc -Wl,--entry,ResetISR -Wl,-T,XBD AF ld -mthumb -mcpu=cortex-m3 -MD -std=c99 -DPART LM3S811 -Dgcc -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections -lc -lgcc -O2 || 4.3.2 (GCC) || [wiki:runs_10 Run 10]
-|[wiki:platformsimplementations_lm3s811-evb_groestl512_sphlib-small sphlib-small] || 1126698 || 9312 || 928 || arm-elf-gcc -Wl,--entry,ResetISR -Wl,-T,XBD AF ld -mthumb -mcpu=cortex-m3 -MD -std=c99 -DPART LM3S811 -Dgcc -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections -lc -lgcc -O2 || 4.3.2 (GCC) || [wiki:runs_10 Run 10]
+|[wiki:platformsimplementations_lm3s811-evb_groestl512_sphlib sphlib] || 686979 || 37264 || 916 || [wiki:compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || [wiki:runs_8 Run 8]
+|[wiki:platformsimplementations_lm3s811-evb_groestl512_sphlib-small sphlib-small] || 1126338 || 9312 || 916 || [wiki:compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || [wiki:runs_5 Run 5]
+|[wiki:platformsimplementations_lm3s811-evb_groestl512_armcryptolib armcryptolib] || 17106081 || 2940 || 908 || [wiki:compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:runs_8 Run 8]

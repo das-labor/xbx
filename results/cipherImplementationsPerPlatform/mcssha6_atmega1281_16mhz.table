@@ -1,2 +1,2 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:platformsimplementations_atmega1281_16mhz_mcssha6_ref ref] || 924830 || 10540 || 769 || [wiki:compilernames avr-gcc atmega1281 O2] || 4.3.4 (GCC) || [wiki:runs_4 Run 4]
+|[wiki:platformsimplementations_atmega1281_16mhz_mcssha6_ref ref] || 925395 || 10540 || 769 || [wiki:compilernames avr-gcc -O2] || 4.3.4 (GCC) || [wiki:runs_4 Run 4]

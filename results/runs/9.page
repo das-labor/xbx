@@ -1,12 +1,12 @@
 
 == Run 9 ==
 
- * Date: 20100708
+ * Date: 20100727
  * Hostname: blix
- * Platform: atmega1281_16mhz
- * XBX Version 1.3.0
- * XBH Revision 00934
- * Bootloader Revision 00900
+ * Platform: fritzbox-7170
+ * XBX Version 2.0.0
+ * XBH Revision 01112
+ * Bootloader Revision 01119
 
 
 

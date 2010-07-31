@@ -1,5 +1,5 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:platformsimplementations_artila_m501_echo256_sphlib sphlib] || 332629 || 33820 || 1028 || arm-linux-gcc -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_18 Run 18]
-|[wiki:platformsimplementations_artila_m501_echo256_sphlib-small sphlib-small] || 347614 || 8584 || 808 || arm-linux-gcc -Os -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_17 Run 17]
-|[wiki:platformsimplementations_artila_m501_echo256_generic_opt64 generic_opt64] || 2004896 || 31140 || 5172 || arm-linux-gcc -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_8 Run 8]
-|[wiki:platformsimplementations_artila_m501_echo256_armcryptolib armcryptolib] || 4280636 || 3296 || 812 || arm-linux-gcc -O2 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_18 Run 18]
+|[wiki:platformsimplementations_artila_m501_echo256_sphlib sphlib] || 331796 || 33820 || 1028 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_15 Run 15]
+|[wiki:platformsimplementations_artila_m501_echo256_sphlib-small sphlib-small] || 348199 || 8584 || 808 || [wiki:compilernames arm-artila-gcc -Os] || 3.3.2 || [wiki:runs_15 Run 15]
+|[wiki:platformsimplementations_artila_m501_echo256_generic_opt64 generic_opt64] || 2008890 || 31140 || 5172 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_16 Run 16]
+|[wiki:platformsimplementations_artila_m501_echo256_armcryptolib armcryptolib] || 3729443 || 3928 || 1300 || [wiki:compilernames arm-artila-gcc -O3] || 3.3.2 || [wiki:runs_16 Run 16]

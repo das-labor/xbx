@@ -1,0 +1,5 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:platformsimplementations_fritzbox-7170_echosp512_generic_opt32 generic_opt32] || 985588 || 30128 || 976 || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:runs_11 Run 11]
+|[wiki:platformsimplementations_fritzbox-7170_echosp512_powerpc_pp32cv1 powerpc_pp32cv1] || 1643967 || 25033 || 820 || [wiki:compilernames mips-uclib-gcc -O3] || 4.2.1 || [wiki:runs_11 Run 11]
+|[wiki:platformsimplementations_fritzbox-7170_echosp512_powerpc_pp32cv2 powerpc_pp32cv2] || 3351985 || 36012 || 904 || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:runs_10 Run 10]
+|[wiki:platformsimplementations_fritzbox-7170_echosp512_generic_opt64 generic_opt64] || 6569098 || 53636 || 2752 || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:runs_9 Run 9]

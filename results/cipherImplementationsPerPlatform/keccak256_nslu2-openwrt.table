@@ -1,3 +1,3 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:platformsimplementations_nslu2-openwrt_keccak256_sphlib-small sphlib-small] || 557918 || 17976 || 4072 || armeb-linux-uclibc-gcc -pipe -Os -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 4.1.2 || [wiki:runs_14 Run 14]
-|[wiki:platformsimplementations_nslu2-openwrt_keccak256_sphlib sphlib] || 631251 || 26232 || 4988 || armeb-linux-uclibc-gcc -pipe -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 4.1.2 || [wiki:runs_20 Run 20]
+|[wiki:platformsimplementations_nslu2-openwrt_keccak256_sphlib-small sphlib-small] || 559780 || 17976 || 4072 || [wiki:compilernames armeb-uclibc-gcc -Os] || 4.1.2 || [wiki:runs_19 Run 19]
+|[wiki:platformsimplementations_nslu2-openwrt_keccak256_sphlib sphlib] || 632698 || 26232 || 4988 || [wiki:compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:runs_20 Run 20]

@@ -1,4 +1,4 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:platformsimplementations_nslu2-openwrt_cubehash168_unrolled unrolled] || 1032928 || 2356 || 460 || armeb-linux-uclibc-gcc -pipe -O3 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 4.1.2 || [wiki:runs_16 Run 16]
-|[wiki:platformsimplementations_nslu2-openwrt_cubehash168_simple simple] || 1678543 || 8024 || 928 || armeb-linux-uclibc-gcc -pipe -O3 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 4.1.2 || [wiki:runs_14 Run 14]
-|[wiki:platformsimplementations_nslu2-openwrt_cubehash168_spec spec] || 6443966 || 2636 || 632 || armeb-linux-uclibc-gcc -pipe -O2 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 4.1.2 || [wiki:runs_21 Run 21]
+|[wiki:platformsimplementations_nslu2-openwrt_cubehash168_unrolled unrolled] || 1033510 || 2356 || 460 || [wiki:compilernames armeb-uclibc-gcc -O3] || 4.1.2 || [wiki:runs_20 Run 20]
+|[wiki:platformsimplementations_nslu2-openwrt_cubehash168_simple simple] || 1679690 || 8024 || 928 || [wiki:compilernames armeb-uclibc-gcc -O3] || 4.1.2 || [wiki:runs_17 Run 17]
+|[wiki:platformsimplementations_nslu2-openwrt_cubehash168_spec spec] || 6447940 || 2636 || 632 || [wiki:compilernames armeb-uclibc-gcc -O2] || 4.1.2 || [wiki:runs_18 Run 18]

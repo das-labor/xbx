@@ -1,0 +1,10 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:platformsimplementations_fritzbox-7170_bmw512_sphlib-small sphlib-small] || 185778 || 14457 || 1920 || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:runs_12 Run 12]
+|[wiki:platformsimplementations_fritzbox-7170_bmw512_armcryptolib armcryptolib] || 210529 || 11459 || 1564 || [wiki:compilernames mips-uclib-gcc -O3] || 4.2.1 || [wiki:runs_12 Run 12]
+|[wiki:platformsimplementations_fritzbox-7170_bmw512_ref ref] || 232789 || 24656 || 2240 || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:runs_10 Run 10]
+|[wiki:platformsimplementations_fritzbox-7170_bmw512_optc02 optc02] || 1028955 || 111301 || 5624 || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:runs_9 Run 9]
+|[wiki:platformsimplementations_fritzbox-7170_bmw512_optc01 optc01] || 1029591 || 111301 || 5744 || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:runs_9 Run 9]
+|[wiki:platformsimplementations_fritzbox-7170_bmw512_optc03 optc03] || 1050831 || 85302 || 5264 || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:runs_11 Run 11]
+|[wiki:platformsimplementations_fritzbox-7170_bmw512_optc04 optc04] || 1066519 || 57542 || 5124 || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:runs_11 Run 11]
+|[wiki:platformsimplementations_fritzbox-7170_bmw512_sphlib sphlib] || 1132425 || 30711 || 2924 || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:runs_9 Run 9]
+|[wiki:platformsimplementations_fritzbox-7170_bmw512_armcryptolib-speed armcryptolib-speed] || 1236729 || 41151 || 3808 || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:runs_12 Run 12]

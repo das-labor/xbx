@@ -1,6 +1,6 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:platformsimplementations_nslu2-openwrt_groestl512_opt32 opt32] || 876686 || 58520 || 1768 || armeb-linux-uclibc-gcc -pipe -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 4.1.2 || [wiki:runs_16 Run 16]
-|[wiki:platformsimplementations_nslu2-openwrt_groestl512_sphlib sphlib] || 1095338 || 49336 || 2828 || armeb-linux-uclibc-gcc -pipe -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 4.1.2 || [wiki:runs_14 Run 14]
-|[wiki:platformsimplementations_nslu2-openwrt_groestl512_sphlib-small sphlib-small] || 1189186 || 13024 || 2668 || armeb-linux-uclibc-gcc -pipe -Os -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 4.1.2 || [wiki:runs_20 Run 20]
-|[wiki:platformsimplementations_nslu2-openwrt_groestl512_opt64 opt64] || 1609666 || 76288 || 1572 || armeb-linux-uclibc-gcc -pipe -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 4.1.2 || [wiki:runs_22 Run 22]
-|[wiki:platformsimplementations_nslu2-openwrt_groestl512_armcryptolib armcryptolib] || 21699183 || 2456 || 876 || armeb-linux-uclibc-gcc -pipe -O3 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 4.1.2 || [wiki:runs_15 Run 15]
+|[wiki:platformsimplementations_nslu2-openwrt_groestl512_opt32 opt32] || 879379 || 58520 || 1768 || [wiki:compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:runs_18 Run 18]
+|[wiki:platformsimplementations_nslu2-openwrt_groestl512_sphlib sphlib] || 1098863 || 49336 || 2828 || [wiki:compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:runs_19 Run 19]
+|[wiki:platformsimplementations_nslu2-openwrt_groestl512_sphlib-small sphlib-small] || 1190882 || 13024 || 2668 || [wiki:compilernames armeb-uclibc-gcc -Os] || 4.1.2 || [wiki:runs_19 Run 19]
+|[wiki:platformsimplementations_nslu2-openwrt_groestl512_opt64 opt64] || 1612359 || 76288 || 1572 || [wiki:compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:runs_19 Run 19]
+|[wiki:platformsimplementations_nslu2-openwrt_groestl512_armcryptolib armcryptolib] || 21702026 || 2456 || 876 || [wiki:compilernames armeb-uclibc-gcc -O3] || 4.1.2 || [wiki:runs_17 Run 17]

@@ -1,5 +1,5 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:platformsimplementations_atmega1281_16mhz_jh384_bitslice_opt32 bitslice_opt32] || 5326327 || 23792 || 2302 || [wiki:compilernames avr-gcc atmega1281 O2] || 4.3.4 (GCC) || [wiki:runs_4 Run 4]
-|[wiki:platformsimplementations_atmega1281_16mhz_jh384_bitslice_ref32 bitslice_ref32] || 5873628 || 41416 || 1903 || [wiki:compilernames avr-gcc atmega1291 O3] || 4.3.4 (GCC) || [wiki:runs_4 Run 4]
-|[wiki:platformsimplementations_atmega1281_16mhz_jh384_bitslice_opt64 bitslice_opt64] || 14183290 || 58648 || 2581 || [wiki:compilernames avr-gcc atmega1281 O1] || 4.3.4 (GCC) || [wiki:runs_4 Run 4]
-|[wiki:platformsimplementations_atmega1281_16mhz_jh384_bitslice_ref64 bitslice_ref64] || 16833693 || 24706 || 2444 || [wiki:compilernames avr-gcc atmega1281 O2] || 4.3.4 (GCC) || [wiki:runs_4 Run 4]
+|[wiki:platformsimplementations_atmega1281_16mhz_jh384_bitslice_opt32 bitslice_opt32] || 5333275 || 24038 || 2315 || [wiki:compilernames avr-gcc -O2] || 4.3.4 (GCC) || [wiki:runs_4 Run 4]
+|[wiki:platformsimplementations_atmega1281_16mhz_jh384_bitslice_ref32 bitslice_ref32] || 5877228 || 41410 || 1903 || [wiki:compilernames avr-gcc -O3] || 4.3.4 (GCC) || [wiki:runs_4 Run 4]
+|[wiki:platformsimplementations_atmega1281_16mhz_jh384_bitslice_opt64 bitslice_opt64] || 14197391 || 59046 || 2591 || [wiki:compilernames avr-gcc -O1] || 4.3.4 (GCC) || [wiki:runs_4 Run 4]
+|[wiki:platformsimplementations_atmega1281_16mhz_jh384_bitslice_ref64 bitslice_ref64] || 16847688 || 24950 || 2455 || [wiki:compilernames avr-gcc -O2] || 4.3.4 (GCC) || [wiki:runs_4 Run 4]

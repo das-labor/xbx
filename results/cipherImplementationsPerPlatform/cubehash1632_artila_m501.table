@@ -1,6 +1,6 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:platformsimplementations_artila_m501_cubehash1632_sphlib-small sphlib-small] || 282859 || 8388 || 808 || arm-linux-gcc -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_8 Run 8]
-|[wiki:platformsimplementations_artila_m501_cubehash1632_sphlib sphlib] || 339345 || 28088 || 396 || arm-linux-gcc -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_8 Run 8]
-|[wiki:platformsimplementations_artila_m501_cubehash1632_armcryptolib armcryptolib] || 1539720 || 1612 || 272 || arm-linux-gcc -O3 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_18 Run 18]
-|[wiki:platformsimplementations_artila_m501_cubehash1632_simple simple] || 2302549 || 1832 || 280 || arm-linux-gcc -O3 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_8 Run 8]
-|[wiki:platformsimplementations_artila_m501_cubehash1632_spec spec] || 3743955 || 2604 || 652 || arm-linux-gcc -O2 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 3.3.2 || [wiki:runs_8 Run 8]
+|[wiki:platformsimplementations_artila_m501_cubehash1632_sphlib-small sphlib-small] || 282791 || 8388 || 808 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_16 Run 16]
+|[wiki:platformsimplementations_artila_m501_cubehash1632_sphlib sphlib] || 339784 || 28088 || 396 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_14 Run 14]
+|[wiki:platformsimplementations_artila_m501_cubehash1632_armcryptolib armcryptolib] || 1519279 || 1612 || 272 || [wiki:compilernames arm-artila-gcc -O3] || 3.3.2 || [wiki:runs_15 Run 15]
+|[wiki:platformsimplementations_artila_m501_cubehash1632_simple simple] || 2299590 || 1312 || 296 || [wiki:compilernames arm-artila-gcc -O2] || 3.3.2 || [wiki:runs_13 Run 13]
+|[wiki:platformsimplementations_artila_m501_cubehash1632_spec spec] || 3738296 || 2604 || 652 || [wiki:compilernames arm-artila-gcc -O2] || 3.3.2 || [wiki:runs_13 Run 13]

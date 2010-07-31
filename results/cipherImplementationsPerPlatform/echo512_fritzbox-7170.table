@@ -1,0 +1,5 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:platformsimplementations_fritzbox-7170_echo512_sphlib-small sphlib-small] || 580549 || 8162 || 936 || [wiki:compilernames mips-uclib-gcc -Os] || 4.2.1 || [wiki:runs_10 Run 10]
+|[wiki:platformsimplementations_fritzbox-7170_echo512_sphlib sphlib] || 1969440 || 23640 || 1036 || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:runs_9 Run 9]
+|[wiki:platformsimplementations_fritzbox-7170_echo512_armcryptolib armcryptolib] || 4984597 || 5166 || 1016 || [wiki:compilernames mips-uclib-gcc -O3] || 4.2.1 || [wiki:runs_10 Run 10]
+|[wiki:platformsimplementations_fritzbox-7170_echo512_generic_opt64 generic_opt64] || 9477394 || 55314 || 2760 || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:runs_12 Run 12]

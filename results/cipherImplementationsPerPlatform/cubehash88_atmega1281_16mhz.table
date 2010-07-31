@@ -1,4 +1,4 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:platformsimplementations_atmega1281_16mhz_cubehash88_unrolled unrolled] || 18709675 || 11224 || 556 || [wiki:compilernames avr-gcc atmega1291 O3] || 4.3.4 (GCC) || [wiki:runs_2 Run 2]
-|[wiki:platformsimplementations_atmega1281_16mhz_cubehash88_simple simple] || 23753955 || 41132 || 992 || [wiki:compilernames avr-gcc atmega1291 O3] || 4.3.4 (GCC) || [wiki:runs_2 Run 2]
-|[wiki:platformsimplementations_atmega1281_16mhz_cubehash88_spec spec] || 39288446 || 5288 || 668 || [wiki:compilernames avr-gcc atmega1281 O2] || 4.3.4 (GCC) || [wiki:runs_4 Run 4]
+|[wiki:platformsimplementations_atmega1281_16mhz_cubehash88_unrolled unrolled] || 18709882 || 11224 || 556 || [wiki:compilernames avr-gcc -O3] || 4.3.4 (GCC) || [wiki:runs_3 Run 3]
+|[wiki:platformsimplementations_atmega1281_16mhz_cubehash88_simple simple] || 23754213 || 41132 || 992 || [wiki:compilernames avr-gcc -O3] || 4.3.4 (GCC) || [wiki:runs_3 Run 3]
+|[wiki:platformsimplementations_atmega1281_16mhz_cubehash88_spec spec] || 39312550 || 5288 || 668 || [wiki:compilernames avr-gcc -O2] || 4.3.4 (GCC) || [wiki:runs_3 Run 3]

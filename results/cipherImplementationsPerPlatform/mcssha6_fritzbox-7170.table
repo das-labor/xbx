@@ -1,0 +1,2 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:platformsimplementations_fritzbox-7170_mcssha6_ref ref] || 204872 || 6714 || 564 || [wiki:compilernames mips-uclib-gcc -O3] || 4.2.1 || [wiki:runs_9 Run 9]

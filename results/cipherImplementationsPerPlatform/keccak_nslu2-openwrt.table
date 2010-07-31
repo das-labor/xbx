@@ -1,5 +1,5 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:platformsimplementations_nslu2-openwrt_keccak_opt32u2 opt32u2] || 377504 || 29616 || 263624 || armeb-linux-uclibc-gcc -pipe -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 4.1.2 || [wiki:runs_20 Run 20]
-|[wiki:platformsimplementations_nslu2-openwrt_keccak_opt32u6 opt32u6] || 419100 || 64904 || 265208 || armeb-linux-uclibc-gcc -pipe -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 4.1.2 || [wiki:runs_16 Run 16]
-|[wiki:platformsimplementations_nslu2-openwrt_keccak_opt64u6 opt64u6] || 446049 || 86492 || 3996 || armeb-linux-uclibc-gcc -pipe -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 4.1.2 || [wiki:runs_16 Run 16]
-|[wiki:platformsimplementations_nslu2-openwrt_keccak_opt64u24 opt64u24] || 2063246 || 350804 || 7264 || armeb-linux-uclibc-gcc -pipe -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 4.1.2 || [wiki:runs_19 Run 19]
+|[wiki:platformsimplementations_nslu2-openwrt_keccak_opt32u2 opt32u2] || 378402 || 29616 || 263624 || [wiki:compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:runs_19 Run 19]
+|[wiki:platformsimplementations_nslu2-openwrt_keccak_opt32u6 opt32u6] || 420662 || 64904 || 265208 || [wiki:compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:runs_20 Run 20]
+|[wiki:platformsimplementations_nslu2-openwrt_keccak_opt64u6 opt64u6] || 449208 || 86492 || 3996 || [wiki:compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:runs_17 Run 17]
+|[wiki:platformsimplementations_nslu2-openwrt_keccak_opt64u24 opt64u24] || 2085373 || 350804 || 7264 || [wiki:compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:runs_20 Run 20]

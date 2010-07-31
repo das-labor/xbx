@@ -1,2 +1,2 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:platformsimplementations_nslu2-openwrt_luffa256_sphlib sphlib] || 137023 || 6052 || 524 || armeb-linux-uclibc-gcc -pipe -O2 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 4.1.2 || [wiki:runs_15 Run 15]
+|[wiki:platformsimplementations_nslu2-openwrt_luffa256_sphlib sphlib] || 138121 || 6052 || 524 || [wiki:compilernames armeb-uclibc-gcc -O2] || 4.1.2 || [wiki:runs_18 Run 18]

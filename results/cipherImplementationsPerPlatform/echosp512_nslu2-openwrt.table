@@ -1,5 +1,5 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:platformsimplementations_nslu2-openwrt_echosp512_generic_opt32 generic_opt32] || 555458 || 31302 || 2824 || armeb-linux-uclibc-gcc -pipe -O3 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 4.1.2 || [wiki:runs_16 Run 16]
-|[wiki:platformsimplementations_nslu2-openwrt_echosp512_powerpc_pp32cv2 powerpc_pp32cv2] || 624984 || 38664 || 4708 || armeb-linux-uclibc-gcc -pipe -O3 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 4.1.2 || [wiki:runs_15 Run 15]
-|[wiki:platformsimplementations_nslu2-openwrt_echosp512_powerpc_pp32cv1 powerpc_pp32cv1] || 708824 || 24320 || 1388 || armeb-linux-uclibc-gcc -pipe -O3 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 4.1.2 || [wiki:runs_16 Run 16]
-|[wiki:platformsimplementations_nslu2-openwrt_echosp512_generic_opt64 generic_opt64] || 937151 || 35192 || 1916 || armeb-linux-uclibc-gcc -pipe -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 4.1.2 || [wiki:runs_14 Run 14]
+|[wiki:platformsimplementations_nslu2-openwrt_echosp512_generic_opt32 generic_opt32] || 559481 || 31302 || 2824 || [wiki:compilernames armeb-uclibc-gcc -O3] || 4.1.2 || [wiki:runs_18 Run 18]
+|[wiki:platformsimplementations_nslu2-openwrt_echosp512_powerpc_pp32cv2 powerpc_pp32cv2] || 628891 || 38664 || 4708 || [wiki:compilernames armeb-uclibc-gcc -O3] || 4.1.2 || [wiki:runs_20 Run 20]
+|[wiki:platformsimplementations_nslu2-openwrt_echosp512_powerpc_pp32cv1 powerpc_pp32cv1] || 711949 || 24320 || 1388 || [wiki:compilernames armeb-uclibc-gcc -O3] || 4.1.2 || [wiki:runs_18 Run 18]
+|[wiki:platformsimplementations_nslu2-openwrt_echosp512_generic_opt64 generic_opt64] || 939894 || 35192 || 1916 || [wiki:compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:runs_20 Run 20]

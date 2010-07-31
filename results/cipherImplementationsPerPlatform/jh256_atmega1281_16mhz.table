@@ -1,5 +1,7 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:platformsimplementations_atmega1281_16mhz_jh256_bitslice_opt32 bitslice_opt32] || 5326192 || 18996 || 2030 || [wiki:compilernames avr-gcc atmega1281 O2] || 4.3.4 (GCC) || [wiki:runs_4 Run 4]
-|[wiki:platformsimplementations_atmega1281_16mhz_jh256_bitslice_ref32 bitslice_ref32] || 5873471 || 36620 || 1631 || [wiki:compilernames avr-gcc atmega1291 O3] || 4.3.4 (GCC) || [wiki:runs_4 Run 4]
-|[wiki:platformsimplementations_atmega1281_16mhz_jh256_bitslice_opt64 bitslice_opt64] || 14183151 || 54326 || 2309 || [wiki:compilernames avr-gcc atmega1281 O1] || 4.3.4 (GCC) || [wiki:runs_4 Run 4]
-|[wiki:platformsimplementations_atmega1281_16mhz_jh256_bitslice_ref64 bitslice_ref64] || 16833558 || 20338 || 2428 || [wiki:compilernames avr-gcc atmega1281 O2] || 4.3.4 (GCC) || [wiki:runs_4 Run 4]
+|[wiki:platformsimplementations_atmega1281_16mhz_jh256_sphlib-small sphlib-small] || 4232010 || 28464 || 2269 || [wiki:compilernames avr-gcc -O3] || 4.3.4 (GCC) || [wiki:runs_4 Run 4]
+|[wiki:platformsimplementations_atmega1281_16mhz_jh256_sphlib sphlib] || 4294979 || 63104 || 4175 || [wiki:compilernames avr-gcc -O1] || 4.3.4 (GCC) || [wiki:runs_4 Run 4]
+|[wiki:platformsimplementations_atmega1281_16mhz_jh256_bitslice_opt32 bitslice_opt32] || 5333142 || 19248 || 2043 || [wiki:compilernames avr-gcc -O2] || 4.3.4 (GCC) || [wiki:runs_4 Run 4]
+|[wiki:platformsimplementations_atmega1281_16mhz_jh256_bitslice_ref32 bitslice_ref32] || 5877072 || 36620 || 1631 || [wiki:compilernames avr-gcc -O3] || 4.3.4 (GCC) || [wiki:runs_4 Run 4]
+|[wiki:platformsimplementations_atmega1281_16mhz_jh256_bitslice_opt64 bitslice_opt64] || 14197258 || 54724 || 2319 || [wiki:compilernames avr-gcc -O1] || 4.3.4 (GCC) || [wiki:runs_4 Run 4]
+|[wiki:platformsimplementations_atmega1281_16mhz_jh256_bitslice_ref64 bitslice_ref64] || 16847556 || 20588 || 2439 || [wiki:compilernames avr-gcc -O2] || 4.3.4 (GCC) || [wiki:runs_4 Run 4]
