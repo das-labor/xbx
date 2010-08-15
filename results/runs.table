@@ -1,4 +1,6 @@
 | '''ID''' || '''Date''' || '''Platform''' || '''Hostname''' || '''Version''' || '''XBH Revision''' || '''Bootloader Revision''' || '''Details''' 
+|22 || 20100802 || atmega1284p_16mhz || blix || 2.0.0 || 01120 || 01039 || [wiki:runs_22 Run 22]
+|21 || 20100801 || atmega1284p_16mhz || blix || 2.0.0 || 01120 || 01039 || [wiki:runs_21 Run 21]
 |20 || 20100730 || nslu2-openwrt || knulp || 2.0.0 || 01112 || 01138 || [wiki:runs_20 Run 20]
 |19 || 20100729 || nslu2-openwrt || knulp || 2.0.0 || 01112 || 01138 || [wiki:runs_19 Run 19]
 |18 || 20100729 || nslu2-openwrt || knulp || 2.0.0 || 01112 || 01138 || [wiki:runs_18 Run 18]

@@ -1,0 +1,2 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:platformsimplementations_atmega1284p_16mhz_shavite3256_256-nosalt-smallc 256-nosalt-smallc] || 1025991 || 66566 || 7297 || [wiki:compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || [wiki:runs_22 Run 22]

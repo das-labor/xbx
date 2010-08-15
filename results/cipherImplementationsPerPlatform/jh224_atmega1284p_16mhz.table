@@ -1,0 +1,5 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:platformsimplementations_atmega1284p_16mhz_jh224_bitslice_opt32 bitslice_opt32] || 5333137 || 24038 || 2295 || [wiki:compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || [wiki:runs_22 Run 22]
+|[wiki:platformsimplementations_atmega1284p_16mhz_jh224_bitslice_ref32 bitslice_ref32] || 5877060 || 41410 || 1883 || [wiki:compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || [wiki:runs_22 Run 22]
+|[wiki:platformsimplementations_atmega1284p_16mhz_jh224_bitslice_opt64 bitslice_opt64] || 14197279 || 59046 || 2571 || [wiki:compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || [wiki:runs_22 Run 22]
+|[wiki:platformsimplementations_atmega1284p_16mhz_jh224_bitslice_ref64 bitslice_ref64] || 16847583 || 24950 || 2435 || [wiki:compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || [wiki:runs_22 Run 22]

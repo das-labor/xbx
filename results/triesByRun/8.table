@@ -1,4 +1,4 @@
-| '''Cipher''' || '''Implementation''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' 
+| '''Hash''' || '''Implementation''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' 
 |[wiki:ciphers_0hash 0hash] || [wiki:platformsimplementations_lm3s811-evb_0hash_empty empty] || [wiki:compilernames arm-elf-gcc -O0] || 4.3.2 (GCC) ||  ||  || 0 (14628) || 0 (24) || 0 (24) || unk(unk) || error
 |[wiki:ciphers_0hash 0hash] || [wiki:platformsimplementations_lm3s811-evb_0hash_empty empty] || [wiki:compilernames arm-elf-gcc -O1] || 4.3.2 (GCC) ||  ||  || 0 (9584) || 0 (24) || 0 (24) || unk(unk) || error
 |[wiki:ciphers_0hash 0hash] || [wiki:platformsimplementations_lm3s811-evb_0hash_empty empty] || [wiki:compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || 215200 || 38 || 0 (8896) || 0 (24) || 0 (24) || 0(0) || Checksum OK

@@ -1,0 +1,4 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:platformsimplementations_atmega1284p_16mhz_groestl512_sphlib-small sphlib-small] || 5825349 || 23494 || 6062 || [wiki:compilernames avr-gcc 1284p -Os] || 4.3.4 (GCC) || [wiki:runs_22 Run 22]
+|[wiki:platformsimplementations_atmega1284p_16mhz_groestl512_avrcryptolib avrcryptolib] || 16985285 || 4354 || 819 || [wiki:compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || [wiki:runs_22 Run 22]
+|[wiki:platformsimplementations_atmega1284p_16mhz_groestl512_ref-xbx ref-xbx] || 25493538 || 11712 || 1401 || [wiki:compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || [wiki:runs_21 Run 21]

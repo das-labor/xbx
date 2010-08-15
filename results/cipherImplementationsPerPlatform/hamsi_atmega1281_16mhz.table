@@ -1,2 +1,2 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:platformsimplementations_atmega1281_16mhz_hamsi_sphlib-small sphlib-small] || 8312273 || 50840 || 5065 || [wiki:compilernames avr-gcc -O3] || 4.3.4 (GCC) || [wiki:runs_4 Run 4]
+|[wiki:platformsimplementations_atmega1281_16mhz_hamsi_sphlib-small sphlib-small] || 8312273 || 50840 || 5065 || [wiki:compilernames avr-gcc 1281 -O3] || 4.3.4 (GCC) || [wiki:runs_4 Run 4]

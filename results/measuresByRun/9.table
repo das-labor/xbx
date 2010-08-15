@@ -1,4 +1,4 @@
-| '''Cipher''' || '''Implementation''' || '''Empty Message''' || '''8 byte''' || '''64 bytes''' || '''512 bytes''' || '''1024 bytes''' || '''2048 bytes''' || '''Long Messages''' || '''Details''' 
+| '''Hash''' || '''Implementation''' || '''Empty Message''' || '''8 Bytes''' || '''64 Bytes''' || '''512 Bytes''' || '''1024 Bytes''' || '''2048 Bytes''' || '''Long Messages''' || '''Details''' 
 |[wiki:ciphers_0hash 0hash] || [wiki:platformsimplementations_fritzbox-7170_0hash_empty empty] || 12614 || 1545 || 194 || 24 || 12 || 6 || 0 || [wiki:measureDetailsPage_9_0hash_empty Details]
 |[wiki:ciphers_blake32 blake32] || [wiki:platformsimplementations_fritzbox-7170_blake32_sphlib-small sphlib-small] || 34914 || 4401 || 597 || 126 || 92 || 75 || 58 || [wiki:measureDetailsPage_9_blake32_sphlib-small Details]
 |[wiki:ciphers_blake64 blake64] || [wiki:platformsimplementations_fritzbox-7170_blake64_armcryptolib armcryptolib] || 39604 || 4997 || 632 || 208 || 169 || 149 || 129 || [wiki:measureDetailsPage_9_blake64_armcryptolib Details]

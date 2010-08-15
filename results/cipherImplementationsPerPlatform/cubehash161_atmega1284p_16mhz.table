@@ -1,0 +1,4 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:platformsimplementations_atmega1284p_16mhz_cubehash161_unrolled unrolled] || 257567214 || 11230 || 556 || [wiki:compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || [wiki:runs_21 Run 21]
+|[wiki:platformsimplementations_atmega1284p_16mhz_cubehash161_spec spec] || 321860788 || 5294 || 668 || [wiki:compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || [wiki:runs_21 Run 21]
+|[wiki:platformsimplementations_atmega1284p_16mhz_cubehash161_simple simple] || 332990170 || 41148 || 992 || [wiki:compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || [wiki:runs_21 Run 21]

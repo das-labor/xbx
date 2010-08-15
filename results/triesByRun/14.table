@@ -1,4 +1,4 @@
-| '''Cipher''' || '''Implementation''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' 
+| '''Hash''' || '''Implementation''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' 
 |[wiki:ciphers_0hash 0hash] || [wiki:platformsimplementations_artila_m501_0hash_empty empty] || [wiki:compilernames arm-artila-gcc -O0] || 3.3.2 || 2978190 || 1294 || 0 (22037) || 0 (472) || 0 (472) || 0(13) || Checksum OK
 |[wiki:ciphers_0hash 0hash] || [wiki:platformsimplementations_artila_m501_0hash_empty empty] || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || 2330123 || 1080 || 0 (16884) || 0 (472) || 0 (472) || 0(0) || Checksum OK
 |[wiki:ciphers_0hash 0hash] || [wiki:platformsimplementations_artila_m501_0hash_empty empty] || [wiki:compilernames arm-artila-gcc -O2] || 3.3.2 || 2294786 || 1114 || 0 (16680) || 0 (472) || 0 (472) || 0(0) || Checksum OK

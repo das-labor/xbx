@@ -1,4 +1,4 @@
-| '''Cipher''' || '''Number of Implementations''' 
+| '''Hash''' || '''Number of Implementations''' 
 |[wiki:ciphers_0hash 0hash] || 1
 |[wiki:ciphers_blake32 blake32] || 5
 |[wiki:ciphers_blake64 blake64] || 4
@@ -28,7 +28,7 @@
 |[wiki:ciphers_fsb512 fsb512] || 1
 |[wiki:ciphers_fugue256 fugue256] || 4
 |[wiki:ciphers_fugue512 fugue512] || 2
-|[wiki:ciphers_groestl256 groestl256] || 9
+|[wiki:ciphers_groestl256 groestl256] || 10
 |[wiki:ciphers_groestl512 groestl512] || 7
 |[wiki:ciphers_hamsi hamsi] || 2
 |[wiki:ciphers_hamsi512 hamsi512] || 2
@@ -58,9 +58,9 @@
 |[wiki:ciphers_sarmal512 sarmal512] || 1
 |[wiki:ciphers_shabal256 shabal256] || 4
 |[wiki:ciphers_shabal512 shabal512] || 5
-|[wiki:ciphers_shavite3256 shavite3256] || 5
+|[wiki:ciphers_shavite3256 shavite3256] || 6
 |[wiki:ciphers_shavite3512 shavite3512] || 7
-|[wiki:ciphers_simd256 simd256] || 4
+|[wiki:ciphers_simd256 simd256] || 5
 |[wiki:ciphers_simd512 simd512] || 4
 |[wiki:ciphers_skein256 skein256] || 4
 |[wiki:ciphers_skein512 skein512] || 6

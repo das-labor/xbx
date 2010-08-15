@@ -1,12 +1,12 @@
 
 == Run 21 ==
 
- * Date: 20100720
- * Hostname: knulp
- * Platform: nslu2-openwrt
+ * Date: 20100801
+ * Hostname: blix
+ * Platform: atmega1284p_16mhz
  * XBX Version 2.0.0
- * XBH Revision 01085
- * Bootloader Revision 01089
+ * XBH Revision 01120
+ * Bootloader Revision 01039
 
 
 

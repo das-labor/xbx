@@ -1,4 +1,4 @@
-| '''Cipher''' || '''Implementation''' || '''Empty Message''' || '''8 byte''' || '''64 bytes''' || '''512 bytes''' || '''1024 bytes''' || '''2048 bytes''' || '''Long Messages''' || '''Details''' 
+| '''Hash''' || '''Implementation''' || '''Empty Message''' || '''8 Bytes''' || '''64 Bytes''' || '''512 Bytes''' || '''1024 Bytes''' || '''2048 Bytes''' || '''Long Messages''' || '''Details''' 
 |[wiki:ciphers_0hash 0hash] || [wiki:platformsimplementations_artila_m501_0hash_empty empty] || 979 || 139 || 17 || 2 || 1 || 1 || 0 || [wiki:measureDetailsPage_16_0hash_empty Details]
 |[wiki:ciphers_blake32 blake32] || [wiki:platformsimplementations_artila_m501_blake32_sphlib sphlib] || 19733 || 2499 || 359 || 87 || 67 || 57 || 47 || [wiki:measureDetailsPage_16_blake32_sphlib Details]
 |[wiki:ciphers_blake64 blake64] || [wiki:platformsimplementations_artila_m501_blake64_sphlib sphlib] || 33683 || 4216 || 529 || 185 || 153 || 136 || 119 || [wiki:measureDetailsPage_16_blake64_sphlib Details]

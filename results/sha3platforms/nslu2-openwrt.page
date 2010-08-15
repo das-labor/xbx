@@ -2,6 +2,9 @@
 == Platform nslu2-openwrt (SHA3 Round 2 Only) ==
 [wiki:platforms_nslu2-openwrt Show all hash functions] 
 
+ARMv5TE based Intel chip. 
+
+We used an NAS server and changed the firmware to !OpenWrt (http://www.nslu2-linux.org/wiki/Main/HomePage).
 
 
 [wiki:sha3platforms_nslu2-openwrt#FastestAlgorithms FastestAlgorithms] - [wiki:sha3platforms_nslu2-openwrt#SmallestAlgorithmsROM Smallest Algorithms (ROM)] - [wiki:sha3platforms_nslu2-openwrt#SmallestAlgorithmsRAM Smallest Algorithms (RAM)]

@@ -1,2 +1,2 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:platformsimplementations_atmega1281_16mhz_essence256_gcc gcc] || 23452666 || 73410 || 4312 || [wiki:compilernames avr-gcc -O2] || 4.3.4 (GCC) || [wiki:runs_4 Run 4]
+|[wiki:platformsimplementations_atmega1281_16mhz_essence256_gcc gcc] || 23452666 || 73410 || 4312 || [wiki:compilernames avr-gcc 1281 -O2] || 4.3.4 (GCC) || [wiki:runs_4 Run 4]

@@ -1,5 +1,5 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:platformsimplementations_atmega1281_16mhz_echo512_avrcryptolib avrcryptolib] || 3511553 || 3598 || 742 || [wiki:compilernames avr-gcc -O2] || 4.3.4 (GCC) || [wiki:runs_4 Run 4]
-|[wiki:platformsimplementations_atmega1281_16mhz_echo512_sphlib sphlib] || 3697770 || 45280 || 5326 || [wiki:compilernames avr-gcc -Os] || 4.3.4 (GCC) || [wiki:runs_4 Run 4]
-|[wiki:platformsimplementations_atmega1281_16mhz_echo512_sphlib-small sphlib-small] || 3713301 || 21064 || 5198 || [wiki:compilernames avr-gcc -O3] || 4.3.4 (GCC) || [wiki:runs_4 Run 4]
-|[wiki:platformsimplementations_atmega1281_16mhz_echo512_armcryptolib armcryptolib] || 6356236 || 7164 || 1008 || [wiki:compilernames avr-gcc -O3] || 4.3.4 (GCC) || [wiki:runs_2 Run 2]
+|[wiki:platformsimplementations_atmega1281_16mhz_echo512_avrcryptolib avrcryptolib] || 3511553 || 3598 || 742 || [wiki:compilernames avr-gcc 1281 -O2] || 4.3.4 (GCC) || [wiki:runs_4 Run 4]
+|[wiki:platformsimplementations_atmega1281_16mhz_echo512_sphlib sphlib] || 3697770 || 45280 || 5326 || [wiki:compilernames avr-gcc 1281 -Os] || 4.3.4 (GCC) || [wiki:runs_4 Run 4]
+|[wiki:platformsimplementations_atmega1281_16mhz_echo512_sphlib-small sphlib-small] || 3713301 || 21064 || 5198 || [wiki:compilernames avr-gcc 1281 -O3] || 4.3.4 (GCC) || [wiki:runs_4 Run 4]
+|[wiki:platformsimplementations_atmega1281_16mhz_echo512_armcryptolib armcryptolib] || 6356236 || 7164 || 1008 || [wiki:compilernames avr-gcc 1281 -O3] || 4.3.4 (GCC) || [wiki:runs_2 Run 2]

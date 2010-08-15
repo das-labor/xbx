@@ -1,6 +1,6 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:platformsimplementations_atmega1281_16mhz_blake32_sphlib sphlib] || 1419667 || 39902 || 1764 || [wiki:compilernames avr-gcc -O3] || 4.3.4 (GCC) || [wiki:runs_2 Run 2]
-|[wiki:platformsimplementations_atmega1281_16mhz_blake32_light light] || 1553166 || 8260 || 705 || [wiki:compilernames avr-gcc -Os] || 4.3.4 (GCC) || [wiki:runs_2 Run 2]
-|[wiki:platformsimplementations_atmega1281_16mhz_blake32_sphlib-small sphlib-small] || 1598463 || 10522 || 1112 || [wiki:compilernames avr-gcc -O1] || 4.3.4 (GCC) || [wiki:runs_2 Run 2]
-|[wiki:platformsimplementations_atmega1281_16mhz_blake32_armcryptolib armcryptolib] || 1688147 || 23226 || 587 || [wiki:compilernames avr-gcc -O3] || 4.3.4 (GCC) || [wiki:runs_2 Run 2]
-|[wiki:platformsimplementations_atmega1281_16mhz_blake32_avrcryptolib avrcryptolib] || 1757626 || 3752 || 279 || [wiki:compilernames avr-gcc -O2] || 4.3.4 (GCC) || [wiki:runs_2 Run 2]
+|[wiki:platformsimplementations_atmega1281_16mhz_blake32_sphlib sphlib] || 1419667 || 39902 || 1764 || [wiki:compilernames avr-gcc 1281 -O3] || 4.3.4 (GCC) || [wiki:runs_2 Run 2]
+|[wiki:platformsimplementations_atmega1281_16mhz_blake32_light light] || 1553166 || 8260 || 705 || [wiki:compilernames avr-gcc 1281 -Os] || 4.3.4 (GCC) || [wiki:runs_2 Run 2]
+|[wiki:platformsimplementations_atmega1281_16mhz_blake32_sphlib-small sphlib-small] || 1598463 || 10522 || 1112 || [wiki:compilernames avr-gcc 1281 -O1] || 4.3.4 (GCC) || [wiki:runs_2 Run 2]
+|[wiki:platformsimplementations_atmega1281_16mhz_blake32_armcryptolib armcryptolib] || 1688147 || 23226 || 587 || [wiki:compilernames avr-gcc 1281 -O3] || 4.3.4 (GCC) || [wiki:runs_2 Run 2]
+|[wiki:platformsimplementations_atmega1281_16mhz_blake32_avrcryptolib avrcryptolib] || 1757626 || 3752 || 279 || [wiki:compilernames avr-gcc 1281 -O2] || 4.3.4 (GCC) || [wiki:runs_2 Run 2]

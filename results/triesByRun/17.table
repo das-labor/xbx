@@ -1,4 +1,4 @@
-| '''Cipher''' || '''Implementation''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' 
+| '''Hash''' || '''Implementation''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' 
 |[wiki:ciphers_0hash 0hash] || [wiki:platformsimplementations_nslu2-openwrt_0hash_empty empty] || [wiki:compilernames armeb-uclibc-gcc -O0] || 4.1.2 || 2897139 || 7016 || 0 (22410) || 0 (388) || 0 (388) || 0(8) || Checksum OK
 |[wiki:ciphers_0hash 0hash] || [wiki:platformsimplementations_nslu2-openwrt_0hash_empty empty] || [wiki:compilernames armeb-uclibc-gcc -O1] || 4.1.2 || 674327 || 6683 || 0 (16198) || 0 (384) || 0 (384) || 0(16) || Checksum OK
 |[wiki:ciphers_0hash 0hash] || [wiki:platformsimplementations_nslu2-openwrt_0hash_empty empty] || [wiki:compilernames armeb-uclibc-gcc -O2] || 4.1.2 || 717302 || 6750 || 0 (16106) || 0 (384) || 0 (384) || 0(8) || Checksum OK

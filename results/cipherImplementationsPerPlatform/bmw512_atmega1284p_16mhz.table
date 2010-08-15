@@ -1,0 +1,4 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:platformsimplementations_atmega1284p_16mhz_bmw512_avrcryptolib avrcryptolib] || 5326436 || 17896 || 1140 || [wiki:compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || [wiki:runs_21 Run 21]
+|[wiki:platformsimplementations_atmega1284p_16mhz_bmw512_sphlib-small sphlib-small] || 5383817 || 84518 || 2290 || [wiki:compilernames avr-gcc 1284p -Os] || 4.3.4 (GCC) || [wiki:runs_22 Run 22]
+|[wiki:platformsimplementations_atmega1284p_16mhz_bmw512_ref ref] || 5592872 || 104310 || 2454 || [wiki:compilernames avr-gcc 1284p -Os] || 4.3.4 (GCC) || [wiki:runs_21 Run 21]

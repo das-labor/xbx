@@ -1,4 +1,4 @@
-| '''Cipher''' || '''Implementation''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' 
+| '''Hash''' || '''Implementation''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' 
 |[wiki:ciphers_0hash 0hash] || [wiki:platformsimplementations_fritzbox-7170_0hash_empty empty] || [wiki:compilernames mips-uclib-gcc -O0] || 4.2.1 || 1755426 || 13383 || 0 (42150) || 0 (944) || 0 (944) || 0(48) || Checksum OK
 |[wiki:ciphers_0hash 0hash] || [wiki:platformsimplementations_fritzbox-7170_0hash_empty empty] || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || 221553 || 12866 || 0 (33045) || 0 (940) || 0 (940) || 0(56) || Checksum OK
 |[wiki:ciphers_0hash 0hash] || [wiki:platformsimplementations_fritzbox-7170_0hash_empty empty] || [wiki:compilernames mips-uclib-gcc -O2] || 4.2.1 || 237957 || 12720 || 0 (31445) || 0 (940) || 0 (940) || 0(56) || Checksum OK

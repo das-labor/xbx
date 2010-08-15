@@ -2,6 +2,14 @@
 == Platform fritzbox-7170 (SHA3 Round 2 Only) ==
 [wiki:platforms_fritzbox-7170 Show all hash functions] 
 
+The AR7 is a MIPS based system-on-chip (SoC) manufactured by Texas Instruments.
+It is not sold to end customers and specifications are not generally public.
+
+However, there is a linux kernel available. See http://www.linux-mips.org/wiki/AR7
+
+The XBX team got their hands on an AR7 by modifying a DSL router from AVM:  
+http://www.avm.de/de/Produkte/FRITZBox/FRITZ_Box_Fon_WLAN/index.php
+
 
 
 [wiki:sha3platforms_fritzbox-7170#FastestAlgorithms FastestAlgorithms] - [wiki:sha3platforms_fritzbox-7170#SmallestAlgorithmsROM Smallest Algorithms (ROM)] - [wiki:sha3platforms_fritzbox-7170#SmallestAlgorithmsRAM Smallest Algorithms (RAM)]

@@ -1,4 +1,4 @@
-| '''Cipher''' || '''Implementation''' || '''Empty Message''' || '''8 byte''' || '''64 bytes''' || '''512 bytes''' || '''1024 bytes''' || '''2048 bytes''' || '''Long Messages''' || '''Details''' 
+| '''Hash''' || '''Implementation''' || '''Empty Message''' || '''8 Bytes''' || '''64 Bytes''' || '''512 Bytes''' || '''1024 Bytes''' || '''2048 Bytes''' || '''Long Messages''' || '''Details''' 
 |[wiki:ciphers_0hash 0hash] || [wiki:platformsimplementations_nslu2-openwrt_0hash_empty empty] || 6367 || 806 || 99 || 13 || 7 || 3 || 0 || [wiki:measureDetailsPage_20_0hash_empty Details]
 |[wiki:ciphers_blake32 blake32] || [wiki:platformsimplementations_nslu2-openwrt_blake32_sphlib sphlib] || 28163 || 3514 || 488 || 102 || 74 || 60 || 46 || [wiki:measureDetailsPage_20_blake32_sphlib Details]
 |[wiki:ciphers_blake64 blake64] || [wiki:platformsimplementations_nslu2-openwrt_blake64_sphlib-small sphlib-small] || 38819 || 4794 || 610 || 225 || 187 || 167 || 147 || [wiki:measureDetailsPage_20_blake64_sphlib-small Details]

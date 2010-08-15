@@ -1,4 +1,4 @@
-| '''Cipher''' || '''Implementation''' || '''Empty Message''' || '''8 byte''' || '''64 bytes''' || '''512 bytes''' || '''1024 bytes''' || '''2048 bytes''' || '''Long Messages''' || '''Details''' 
+| '''Hash''' || '''Implementation''' || '''Empty Message''' || '''8 Bytes''' || '''64 Bytes''' || '''512 Bytes''' || '''1024 Bytes''' || '''2048 Bytes''' || '''Long Messages''' || '''Details''' 
 |[wiki:ciphers_0hash 0hash] || [wiki:platformsimplementations_atmega1281_16mhz_0hash_empty empty] || 72 || 9 || 1 || 0 || 0 || 0 || 0 || [wiki:measureDetailsPage_4_0hash_empty Details]
 |[wiki:ciphers_blake32 blake32] || [wiki:platformsimplementations_atmega1281_16mhz_blake32_sphlib sphlib] || 60206 || 7521 || 1841 || 1004 || 944 || 914 || 884 || [wiki:measureDetailsPage_4_blake32_sphlib Details]
 |[wiki:ciphers_blake64 blake64] || [wiki:platformsimplementations_atmega1281_16mhz_blake64_armcryptolib armcryptolib] || 497825 || 62252 || 7788 || 4767 || 4281 || 4038 || 3795 || [wiki:measureDetailsPage_4_blake64_armcryptolib Details]
