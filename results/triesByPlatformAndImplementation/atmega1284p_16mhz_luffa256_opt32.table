@@ -1,0 +1,11 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20100801 || blix || [wiki:compilernames avr-gcc 1284p -O0] || 4.3.4 (GCC) ||  ||  || 64514 (84390) || 240 (908) || 0 (908) || unk(unk) || error || [wiki:runs_21 Run 21]
+|20100802 || blix || [wiki:compilernames avr-gcc 1284p -O0] || 4.3.4 (GCC) ||  ||  || 64514 (84390) || 240 (908) || 0 (908) || unk(unk) || error || [wiki:runs_22 Run 22]
+|20100801 || blix || [wiki:compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || 11668392 || 635477 || 23362 (32492) || 240 (652) || 0 (652) || 292(292) || Checksum failed || [wiki:runs_21 Run 21]
+|20100802 || blix || [wiki:compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || 11668390 || 635477 || 23362 (32492) || 240 (652) || 0 (652) || 292(292) || Checksum failed || [wiki:runs_22 Run 22]
+|20100801 || blix || [wiki:compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || 12474729 || 783517 || 22442 (30688) || 240 (652) || 0 (652) || 325(325) || Checksum failed || [wiki:runs_21 Run 21]
+|20100802 || blix || [wiki:compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || 12474727 || 783517 || 22442 (30688) || 240 (652) || 0 (652) || 325(325) || Checksum failed || [wiki:runs_22 Run 22]
+|20100801 || blix || [wiki:compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || 11473401 || 688398 || 29562 (37830) || 240 (652) || 0 (652) || 338(338) || Checksum failed || [wiki:runs_21 Run 21]
+|20100802 || blix || [wiki:compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || 11473399 || 688398 || 29562 (37830) || 240 (652) || 0 (652) || 338(338) || Checksum failed || [wiki:runs_22 Run 22]
+|20100801 || blix || [wiki:compilernames avr-gcc 1284p -Os] || 4.3.4 (GCC) || 11195588 || 635724 || 18840 (26546) || 240 (652) || 0 (652) || 291(291) || Checksum failed || [wiki:runs_21 Run 21]
+|20100802 || blix || [wiki:compilernames avr-gcc 1284p -Os] || 4.3.4 (GCC) || 11195587 || 635724 || 18840 (26546) || 240 (652) || 0 (652) || 291(291) || Checksum failed || [wiki:runs_22 Run 22]

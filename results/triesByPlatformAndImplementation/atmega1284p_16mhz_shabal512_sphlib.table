@@ -1,0 +1,11 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20100801 || blix || [wiki:compilernames avr-gcc 1284p -O0] || 4.3.4 (GCC) ||  ||  || 77800 (97676) || 880 (1548) || 32 (1548) || unk(unk) || error || [wiki:runs_21 Run 21]
+|20100802 || blix || [wiki:compilernames avr-gcc 1284p -O0] || 4.3.4 (GCC) ||  ||  || 77800 (97676) || 880 (1548) || 32 (1548) || unk(unk) || error || [wiki:runs_22 Run 22]
+|20100801 || blix || [wiki:compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || 23028282 || 842572 || 78042 (87172) || 880 (1292) || 32 (1292) || 1822(1822) || Checksum OK || [wiki:runs_21 Run 21]
+|20100802 || blix || [wiki:compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || 23028279 || 842572 || 78042 (87172) || 880 (1292) || 32 (1292) || 1822(1822) || Checksum OK || [wiki:runs_22 Run 22]
+|20100801 || blix || [wiki:compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || 22713241 || 860465 || 79064 (87310) || 880 (1292) || 32 (1292) || 1792(1792) || Checksum OK || [wiki:runs_21 Run 21]
+|20100802 || blix || [wiki:compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || 22713236 || 860466 || 79064 (87310) || 880 (1292) || 32 (1292) || 1792(1792) || Checksum OK || [wiki:runs_22 Run 22]
+|20100801 || blix || [wiki:compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || 22698018 || 860348 || 79026 (87294) || 880 (1292) || 32 (1292) || 1820(1820) || Checksum OK || [wiki:runs_21 Run 21]
+|20100802 || blix || [wiki:compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || 22698014 || 860348 || 79026 (87294) || 880 (1292) || 32 (1292) || 1820(1820) || Checksum OK || [wiki:runs_22 Run 22]
+|20100801 || blix || [wiki:compilernames avr-gcc 1284p -Os] || 4.3.4 (GCC) || 23045897 || 867016 || 77212 (84918) || 880 (1292) || 32 (1292) || 1792(1792) || Checksum OK || [wiki:runs_21 Run 21]
+|20100802 || blix || [wiki:compilernames avr-gcc 1284p -Os] || 4.3.4 (GCC) || 23045893 || 867017 || 77212 (84918) || 880 (1292) || 32 (1292) || 1792(1792) || Checksum OK || [wiki:runs_22 Run 22]

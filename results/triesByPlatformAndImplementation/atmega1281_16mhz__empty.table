@@ -1,0 +1,51 @@
+Syntax: 
+  report.pl OPTIONS COMMAND
+COMMANDS:
+  help
+           This help
+  cipherImplementationsPerPlatform CIPHERNAME PLATFORMNAME
+         List all implementations of one cipher on one platform (from fastest runs)
+  ciphers
+         List all ciphers
+  ciphersPerPlatform PLATFORMNAME
+         List ciphers benched for a platform
+  compilerNames 
+         Lists all compilers having a shortname
+  driftByRun RUNID
+         Lists drift measurents for a run
+  excludedRuns
+         List all excluded runs
+  fastestPerCipher CIPHERNAME
+         List fastest implementation of one cipher on each platform
+  fastestPerPlatform PLATFORMNAME
+         List fastest implementation of each cipher on a platform
+  measureCompare RUNID1 RUNID2
+         Shows the differences in measure results between two runs
+  measureDetails RUNID CIPHERNAME IMPLEMENTATIONNAME
+         Lists measurement and steck details for a specific run and implementation
+  measuresByRun RUNID
+         List all measurements for a run
+  platformImplementations
+         List all valid platform - cipher - implementations triples
+  platforms
+         List all platforms
+  runs
+         List all valid runs
+  smallestRamPerPlatform PLATFORMNAME
+         List smallest (RAM) implementation of each cipher on a platform
+  smallestRomPerPlatform PLATFORMNAME
+         List smallest (ROM) implementation of each cipher per platform
+  triesByPlatformAndImplementation PLATFORMNAME CIPHERNAME IMPLEMENTATIONNAME
+         List all tries for a specific cipher implementation and platform
+  triesByRun RUNID
+         List all tries for a run
+  tryCompare RUNID1 RUNID2
+         Shows the differences in try results between two runs
+  tryOutliers 
+         Detects outliers in try results
+OPTIONS
+  -w, --wiki		Format tables using wiki syntax
+  -j, --json		Output JSON
+  -c, --csv		Output CSV (;")
+  -l, --latex		Output LaTex table
+  -s, --special		Only ciphers flagged 'special consideration'

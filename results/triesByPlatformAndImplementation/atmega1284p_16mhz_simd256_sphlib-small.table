@@ -1,0 +1,11 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20100801 || blix || [wiki:compilernames avr-gcc 1284p -O0] || 4.3.4 (GCC) ||  ||  || 52254 (72130) || 1686 (2354) || 0 (2354) || unk(unk) || error || [wiki:runs_21 Run 21]
+|20100802 || blix || [wiki:compilernames avr-gcc 1284p -O0] || 4.3.4 (GCC) ||  ||  || 52254 (72130) || 1686 (2354) || 0 (2354) || unk(unk) || error || [wiki:runs_22 Run 22]
+|20100801 || blix || [wiki:compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || 71084527 || 4706195 || 33422 (42552) || 1686 (2098) || 0 (2098) || 1284(1284) || Checksum OK || [wiki:runs_21 Run 21]
+|20100802 || blix || [wiki:compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || 71084504 || 4706307 || 33422 (42552) || 1686 (2098) || 0 (2098) || 1284(1284) || Checksum OK || [wiki:runs_22 Run 22]
+|20100802 || blix || [wiki:compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || 67809175 || 4523780 || 30912 (39158) || 1686 (2098) || 0 (2098) || 1358(1358) || Checksum OK || [wiki:runs_22 Run 22]
+|20100801 || blix || [wiki:compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || 67809196 || 4523886 || 30912 (39158) || 1686 (2098) || 0 (2098) || 1358(1358) || Checksum OK || [wiki:runs_21 Run 21]
+|20100801 || blix || [wiki:compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || 65973449 || 4393248 || 46904 (55172) || 1622 (2034) || 0 (2034) || 1360(1360) || Checksum OK || [wiki:runs_21 Run 21]
+|20100802 || blix || [wiki:compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || 65973429 || 4393281 || 46904 (55172) || 1622 (2034) || 0 (2034) || 1360(1360) || Checksum OK || [wiki:runs_22 Run 22]
+|20100802 || blix || [wiki:compilernames avr-gcc 1284p -Os] || 4.3.4 (GCC) || 68877692 || 4587465 || 30244 (37950) || 1686 (2098) || 0 (2098) || 1350(1350) || Checksum OK || [wiki:runs_22 Run 22]
+|20100801 || blix || [wiki:compilernames avr-gcc 1284p -Os] || 4.3.4 (GCC) || 68877713 || 4587529 || 30244 (37950) || 1686 (2098) || 0 (2098) || 1350(1350) || Checksum OK || [wiki:runs_21 Run 21]

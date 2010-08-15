@@ -1,4 +1,10 @@
 | '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
-|20100708 || blix || [wiki:compilernames avr-gcc atmega1281 O1] || 4.3.4 (GCC) || 120088953 || 5590131 || 85154 (94124) || 384 (702) || 32 (702) || 2098(2098) || Checksum OK || [wiki:runs_9 Run 9]
-|20100708 || blix || [wiki:compilernames avr-gcc atmega1281 O2] || 4.3.4 (GCC) || 116451529 || 5443477 || 87892 (95924) || 384 (702) || 32 (702) || 1954(1954) || Checksum OK || [wiki:runs_9 Run 9]
-|20100708 || blix || [wiki:compilernames avr-gcc atmega1281 Os] || 4.3.4 (GCC) || 115418554 || 5383751 || 84134 (91688) || 384 (702) || 32 (702) || 1874(1874) || Checksum OK || [wiki:runs_9 Run 9]
+|20100722 || blix || [wiki:compilernames avr-gcc 1281 -O1] || 4.3.4 (GCC) || 120089567 || 5590159 || 85154 (94348) || 384 (796) || 32 (796) || 2098(2098) || Checksum OK || [wiki:runs_2 Run 2]
+|20100727 || blix || [wiki:compilernames avr-gcc 1281 -O1] || 4.3.4 (GCC) || 120089814 || 5590171 || 85154 (94348) || 384 (796) || 32 (796) || 2098(2098) || Checksum OK || [wiki:runs_3 Run 3]
+|20100728 || blix || [wiki:compilernames avr-gcc 1281 -O1] || 4.3.4 (GCC) || 120090294 || 5590192 || 85154 (94348) || 384 (796) || 32 (796) || 2098(2098) || Checksum OK || [wiki:runs_4 Run 4]
+|20100722 || blix || [wiki:compilernames avr-gcc 1281 -O2] || 4.3.4 (GCC) || 116452129 || 5443504 || 87892 (96202) || 384 (796) || 32 (796) || 1954(1954) || Checksum OK || [wiki:runs_2 Run 2]
+|20100727 || blix || [wiki:compilernames avr-gcc 1281 -O2] || 4.3.4 (GCC) || 116452369 || 5443515 || 87892 (96202) || 384 (796) || 32 (796) || 1954(1954) || Checksum OK || [wiki:runs_3 Run 3]
+|20100728 || blix || [wiki:compilernames avr-gcc 1281 -O2] || 4.3.4 (GCC) || 116452828 || 5443537 || 87892 (96202) || 384 (796) || 32 (796) || 1954(1954) || Checksum OK || [wiki:runs_4 Run 4]
+|20100722 || blix || [wiki:compilernames avr-gcc 1281 -Os] || 4.3.4 (GCC) || 115419165 || 5383780 || 84134 (91904) || 384 (796) || 32 (796) || 1874(1874) || Checksum OK || [wiki:runs_2 Run 2]
+|20100727 || blix || [wiki:compilernames avr-gcc 1281 -Os] || 4.3.4 (GCC) || 115419388 || 5383789 || 84134 (91904) || 384 (796) || 32 (796) || 1874(1874) || Checksum OK || [wiki:runs_3 Run 3]
+|20100728 || blix || [wiki:compilernames avr-gcc 1281 -Os] || 4.3.4 (GCC) || 115419844 || 5383811 || 84134 (91904) || 384 (796) || 32 (796) || 1874(1874) || Checksum OK || [wiki:runs_4 Run 4]

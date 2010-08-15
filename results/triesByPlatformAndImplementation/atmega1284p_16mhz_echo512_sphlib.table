@@ -1,0 +1,11 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20100801 || blix || [wiki:compilernames avr-gcc 1284p -O0] || 4.3.4 (GCC) ||  ||  || 57182 (77058) || 4096 (4764) || 32 (4764) || unk(unk) || error || [wiki:runs_21 Run 21]
+|20100802 || blix || [wiki:compilernames avr-gcc 1284p -O0] || 4.3.4 (GCC) ||  ||  || 57182 (77058) || 4096 (4764) || 32 (4764) || unk(unk) || error || [wiki:runs_22 Run 22]
+|20100801 || blix || [wiki:compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || 52342608 || 3768418 || 42696 (51826) || 4096 (4508) || 32 (4508) || 1249(1249) || Checksum OK || [wiki:runs_21 Run 21]
+|20100802 || blix || [wiki:compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || 52342604 || 3768418 || 42696 (51826) || 4096 (4508) || 32 (4508) || 1249(1249) || Checksum OK || [wiki:runs_22 Run 22]
+|20100802 || blix || [wiki:compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || 51809847 || 3785088 || 42778 (51024) || 4096 (4508) || 32 (4508) || 1269(1269) || Checksum OK || [wiki:runs_22 Run 22]
+|20100801 || blix || [wiki:compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || 51809852 || 3785089 || 42778 (51024) || 4096 (4508) || 32 (4508) || 1269(1269) || Checksum OK || [wiki:runs_21 Run 21]
+|20100802 || blix || [wiki:compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || 51563665 || 3764993 || 43816 (52084) || 4096 (4508) || 32 (4508) || 1276(1276) || Checksum OK || [wiki:runs_22 Run 22]
+|20100801 || blix || [wiki:compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || 51563668 || 3764994 || 43816 (52084) || 4096 (4508) || 32 (4508) || 1276(1276) || Checksum OK || [wiki:runs_21 Run 21]
+|20100802 || blix || [wiki:compilernames avr-gcc 1284p -Os] || 4.3.4 (GCC) || 50885326 || 3697776 || 41184 (48890) || 4096 (4508) || 32 (4508) || 1239(1239) || Checksum OK || [wiki:runs_22 Run 22]
+|20100801 || blix || [wiki:compilernames avr-gcc 1284p -Os] || 4.3.4 (GCC) || 50885329 || 3697777 || 41184 (48890) || 4096 (4508) || 32 (4508) || 1239(1239) || Checksum OK || [wiki:runs_21 Run 21]

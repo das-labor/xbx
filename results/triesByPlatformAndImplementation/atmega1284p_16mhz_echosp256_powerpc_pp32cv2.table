@@ -1,0 +1,9 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20100801 || blix || [wiki:compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || 45680894 || 1897842 || 44598 (53728) || 4352 (4764) || 11 (4764) || 1005(1005) || Checksum failed || [wiki:runs_21 Run 21]
+|20100802 || blix || [wiki:compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || 45680889 || 1897842 || 44598 (53728) || 4352 (4764) || 11 (4764) || 1005(1005) || Checksum failed || [wiki:runs_22 Run 22]
+|20100801 || blix || [wiki:compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || 45812540 || 1941369 || 47008 (55254) || 4352 (4764) || 11 (4764) || 1226(1226) || Checksum failed || [wiki:runs_21 Run 21]
+|20100802 || blix || [wiki:compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || 45812536 || 1941369 || 47008 (55254) || 4352 (4764) || 11 (4764) || 1226(1226) || Checksum failed || [wiki:runs_22 Run 22]
+|20100801 || blix || [wiki:compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || 34300771 || 1408855 || 47906 (56174) || 4352 (4764) || 11 (4764) || 1260(1260) || Checksum failed || [wiki:runs_21 Run 21]
+|20100802 || blix || [wiki:compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || 34300768 || 1408855 || 47906 (56174) || 4352 (4764) || 11 (4764) || 1260(1260) || Checksum failed || [wiki:runs_22 Run 22]
+|20100802 || blix || [wiki:compilernames avr-gcc 1284p -Os] || 4.3.4 (GCC) || 49568429 || 2120460 || 44274 (51980) || 4352 (4764) || 11 (4764) || 1208(1208) || Checksum failed || [wiki:runs_22 Run 22]
+|20100801 || blix || [wiki:compilernames avr-gcc 1284p -Os] || 4.3.4 (GCC) || 49568435 || 2120461 || 44274 (51980) || 4352 (4764) || 11 (4764) || 1208(1208) || Checksum failed || [wiki:runs_21 Run 21]

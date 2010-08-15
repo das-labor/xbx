@@ -1,0 +1,11 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20100801 || blix || [wiki:compilernames avr-gcc 1284p -O0] || 4.3.4 (GCC) ||  ||  || 12786 (32662) || 288 (956) || 0 (956) || unk(unk) || error || [wiki:runs_21 Run 21]
+|20100802 || blix || [wiki:compilernames avr-gcc 1284p -O0] || 4.3.4 (GCC) ||  ||  || 12786 (32662) || 288 (956) || 0 (956) || unk(unk) || error || [wiki:runs_22 Run 22]
+|20100801 || blix || [wiki:compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || 20821776 || 1585104 || 8892 (18022) || 288 (700) || 0 (700) || 455(455) || Checksum OK || [wiki:runs_21 Run 21]
+|20100802 || blix || [wiki:compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || 20821780 || 1585105 || 8892 (18022) || 288 (700) || 0 (700) || 455(455) || Checksum OK || [wiki:runs_22 Run 22]
+|20100801 || blix || [wiki:compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || 20293900 || 1605740 || 9056 (17302) || 288 (700) || 0 (700) || 479(479) || Checksum OK || [wiki:runs_21 Run 21]
+|20100802 || blix || [wiki:compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || 20293904 || 1605741 || 9056 (17302) || 288 (700) || 0 (700) || 479(479) || Checksum OK || [wiki:runs_22 Run 22]
+|20100801 || blix || [wiki:compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || 19986967 || 1589064 || 17674 (25942) || 288 (700) || 0 (700) || 558(558) || Checksum OK || [wiki:runs_21 Run 21]
+|20100802 || blix || [wiki:compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || 19986971 || 1589065 || 17674 (25942) || 288 (700) || 0 (700) || 558(558) || Checksum OK || [wiki:runs_22 Run 22]
+|20100801 || blix || [wiki:compilernames avr-gcc 1284p -Os] || 4.3.4 (GCC) || 20215020 || 1553177 || 7972 (15678) || 288 (700) || 0 (700) || 417(417) || Checksum OK || [wiki:runs_21 Run 21]
+|20100802 || blix || [wiki:compilernames avr-gcc 1284p -Os] || 4.3.4 (GCC) || 20215024 || 1553178 || 7972 (15678) || 288 (700) || 0 (700) || 417(417) || Checksum OK || [wiki:runs_22 Run 22]

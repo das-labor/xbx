@@ -1,0 +1,11 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20100801 || blix || [wiki:compilernames avr-gcc 1284p -O0] || 4.3.4 (GCC) ||  ||  || 96686 (116562) || 2048 (2716) || 43 (2716) || unk(unk) || error || [wiki:runs_21 Run 21]
+|20100802 || blix || [wiki:compilernames avr-gcc 1284p -O0] || 4.3.4 (GCC) ||  ||  || 96686 (116562) || 2048 (2716) || 43 (2716) || unk(unk) || error || [wiki:runs_22 Run 22]
+|20100801 || blix || [wiki:compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || 38478621 || 1879085 || 39030 (48160) || 2304 (2716) || 43 (2716) || 749(749) || Checksum failed || [wiki:runs_21 Run 21]
+|20100802 || blix || [wiki:compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || 38478618 || 1879085 || 39030 (48160) || 2304 (2716) || 43 (2716) || 749(749) || Checksum failed || [wiki:runs_22 Run 22]
+|20100801 || blix || [wiki:compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || 37577999 || 1867820 || 42268 (50514) || 2304 (2716) || 43 (2716) || 959(959) || Checksum failed || [wiki:runs_21 Run 21]
+|20100802 || blix || [wiki:compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || 37577996 || 1867820 || 42268 (50514) || 2304 (2716) || 43 (2716) || 959(959) || Checksum failed || [wiki:runs_22 Run 22]
+|20100801 || blix || [wiki:compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || 36654829 || 1915650 || 44044 (52312) || 2304 (2716) || 43 (2716) || 1054(1054) || Checksum failed || [wiki:runs_21 Run 21]
+|20100802 || blix || [wiki:compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || 36654826 || 1915650 || 44044 (52312) || 2304 (2716) || 43 (2716) || 1054(1054) || Checksum failed || [wiki:runs_22 Run 22]
+|20100801 || blix || [wiki:compilernames avr-gcc 1284p -Os] || 4.3.4 (GCC) || 37737839 || 1861245 || 39302 (47008) || 2304 (2716) || 43 (2716) || 941(941) || Checksum failed || [wiki:runs_21 Run 21]
+|20100802 || blix || [wiki:compilernames avr-gcc 1284p -Os] || 4.3.4 (GCC) || 37737836 || 1861245 || 39302 (47008) || 2304 (2716) || 43 (2716) || 941(941) || Checksum failed || [wiki:runs_22 Run 22]
