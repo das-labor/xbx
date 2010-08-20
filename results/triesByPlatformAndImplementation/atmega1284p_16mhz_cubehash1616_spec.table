@@ -7,5 +7,5 @@
 |20100802 || blix || [wiki:compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || 759493461 || 40875057 || 5280 (13526) || 8 (420) || 32 (420) || 628(628) || Checksum OK || [wiki:runs_22 Run 22]
 |20100801 || blix || [wiki:compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || 765946639 || 41828318 || 6478 (14746) || 8 (420) || 32 (420) || 786(786) || Checksum OK || [wiki:runs_21 Run 21]
 |20100802 || blix || [wiki:compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || 765946697 || 41828333 || 6478 (14746) || 8 (420) || 32 (420) || 786(786) || Checksum OK || [wiki:runs_22 Run 22]
-|20100802 || blix || [wiki:compilernames avr-gcc 1284p -Os] || 4.3.4 (GCC) || 828446976 || 45079417 || 5120 (12826) || 8 (420) || 32 (420) || 628(628) || Checksum OK || [wiki:runs_22 Run 22]
 |20100801 || blix || [wiki:compilernames avr-gcc 1284p -Os] || 4.3.4 (GCC) || 828446913 || 45079438 || 5120 (12826) || 8 (420) || 32 (420) || 628(628) || Checksum OK || [wiki:runs_21 Run 21]
+|20100802 || blix || [wiki:compilernames avr-gcc 1284p -Os] || 4.3.4 (GCC) || 828446976 || 45079417 || 5120 (12826) || 8 (420) || 32 (420) || 628(628) || Checksum OK || [wiki:runs_22 Run 22]

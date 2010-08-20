@@ -12,6 +12,6 @@
 |20100728 || blix || [wiki:compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || 4919654 || 329727 || 24468 (34344) || 0 (24) || 0 (24) || 888(888) || Checksum OK || [wiki:runs_7 Run 7]
 |20100728 || blix || [wiki:compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || 4919654 || 329727 || 24468 (34344) || 0 (24) || 0 (24) || 888(888) || Checksum OK || [wiki:runs_8 Run 8]
 |20100721 || blix || [wiki:compilernames arm-elf-gcc -Os] || 4.3.2 (GCC) || 4616531 || 295861 || 17496 (25889) || 0 (24) || 0 (24) || 884(884) || Checksum OK || [wiki:runs_5 Run 5]
-|20100728 || blix || [wiki:compilernames arm-elf-gcc -Os] || 4.3.2 (GCC) || 4616531 || 295861 || 17496 (25889) || 0 (24) || 0 (24) || 884(884) || Checksum OK || [wiki:runs_8 Run 8]
 |20100727 || blix || [wiki:compilernames arm-elf-gcc -Os] || 4.3.2 (GCC) || 4616531 || 295862 || 17496 (25889) || 0 (24) || 0 (24) || 884(884) || Checksum OK || [wiki:runs_6 Run 6]
 |20100728 || blix || [wiki:compilernames arm-elf-gcc -Os] || 4.3.2 (GCC) || 4616531 || 295862 || 17496 (25889) || 0 (24) || 0 (24) || 884(884) || Checksum OK || [wiki:runs_7 Run 7]
+|20100728 || blix || [wiki:compilernames arm-elf-gcc -Os] || 4.3.2 (GCC) || 4616531 || 295861 || 17496 (25889) || 0 (24) || 0 (24) || 884(884) || Checksum OK || [wiki:runs_8 Run 8]

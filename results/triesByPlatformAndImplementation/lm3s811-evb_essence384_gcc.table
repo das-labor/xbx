@@ -1,8 +1,8 @@
 | '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
 |20100721 || blix || [wiki:compilernames arm-elf-gcc -O1] || 4.3.2 (GCC) || 98400116 || 5168470 || 30776 (40360) || 3168 (3192) || 16 (3192) || 888(888) || Checksum failed || [wiki:runs_5 Run 5]
 |20100727 || blix || [wiki:compilernames arm-elf-gcc -O1] || 4.3.2 (GCC) || 98400141 || 5168471 || 30776 (40360) || 3168 (3192) || 16 (3192) || 888(888) || Checksum failed || [wiki:runs_6 Run 6]
-|20100728 || blix || [wiki:compilernames arm-elf-gcc -O1] || 4.3.2 (GCC) || 98400140 || 5168471 || 30776 (40360) || 3168 (3192) || 16 (3192) || 888(888) || Checksum failed || [wiki:runs_8 Run 8]
 |20100728 || blix || [wiki:compilernames arm-elf-gcc -O1] || 4.3.2 (GCC) || 98400151 || 5168472 || 30776 (40360) || 3168 (3192) || 16 (3192) || 888(888) || Checksum failed || [wiki:runs_7 Run 7]
+|20100728 || blix || [wiki:compilernames arm-elf-gcc -O1] || 4.3.2 (GCC) || 98400140 || 5168471 || 30776 (40360) || 3168 (3192) || 16 (3192) || 888(888) || Checksum failed || [wiki:runs_8 Run 8]
 |20100721 || blix || [wiki:compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || 97900161 || 5144110 || 27852 (36748) || 3168 (3192) || 16 (3192) || 884(884) || Checksum failed || [wiki:runs_5 Run 5]
 |20100727 || blix || [wiki:compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || 97900186 || 5144112 || 27852 (36748) || 3168 (3192) || 16 (3192) || 884(884) || Checksum failed || [wiki:runs_6 Run 6]
 |20100728 || blix || [wiki:compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || 97900196 || 5144112 || 27852 (36748) || 3168 (3192) || 16 (3192) || 884(884) || Checksum failed || [wiki:runs_7 Run 7]

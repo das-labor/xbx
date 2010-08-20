@@ -1,4 +1,8 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:platformsimplementations_artila_m501_keccak256_opt32u6 opt32u6] || 269978 || 55372 || 263140 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_16 Run 16]
+|[wiki:platformsimplementations_artila_m501_keccak256_opt32u2 opt32u2] || 285221 || 26864 || 263128 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_13 Run 13]
 |[wiki:platformsimplementations_artila_m501_keccak256_sphlib-small sphlib-small] || 523474 || 17300 || 1732 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_14 Run 14]
+|[wiki:platformsimplementations_artila_m501_keccak256_opt64u24 opt64u24] || 1461375 || 299992 || 1088 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_16 Run 16]
+|[wiki:platformsimplementations_artila_m501_keccak256_opt64u6 opt64u6] || 1501436 || 84128 || 1100 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_13 Run 13]
 |[wiki:platformsimplementations_artila_m501_keccak256_armcryptolib armcryptolib] || 1537301 || 3332 || 680 || [wiki:compilernames arm-artila-gcc -O3] || 3.3.2 || [wiki:runs_15 Run 15]
 |[wiki:platformsimplementations_artila_m501_keccak256_sphlib sphlib] || 2348336 || 26768 || 2392 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_14 Run 14]
