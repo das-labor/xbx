@@ -1,2 +1,6 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:platformsimplementations_nslu2-openwrt_shabal256_sphlib sphlib] || 94081 || 17840 || 1572 || [wiki:compilernames armeb-uclibc-gcc -Os] || 4.1.2 || [wiki:runs_20 Run 20]
+|[wiki:platformsimplementations_nslu2-openwrt_shabal256_tiny_armeb-mixed tiny_armeb-mixed] || 87614 || 560 || 556 || [wiki:compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:runs_24 Run 24]
+|[wiki:platformsimplementations_nslu2-openwrt_shabal256_sphlib sphlib] || 93732 || 17844 || 1572 || [wiki:compilernames armeb-uclibc-gcc -Os] || 4.1.2 || [wiki:runs_24 Run 24]
+|[wiki:platformsimplementations_nslu2-openwrt_shabal256_tiny_portable tiny_portable] || 115577 || 872 || 592 || [wiki:compilernames armeb-uclibc-gcc -Os] || 4.1.2 || [wiki:runs_24 Run 24]
+|[wiki:platformsimplementations_nslu2-openwrt_shabal256_tiny_armeb-thumb tiny_armeb-thumb] || 119949 || 428 || 548 || [wiki:compilernames armeb-uclibc-gcc -O2] || 4.1.2 || [wiki:runs_24 Run 24]
+|[wiki:platformsimplementations_nslu2-openwrt_shabal256_tiny_portable-lowram tiny_portable-lowram] || 125003 || 888 || 340 || [wiki:compilernames armeb-uclibc-gcc -Os] || 4.1.2 || [wiki:runs_24 Run 24]

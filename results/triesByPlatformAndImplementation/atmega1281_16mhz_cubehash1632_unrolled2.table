@@ -1,0 +1,6 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20101017 || clix || [wiki:compilernames avr-gcc 1281 -O0] || 4.3.4 (GCC) ||  ||  || 17100 (37040) || 0 (668) || 32 (2447) || unk(unk) || error || [wiki:runs_26 Run 26]
+|20101017 || clix || [wiki:compilernames avr-gcc 1281 -O1] || 4.3.4 (GCC) || 509643322 || 12578892 || 17806 (27000) || 0 (412) || 32 (2447) || 907(907) || Checksum OK || [wiki:runs_26 Run 26]
+|20101017 || clix || [wiki:compilernames avr-gcc 1281 -O2] || 4.3.4 (GCC) || 501507853 || 12338480 || 17046 (25356) || 0 (412) || 32 (2447) || 716(716) || Checksum OK || [wiki:runs_26 Run 26]
+|20101017 || clix || [wiki:compilernames avr-gcc 1281 -O3] || 4.3.4 (GCC) || 501510766 || 12339237 || 17080 (25412) || 0 (412) || 32 (2447) || 716(716) || Checksum OK || [wiki:runs_26 Run 26]
+|20101017 || clix || [wiki:compilernames avr-gcc 1281 -Os] || 4.3.4 (GCC) || 521727368 || 13274169 || 14722 (22492) || 0 (412) || 32 (2447) || 656(656) || Checksum OK || [wiki:runs_26 Run 26]

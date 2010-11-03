@@ -1,0 +1,6 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20101017 || clix || [wiki:compilernames arm-elf-gcc -O0] || 4.3.2 (GCC) ||  ||  || 2828 (17456) || 0 (24) || 32 (2520) || unk(unk) || error || [wiki:runs_23 Run 23]
+|20101017 || clix || [wiki:compilernames arm-elf-gcc -O1] || 4.3.2 (GCC) ||  ||  || 1956 (11540) || 0 (24) || 32 (2520) || unk(unk) || error || [wiki:runs_23 Run 23]
+|20101017 || clix || [wiki:compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || 2580366 || 184385 || 2128 (11024) || 0 (24) || 32 (2520) || 364(364) ||  || [wiki:runs_23 Run 23]
+|20101017 || clix || [wiki:compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || 2677725 || 192006 || 2440 (12316) || 0 (24) || 32 (2520) || 400(400) ||  || [wiki:runs_23 Run 23]
+|20101017 || clix || [wiki:compilernames arm-elf-gcc -Os] || 4.3.2 (GCC) || 3255310 || 223086 || 2668 (11061) || 0 (24) || 32 (2520) || 436(436) ||  || [wiki:runs_23 Run 23]

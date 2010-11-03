@@ -1,0 +1,6 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20101017 || clix || [wiki:compilernames mips-uclib-gcc -O0] || 4.2.1 || 88151455 || 2017193 || 5979 (48209) || 0 (944) || 32 (2872) || 552(600) || Checksum OK || [wiki:runs_25 Run 25]
+|20101017 || clix || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || 37723717 || 1041702 || 3307 (36400) || 0 (940) || 32 (2872) || 336(392) || Checksum OK || [wiki:runs_25 Run 25]
+|20101017 || clix || [wiki:compilernames mips-uclib-gcc -O2] || 4.2.1 || 29999034 || 885378 || 2795 (34272) || 0 (940) || 32 (2872) || 296(352) || Checksum OK || [wiki:runs_25 Run 25]
+|20101017 || clix || [wiki:compilernames mips-uclib-gcc -O3] || 4.2.1 || 25200162 || 490740 || 4107 (35640) || 0 (940) || 32 (2868) || 608(664) || Checksum OK || [wiki:runs_25 Run 25]
+|20101017 || clix || [wiki:compilernames mips-uclib-gcc -Os] || 4.2.1 || 30901173 || 887975 || 2699 (33881) || 0 (940) || 32 (2872) || 320(376) || Checksum OK || [wiki:runs_25 Run 25]

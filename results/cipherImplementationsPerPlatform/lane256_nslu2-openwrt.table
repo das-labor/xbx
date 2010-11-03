@@ -1,2 +1,2 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:platformsimplementations_nslu2-openwrt_lane256_c c] || 329574 || 104248 || 1260 || [wiki:compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:runs_20 Run 20]
+|[wiki:platformsimplementations_nslu2-openwrt_lane256_c c] || 326848 || 104272 || 1260 || [wiki:compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:runs_24 Run 24]

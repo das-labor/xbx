@@ -1,2 +1,2 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:platformsimplementations_nslu2-openwrt_shavite3256_256-nosalt-smallc 256-nosalt-smallc] || 263357 || 31688 || 5192 || [wiki:compilernames armeb-uclibc-gcc -O2] || 4.1.2 || [wiki:runs_20 Run 20]
+|[wiki:platformsimplementations_nslu2-openwrt_shavite3256_256-nosalt-smallc 256-nosalt-smallc] || 260979 || 31688 || 5192 || [wiki:compilernames armeb-uclibc-gcc -O2] || 4.1.2 || [wiki:runs_24 Run 24]

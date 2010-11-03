@@ -1,0 +1,6 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20101017 || clix || [wiki:compilernames armeb-uclibc-gcc -O0] || 4.1.2 || 12873419 || 857052 || 11292 (33746) || 0 (388) || 16 (2844) || 1264(1272) ||  || [wiki:runs_24 Run 24]
+|20101017 || clix || [wiki:compilernames armeb-uclibc-gcc -O1] || 4.1.2 || 8648109 || 541443 || 10016 (26250) || 4 (388) || 16 (2844) || 1360(1376) ||  || [wiki:runs_24 Run 24]
+|20101017 || clix || [wiki:compilernames armeb-uclibc-gcc -O2] || 4.1.2 || 9437248 || 630603 || 13244 (29386) || 4 (388) || 16 (2844) || 2696(2704) ||  || [wiki:runs_24 Run 24]
+|20101017 || clix || [wiki:compilernames armeb-uclibc-gcc -O3] || 4.1.2 || 9377514 || 610670 || 13244 (30298) || 4 (388) || 16 (2840) || 2696(2712) ||  || [wiki:runs_24 Run 24]
+|20101017 || clix || [wiki:compilernames armeb-uclibc-gcc -Os] || 4.1.2 || 9131448 || 606330 || 12988 (28734) || 4 (388) || 16 (2844) || 2728(2744) ||  || [wiki:runs_24 Run 24]

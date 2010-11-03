@@ -1,7 +1,7 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:platformsimplementations_lm3s811-evb_bmw512_sphlib sphlib] || 112922 || 15948 || 920 || [wiki:compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:runs_8 Run 8]
-|[wiki:platformsimplementations_lm3s811-evb_bmw512_armcryptolib-speed armcryptolib-speed] || 114112 || 21020 || 916 || [wiki:compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || [wiki:runs_8 Run 8]
-|[wiki:platformsimplementations_lm3s811-evb_bmw512_optc04 optc04] || 131170 || 37992 || 920 || [wiki:compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:runs_8 Run 8]
-|[wiki:platformsimplementations_lm3s811-evb_bmw512_ref ref] || 153774 || 12444 || 916 || [wiki:compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || [wiki:runs_8 Run 8]
+|[wiki:platformsimplementations_lm3s811-evb_bmw512_sphlib sphlib] || 112922 || 15948 || 920 || [wiki:compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:runs_23 Run 23]
+|[wiki:platformsimplementations_lm3s811-evb_bmw512_armcryptolib-speed armcryptolib-speed] || 114112 || 21020 || 916 || [wiki:compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || [wiki:runs_23 Run 23]
+|[wiki:platformsimplementations_lm3s811-evb_bmw512_optc04 optc04] || 131170 || 37992 || 920 || [wiki:compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:runs_23 Run 23]
+|[wiki:platformsimplementations_lm3s811-evb_bmw512_ref ref] || 153774 || 12444 || 916 || [wiki:compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || [wiki:runs_23 Run 23]
 |[wiki:platformsimplementations_lm3s811-evb_bmw512_sphlib-small sphlib-small] || 166866 || 8488 || 916 || [wiki:compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || [wiki:runs_5 Run 5]
 |[wiki:platformsimplementations_lm3s811-evb_bmw512_armcryptolib armcryptolib] || 180735 || 8592 || 920 || [wiki:compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:runs_7 Run 7]

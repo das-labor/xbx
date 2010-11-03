@@ -1,9 +1,9 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:platformsimplementations_artila_m501_bmw512_sphlib-small sphlib-small] || 160718 || 15612 || 1388 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_14 Run 14]
-|[wiki:platformsimplementations_artila_m501_bmw512_ref ref] || 164171 || 14680 || 1800 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_14 Run 14]
-|[wiki:platformsimplementations_artila_m501_bmw512_optc01 optc01] || 434048 || 76540 || 2640 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_16 Run 16]
+|[wiki:platformsimplementations_artila_m501_bmw512_sphlib-small sphlib-small] || 160639 || 15612 || 1388 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_27 Run 27]
+|[wiki:platformsimplementations_artila_m501_bmw512_ref ref] || 163935 || 14680 || 1800 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_27 Run 27]
+|[wiki:platformsimplementations_artila_m501_bmw512_optc01 optc01] || 433935 || 76540 || 2640 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_27 Run 27]
 |[wiki:platformsimplementations_artila_m501_bmw512_optc02 optc02] || 434205 || 76532 || 2528 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_14 Run 14]
-|[wiki:platformsimplementations_artila_m501_bmw512_armcryptolib-speed armcryptolib-speed] || 454376 || 38056 || 2840 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_16 Run 16]
+|[wiki:platformsimplementations_artila_m501_bmw512_armcryptolib-speed armcryptolib-speed] || 454309 || 38056 || 2840 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_27 Run 27]
 |[wiki:platformsimplementations_artila_m501_bmw512_sphlib sphlib] || 471656 || 29048 || 2016 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_15 Run 15]
 |[wiki:platformsimplementations_artila_m501_bmw512_armcryptolib armcryptolib] || 595271 || 13228 || 2332 || [wiki:compilernames arm-artila-gcc -O3] || 3.3.2 || [wiki:runs_16 Run 16]
 |[wiki:platformsimplementations_artila_m501_bmw512_optc03 optc03] || 658834 || 77236 || 1276 || [wiki:compilernames arm-artila-gcc -O0] || 3.3.2 || [wiki:runs_15 Run 15]

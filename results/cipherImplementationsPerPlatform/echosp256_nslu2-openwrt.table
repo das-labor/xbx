@@ -1,5 +1,5 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:platformsimplementations_nslu2-openwrt_echosp256_generic_opt32 generic_opt32] || 377437 || 31302 || 2792 || [wiki:compilernames armeb-uclibc-gcc -O3] || 4.1.2 || [wiki:runs_20 Run 20]
-|[wiki:platformsimplementations_nslu2-openwrt_echosp256_powerpc_pp32cv2 powerpc_pp32cv2] || 424470 || 38664 || 4676 || [wiki:compilernames armeb-uclibc-gcc -O3] || 4.1.2 || [wiki:runs_20 Run 20]
-|[wiki:platformsimplementations_nslu2-openwrt_echosp256_powerpc_pp32cv1 powerpc_pp32cv1] || 466631 || 24320 || 1356 || [wiki:compilernames armeb-uclibc-gcc -O3] || 4.1.2 || [wiki:runs_18 Run 18]
-|[wiki:platformsimplementations_nslu2-openwrt_echosp256_generic_opt64 generic_opt64] || 647411 || 35192 || 1884 || [wiki:compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:runs_17 Run 17]
+|[wiki:platformsimplementations_nslu2-openwrt_echosp256_generic_opt32 generic_opt32] || 374112 || 31302 || 2792 || [wiki:compilernames armeb-uclibc-gcc -O3] || 4.1.2 || [wiki:runs_24 Run 24]
+|[wiki:platformsimplementations_nslu2-openwrt_echosp256_powerpc_pp32cv2 powerpc_pp32cv2] || 417969 || 38664 || 4676 || [wiki:compilernames armeb-uclibc-gcc -O3] || 4.1.2 || [wiki:runs_24 Run 24]
+|[wiki:platformsimplementations_nslu2-openwrt_echosp256_powerpc_pp32cv1 powerpc_pp32cv1] || 461261 || 24320 || 1356 || [wiki:compilernames armeb-uclibc-gcc -O3] || 4.1.2 || [wiki:runs_24 Run 24]
+|[wiki:platformsimplementations_nslu2-openwrt_echosp256_generic_opt64 generic_opt64] || 627910 || 34824 || 1948 || [wiki:compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:runs_24 Run 24]

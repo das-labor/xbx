@@ -1,0 +1,12 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:platformsimplementations_artila_m501_keccakc1024_opt32bi-rvku2 opt32bi-rvku2] || 326633 || 18140 || 1004 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_27 Run 27]
+|[wiki:platformsimplementations_artila_m501_keccakc1024_opt32bi-s2lcu4 opt32bi-s2lcu4] || 354386 || 31912 || 1048 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_27 Run 27]
+|[wiki:platformsimplementations_artila_m501_keccakc1024_opt32biT-s2lcu4 opt32biT-s2lcu4] || 408949 || 31572 || 263200 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_27 Run 27]
+|[wiki:platformsimplementations_artila_m501_keccakc1024_simple simple] || 571095 || 7852 || 804 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_27 Run 27]
+|[wiki:platformsimplementations_artila_m501_keccakc1024_sphlib-small sphlib-small] || 937823 || 17300 || 1700 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_27 Run 27]
+|[wiki:platformsimplementations_artila_m501_keccakc1024_compact compact] || 2131268 || 2300 || 448 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_27 Run 27]
+|[wiki:platformsimplementations_artila_m501_keccakc1024_opt64lcu24 opt64lcu24] || 2641579 || 225304 || 1160 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_27 Run 27]
+|[wiki:platformsimplementations_artila_m501_keccakc1024_opt64u6 opt64u6] || 2712319 || 63488 || 1155 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_27 Run 27]
+|[wiki:platformsimplementations_artila_m501_keccakc1024_opt64lcu6 opt64lcu6] || 2726303 || 63848 || 1164 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_27 Run 27]
+|[wiki:platformsimplementations_artila_m501_keccakc1024_armcryptolib armcryptolib] || 2788144 || 3332 || 648 || [wiki:compilernames arm-artila-gcc -O3] || 3.3.2 || [wiki:runs_27 Run 27]
+|[wiki:platformsimplementations_artila_m501_keccakc1024_sphlib sphlib] || 4242566 || 26768 || 2360 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_27 Run 27]

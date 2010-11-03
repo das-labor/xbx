@@ -1,4 +1,4 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:platformsimplementations_lm3s811-evb_groestl256_sphlib sphlib] || 445559 || 28056 || 888 || [wiki:compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:runs_8 Run 8]
-|[wiki:platformsimplementations_lm3s811-evb_groestl256_sphlib-small sphlib-small] || 470721 || 15156 || 888 || [wiki:compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:runs_8 Run 8]
+|[wiki:platformsimplementations_lm3s811-evb_groestl256_sphlib sphlib] || 445559 || 28056 || 888 || [wiki:compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:runs_23 Run 23]
+|[wiki:platformsimplementations_lm3s811-evb_groestl256_sphlib-small sphlib-small] || 470721 || 15156 || 888 || [wiki:compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:runs_23 Run 23]
 |[wiki:platformsimplementations_lm3s811-evb_groestl256_armcryptolib armcryptolib] || 11504675 || 2392 || 492 || [wiki:compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:runs_7 Run 7]

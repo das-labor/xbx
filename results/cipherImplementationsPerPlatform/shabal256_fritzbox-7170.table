@@ -1,3 +1,6 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:platformsimplementations_fritzbox-7170_shabal256_tiny_mips32el tiny_mips32el] || 93890 || 716 || 480 || [wiki:compilernames mips-uclib-gcc -O2] || 4.2.1 || [wiki:runs_25 Run 25]
+|[wiki:platformsimplementations_fritzbox-7170_shabal256_tiny_portable tiny_portable] || 121012 || 1084 || 512 || [wiki:compilernames mips-uclib-gcc -Os] || 4.2.1 || [wiki:runs_25 Run 25]
 |[wiki:platformsimplementations_fritzbox-7170_shabal256_sphlib sphlib] || 123437 || 20820 || 1160 || [wiki:compilernames mips-uclib-gcc -Os] || 4.2.1 || [wiki:runs_12 Run 12]
+|[wiki:platformsimplementations_fritzbox-7170_shabal256_tiny_portable-lowram tiny_portable-lowram] || 140622 || 1123 || 240 || [wiki:compilernames mips-uclib-gcc -Os] || 4.2.1 || [wiki:runs_25 Run 25]
 |[wiki:platformsimplementations_fritzbox-7170_shabal256_armcryptolib armcryptolib] || 168169 || 4107 || 508 || [wiki:compilernames mips-uclib-gcc -O3] || 4.2.1 || [wiki:runs_10 Run 10]

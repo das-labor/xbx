@@ -1,3 +1,5 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:platformsimplementations_artila_m501_luffa256_sphlib sphlib] || 151785 || 28268 || 364 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_16 Run 16]
+|[wiki:platformsimplementations_artila_m501_luffa256_sphlib sphlib] || 151391 || 28268 || 364 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_27 Run 27]
 |[wiki:platformsimplementations_artila_m501_luffa256_opt32 opt32] || 172541 || 11216 || 716 || [wiki:compilernames arm-artila-gcc -O2] || 3.3.2 || [wiki:runs_15 Run 15]
+|[wiki:platformsimplementations_artila_m501_luffa256_thomaz_basic thomaz_basic] || 182655 || 2592 || 228 || [wiki:compilernames arm-artila-gcc -O3] || 3.3.2 || [wiki:runs_27 Run 27]
+|[wiki:platformsimplementations_artila_m501_luffa256_arm arm] || 259020 || 11980 || 960 || [wiki:compilernames arm-artila-gcc -Os] || 3.3.2 || [wiki:runs_27 Run 27]

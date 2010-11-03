@@ -1,6 +1,6 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
 |[wiki:platformsimplementations_artila_m501_groestl512_opt32 opt32] || 1002713 || 49348 || 804 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_14 Run 14]
 |[wiki:platformsimplementations_artila_m501_groestl512_sphlib-small sphlib-small] || 1011071 || 26100 || 2520 || [wiki:compilernames arm-artila-gcc -O2] || 3.3.2 || [wiki:runs_14 Run 14]
-|[wiki:platformsimplementations_artila_m501_groestl512_sphlib sphlib] || 1250291 || 62032 || 1536 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_14 Run 14]
+|[wiki:platformsimplementations_artila_m501_groestl512_sphlib sphlib] || 1232899 || 62032 || 1536 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_27 Run 27]
 |[wiki:platformsimplementations_artila_m501_groestl512_opt64 opt64] || 1487475 || 70928 || 1616 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_16 Run 16]
 |[wiki:platformsimplementations_artila_m501_groestl512_armcryptolib armcryptolib] || 18410186 || 2012 || 696 || [wiki:compilernames arm-artila-gcc -O2] || 3.3.2 || [wiki:runs_16 Run 16]

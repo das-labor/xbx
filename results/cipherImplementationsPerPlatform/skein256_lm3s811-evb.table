@@ -1,4 +1,4 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:platformsimplementations_lm3s811-evb_skein256_sphlib-small sphlib-small] || 223898 || 21424 || 888 || [wiki:compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:runs_8 Run 8]
-|[wiki:platformsimplementations_lm3s811-evb_skein256_sphlib sphlib] || 226441 || 32364 || 3400 || [wiki:compilernames arm-elf-gcc -O1] || 4.3.2 (GCC) || [wiki:runs_8 Run 8]
-|[wiki:platformsimplementations_lm3s811-evb_skein256_armcryptolib armcryptolib] || 746806 || 2020 || 520 || [wiki:compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:runs_8 Run 8]
+|[wiki:platformsimplementations_lm3s811-evb_skein256_sphlib-small sphlib-small] || 223898 || 21424 || 888 || [wiki:compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:runs_23 Run 23]
+|[wiki:platformsimplementations_lm3s811-evb_skein256_sphlib sphlib] || 226441 || 32364 || 3399 || [wiki:compilernames arm-elf-gcc -O1] || 4.3.2 (GCC) || [wiki:runs_23 Run 23]
+|[wiki:platformsimplementations_lm3s811-evb_skein256_armcryptolib armcryptolib] || 746806 || 2020 || 520 || [wiki:compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:runs_23 Run 23]

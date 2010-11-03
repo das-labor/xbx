@@ -3,4 +3,4 @@
 |[wiki:platformsimplementations_nslu2-openwrt_groestl512_sphlib sphlib] || 1098863 || 49336 || 2828 || [wiki:compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:runs_19 Run 19]
 |[wiki:platformsimplementations_nslu2-openwrt_groestl512_sphlib-small sphlib-small] || 1190882 || 13024 || 2668 || [wiki:compilernames armeb-uclibc-gcc -Os] || 4.1.2 || [wiki:runs_19 Run 19]
 |[wiki:platformsimplementations_nslu2-openwrt_groestl512_opt64 opt64] || 1612359 || 76288 || 1572 || [wiki:compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:runs_19 Run 19]
-|[wiki:platformsimplementations_nslu2-openwrt_groestl512_armcryptolib armcryptolib] || 21702026 || 2456 || 876 || [wiki:compilernames armeb-uclibc-gcc -O3] || 4.1.2 || [wiki:runs_17 Run 17]
+|[wiki:platformsimplementations_nslu2-openwrt_groestl512_armcryptolib armcryptolib] || 21700613 || 2456 || 876 || [wiki:compilernames armeb-uclibc-gcc -O3] || 4.1.2 || [wiki:runs_24 Run 24]

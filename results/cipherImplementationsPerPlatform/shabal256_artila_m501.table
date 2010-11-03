@@ -1,3 +1,7 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:platformsimplementations_artila_m501_shabal256_tiny_armel-mixed tiny_armel-mixed] || 66330 || 524 || 572 || [wiki:compilernames arm-artila-gcc -O3] || 3.3.2 || [wiki:runs_27 Run 27]
 |[wiki:platformsimplementations_artila_m501_shabal256_sphlib sphlib] || 69716 || 17288 || 668 || [wiki:compilernames arm-artila-gcc -Os] || 3.3.2 || [wiki:runs_15 Run 15]
-|[wiki:platformsimplementations_artila_m501_shabal256_armcryptolib armcryptolib] || 124155 || 3164 || 340 || [wiki:compilernames arm-artila-gcc -O2] || 3.3.2 || [wiki:runs_16 Run 16]
+|[wiki:platformsimplementations_artila_m501_shabal256_tiny_portable tiny_portable] || 93510 || 788 || 548 || [wiki:compilernames arm-artila-gcc -O3] || 3.3.2 || [wiki:runs_27 Run 27]
+|[wiki:platformsimplementations_artila_m501_shabal256_tiny_armel-thumb tiny_armel-thumb] || 94073 || 392 || 564 || [wiki:compilernames arm-artila-gcc -O2] || 3.3.2 || [wiki:runs_27 Run 27]
+|[wiki:platformsimplementations_artila_m501_shabal256_tiny_portable-lowram tiny_portable-lowram] || 103185 || 788 || 300 || [wiki:compilernames arm-artila-gcc -O3] || 3.3.2 || [wiki:runs_27 Run 27]
+|[wiki:platformsimplementations_artila_m501_shabal256_armcryptolib armcryptolib] || 124121 || 3164 || 340 || [wiki:compilernames arm-artila-gcc -O2] || 3.3.2 || [wiki:runs_27 Run 27]

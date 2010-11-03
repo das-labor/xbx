@@ -1,5 +1,8 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
 |[wiki:platformsimplementations_lm3s811-evb_echo512_sphlib sphlib] || 541323 || 15180 || 888 || [wiki:compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || [wiki:runs_5 Run 5]
+|[wiki:platformsimplementations_lm3s811-evb_echo512_generic_opt32 generic_opt32] || 580124 || 20672 || 936 || [wiki:compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:runs_23 Run 23]
 |[wiki:platformsimplementations_lm3s811-evb_echo512_sphlib-small sphlib-small] || 593742 || 8240 || 920 || [wiki:compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:runs_8 Run 8]
+|[wiki:platformsimplementations_lm3s811-evb_echo512_powerpc_pp32cv2 powerpc_pp32cv2] || 702472 || 26300 || 936 || [wiki:compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:runs_23 Run 23]
 |[wiki:platformsimplementations_lm3s811-evb_echo512_generic_opt64 generic_opt64] || 822141 || 40000 || 596 || [wiki:compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:runs_7 Run 7]
+|[wiki:platformsimplementations_lm3s811-evb_echo512_powerpc_pp32cv1 powerpc_pp32cv1] || 1040126 || 21428 || 936 || [wiki:compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:runs_23 Run 23]
 |[wiki:platformsimplementations_lm3s811-evb_echo512_armcryptolib armcryptolib] || 4552391 || 3184 || 860 || [wiki:compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:runs_7 Run 7]

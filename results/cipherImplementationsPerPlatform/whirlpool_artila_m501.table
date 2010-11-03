@@ -1,2 +1,2 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:platformsimplementations_artila_m501_whirlpool_ref ref] || 672896 || 23212 || 636 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_14 Run 14]
+|[wiki:platformsimplementations_artila_m501_whirlpool_ref ref] || 671411 || 23212 || 636 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_27 Run 27]

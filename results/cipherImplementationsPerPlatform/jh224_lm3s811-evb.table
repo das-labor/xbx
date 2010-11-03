@@ -1,5 +1,5 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
 |[wiki:platformsimplementations_lm3s811-evb_jh224_bitslice_opt32 bitslice_opt32] || 447138 || 6876 || 412 || [wiki:compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || [wiki:runs_5 Run 5]
-|[wiki:platformsimplementations_lm3s811-evb_jh224_bitslice_ref32 bitslice_ref32] || 503769 || 10352 || 440 || [wiki:compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:runs_8 Run 8]
-|[wiki:platformsimplementations_lm3s811-evb_jh224_bitslice_opt64 bitslice_opt64] || 1169806 || 24952 || 884 || [wiki:compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:runs_8 Run 8]
-|[wiki:platformsimplementations_lm3s811-evb_jh224_bitslice_ref64 bitslice_ref64] || 1355781 || 7968 || 608 || [wiki:compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || [wiki:runs_8 Run 8]
+|[wiki:platformsimplementations_lm3s811-evb_jh224_bitslice_ref32 bitslice_ref32] || 503769 || 10352 || 440 || [wiki:compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:runs_23 Run 23]
+|[wiki:platformsimplementations_lm3s811-evb_jh224_bitslice_opt64 bitslice_opt64] || 1169806 || 24952 || 884 || [wiki:compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:runs_23 Run 23]
+|[wiki:platformsimplementations_lm3s811-evb_jh224_bitslice_ref64 bitslice_ref64] || 1355781 || 7968 || 608 || [wiki:compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || [wiki:runs_23 Run 23]

@@ -1,3 +1,4 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:platformsimplementations_artila_m501_cubehash832_simple simple] || 1175805 || 1832 || 280 || [wiki:compilernames arm-artila-gcc -O3] || 3.3.2 || [wiki:runs_13 Run 13]
-|[wiki:platformsimplementations_artila_m501_cubehash832_spec spec] || 2585295 || 2604 || 652 || [wiki:compilernames arm-artila-gcc -O2] || 3.3.2 || [wiki:runs_13 Run 13]
+|[wiki:platformsimplementations_artila_m501_cubehash832_unrolled unrolled] || 326318 || 2580 || 380 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_27 Run 27]
+|[wiki:platformsimplementations_artila_m501_cubehash832_simple simple] || 1175670 || 1832 || 280 || [wiki:compilernames arm-artila-gcc -O3] || 3.3.2 || [wiki:runs_27 Run 27]
+|[wiki:platformsimplementations_artila_m501_cubehash832_spec spec] || 2582471 || 2604 || 652 || [wiki:compilernames arm-artila-gcc -O2] || 3.3.2 || [wiki:runs_27 Run 27]

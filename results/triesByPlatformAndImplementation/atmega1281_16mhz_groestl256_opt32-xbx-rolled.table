@@ -1,4 +1,5 @@
 | '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
-|20100722 || blix || [wiki:compilernames avr-gcc 1281 -Os] || 4.3.4 (GCC) ||  ||  || 103838 (111608) || 8192 (8604) || 0 (8604) || unk(unk) || error || [wiki:runs_2 Run 2]
-|20100727 || blix || [wiki:compilernames avr-gcc 1281 -Os] || 4.3.4 (GCC) ||  ||  || 103838 (111608) || 8192 (8604) || 0 (8604) || unk(unk) || error || [wiki:runs_3 Run 3]
-|20100728 || blix || [wiki:compilernames avr-gcc 1281 -Os] || 4.3.4 (GCC) ||  ||  || 103838 (111608) || 8192 (8604) || 0 (8604) || unk(unk) || error || [wiki:runs_4 Run 4]
+|20100722 || blix || [wiki:compilernames avr-gcc 1281 -Os] || 4.3.4 (GCC) ||  ||  || 103838 (111608) || 8192 (8604) || 0 (2415) || unk(unk) || error || [wiki:runs_2 Run 2]
+|20100727 || blix || [wiki:compilernames avr-gcc 1281 -Os] || 4.3.4 (GCC) ||  ||  || 103838 (111608) || 8192 (8604) || 0 (2415) || unk(unk) || error || [wiki:runs_3 Run 3]
+|20100728 || blix || [wiki:compilernames avr-gcc 1281 -Os] || 4.3.4 (GCC) ||  ||  || 103838 (111608) || 8192 (8604) || 0 (2415) || unk(unk) || error || [wiki:runs_4 Run 4]
+|20101017 || clix || [wiki:compilernames avr-gcc 1281 -Os] || 4.3.4 (GCC) ||  ||  || 103838 (111608) || 8192 (8604) || 0 (2415) || unk(unk) || error || [wiki:runs_26 Run 26]

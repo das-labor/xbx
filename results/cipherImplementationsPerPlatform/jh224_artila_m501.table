@@ -1,5 +1,5 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
 |[wiki:platformsimplementations_artila_m501_jh224_bitslice_opt32 bitslice_opt32] || 542565 || 6684 || 324 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_15 Run 15]
 |[wiki:platformsimplementations_artila_m501_jh224_bitslice_ref32 bitslice_ref32] || 592920 || 4284 || 384 || [wiki:compilernames arm-artila-gcc -Os] || 3.3.2 || [wiki:runs_15 Run 15]
-|[wiki:platformsimplementations_artila_m501_jh224_bitslice_opt64 bitslice_opt64] || 914389 || 13764 || 884 || [wiki:compilernames arm-artila-gcc -Os] || 3.3.2 || [wiki:runs_15 Run 15]
-|[wiki:platformsimplementations_artila_m501_jh224_bitslice_ref64 bitslice_ref64] || 1337535 || 7920 || 536 || [wiki:compilernames arm-artila-gcc -Os] || 3.3.2 || [wiki:runs_14 Run 14]
+|[wiki:platformsimplementations_artila_m501_jh224_bitslice_opt64 bitslice_opt64] || 914288 || 13764 || 884 || [wiki:compilernames arm-artila-gcc -Os] || 3.3.2 || [wiki:runs_27 Run 27]
+|[wiki:platformsimplementations_artila_m501_jh224_bitslice_ref64 bitslice_ref64] || 1324721 || 7920 || 536 || [wiki:compilernames arm-artila-gcc -Os] || 3.3.2 || [wiki:runs_27 Run 27]

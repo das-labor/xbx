@@ -1,6 +1,6 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:platformsimplementations_nslu2-openwrt_jh512_bitslice_opt32 bitslice_opt32] || 487212 || 6576 || 524 || [wiki:compilernames armeb-uclibc-gcc -Os] || 4.1.2 || [wiki:runs_20 Run 20]
-|[wiki:platformsimplementations_nslu2-openwrt_jh512_bitslice_ref32 bitslice_ref32] || 616305 || 4200 || 392 || [wiki:compilernames armeb-uclibc-gcc -Os] || 4.1.2 || [wiki:runs_20 Run 20]
+|[wiki:platformsimplementations_nslu2-openwrt_jh512_bitslice_opt32 bitslice_opt32] || 487162 || 6576 || 524 || [wiki:compilernames armeb-uclibc-gcc -Os] || 4.1.2 || [wiki:runs_24 Run 24]
+|[wiki:platformsimplementations_nslu2-openwrt_jh512_bitslice_ref32 bitslice_ref32] || 616106 || 4200 || 392 || [wiki:compilernames armeb-uclibc-gcc -Os] || 4.1.2 || [wiki:runs_24 Run 24]
 |[wiki:platformsimplementations_nslu2-openwrt_jh512_sphlib-small sphlib-small] || 662224 || 8308 || 924 || [wiki:compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:runs_19 Run 19]
 |[wiki:platformsimplementations_nslu2-openwrt_jh512_sphlib sphlib] || 685632 || 18280 || 3100 || [wiki:compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:runs_17 Run 17]
 |[wiki:platformsimplementations_nslu2-openwrt_jh512_bitslice_opt64 bitslice_opt64] || 1173293 || 13752 || 1196 || [wiki:compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:runs_17 Run 17]

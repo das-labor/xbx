@@ -1,0 +1,12 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:platformsimplementations_fritzbox-7170_keccakc1024_opt32bi-rvku2 opt32bi-rvku2] || 409942 || 20996 || 1296 || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:runs_25 Run 25]
+|[wiki:platformsimplementations_fritzbox-7170_keccakc1024_simple simple] || 563125 || 10634 || 1248 || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:runs_25 Run 25]
+|[wiki:platformsimplementations_fritzbox-7170_keccakc1024_opt32bi-s2lcu4 opt32bi-s2lcu4] || 646256 || 38863 || 3244 || [wiki:compilernames mips-uclib-gcc -Os] || 4.2.1 || [wiki:runs_25 Run 25]
+|[wiki:platformsimplementations_fritzbox-7170_keccakc1024_sphlib-small sphlib-small] || 780173 || 18186 || 2120 || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:runs_25 Run 25]
+|[wiki:platformsimplementations_fritzbox-7170_keccakc1024_opt32biT-s2lcu4 opt32biT-s2lcu4] || 850491 || 31363 || 263856 || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:runs_25 Run 25]
+|[wiki:platformsimplementations_fritzbox-7170_keccakc1024_compact compact] || 1323516 || 2911 || 488 || [wiki:compilernames mips-uclib-gcc -O3] || 4.2.1 || [wiki:runs_25 Run 25]
+|[wiki:platformsimplementations_fritzbox-7170_keccakc1024_armcryptolib armcryptolib] || 1474553 || 5421 || 836 || [wiki:compilernames mips-uclib-gcc -O3] || 4.2.1 || [wiki:runs_25 Run 25]
+|[wiki:platformsimplementations_fritzbox-7170_keccakc1024_sphlib sphlib] || 6025557 || 27464 || 3356 || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:runs_25 Run 25]
+|[wiki:platformsimplementations_fritzbox-7170_keccakc1024_opt64lcu6 opt64lcu6] || 6227659 || 54509 || 3296 || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:runs_25 Run 25]
+|[wiki:platformsimplementations_fritzbox-7170_keccakc1024_opt64u6 opt64u6] || 6696259 || 56955 || 3296 || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:runs_25 Run 25]
+|[wiki:platformsimplementations_fritzbox-7170_keccakc1024_opt64lcu24 opt64lcu24] || 7346078 || 188746 || 7268 || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:runs_25 Run 25]

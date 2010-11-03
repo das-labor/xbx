@@ -1,3 +1,4 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
 |[wiki:platformsimplementations_fritzbox-7170_luffa512_opt32 opt32] || 365687 || 21404 || 1132 || [wiki:compilernames mips-uclib-gcc -O3] || 4.2.1 || [wiki:runs_9 Run 9]
 |[wiki:platformsimplementations_fritzbox-7170_luffa512_sphlib sphlib] || 367807 || 16022 || 1220 || [wiki:compilernames mips-uclib-gcc -O3] || 4.2.1 || [wiki:runs_10 Run 10]
+|[wiki:platformsimplementations_fritzbox-7170_luffa512_arm arm] || 748519 || 16167 || 1300 || [wiki:compilernames mips-uclib-gcc -O2] || 4.2.1 || [wiki:runs_25 Run 25]

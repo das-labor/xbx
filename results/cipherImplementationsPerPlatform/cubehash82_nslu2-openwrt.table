@@ -1,4 +1,4 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:platformsimplementations_nslu2-openwrt_cubehash82_unrolled unrolled] || 1954302 || 2356 || 460 || [wiki:compilernames armeb-uclibc-gcc -O3] || 4.1.2 || [wiki:runs_20 Run 20]
+|[wiki:platformsimplementations_nslu2-openwrt_cubehash82_unrolled unrolled] || 1952457 || 2336 || 464 || [wiki:compilernames armeb-uclibc-gcc -O3] || 4.1.2 || [wiki:runs_24 Run 24]
 |[wiki:platformsimplementations_nslu2-openwrt_cubehash82_simple simple] || 3085450 || 8060 || 928 || [wiki:compilernames armeb-uclibc-gcc -O3] || 4.1.2 || [wiki:runs_20 Run 20]
-|[wiki:platformsimplementations_nslu2-openwrt_cubehash82_spec spec] || 11505664 || 3016 || 680 || [wiki:compilernames armeb-uclibc-gcc -O3] || 4.1.2 || [wiki:runs_19 Run 19]
+|[wiki:platformsimplementations_nslu2-openwrt_cubehash82_spec spec] || 11497285 || 3016 || 680 || [wiki:compilernames armeb-uclibc-gcc -O3] || 4.1.2 || [wiki:runs_24 Run 24]

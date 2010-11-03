@@ -1,3 +1,4 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
 |[wiki:platformsimplementations_atmega1281_16mhz_skein256_avrcryptolib_asm avrcryptolib_asm] || 1929005 || 2398 || 268 || [wiki:compilernames avr-gcc 1281 -Os] || 4.3.4 (GCC) || [wiki:runs_2 Run 2]
 |[wiki:platformsimplementations_atmega1281_16mhz_skein256_armcryptolib armcryptolib] || 11351953 || 8194 || 539 || [wiki:compilernames avr-gcc 1281 -O3] || 4.3.4 (GCC) || [wiki:runs_2 Run 2]
+|[wiki:platformsimplementations_atmega1281_16mhz_skein256_avrcryptolib avrcryptolib] || 11352064 || 8192 || 539 || [wiki:compilernames avr-gcc 1281 -O3] || 4.3.4 (GCC) || [wiki:runs_26 Run 26]

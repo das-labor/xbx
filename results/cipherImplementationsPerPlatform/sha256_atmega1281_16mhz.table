@@ -1,0 +1,3 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:platformsimplementations_atmega1281_16mhz_sha256_sphlib-small sphlib-small] || 4128492 || 33676 || 708 || [wiki:compilernames avr-gcc 1281 -O2] || 4.3.4 (GCC) || [wiki:runs_26 Run 26]
+|[wiki:platformsimplementations_atmega1281_16mhz_sha256_sphlib sphlib] || 4182733 || 74110 || 852 || [wiki:compilernames avr-gcc 1281 -O3] || 4.3.4 (GCC) || [wiki:runs_26 Run 26]

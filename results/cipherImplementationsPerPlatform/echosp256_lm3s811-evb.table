@@ -1,5 +1,5 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:platformsimplementations_lm3s811-evb_echosp256_generic_opt32 generic_opt32] || 252647 || 20520 || 904 || [wiki:compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:runs_8 Run 8]
-|[wiki:platformsimplementations_lm3s811-evb_echosp256_powerpc_pp32cv2 powerpc_pp32cv2] || 319423 || 26088 || 904 || [wiki:compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:runs_8 Run 8]
+|[wiki:platformsimplementations_lm3s811-evb_echosp256_generic_opt32 generic_opt32] || 252647 || 20520 || 904 || [wiki:compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:runs_23 Run 23]
+|[wiki:platformsimplementations_lm3s811-evb_echosp256_powerpc_pp32cv2 powerpc_pp32cv2] || 319423 || 26088 || 904 || [wiki:compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:runs_23 Run 23]
 |[wiki:platformsimplementations_lm3s811-evb_echosp256_generic_opt64 generic_opt64] || 366511 || 30372 || 884 || [wiki:compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || [wiki:runs_7 Run 7]
-|[wiki:platformsimplementations_lm3s811-evb_echosp256_powerpc_pp32cv1 powerpc_pp32cv1] || 455417 || 21196 || 904 || [wiki:compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:runs_8 Run 8]
+|[wiki:platformsimplementations_lm3s811-evb_echosp256_powerpc_pp32cv1 powerpc_pp32cv1] || 455417 || 21196 || 904 || [wiki:compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:runs_23 Run 23]

@@ -1,0 +1,6 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20101020 || clix || [wiki:compilernames arm-artila-gcc -O0] || 3.3.2 || 35313986 || 2786141 || 4164 (26201) || 12 (484) || 16 (2760) || 440(453) ||  || [wiki:runs_27 Run 27]
+|20101020 || clix || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || 19104064 || 1461836 || 2288 (19172) || 12 (484) || 16 (2760) || 436(436) ||  || [wiki:runs_27 Run 27]
+|20101020 || clix || [wiki:compilernames arm-artila-gcc -O2] || 3.3.2 || 19310254 || 1477339 || 2460 (19140) || 12 (484) || 16 (2760) || 444(444) ||  || [wiki:runs_27 Run 27]
+|20101020 || clix || [wiki:compilernames arm-artila-gcc -O3] || 3.3.2 || 19337670 || 1474245 || 2456 (22476) || 12 (484) || 16 (2760) || 444(444) ||  || [wiki:runs_27 Run 27]
+|20101020 || clix || [wiki:compilernames arm-artila-gcc -Os] || 3.3.2 || 19626019 || 1509008 || 2404 (18945) || 12 (484) || 16 (2760) || 440(440) ||  || [wiki:runs_27 Run 27]

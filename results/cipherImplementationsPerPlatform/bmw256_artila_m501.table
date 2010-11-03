@@ -1,9 +1,9 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
 |[wiki:platformsimplementations_artila_m501_bmw256_optc04 optc04] || 59220 || 11124 || 752 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_13 Run 13]
-|[wiki:platformsimplementations_artila_m501_bmw256_optc03 optc03] || 60559 || 11248 || 808 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_13 Run 13]
-|[wiki:platformsimplementations_artila_m501_bmw256_armcryptolib-speed armcryptolib-speed] || 61740 || 9956 || 828 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_13 Run 13]
-|[wiki:platformsimplementations_artila_m501_bmw256_sphlib-small sphlib-small] || 64249 || 15612 || 688 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_13 Run 13]
-|[wiki:platformsimplementations_artila_m501_bmw256_sphlib sphlib] || 64744 || 29048 || 640 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_16 Run 16]
+|[wiki:platformsimplementations_artila_m501_bmw256_optc03 optc03] || 60311 || 11248 || 808 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_27 Run 27]
+|[wiki:platformsimplementations_artila_m501_bmw256_armcryptolib-speed armcryptolib-speed] || 61729 || 9956 || 828 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_27 Run 27]
+|[wiki:platformsimplementations_artila_m501_bmw256_sphlib-small sphlib-small] || 64226 || 15612 || 688 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_27 Run 27]
+|[wiki:platformsimplementations_artila_m501_bmw256_sphlib sphlib] || 64406 || 29048 || 640 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_27 Run 27]
 |[wiki:platformsimplementations_artila_m501_bmw256_optc02 optc02] || 76556 || 17496 || 904 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_15 Run 15]
 |[wiki:platformsimplementations_artila_m501_bmw256_optc01 optc01] || 78491 || 76540 || 2608 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_16 Run 16]
 |[wiki:platformsimplementations_artila_m501_bmw256_ref_xbx-pruned ref_xbx-pruned] || 85365 || 13200 || 820 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_14 Run 14]

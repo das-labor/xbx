@@ -1,0 +1,10 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:platformsimplementations_lm3s811-evb_keccakc1024_opt32bi-s2lcu4 opt32bi-s2lcu4] || 319478 || 16148 || 916 || [wiki:compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || [wiki:runs_23 Run 23]
+|[wiki:platformsimplementations_lm3s811-evb_keccakc1024_opt32bi-rvku2 opt32bi-rvku2] || 325739 || 10612 || 916 || [wiki:compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || [wiki:runs_23 Run 23]
+|[wiki:platformsimplementations_lm3s811-evb_keccakc1024_simple simple] || 655978 || 7688 || 916 || [wiki:compilernames arm-elf-gcc -Os] || 4.3.2 (GCC) || [wiki:runs_23 Run 23]
+|[wiki:platformsimplementations_lm3s811-evb_keccakc1024_opt64lcu6 opt64lcu6] || 680555 || 32940 || 916 || [wiki:compilernames arm-elf-gcc -Os] || 4.3.2 (GCC) || [wiki:runs_23 Run 23]
+|[wiki:platformsimplementations_lm3s811-evb_keccakc1024_opt64u6 opt64u6] || 682955 || 33904 || 916 || [wiki:compilernames arm-elf-gcc -Os] || 4.3.2 (GCC) || [wiki:runs_23 Run 23]
+|[wiki:platformsimplementations_lm3s811-evb_keccakc1024_sphlib-small sphlib-small] || 733676 || 10564 || 916 || [wiki:compilernames arm-elf-gcc -Os] || 4.3.2 (GCC) || [wiki:runs_23 Run 23]
+|[wiki:platformsimplementations_lm3s811-evb_keccakc1024_sphlib sphlib] || 762003 || 19252 || 920 || [wiki:compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:runs_23 Run 23]
+|[wiki:platformsimplementations_lm3s811-evb_keccakc1024_compact compact] || 1433145 || 4432 || 496 || [wiki:compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:runs_23 Run 23]
+|[wiki:platformsimplementations_lm3s811-evb_keccakc1024_armcryptolib armcryptolib] || 1499177 || 2964 || 660 || [wiki:compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:runs_23 Run 23]

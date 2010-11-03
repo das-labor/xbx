@@ -1,7 +1,7 @@
 | '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
-|20100801 || blix || [wiki:compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || 38016217 || 2302880 || 104228 (113358) || 576 (988) || 0 (988) || 1369(1369) || Checksum OK || [wiki:runs_21 Run 21]
-|20100802 || blix || [wiki:compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || 38016224 || 2302881 || 104228 (113358) || 576 (988) || 0 (988) || 1369(1369) || Checksum OK || [wiki:runs_22 Run 22]
-|20100801 || blix || [wiki:compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || 36774945 || 2265868 || 109906 (118152) || 576 (988) || 0 (988) || 1254(1254) || Checksum OK || [wiki:runs_21 Run 21]
-|20100802 || blix || [wiki:compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || 36774953 || 2265868 || 109906 (118152) || 576 (988) || 0 (988) || 1254(1254) || Checksum OK || [wiki:runs_22 Run 22]
-|20100801 || blix || [wiki:compilernames avr-gcc 1284p -Os] || 4.3.4 (GCC) || 37523346 || 2303449 || 103734 (111440) || 576 (988) || 0 (988) || 1248(1248) || Checksum OK || [wiki:runs_21 Run 21]
-|20100802 || blix || [wiki:compilernames avr-gcc 1284p -Os] || 4.3.4 (GCC) || 37523353 || 2303449 || 103734 (111440) || 576 (988) || 0 (988) || 1248(1248) || Checksum OK || [wiki:runs_22 Run 22]
+|20100801 || blix || [wiki:compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || 38016217 || 2302880 || 104228 (113358) || 576 (988) || 0 (2415) || 1369(1369) || Checksum OK || [wiki:runs_21 Run 21]
+|20100802 || blix || [wiki:compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || 38016224 || 2302881 || 104228 (113358) || 576 (988) || 0 (2415) || 1369(1369) || Checksum OK || [wiki:runs_22 Run 22]
+|20100801 || blix || [wiki:compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || 36774945 || 2265868 || 109906 (118152) || 576 (988) || 0 (2415) || 1254(1254) || Checksum OK || [wiki:runs_21 Run 21]
+|20100802 || blix || [wiki:compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || 36774953 || 2265868 || 109906 (118152) || 576 (988) || 0 (2415) || 1254(1254) || Checksum OK || [wiki:runs_22 Run 22]
+|20100801 || blix || [wiki:compilernames avr-gcc 1284p -Os] || 4.3.4 (GCC) || 37523346 || 2303449 || 103734 (111440) || 576 (988) || 0 (2415) || 1248(1248) || Checksum OK || [wiki:runs_21 Run 21]
+|20100802 || blix || [wiki:compilernames avr-gcc 1284p -Os] || 4.3.4 (GCC) || 37523353 || 2303449 || 103734 (111440) || 576 (988) || 0 (2415) || 1248(1248) || Checksum OK || [wiki:runs_22 Run 22]

@@ -1,2 +1,2 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:platformsimplementations_artila_m501_lane512_c c] || 2114471 || 133840 || 896 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_13 Run 13]
+|[wiki:platformsimplementations_artila_m501_lane512_c c] || 2113470 || 133840 || 896 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_27 Run 27]

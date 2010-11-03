@@ -1,5 +1,8 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
 |[wiki:platformsimplementations_artila_m501_echo512_sphlib sphlib] || 568361 || 33820 || 1116 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_16 Run 16]
-|[wiki:platformsimplementations_artila_m501_echo512_sphlib-small sphlib-small] || 614948 || 8544 || 796 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_14 Run 14]
+|[wiki:platformsimplementations_artila_m501_echo512_generic_opt32 generic_opt32] || 583493 || 22504 || 4908 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_27 Run 27]
+|[wiki:platformsimplementations_artila_m501_echo512_sphlib-small sphlib-small] || 614914 || 8544 || 796 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_27 Run 27]
+|[wiki:platformsimplementations_artila_m501_echo512_powerpc_pp32cv1 powerpc_pp32cv1] || 974801 || 20436 || 824 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_27 Run 27]
+|[wiki:platformsimplementations_artila_m501_echo512_powerpc_pp32cv2 powerpc_pp32cv2] || 1146803 || 35016 || 1004 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_27 Run 27]
 |[wiki:platformsimplementations_artila_m501_echo512_generic_opt64 generic_opt64] || 3597480 || 31140 || 5204 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_15 Run 15]
-|[wiki:platformsimplementations_artila_m501_echo512_armcryptolib armcryptolib] || 6686640 || 3928 || 1332 || [wiki:compilernames arm-artila-gcc -O3] || 3.3.2 || [wiki:runs_16 Run 16]
+|[wiki:platformsimplementations_artila_m501_echo512_armcryptolib armcryptolib] || 6685447 || 3928 || 1332 || [wiki:compilernames arm-artila-gcc -O3] || 3.3.2 || [wiki:runs_27 Run 27]

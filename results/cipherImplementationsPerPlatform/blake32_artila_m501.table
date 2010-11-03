@@ -1,5 +1,6 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:platformsimplementations_artila_m501_blake32_sphlib sphlib] || 92475 || 22072 || 652 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_15 Run 15]
+|[wiki:platformsimplementations_artila_m501_blake32_sphlib sphlib] || 92284 || 22072 || 652 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_27 Run 27]
 |[wiki:platformsimplementations_artila_m501_blake32_sphlib-small sphlib-small] || 118091 || 15060 || 488 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_16 Run 16]
-|[wiki:platformsimplementations_artila_m501_blake32_light light] || 138521 || 4040 || 428 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_15 Run 15]
+|[wiki:platformsimplementations_artila_m501_blake32_light light] || 138465 || 4040 || 428 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_27 Run 27]
+|[wiki:platformsimplementations_artila_m501_blake32_ref ref] || 138555 || 3588 || 416 || [wiki:compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:runs_27 Run 27]
 |[wiki:platformsimplementations_artila_m501_blake32_armcryptolib armcryptolib] || 159491 || 2080 || 280 || [wiki:compilernames arm-artila-gcc -Os] || 3.3.2 || [wiki:runs_14 Run 14]

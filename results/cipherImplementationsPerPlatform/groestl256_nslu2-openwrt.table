@@ -1,7 +1,7 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:platformsimplementations_nslu2-openwrt_groestl256_opt32-xbx-rolled opt32-xbx-rolled] || 564169 || 43524 || 675 || [wiki:compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:runs_19 Run 19]
+|[wiki:platformsimplementations_nslu2-openwrt_groestl256_opt32-xbx-rolled opt32-xbx-rolled] || 560645 || 43560 || 676 || [wiki:compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:runs_24 Run 24]
 |[wiki:platformsimplementations_nslu2-openwrt_groestl256_sphlib sphlib] || 798000 || 34164 || 1536 || [wiki:compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:runs_20 Run 20]
 |[wiki:platformsimplementations_nslu2-openwrt_groestl256_sphlib-small sphlib-small] || 881125 || 19404 || 792 || [wiki:compilernames armeb-uclibc-gcc -O0] || 4.1.2 || [wiki:runs_20 Run 20]
-|[wiki:platformsimplementations_nslu2-openwrt_groestl256_opt32 opt32] || 2047003 || 75696 || 852 || [wiki:compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:runs_20 Run 20]
-|[wiki:platformsimplementations_nslu2-openwrt_groestl256_opt64 opt64] || 2231474 || 88368 || 1844 || [wiki:compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:runs_20 Run 20]
+|[wiki:platformsimplementations_nslu2-openwrt_groestl256_opt32 opt32] || 2042215 || 75732 || 860 || [wiki:compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:runs_24 Run 24]
+|[wiki:platformsimplementations_nslu2-openwrt_groestl256_opt64 opt64] || 2226636 || 88404 || 1852 || [wiki:compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:runs_24 Run 24]
 |[wiki:platformsimplementations_nslu2-openwrt_groestl256_armcryptolib armcryptolib] || 14715852 || 1860 || 452 || [wiki:compilernames armeb-uclibc-gcc -O3] || 4.1.2 || [wiki:runs_18 Run 18]

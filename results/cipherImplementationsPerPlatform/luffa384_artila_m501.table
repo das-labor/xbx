@@ -1,2 +1,3 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:platformsimplementations_artila_m501_luffa384_arm arm] || 272554 || 11980 || 1100 || [wiki:compilernames arm-artila-gcc -Os] || 3.3.2 || [wiki:runs_27 Run 27]
 |[wiki:platformsimplementations_artila_m501_luffa384_opt32 opt32] || 276998 || 11216 || 828 || [wiki:compilernames arm-artila-gcc -O2] || 3.3.2 || [wiki:runs_14 Run 14]
