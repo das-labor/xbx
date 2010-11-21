@@ -1,0 +1,6 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20101114 || clix || [wiki:compilernames avr-gcc 1284p -O0] || 4.3.4 (GCC) ||  ||  || 19014 (38890) || 16 (684) || 0 (2415) || unk(unk) || error || [wiki:runs_28 Run 28]
+|20101114 || clix || [wiki:compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || 152562497 || 11531403 || 6522 (15652) || 16 (428) || 0 (2415) || 371(371) || Checksum OK || [wiki:runs_28 Run 28]
+|20101114 || clix || [wiki:compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || 150078566 || 11393542 || 6106 (14352) || 16 (428) || 0 (2415) || 363(363) || Checksum OK || [wiki:runs_28 Run 28]
+|20101114 || clix || [wiki:compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || 149551369 || 11352069 || 8176 (16444) || 16 (428) || 0 (2415) || 523(523) || Checksum OK || [wiki:runs_28 Run 28]
+|20101114 || clix || [wiki:compilernames avr-gcc 1284p -Os] || 4.3.4 (GCC) || 153126295 || 11619642 || 5656 (13362) || 16 (428) || 0 (2415) || 357(357) || Checksum OK || [wiki:runs_28 Run 28]

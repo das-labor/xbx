@@ -1,6 +1,11 @@
 | '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
 |20101017 || clix || [wiki:compilernames mips-uclib-gcc -O0] || 4.2.1 || 70371810 || 4580300 || 405563 (447793) || 108 (1052) || 136 (2976) || 6824(6872) ||  || [wiki:runs_25 Run 25]
+|20101103 || clix || [wiki:compilernames mips-uclib-gcc -O0] || 4.2.1 || 56951918 || 3686402 || 405563 (447793) || 108 (1052) || 136 (2976) || 6824(6872) ||  || [wiki:runs_32 Run 32]
 |20101017 || clix || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || 55917253 || 3443145 || 282578 (315671) || 104 (1044) || 136 (2976) || 7136(7192) ||  || [wiki:runs_25 Run 25]
+|20101103 || clix || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || 45172231 || 2917398 || 282578 (315671) || 104 (1044) || 136 (2976) || 7136(7192) ||  || [wiki:runs_32 Run 32]
 |20101017 || clix || [wiki:compilernames mips-uclib-gcc -O2] || 4.2.1 || 59242950 || 3676345 || 276018 (307495) || 104 (1044) || 136 (2976) || 7136(7192) ||  || [wiki:runs_25 Run 25]
+|20101103 || clix || [wiki:compilernames mips-uclib-gcc -O2] || 4.2.1 || 48384217 || 3555717 || 276018 (307495) || 104 (1044) || 136 (2976) || 7136(7192) ||  || [wiki:runs_32 Run 32]
 |20101017 || clix || [wiki:compilernames mips-uclib-gcc -O3] || 4.2.1 || 59209480 || 3687926 || 275754 (307287) || 104 (1044) || 136 (2972) || 7136(7192) ||  || [wiki:runs_25 Run 25]
+|20101103 || clix || [wiki:compilernames mips-uclib-gcc -O3] || 4.2.1 || 48272877 || 3562872 || 275754 (307287) || 104 (1044) || 136 (2972) || 7136(7192) ||  || [wiki:runs_32 Run 32]
 |20101017 || clix || [wiki:compilernames mips-uclib-gcc -Os] || 4.2.1 || 58788421 || 3584933 || 274898 (306080) || 104 (1044) || 136 (2976) || 7136(7192) ||  || [wiki:runs_25 Run 25]
+|20101103 || clix || [wiki:compilernames mips-uclib-gcc -Os] || 4.2.1 || 48323545 || 3150267 || 274898 (306080) || 104 (1044) || 136 (2976) || 7136(7192) ||  || [wiki:runs_32 Run 32]

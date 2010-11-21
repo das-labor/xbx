@@ -1,2 +1,2 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:platformsimplementations_lm3s811-evb_fugue512_sphlib sphlib] || 479769 || 14728 || 916 || [wiki:compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || [wiki:runs_23 Run 23]
+|[wiki:platformsimplementations_lm3s811-evb_fugue512_sphlib sphlib] || 479769 || 14728 || 916 || [wiki:compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || [wiki:runs_29 Run 29]

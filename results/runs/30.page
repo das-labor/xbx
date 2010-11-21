@@ -1,0 +1,23 @@
+
+== Run 30 ==
+
+ * Date: 20101114
+ * Hostname: clix
+ * Platform: nslu2-openwrt
+ * XBX Version 2.0.2dev
+ * XBH Revision 01250
+ * Bootloader Revision 01138
+
+
+
+[wiki:runs_30#MeasureResults Measure Results] - [wiki:runs_30#TryResults Try Results] - [wiki:runs_30#DriftMeasurements Drift Measurements]
+
+=== Measure Results ===
+[[SortCSVsourceTable(source:page/trunk/results/measuresByRun/30.table)]]
+
+=== Try Results ===
+[[SortCSVsourceTable(source:page/trunk/results/triesByRun/30.table)]]
+
+=== Drift Measurements ===
+[[SortCSVsourceTable(source:page/trunk/results/driftByRun/30.table)]]
+  

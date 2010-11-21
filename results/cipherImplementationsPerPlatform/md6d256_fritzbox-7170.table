@@ -1,2 +1,2 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:platformsimplementations_fritzbox-7170_md6d256_ref ref] || 606916 || 10576 || 7268 || [wiki:compilernames mips-uclib-gcc -O2] || 4.2.1 || [wiki:runs_25 Run 25]
+|[wiki:platformsimplementations_fritzbox-7170_md6d256_ref ref] || 605353 || 10576 || 7268 || [wiki:compilernames mips-uclib-gcc -O2] || 4.2.1 || [wiki:runs_32 Run 32]

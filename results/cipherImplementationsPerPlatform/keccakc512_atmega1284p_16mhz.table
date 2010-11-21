@@ -1,0 +1,6 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:platformsimplementations_atmega1284p_16mhz_keccakc512_avr8 avr8] || 2304925 || 2804 || 285 || [wiki:compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || [wiki:runs_28 Run 28]
+|[wiki:platformsimplementations_atmega1284p_16mhz_keccakc512_opt32u2nit_xbx opt32u2nit_xbx] || 4897254 || 76934 || 1666 || [wiki:compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || [wiki:runs_28 Run 28]
+|[wiki:platformsimplementations_atmega1284p_16mhz_keccakc512_sphlib-small sphlib-small] || 7042607 || 74616 || 3317 || [wiki:compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || [wiki:runs_22 Run 22]
+|[wiki:platformsimplementations_atmega1284p_16mhz_keccakc512_armcryptolib armcryptolib] || 13992112 || 11482 || 940 || [wiki:compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || [wiki:runs_28 Run 28]
+|[wiki:platformsimplementations_atmega1284p_16mhz_keccakc512_avrcryptolib avrcryptolib] || 14380254 || 3928 || 670 || [wiki:compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || [wiki:runs_22 Run 22]

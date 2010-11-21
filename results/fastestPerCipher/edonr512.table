@@ -1,0 +1,2 @@
+| '''Platform''' || '''Implementation''' || '''Try Cycles (1536)''' || '''Empty Message''' || '''8 Bytes''' || '''64 Bytes''' || '''512 Bytes''' || '''1024 Bytes''' || '''2048 Bytes''' || '''Long Messages''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:platforms_fritzbox-7170 <-] fritzbox-7170 [wiki:platformsciphers_fritzbox-7170_edonr512 ->] || [wiki:platformsimplementations_fritzbox-7170_edonr512_swpbe swpbe] || 148824 || 80799 || 10171 || 1272 || 223 || 129 || 130 || 130 || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:runs_32 Run 32]

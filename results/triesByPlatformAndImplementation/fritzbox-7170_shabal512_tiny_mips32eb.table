@@ -1,0 +1,11 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20101114 || clix || [wiki:compilernames mips-uclib-gcc -O0] || 4.2.1 || 3760695 || 31177 || 812 (43042) || 0 (944) || 32 (2872) || 480(528) || Checksum failed || [wiki:runs_31 Run 31]
+|20101103 || clix || [wiki:compilernames mips-uclib-gcc -O0] || 4.2.1 || 3758455 || 31138 || 812 (43042) || 0 (944) || 32 (2872) || 480(528) || Checksum failed || [wiki:runs_32 Run 32]
+|20101114 || clix || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || 2254647 || 30766 || 828 (33921) || 0 (940) || 32 (2872) || 480(536) || Checksum failed || [wiki:runs_31 Run 31]
+|20101103 || clix || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || 2250831 || 30899 || 828 (33921) || 0 (940) || 32 (2872) || 480(536) || Checksum failed || [wiki:runs_32 Run 32]
+|20101114 || clix || [wiki:compilernames mips-uclib-gcc -O2] || 4.2.1 || 2205913 || 30780 || 812 (32289) || 0 (940) || 32 (2872) || 480(536) || Checksum failed || [wiki:runs_31 Run 31]
+|20101103 || clix || [wiki:compilernames mips-uclib-gcc -O2] || 4.2.1 || 2235090 || 30939 || 812 (32289) || 0 (940) || 32 (2872) || 480(536) || Checksum failed || [wiki:runs_32 Run 32]
+|20101114 || clix || [wiki:compilernames mips-uclib-gcc -O3] || 4.2.1 || 2232108 || 30912 || 828 (32361) || 0 (940) || 32 (2868) || 480(536) || Checksum failed || [wiki:runs_31 Run 31]
+|20101103 || clix || [wiki:compilernames mips-uclib-gcc -O3] || 4.2.1 || 2237766 || 30939 || 828 (32361) || 0 (940) || 32 (2868) || 480(536) || Checksum failed || [wiki:runs_32 Run 32]
+|20101114 || clix || [wiki:compilernames mips-uclib-gcc -Os] || 4.2.1 || 2355241 || 30634 || 844 (32026) || 0 (940) || 32 (2872) || 480(536) || Checksum failed || [wiki:runs_31 Run 31]
+|20101103 || clix || [wiki:compilernames mips-uclib-gcc -Os] || 4.2.1 || 2287560 || 30926 || 844 (32026) || 0 (940) || 32 (2872) || 480(536) || Checksum failed || [wiki:runs_32 Run 32]

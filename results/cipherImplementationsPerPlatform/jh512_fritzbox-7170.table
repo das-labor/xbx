@@ -1,7 +1,7 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:platformsimplementations_fritzbox-7170_jh512_bitslice_opt32 bitslice_opt32] || 441570 || 8170 || 468 || [wiki:compilernames mips-uclib-gcc -O2] || 4.2.1 || [wiki:runs_10 Run 10]
-|[wiki:platformsimplementations_fritzbox-7170_jh512_bitslice_ref32 bitslice_ref32] || 486779 || 13033 || 484 || [wiki:compilernames mips-uclib-gcc -O3] || 4.2.1 || [wiki:runs_12 Run 12]
+|[wiki:platformsimplementations_fritzbox-7170_jh512_bitslice_opt32 bitslice_opt32] || 441464 || 8170 || 468 || [wiki:compilernames mips-uclib-gcc -O2] || 4.2.1 || [wiki:runs_32 Run 32]
+|[wiki:platformsimplementations_fritzbox-7170_jh512_bitslice_ref32 bitslice_ref32] || 486633 || 13033 || 484 || [wiki:compilernames mips-uclib-gcc -O3] || 4.2.1 || [wiki:runs_32 Run 32]
 |[wiki:platformsimplementations_fritzbox-7170_jh512_bitslice_opt64 bitslice_opt64] || 503235 || 12506 || 532 || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:runs_11 Run 11]
-|[wiki:platformsimplementations_fritzbox-7170_jh512_sphlib-small sphlib-small] || 509887 || 10370 || 880 || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:runs_10 Run 10]
-|[wiki:platformsimplementations_fritzbox-7170_jh512_sphlib sphlib] || 548656 || 18204 || 1664 || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:runs_10 Run 10]
+|[wiki:platformsimplementations_fritzbox-7170_jh512_sphlib-small sphlib-small] || 509237 || 10370 || 880 || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:runs_31 Run 31]
+|[wiki:platformsimplementations_fritzbox-7170_jh512_sphlib sphlib] || 548351 || 18204 || 1664 || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:runs_31 Run 31]
 |[wiki:platformsimplementations_fritzbox-7170_jh512_bitslice_ref64 bitslice_ref64] || 665362 || 11573 || 468 || [wiki:compilernames mips-uclib-gcc -O3] || 4.2.1 || [wiki:runs_9 Run 9]

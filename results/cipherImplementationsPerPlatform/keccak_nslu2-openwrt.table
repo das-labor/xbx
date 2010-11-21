@@ -1,4 +1,5 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:platformsimplementations_nslu2-openwrt_keccak_opt32u2nit_xbx opt32u2nit_xbx] || 327978 || 30068 || 1512 || [wiki:compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:runs_24 Run 24]
 |[wiki:platformsimplementations_nslu2-openwrt_keccak_opt32u2 opt32u2] || 378402 || 29616 || 263624 || [wiki:compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:runs_19 Run 19]
 |[wiki:platformsimplementations_nslu2-openwrt_keccak_opt32u6 opt32u6] || 420662 || 64904 || 265208 || [wiki:compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:runs_20 Run 20]
 |[wiki:platformsimplementations_nslu2-openwrt_keccak_opt64u6 opt64u6] || 449208 || 86492 || 3996 || [wiki:compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:runs_17 Run 17]

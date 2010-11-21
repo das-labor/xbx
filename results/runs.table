@@ -1,4 +1,9 @@
 | '''ID''' || '''Date''' || '''Platform''' || '''Hostname''' || '''Version''' || '''XBH Revision''' || '''Bootloader Revision''' || '''Details''' 
+|32 || 20101103 || fritzbox-7170 || clix || 2.0.1dev || 01112 || 01119 || [wiki:runs_32 Run 32]
+|31 || 20101114 || fritzbox-7170 || clix || 2.0.2dev || 01112 || 01119 || [wiki:runs_31 Run 31]
+|30 || 20101114 || nslu2-openwrt || clix || 2.0.2dev || 01250 || 01138 || [wiki:runs_30 Run 30]
+|29 || 20101114 || lm3s811-evb || clix || 2.0.2dev || 01085 || 01099 || [wiki:runs_29 Run 29]
+|28 || 20101114 || atmega1284p_16mhz || clix || 2.0.2dev || 01120 || 01039 || [wiki:runs_28 Run 28]
 |27 || 20101020 || artila_m501 || clix || 2.0.1dev || 01112 || 01268 || [wiki:runs_27 Run 27]
 |26 || 20101017 || atmega1281_16mhz || clix || 2.0.1dev || 01076 || 01146 || [wiki:runs_26 Run 26]
 |25 || 20101017 || fritzbox-7170 || clix || 2.0.1dev || 01112 || 01119 || [wiki:runs_25 Run 25]

@@ -1,6 +1,11 @@
 | '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
 |20101017 || clix || [wiki:compilernames mips-uclib-gcc -O0] || 4.2.1 || 76598104 || 5475735 || 33258 (75488) || 56 (1000) || 48 (2888) || 960(1008) || Checksum OK || [wiki:runs_25 Run 25]
+|20101103 || clix || [wiki:compilernames mips-uclib-gcc -O0] || 4.2.1 || 60278927 || 4519204 || 33258 (75488) || 56 (1000) || 48 (2888) || 960(1008) || Checksum OK || [wiki:runs_32 Run 32]
 |20101017 || clix || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || 37837363 || 2991983 || 23026 (56119) || 52 (992) || 48 (2888) || 768(824) || Checksum OK || [wiki:runs_25 Run 25]
+|20101103 || clix || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || 30780505 || 2462089 || 23026 (56119) || 52 (992) || 48 (2888) || 768(824) || Checksum OK || [wiki:runs_32 Run 32]
 |20101017 || clix || [wiki:compilernames mips-uclib-gcc -O2] || 4.2.1 || 36812117 || 2967947 || 22466 (53943) || 52 (992) || 48 (2888) || 784(840) || Checksum OK || [wiki:runs_25 Run 25]
+|20101103 || clix || [wiki:compilernames mips-uclib-gcc -O2] || 4.2.1 || 30424292 || 2443499 || 22466 (53943) || 52 (992) || 48 (2888) || 784(840) || Checksum OK || [wiki:runs_32 Run 32]
 |20101017 || clix || [wiki:compilernames mips-uclib-gcc -O3] || 4.2.1 || 36857949 || 2856965 || 24499 (56032) || 52 (992) || 48 (2884) || 752(808) || Checksum OK || [wiki:runs_25 Run 25]
+|20101103 || clix || [wiki:compilernames mips-uclib-gcc -O3] || 4.2.1 || 29688825 || 2388220 || 24499 (56032) || 52 (992) || 48 (2884) || 752(808) || Checksum OK || [wiki:runs_32 Run 32]
 |20101017 || clix || [wiki:compilernames mips-uclib-gcc -Os] || 4.2.1 || 38404993 || 2946774 || 22290 (53472) || 52 (992) || 48 (2888) || 760(816) || Checksum OK || [wiki:runs_25 Run 25]
+|20101103 || clix || [wiki:compilernames mips-uclib-gcc -Os] || 4.2.1 || 30631112 || 2436450 || 22290 (53472) || 52 (992) || 48 (2888) || 760(816) || Checksum OK || [wiki:runs_32 Run 32]

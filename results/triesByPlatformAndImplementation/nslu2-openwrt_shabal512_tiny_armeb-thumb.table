@@ -1,6 +1,11 @@
 | '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
 |20101017 || clix || [wiki:compilernames armeb-uclibc-gcc -O0] || 4.1.2 || 5749923 || 121163 || 404 (22858) || 0 (388) || 32 (2860) || 552(560) || Checksum OK || [wiki:runs_24 Run 24]
+|20101114 || clix || [wiki:compilernames armeb-uclibc-gcc -O0] || 4.1.2 || 5769490 || 121230 || 404 (22858) || 0 (388) || 32 (2860) || 552(560) || Checksum OK || [wiki:runs_30 Run 30]
 |20101017 || clix || [wiki:compilernames armeb-uclibc-gcc -O1] || 4.1.2 || 3630883 || 121063 || 428 (16662) || 0 (384) || 32 (2860) || 548(564) || Checksum OK || [wiki:runs_24 Run 24]
+|20101114 || clix || [wiki:compilernames armeb-uclibc-gcc -O1] || 4.1.2 || 3623502 || 121246 || 428 (16662) || 0 (384) || 32 (2860) || 547(563) || Checksum OK || [wiki:runs_30 Run 30]
 |20101017 || clix || [wiki:compilernames armeb-uclibc-gcc -O2] || 4.1.2 || 3660027 || 119966 || 428 (16570) || 0 (384) || 32 (2860) || 548(556) || Checksum OK || [wiki:runs_24 Run 24]
+|20101114 || clix || [wiki:compilernames armeb-uclibc-gcc -O2] || 4.1.2 || 3654956 || 120232 || 428 (16570) || 0 (384) || 32 (2860) || 548(556) || Checksum OK || [wiki:runs_30 Run 30]
 |20101017 || clix || [wiki:compilernames armeb-uclibc-gcc -O3] || 4.1.2 || 3644965 || 120980 || 428 (17482) || 0 (384) || 32 (2856) || 548(564) || Checksum OK || [wiki:runs_24 Run 24]
+|20101114 || clix || [wiki:compilernames armeb-uclibc-gcc -O3] || 4.1.2 || 3650368 || 121130 || 428 (17482) || 0 (384) || 32 (2856) || 548(564) || Checksum OK || [wiki:runs_30 Run 30]
 |20101017 || clix || [wiki:compilernames armeb-uclibc-gcc -Os] || 4.1.2 || 3545497 || 139068 || 428 (16174) || 0 (384) || 32 (2860) || 548(564) || Checksum OK || [wiki:runs_24 Run 24]
+|20101114 || clix || [wiki:compilernames armeb-uclibc-gcc -Os] || 4.1.2 || 3546229 || 121246 || 428 (16174) || 0 (384) || 32 (2860) || 548(564) || Checksum OK || [wiki:runs_30 Run 30]

@@ -1,5 +1,8 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:platformsimplementations_nslu2-openwrt_keccakc512_opt32u2nit_xbx opt32u2nit_xbx] || 308294 || 23600 || 1420 || [wiki:compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:runs_24 Run 24]
 |[wiki:platformsimplementations_nslu2-openwrt_keccakc512_opt32u2 opt32u2] || 359466 || 23148 || 263532 || [wiki:compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:runs_20 Run 20]
 |[wiki:platformsimplementations_nslu2-openwrt_keccakc512_opt32u6 opt32u6] || 400131 || 49620 || 265116 || [wiki:compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:runs_20 Run 20]
 |[wiki:platformsimplementations_nslu2-openwrt_keccakc512_opt64u6 opt64u6] || 425234 || 65888 || 3912 || [wiki:compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:runs_19 Run 19]
+|[wiki:platformsimplementations_nslu2-openwrt_keccakc512_sphlib-small sphlib-small] || 558849 || 17980 || 4072 || [wiki:compilernames armeb-uclibc-gcc -Os] || 4.1.2 || [wiki:runs_24 Run 24]
+|[wiki:platformsimplementations_nslu2-openwrt_keccakc512_sphlib sphlib] || 632698 || 26232 || 4988 || [wiki:compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:runs_20 Run 20]
 |[wiki:platformsimplementations_nslu2-openwrt_keccakc512_opt64u24 opt64u24] || 1929730 || 264904 || 7168 || [wiki:compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:runs_19 Run 19]

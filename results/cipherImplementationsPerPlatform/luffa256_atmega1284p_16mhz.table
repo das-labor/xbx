@@ -1,2 +1,4 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:platformsimplementations_atmega1284p_16mhz_luffa256_avr avr] || 1166389 || 894 || 152 || [wiki:compilernames avr-gcc 1284p -Os] || 4.3.4 (GCC) || [wiki:runs_28 Run 28]
 |[wiki:platformsimplementations_atmega1284p_16mhz_luffa256_sphlib sphlib] || 4358668 || 20972 || 770 || [wiki:compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || [wiki:runs_22 Run 22]
+|[wiki:platformsimplementations_atmega1284p_16mhz_luffa256_arm arm] || 4897939 || 44426 || 920 || [wiki:compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || [wiki:runs_28 Run 28]

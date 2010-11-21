@@ -1,6 +1,11 @@
 | '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
 |20101017 || clix || [wiki:compilernames arm-elf-gcc -O0] || 4.3.2 (GCC) ||  ||  || 25040 (39668) || 320 (344) || 32 (2520) || unk(unk) || error || [wiki:runs_23 Run 23]
+|20101114 || clix || [wiki:compilernames arm-elf-gcc -O0] || 4.3.2 (GCC) ||  ||  || 25040 (39668) || 320 (344) || 32 (2520) || unk(unk) || error || [wiki:runs_29 Run 29]
 |20101017 || clix || [wiki:compilernames arm-elf-gcc -O1] || 4.3.2 (GCC) ||  ||  || 8312 (17896) || 320 (344) || 32 (2520) || unk(unk) || error || [wiki:runs_23 Run 23]
+|20101114 || clix || [wiki:compilernames arm-elf-gcc -O1] || 4.3.2 (GCC) ||  ||  || 8312 (17896) || 320 (344) || 32 (2520) || unk(unk) || error || [wiki:runs_29 Run 29]
 |20101017 || clix || [wiki:compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || 5894247 || 436181 || 7428 (16324) || 320 (344) || 32 (2520) || 664(664) || Checksum OK || [wiki:runs_23 Run 23]
+|20101114 || clix || [wiki:compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || 5894246 || 436181 || 7428 (16324) || 320 (344) || 32 (2520) || 664(664) || Checksum OK || [wiki:runs_29 Run 29]
 |20101017 || clix || [wiki:compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || 5626848 || 418066 || 10056 (19932) || 320 (344) || 32 (2520) || 836(836) || Checksum OK || [wiki:runs_23 Run 23]
+|20101114 || clix || [wiki:compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || 5626847 || 418066 || 10056 (19932) || 320 (344) || 32 (2520) || 836(836) || Checksum OK || [wiki:runs_29 Run 29]
 |20101017 || clix || [wiki:compilernames arm-elf-gcc -Os] || 4.3.2 (GCC) || 7703826 || 564875 || 7028 (15421) || 320 (344) || 32 (2520) || 716(716) || Checksum OK || [wiki:runs_23 Run 23]
+|20101114 || clix || [wiki:compilernames arm-elf-gcc -Os] || 4.3.2 (GCC) || 7703825 || 564875 || 7028 (15421) || 320 (344) || 32 (2520) || 716(716) || Checksum OK || [wiki:runs_29 Run 29]

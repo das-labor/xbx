@@ -1,0 +1,8 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:platformsimplementations_lm3s811-evb_keccak_armasm armasm] || 175171 || 6676 || 872 || [wiki:compilernames arm-elf-gcc -Os] || 4.3.2 (GCC) || [wiki:runs_29 Run 29]
+|[wiki:platformsimplementations_lm3s811-evb_keccak_opt32bi-s2lcu4 opt32bi-s2lcu4] || 196037 || 22628 || 980 || [wiki:compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || [wiki:runs_23 Run 23]
+|[wiki:platformsimplementations_lm3s811-evb_keccak_opt32bi-rvku2 opt32bi-rvku2] || 199341 || 14380 || 980 || [wiki:compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || [wiki:runs_23 Run 23]
+|[wiki:platformsimplementations_lm3s811-evb_keccak_opt32u2nit_xbx opt32u2nit_xbx] || 212836 || 18356 || 980 || [wiki:compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || [wiki:runs_23 Run 23]
+|[wiki:platformsimplementations_lm3s811-evb_keccak_simple simple] || 388888 || 5064 || 980 || [wiki:compilernames arm-elf-gcc -Os] || 4.3.2 (GCC) || [wiki:runs_23 Run 23]
+|[wiki:platformsimplementations_lm3s811-evb_keccak_opt64lcu6 opt64lcu6] || 403552 || 48216 || 980 || [wiki:compilernames arm-elf-gcc -Os] || 4.3.2 (GCC) || [wiki:runs_23 Run 23]
+|[wiki:platformsimplementations_lm3s811-evb_keccak_compact compact] || 847979 || 1820 || 492 || [wiki:compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:runs_23 Run 23]

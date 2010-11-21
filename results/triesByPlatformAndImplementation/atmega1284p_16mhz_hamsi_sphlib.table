@@ -1,9 +1,13 @@
 | '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20101114 || clix || [wiki:compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || 68768821 || 8135095 || 48088 (57218) || 32800 (33212) || 0 (2415) || 0(0) || Checksum failed || [wiki:runs_28 Run 28]
 |20100802 || blix || [wiki:compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || 68768767 || 8135089 || 48088 (57218) || 32800 (33212) || 0 (2415) || 0(0) || Checksum failed || [wiki:runs_22 Run 22]
 |20100801 || blix || [wiki:compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || 68768776 || 8135090 || 48088 (57218) || 32800 (33212) || 0 (2415) || 0(0) || Checksum failed || [wiki:runs_21 Run 21]
 |20100802 || blix || [wiki:compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || 66878786 || 8005606 || 44270 (52516) || 32800 (33212) || 0 (2415) || 0(0) || Checksum failed || [wiki:runs_22 Run 22]
+|20101114 || clix || [wiki:compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || 66878838 || 8005612 || 44270 (52516) || 32800 (33212) || 0 (2415) || 0(0) || Checksum failed || [wiki:runs_28 Run 28]
 |20100801 || blix || [wiki:compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || 66878794 || 8005607 || 44270 (52516) || 32800 (33212) || 0 (2415) || 0(0) || Checksum failed || [wiki:runs_21 Run 21]
+|20101114 || clix || [wiki:compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || 66876904 || 8005597 || 44628 (52896) || 32800 (33212) || 0 (2415) || 0(0) || Checksum failed || [wiki:runs_28 Run 28]
 |20100801 || blix || [wiki:compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || 66876859 || 8005591 || 44628 (52896) || 32800 (33212) || 0 (2415) || 0(0) || Checksum failed || [wiki:runs_21 Run 21]
 |20100802 || blix || [wiki:compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || 66876852 || 8005590 || 44628 (52896) || 32800 (33212) || 0 (2415) || 0(0) || Checksum failed || [wiki:runs_22 Run 22]
+|20101114 || clix || [wiki:compilernames avr-gcc 1284p -Os] || 4.3.4 (GCC) || 69281227 || 8289823 || 38896 (46602) || 32800 (33212) || 0 (2415) || 0(0) || Checksum failed || [wiki:runs_28 Run 28]
 |20100802 || blix || [wiki:compilernames avr-gcc 1284p -Os] || 4.3.4 (GCC) || 69281172 || 8289816 || 38896 (46602) || 32800 (33212) || 0 (2415) || 0(0) || Checksum failed || [wiki:runs_22 Run 22]
 |20100801 || blix || [wiki:compilernames avr-gcc 1284p -Os] || 4.3.4 (GCC) || 69281180 || 8289818 || 38896 (46602) || 32800 (33212) || 0 (2415) || 0(0) || Checksum failed || [wiki:runs_21 Run 21]

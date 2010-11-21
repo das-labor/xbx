@@ -1,6 +1,11 @@
 | '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
 |20101017 || clix || [wiki:compilernames mips-uclib-gcc -O0] || 4.2.1 || 27695614 || 1790910 || 3454 (45684) || 48 (992) || 136 (2976) || 280(328) ||  || [wiki:runs_25 Run 25]
+|20101103 || clix || [wiki:compilernames mips-uclib-gcc -O0] || 4.2.1 || 22840668 || 1508672 || 3454 (45684) || 48 (992) || 136 (2976) || 280(328) ||  || [wiki:runs_32 Run 32]
 |20101017 || clix || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || 11377152 || 617887 || 4133 (37226) || 52 (992) || 136 (2976) || 280(336) ||  || [wiki:runs_25 Run 25]
+|20101103 || clix || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || 9401286 || 589108 || 4133 (37226) || 52 (992) || 136 (2976) || 280(336) ||  || [wiki:runs_32 Run 32]
 |20101017 || clix || [wiki:compilernames mips-uclib-gcc -O2] || 4.2.1 || 9938428 || 530278 || 4069 (35546) || 52 (992) || 136 (2976) || 288(344) ||  || [wiki:runs_25 Run 25]
+|20101103 || clix || [wiki:compilernames mips-uclib-gcc -O2] || 4.2.1 || 8546979 || 528185 || 4069 (35546) || 52 (992) || 136 (2976) || 288(344) ||  || [wiki:runs_32 Run 32]
 |20101017 || clix || [wiki:compilernames mips-uclib-gcc -O3] || 4.2.1 || 9141334 || 492980 || 4477 (36010) || 52 (992) || 136 (2972) || 328(384) ||  || [wiki:runs_25 Run 25]
+|20101103 || clix || [wiki:compilernames mips-uclib-gcc -O3] || 4.2.1 || 7988478 || 490873 || 4477 (36010) || 52 (992) || 136 (2972) || 328(384) ||  || [wiki:runs_32 Run 32]
 |20101017 || clix || [wiki:compilernames mips-uclib-gcc -Os] || 4.2.1 || 14507889 || 1023125 || 4053 (35235) || 52 (992) || 136 (2976) || 328(384) ||  || [wiki:runs_25 Run 25]
+|20101103 || clix || [wiki:compilernames mips-uclib-gcc -Os] || 4.2.1 || 11638071 || 744730 || 4053 (35235) || 52 (992) || 136 (2976) || 328(384) ||  || [wiki:runs_32 Run 32]

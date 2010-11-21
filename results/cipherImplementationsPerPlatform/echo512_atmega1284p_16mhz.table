@@ -2,3 +2,4 @@
 |[wiki:platformsimplementations_atmega1284p_16mhz_echo512_avrcryptolib avrcryptolib] || 3511558 || 3662 || 742 || [wiki:compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || [wiki:runs_22 Run 22]
 |[wiki:platformsimplementations_atmega1284p_16mhz_echo512_sphlib sphlib] || 3697776 || 45280 || 5367 || [wiki:compilernames avr-gcc 1284p -Os] || 4.3.4 (GCC) || [wiki:runs_22 Run 22]
 |[wiki:platformsimplementations_atmega1284p_16mhz_echo512_sphlib-small sphlib-small] || 3713307 || 21064 || 5198 || [wiki:compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || [wiki:runs_22 Run 22]
+|[wiki:platformsimplementations_atmega1284p_16mhz_echo512_armcryptolib armcryptolib] || 6356629 || 7164 || 1008 || [wiki:compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || [wiki:runs_28 Run 28]

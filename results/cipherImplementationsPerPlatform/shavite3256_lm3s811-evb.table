@@ -1,0 +1,3 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:platformsimplementations_lm3s811-evb_shavite3256_sphlib sphlib] || 170474 || 19000 || 888 || [wiki:compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:runs_29 Run 29]
+|[wiki:platformsimplementations_lm3s811-evb_shavite3256_sphlib-small sphlib-small] || 178724 || 8088 || 888 || [wiki:compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:runs_29 Run 29]

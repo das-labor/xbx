@@ -1,0 +1,11 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20101017 || clix || [wiki:compilernames mips-uclib-gcc -O0] || 4.2.1 || 108879596 || 5119548 || 57472 (99702) || 124 (1068) || 262148 (264988) || 1368(1416) || Checksum OK || [wiki:runs_25 Run 25]
+|20101103 || clix || [wiki:compilernames mips-uclib-gcc -O0] || 4.2.1 || 88378573 || 4294961 || 57472 (99702) || 124 (1068) || 262148 (264988) || 1368(1416) || Checksum OK || [wiki:runs_32 Run 32]
+|20101017 || clix || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || 24328617 || 323777 || 31240 (64333) || 124 (1064) || 262148 (264988) || 1552(1608) || Checksum OK || [wiki:runs_25 Run 25]
+|20101103 || clix || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || 19019328 || 321432 || 31240 (64333) || 124 (1064) || 262148 (264988) || 1552(1608) || Checksum OK || [wiki:runs_32 Run 32]
+|20101017 || clix || [wiki:compilernames mips-uclib-gcc -O2] || 4.2.1 || 32448110 || 484446 || 39064 (70541) || 124 (1064) || 262148 (264988) || 3120(3176) || Checksum OK || [wiki:runs_25 Run 25]
+|20101103 || clix || [wiki:compilernames mips-uclib-gcc -O2] || 4.2.1 || 26623490 || 480193 || 39064 (70541) || 124 (1064) || 262148 (264988) || 3120(3176) || Checksum OK || [wiki:runs_32 Run 32]
+|20101017 || clix || [wiki:compilernames mips-uclib-gcc -O3] || 4.2.1 || 17349669 || 467540 || 38453 (69986) || 124 (1064) || 262148 (264984) || 3096(3152) || Checksum OK || [wiki:runs_25 Run 25]
+|20101103 || clix || [wiki:compilernames mips-uclib-gcc -O3] || 4.2.1 || 14213712 || 468123 || 38453 (69986) || 124 (1064) || 262148 (264984) || 3096(3152) || Checksum OK || [wiki:runs_32 Run 32]
+|20101017 || clix || [wiki:compilernames mips-uclib-gcc -Os] || 4.2.1 || 31308041 || 478140 || 38424 (69606) || 124 (1064) || 262148 (264988) || 3216(3272) || Checksum OK || [wiki:runs_25 Run 25]
+|20101103 || clix || [wiki:compilernames mips-uclib-gcc -Os] || 4.2.1 || 26208924 || 475344 || 38424 (69606) || 124 (1064) || 262148 (264988) || 3216(3272) || Checksum OK || [wiki:runs_32 Run 32]

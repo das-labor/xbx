@@ -1,0 +1,5 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20101017 || clix || [wiki:compilernames arm-elf-gcc -O1] || 4.3.2 (GCC) || 5338182 || 396123 || 38284 (47868) || 0 (24) || 0 (2488) || 888(888) || Checksum OK || [wiki:runs_23 Run 23]
+|20101017 || clix || [wiki:compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || 5049131 || 387722 || 36816 (45712) || 0 (24) || 0 (2488) || 884(884) || Checksum OK || [wiki:runs_23 Run 23]
+|20101017 || clix || [wiki:compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || 5045001 || 387692 || 36912 (46788) || 0 (24) || 0 (2488) || 888(888) || Checksum OK || [wiki:runs_23 Run 23]
+|20101017 || clix || [wiki:compilernames arm-elf-gcc -Os] || 4.3.2 (GCC) || 5055354 || 372813 || 33020 (41413) || 0 (24) || 0 (2488) || 884(884) || Checksum OK || [wiki:runs_23 Run 23]

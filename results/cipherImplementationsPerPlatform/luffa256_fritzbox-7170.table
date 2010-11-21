@@ -1,5 +1,5 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:platformsimplementations_fritzbox-7170_luffa256_thomaz_basic thomaz_basic] || 197571 || 4298 || 208 || [wiki:compilernames mips-uclib-gcc -O3] || 4.2.1 || [wiki:runs_25 Run 25]
+|[wiki:platformsimplementations_fritzbox-7170_luffa256_thomaz_basic thomaz_basic] || 195517 || 4298 || 208 || [wiki:compilernames mips-uclib-gcc -O3] || 4.2.1 || [wiki:runs_32 Run 32]
 |[wiki:platformsimplementations_fritzbox-7170_luffa256_opt32 opt32] || 202579 || 21404 || 988 || [wiki:compilernames mips-uclib-gcc -O3] || 4.2.1 || [wiki:runs_9 Run 9]
-|[wiki:platformsimplementations_fritzbox-7170_luffa256_sphlib sphlib] || 207190 || 7862 || 492 || [wiki:compilernames mips-uclib-gcc -O3] || 4.2.1 || [wiki:runs_9 Run 9]
-|[wiki:platformsimplementations_fritzbox-7170_luffa256_arm arm] || 379745 || 15175 || 828 || [wiki:compilernames mips-uclib-gcc -Os] || 4.2.1 || [wiki:runs_25 Run 25]
+|[wiki:platformsimplementations_fritzbox-7170_luffa256_sphlib sphlib] || 206793 || 7862 || 492 || [wiki:compilernames mips-uclib-gcc -O3] || 4.2.1 || [wiki:runs_31 Run 31]
+|[wiki:platformsimplementations_fritzbox-7170_luffa256_arm arm] || 377771 || 15175 || 828 || [wiki:compilernames mips-uclib-gcc -Os] || 4.2.1 || [wiki:runs_32 Run 32]

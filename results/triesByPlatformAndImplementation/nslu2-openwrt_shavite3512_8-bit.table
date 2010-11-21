@@ -1,6 +1,11 @@
 | '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
 |20101017 || clix || [wiki:compilernames armeb-uclibc-gcc -O0] || 4.1.2 || 72149657 || 5510722 || 32988 (55442) || 220 (608) || 36 (2864) || 1240(1248) || Checksum failed || [wiki:runs_24 Run 24]
+|20101114 || clix || [wiki:compilernames armeb-uclibc-gcc -O0] || 4.1.2 || 72146382 || 5512667 || 32752 (55206) || 192 (580) || 32 (2860) || 1240(1248) || Checksum OK || [wiki:runs_30 Run 30]
 |20101017 || clix || [wiki:compilernames armeb-uclibc-gcc -O1] || 4.1.2 || 33273042 || 2606734 || 14788 (31022) || 224 (608) || 36 (2864) || 1240(1256) || Checksum failed || [wiki:runs_24 Run 24]
+|20101114 || clix || [wiki:compilernames armeb-uclibc-gcc -O1] || 4.1.2 || 33142885 || 2596642 || 14528 (30762) || 196 (580) || 32 (2860) || 1240(1256) || Checksum OK || [wiki:runs_30 Run 30]
 |20101017 || clix || [wiki:compilernames armeb-uclibc-gcc -O2] || 4.1.2 || 32900809 || 2570890 || 15372 (31514) || 224 (608) || 36 (2864) || 1308(1316) || Checksum failed || [wiki:runs_24 Run 24]
+|20101114 || clix || [wiki:compilernames armeb-uclibc-gcc -O2] || 4.1.2 || 32789305 || 2559519 || 15116 (31258) || 196 (580) || 32 (2860) || 1308(1316) || Checksum OK || [wiki:runs_30 Run 30]
 |20101017 || clix || [wiki:compilernames armeb-uclibc-gcc -O3] || 4.1.2 || 13253334 || 1022371 || 52968 (70022) || 224 (608) || 36 (2860) || 2796(2812) || Checksum failed || [wiki:runs_24 Run 24]
+|20101114 || clix || [wiki:compilernames armeb-uclibc-gcc -O3] || 4.1.2 || 13260632 || 1001939 || 52712 (69766) || 196 (580) || 32 (2856) || 2796(2812) || Checksum OK || [wiki:runs_30 Run 30]
 |20101017 || clix || [wiki:compilernames armeb-uclibc-gcc -Os] || 4.1.2 || 31818637 || 2491888 || 15125 (30871) || 224 (608) || 36 (2864) || 1224(1240) || Checksum failed || [wiki:runs_24 Run 24]
+|20101114 || clix || [wiki:compilernames armeb-uclibc-gcc -Os] || 4.1.2 || 31805886 || 2492021 || 14872 (30618) || 196 (580) || 32 (2860) || 1224(1240) || Checksum OK || [wiki:runs_30 Run 30]

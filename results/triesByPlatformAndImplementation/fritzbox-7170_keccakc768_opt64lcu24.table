@@ -1,6 +1,11 @@
 | '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
 |20101017 || clix || [wiki:compilernames mips-uclib-gcc -O0] || 4.2.1 || 85584506 || 6573458 || 272541 (314771) || 108 (1052) || 16 (2856) || 6888(6936) ||  || [wiki:runs_25 Run 25]
+|20101103 || clix || [wiki:compilernames mips-uclib-gcc -O0] || 4.2.1 || 69054694 || 5484732 || 272541 (314771) || 108 (1052) || 16 (2856) || 6888(6936) ||  || [wiki:runs_32 Run 32]
 |20101017 || clix || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || 67188471 || 5175066 || 190212 (223305) || 104 (1044) || 16 (2856) || 7136(7192) ||  || [wiki:runs_25 Run 25]
+|20101103 || clix || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || 54182324 || 4289807 || 190212 (223305) || 104 (1044) || 16 (2856) || 7136(7192) ||  || [wiki:runs_32 Run 32]
 |20101017 || clix || [wiki:compilernames mips-uclib-gcc -O2] || 4.2.1 ||  ||  || 191732 (223209) || 104 (1044) || 16 (2856) || unk(unk) || error || [wiki:runs_25 Run 25]
+|20101103 || clix || [wiki:compilernames mips-uclib-gcc -O2] || 4.2.1 || 58254420 || 4687506 || 191732 (223209) || 104 (1044) || 16 (2856) || 7136(7192) ||  || [wiki:runs_32 Run 32]
 |20101017 || clix || [wiki:compilernames mips-uclib-gcc -O3] || 4.2.1 || 71600324 || 5523978 || 191205 (222738) || 104 (1044) || 16 (2852) || 7136(7192) ||  || [wiki:runs_25 Run 25]
+|20101103 || clix || [wiki:compilernames mips-uclib-gcc -O3] || 4.2.1 || 58286260 || 4681358 || 191205 (222738) || 104 (1044) || 16 (2852) || 7136(7192) ||  || [wiki:runs_32 Run 32]
 |20101017 || clix || [wiki:compilernames mips-uclib-gcc -Os] || 4.2.1 || 70712680 || 5500764 || 190692 (221874) || 104 (1044) || 16 (2856) || 7136(7192) ||  || [wiki:runs_25 Run 25]
+|20101103 || clix || [wiki:compilernames mips-uclib-gcc -Os] || 4.2.1 || 58107133 || 4665338 || 190692 (221874) || 104 (1044) || 16 (2856) || 7136(7192) ||  || [wiki:runs_32 Run 32]

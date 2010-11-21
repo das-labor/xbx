@@ -4,3 +4,4 @@
 |20100728 || blix || [wiki:compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || 4363266 || 286187 || 47536 (56432) || 0 (24) || 32 (2520) || 884(884) || Checksum OK || [wiki:runs_7 Run 7]
 |20100728 || blix || [wiki:compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || 4363266 || 286187 || 47536 (56432) || 0 (24) || 32 (2520) || 884(884) || Checksum OK || [wiki:runs_8 Run 8]
 |20101017 || clix || [wiki:compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || 4363266 || 286187 || 47536 (56432) || 0 (24) || 32 (2520) || 884(884) || Checksum OK || [wiki:runs_23 Run 23]
+|20101114 || clix || [wiki:compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || 4363266 || 286187 || 47536 (56432) || 0 (24) || 32 (2520) || 884(884) || Checksum OK || [wiki:runs_29 Run 29]

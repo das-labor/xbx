@@ -2,4 +2,5 @@
 |[wiki:platformsimplementations_atmega1284p_16mhz_blake32_sphlib sphlib] || 1419678 || 39902 || 1764 || [wiki:compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || [wiki:runs_22 Run 22]
 |[wiki:platformsimplementations_atmega1284p_16mhz_blake32_light light] || 1553177 || 8260 || 705 || [wiki:compilernames avr-gcc 1284p -Os] || 4.3.4 (GCC) || [wiki:runs_21 Run 21]
 |[wiki:platformsimplementations_atmega1284p_16mhz_blake32_sphlib-small sphlib-small] || 1598475 || 10522 || 1112 || [wiki:compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || [wiki:runs_22 Run 22]
+|[wiki:platformsimplementations_atmega1284p_16mhz_blake32_armcryptolib armcryptolib] || 1688161 || 23226 || 587 || [wiki:compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || [wiki:runs_28 Run 28]
 |[wiki:platformsimplementations_atmega1284p_16mhz_blake32_avrcryptolib avrcryptolib] || 1757638 || 3752 || 279 || [wiki:compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || [wiki:runs_21 Run 21]

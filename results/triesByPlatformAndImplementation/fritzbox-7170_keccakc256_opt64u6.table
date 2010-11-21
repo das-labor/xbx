@@ -1,6 +1,11 @@
 | '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
 |20101017 || clix || [wiki:compilernames mips-uclib-gcc -O0] || 4.2.1 || 70209802 || 4522795 || 115816 (158046) || 92 (1036) || 136 (2976) || 2656(2704) ||  || [wiki:runs_25 Run 25]
+|20101103 || clix || [wiki:compilernames mips-uclib-gcc -O0] || 4.2.1 || 56895407 || 3764550 || 115816 (158046) || 92 (1036) || 136 (2976) || 2656(2704) ||  || [wiki:runs_32 Run 32]
 |20101017 || clix || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || 47346662 || 3022776 || 85039 (118132) || 92 (1032) || 136 (2976) || 3128(3184) ||  || [wiki:runs_25 Run 25]
+|20101103 || clix || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || 39013777 || 2673174 || 85039 (118132) || 92 (1032) || 136 (2976) || 3128(3184) ||  || [wiki:runs_32 Run 32]
 |20101017 || clix || [wiki:compilernames mips-uclib-gcc -O2] || 4.2.1 || 50203243 || 3294334 || 89119 (120596) || 92 (1032) || 136 (2976) || 6272(6328) ||  || [wiki:runs_25 Run 25]
+|20101103 || clix || [wiki:compilernames mips-uclib-gcc -O2] || 4.2.1 || 41372979 || 3272207 || 89119 (120596) || 92 (1032) || 136 (2976) || 6272(6328) ||  || [wiki:runs_32 Run 32]
 |20101017 || clix || [wiki:compilernames mips-uclib-gcc -O3] || 4.2.1 || 51960975 || 3256877 || 88855 (120388) || 92 (1032) || 136 (2972) || 6272(6328) ||  || [wiki:runs_25 Run 25]
+|20101103 || clix || [wiki:compilernames mips-uclib-gcc -O3] || 4.2.1 || 41440488 || 3458078 || 88855 (120388) || 92 (1032) || 136 (2972) || 6272(6328) ||  || [wiki:runs_32 Run 32]
 |20101017 || clix || [wiki:compilernames mips-uclib-gcc -Os] || 4.2.1 || 51517232 || 3276116 || 88383 (119565) || 92 (1032) || 136 (2976) || 6144(6200) ||  || [wiki:runs_25 Run 25]
+|20101103 || clix || [wiki:compilernames mips-uclib-gcc -Os] || 4.2.1 || 41362803 || 2740074 || 88383 (119565) || 92 (1032) || 136 (2976) || 6144(6200) ||  || [wiki:runs_32 Run 32]

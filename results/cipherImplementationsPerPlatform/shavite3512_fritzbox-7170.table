@@ -1,0 +1,7 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:platformsimplementations_fritzbox-7170_shavite3512_low-mem low-mem] || 357551 || 40949 || 1408 || [wiki:compilernames mips-uclib-gcc -Os] || 4.2.1 || [wiki:runs_31 Run 31]
+|[wiki:platformsimplementations_fritzbox-7170_shavite3512_lower-mem lower-mem] || 386741 || 23683 || 1420 || [wiki:compilernames mips-uclib-gcc -Os] || 4.2.1 || [wiki:runs_31 Run 31]
+|[wiki:platformsimplementations_fritzbox-7170_shavite3512_8-bit 8-bit] || 886412 || 54723 || 1996 || [wiki:compilernames mips-uclib-gcc -O3] || 4.2.1 || [wiki:runs_31 Run 31]
+|[wiki:platformsimplementations_fritzbox-7170_shavite3512_IntelL1Cache IntelL1Cache] || 1017560 || 54714 || 2264 || [wiki:compilernames mips-uclib-gcc -Os] || 4.2.1 || [wiki:runs_31 Run 31]
+|[wiki:platformsimplementations_fritzbox-7170_shavite3512_different-order different-order] || 3039762 || 115425 || 4540 || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:runs_31 Run 31]
+|[wiki:platformsimplementations_fritzbox-7170_shavite3512_no-salt no-salt] || 3065679 || 116121 || 4468 || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:runs_31 Run 31]

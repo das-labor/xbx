@@ -1,5 +1,5 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:platformsimplementations_fritzbox-7170_jh224_bitslice_opt32 bitslice_opt32] || 440828 || 9773 || 436 || [wiki:compilernames mips-uclib-gcc -O2] || 4.2.1 || [wiki:runs_9 Run 9]
-|[wiki:platformsimplementations_fritzbox-7170_jh224_bitslice_ref32 bitslice_ref32] || 486460 || 14636 || 452 || [wiki:compilernames mips-uclib-gcc -O3] || 4.2.1 || [wiki:runs_10 Run 10]
-|[wiki:platformsimplementations_fritzbox-7170_jh224_bitslice_opt64 bitslice_opt64] || 503447 || 14141 || 500 || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:runs_10 Run 10]
+|[wiki:platformsimplementations_fritzbox-7170_jh224_bitslice_opt32 bitslice_opt32] || 440563 || 9773 || 436 || [wiki:compilernames mips-uclib-gcc -O2] || 4.2.1 || [wiki:runs_32 Run 32]
+|[wiki:platformsimplementations_fritzbox-7170_jh224_bitslice_ref32 bitslice_ref32] || 486235 || 14636 || 452 || [wiki:compilernames mips-uclib-gcc -O3] || 4.2.1 || [wiki:runs_32 Run 32]
+|[wiki:platformsimplementations_fritzbox-7170_jh224_bitslice_opt64 bitslice_opt64] || 503381 || 14141 || 500 || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:runs_32 Run 32]
 |[wiki:platformsimplementations_fritzbox-7170_jh224_bitslice_ref64 bitslice_ref64] || 667204 || 13176 || 436 || [wiki:compilernames mips-uclib-gcc -O3] || 4.2.1 || [wiki:runs_12 Run 12]

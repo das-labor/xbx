@@ -1,2 +1,5 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:platformsimplementations_atmega1284p_16mhz_skein256_fhreefish-1_2_2 fhreefish-1_2_2] || 474626 || 3566 || 436 || [wiki:compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || [wiki:runs_28 Run 28]
 |[wiki:platformsimplementations_atmega1284p_16mhz_skein256_avrcryptolib_asm avrcryptolib_asm] || 1929012 || 2398 || 268 || [wiki:compilernames avr-gcc 1284p -Os] || 4.3.4 (GCC) || [wiki:runs_22 Run 22]
+|[wiki:platformsimplementations_atmega1284p_16mhz_skein256_armcryptolib armcryptolib] || 11352019 || 8194 || 539 || [wiki:compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || [wiki:runs_28 Run 28]
+|[wiki:platformsimplementations_atmega1284p_16mhz_skein256_avrcryptolib avrcryptolib] || 11352069 || 8192 || 539 || [wiki:compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || [wiki:runs_28 Run 28]

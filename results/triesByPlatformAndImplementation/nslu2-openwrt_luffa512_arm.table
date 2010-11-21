@@ -1,6 +1,11 @@
 | '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
 |20101017 || clix || [wiki:compilernames armeb-uclibc-gcc -O0] || 4.1.2 || 62195206 || 4682465 || 35696 (58150) || 320 (708) || 32 (2860) || 396(404) || Checksum failed || [wiki:runs_24 Run 24]
+|20101114 || clix || [wiki:compilernames armeb-uclibc-gcc -O0] || 4.1.2 || 62278563 || 4682531 || 35696 (58150) || 320 (708) || 32 (2860) || 396(404) || Checksum failed || [wiki:runs_30 Run 30]
 |20101017 || clix || [wiki:compilernames armeb-uclibc-gcc -O1] || 4.1.2 || 9874718 || 749937 || 11052 (27286) || 320 (704) || 32 (2860) || 640(656) || Checksum failed || [wiki:runs_24 Run 24]
+|20101114 || clix || [wiki:compilernames armeb-uclibc-gcc -O1] || 4.1.2 || 9874668 || 731650 || 11052 (27286) || 320 (704) || 32 (2860) || 640(656) || Checksum failed || [wiki:runs_30 Run 30]
 |20101017 || clix || [wiki:compilernames armeb-uclibc-gcc -O2] || 4.1.2 || 4603778 || 314844 || 11304 (27446) || 320 (704) || 32 (2860) || 960(968) || Checksum failed || [wiki:runs_24 Run 24]
+|20101114 || clix || [wiki:compilernames armeb-uclibc-gcc -O2] || 4.1.2 || 4603845 || 314878 || 11304 (27446) || 320 (704) || 32 (2860) || 960(968) || Checksum failed || [wiki:runs_30 Run 30]
 |20101017 || clix || [wiki:compilernames armeb-uclibc-gcc -O3] || 4.1.2 || 4174538 || 282858 || 15728 (32782) || 320 (704) || 32 (2856) || 1168(1184) || Checksum failed || [wiki:runs_24 Run 24]
+|20101114 || clix || [wiki:compilernames armeb-uclibc-gcc -O3] || 4.1.2 || 4174853 || 282974 || 15728 (32782) || 320 (704) || 32 (2856) || 1168(1184) || Checksum failed || [wiki:runs_30 Run 30]
 |20101017 || clix || [wiki:compilernames armeb-uclibc-gcc -Os] || 4.1.2 || 9789266 || 731201 || 12196 (27942) || 320 (704) || 32 (2860) || 956(972) || Checksum failed || [wiki:runs_24 Run 24]
+|20101114 || clix || [wiki:compilernames armeb-uclibc-gcc -Os] || 4.1.2 || 9790379 || 731467 || 12196 (27942) || 320 (704) || 32 (2860) || 956(972) || Checksum failed || [wiki:runs_30 Run 30]

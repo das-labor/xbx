@@ -1,5 +1,9 @@
 | '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
-|20100721 || blix || [wiki:compilernames arm-elf-gcc -Os] || 4.3.2 (GCC) || 5053163 || 372799 || 48200 (56593) || 0 (24) || 0 (24) || 884(884) || Checksum OK || [wiki:runs_5 Run 5]
-|20100727 || blix || [wiki:compilernames arm-elf-gcc -Os] || 4.3.2 (GCC) || 5053164 || 372800 || 48200 (56593) || 0 (24) || 0 (24) || 884(884) || Checksum OK || [wiki:runs_6 Run 6]
-|20100728 || blix || [wiki:compilernames arm-elf-gcc -Os] || 4.3.2 (GCC) || 5053164 || 372800 || 48200 (56593) || 0 (24) || 0 (24) || 884(884) || Checksum OK || [wiki:runs_7 Run 7]
-|20100728 || blix || [wiki:compilernames arm-elf-gcc -Os] || 4.3.2 (GCC) || 5053163 || 372800 || 48200 (56593) || 0 (24) || 0 (24) || 884(884) || Checksum OK || [wiki:runs_8 Run 8]
+|20101017 || clix || [wiki:compilernames arm-elf-gcc -O1] || 4.3.2 (GCC) || 5505488 || 410806 || 40252 (49836) || 0 (24) || 0 (2488) || 888(888) || Checksum OK || [wiki:runs_23 Run 23]
+|20101017 || clix || [wiki:compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || 5397706 || 417502 || 40408 (49304) || 0 (24) || 0 (2488) || 883(883) || Checksum OK || [wiki:runs_23 Run 23]
+|20101017 || clix || [wiki:compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || 5393577 || 417471 || 40504 (50380) || 0 (24) || 0 (2488) || 888(888) || Checksum OK || [wiki:runs_23 Run 23]
+|20100721 || blix || [wiki:compilernames arm-elf-gcc -Os] || 4.3.2 (GCC) || 5053163 || 372799 || 48200 (56593) || 0 (24) || 0 (2488) || 884(884) || Checksum OK || [wiki:runs_5 Run 5]
+|20100727 || blix || [wiki:compilernames arm-elf-gcc -Os] || 4.3.2 (GCC) || 5053164 || 372800 || 48200 (56593) || 0 (24) || 0 (2488) || 884(884) || Checksum OK || [wiki:runs_6 Run 6]
+|20100728 || blix || [wiki:compilernames arm-elf-gcc -Os] || 4.3.2 (GCC) || 5053164 || 372800 || 48200 (56593) || 0 (24) || 0 (2488) || 884(884) || Checksum OK || [wiki:runs_7 Run 7]
+|20100728 || blix || [wiki:compilernames arm-elf-gcc -Os] || 4.3.2 (GCC) || 5053163 || 372800 || 48200 (56593) || 0 (24) || 0 (2488) || 884(884) || Checksum OK || [wiki:runs_8 Run 8]
+|20101017 || clix || [wiki:compilernames arm-elf-gcc -Os] || 4.3.2 (GCC) || 5061806 || 374082 || 33984 (42377) || 0 (24) || 0 (2488) || 884(884) || Checksum OK || [wiki:runs_23 Run 23]

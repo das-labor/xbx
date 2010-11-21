@@ -1,0 +1,3 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:platformsimplementations_atmega1284p_16mhz_keccak_avr8 avr8] || 2496692 || 2824 || 382 || [wiki:compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || [wiki:runs_28 Run 28]
+|[wiki:platformsimplementations_atmega1284p_16mhz_keccak_opt32u2nit_xbx opt32u2nit_xbx] || 5229338 || 98360 || 1752 || [wiki:compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || [wiki:runs_28 Run 28]

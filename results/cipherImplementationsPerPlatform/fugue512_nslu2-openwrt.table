@@ -1,2 +1,3 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
 |[wiki:platformsimplementations_nslu2-openwrt_fugue512_sphlib sphlib] || 433364 || 16766 || 732 || [wiki:compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:runs_24 Run 24]
+|[wiki:platformsimplementations_nslu2-openwrt_fugue512_ref-xbx ref-xbx] || 2327849 || 57476 || 3836 || [wiki:compilernames armeb-uclibc-gcc -O3] || 4.1.2 || [wiki:runs_30 Run 30]

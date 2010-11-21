@@ -1,2 +1,12 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:platformsimplementations_lm3s811-evb_keccakc512_armasm armasm] || 162778 || 6396 || 784 || [wiki:compilernames arm-elf-gcc -Os] || 4.3.2 (GCC) || [wiki:runs_29 Run 29]
+|[wiki:platformsimplementations_lm3s811-evb_keccakc512_opt32bi-s2lcu4 opt32bi-s2lcu4] || 182148 || 16144 || 884 || [wiki:compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || [wiki:runs_23 Run 23]
+|[wiki:platformsimplementations_lm3s811-evb_keccakc512_opt32bi-rvku2 opt32bi-rvku2] || 185193 || 10612 || 884 || [wiki:compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || [wiki:runs_23 Run 23]
+|[wiki:platformsimplementations_lm3s811-evb_keccakc512_opt32u2nit_xbx opt32u2nit_xbx] || 198669 || 14664 || 884 || [wiki:compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || [wiki:runs_29 Run 29]
+|[wiki:platformsimplementations_lm3s811-evb_keccakc512_simple simple] || 359986 || 7692 || 884 || [wiki:compilernames arm-elf-gcc -Os] || 4.3.2 (GCC) || [wiki:runs_23 Run 23]
 |[wiki:platformsimplementations_lm3s811-evb_keccakc512_opt64u6 opt64u6] || 372799 || 48200 || 884 || [wiki:compilernames arm-elf-gcc -Os] || 4.3.2 (GCC) || [wiki:runs_5 Run 5]
+|[wiki:platformsimplementations_lm3s811-evb_keccakc512_opt64lcu6 opt64lcu6] || 372813 || 33020 || 884 || [wiki:compilernames arm-elf-gcc -Os] || 4.3.2 (GCC) || [wiki:runs_23 Run 23]
+|[wiki:platformsimplementations_lm3s811-evb_keccakc512_sphlib-small sphlib-small] || 407661 || 10564 || 884 || [wiki:compilernames arm-elf-gcc -Os] || 4.3.2 (GCC) || [wiki:runs_29 Run 29]
+|[wiki:platformsimplementations_lm3s811-evb_keccakc512_sphlib sphlib] || 422749 || 19204 || 888 || [wiki:compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:runs_29 Run 29]
+|[wiki:platformsimplementations_lm3s811-evb_keccakc512_compact compact] || 783746 || 4432 || 528 || [wiki:compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:runs_23 Run 23]
+|[wiki:platformsimplementations_lm3s811-evb_keccakc512_armcryptolib armcryptolib] || 820401 || 2964 || 692 || [wiki:compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:runs_29 Run 29]

@@ -1,6 +1,6 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:platformsimplementations_fritzbox-7170_groestl512_sphlib-small sphlib-small] || 936682 || 13254 || 1664 || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:runs_12 Run 12]
+|[wiki:platformsimplementations_fritzbox-7170_groestl512_sphlib-small sphlib-small] || 935609 || 13270 || 1664 || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:runs_31 Run 31]
 |[wiki:platformsimplementations_fritzbox-7170_groestl512_opt32 opt32] || 1840081 || 60588 || 960 || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:runs_12 Run 12]
-|[wiki:platformsimplementations_fritzbox-7170_groestl512_sphlib sphlib] || 2928820 || 62052 || 1988 || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:runs_9 Run 9]
+|[wiki:platformsimplementations_fritzbox-7170_groestl512_sphlib sphlib] || 2927561 || 62052 || 1988 || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:runs_31 Run 31]
 |[wiki:platformsimplementations_fritzbox-7170_groestl512_opt64 opt64] || 3123383 || 83660 || 1128 || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:runs_9 Run 9]
 |[wiki:platformsimplementations_fritzbox-7170_groestl512_armcryptolib armcryptolib] || 18117136 || 3646 || 836 || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:runs_12 Run 12]

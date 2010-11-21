@@ -1,6 +1,11 @@
 | '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
 |20101017 || clix || [wiki:compilernames mips-uclib-gcc -O0] || 4.2.1 || 109451572 || 4102319 || 81708 (123938) || 124 (1068) || 262284 (265124) || 1304(1352) ||  || [wiki:runs_25 Run 25]
+|20101103 || clix || [wiki:compilernames mips-uclib-gcc -O0] || 4.2.1 || 87875193 || 3595971 || 81708 (123938) || 124 (1068) || 262284 (265124) || 1304(1352) ||  || [wiki:runs_32 Run 32]
 |20101017 || clix || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || 26582349 || 296800 || 45667 (78760) || 128 (1068) || 262284 (265124) || 1512(1568) ||  || [wiki:runs_25 Run 25]
+|20101103 || clix || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || 21122792 || 359950 || 45667 (78760) || 128 (1068) || 262284 (265124) || 1512(1568) ||  || [wiki:runs_32 Run 32]
 |20101017 || clix || [wiki:compilernames mips-uclib-gcc -O2] || 4.2.1 || 35451647 || 431645 || 57427 (88904) || 128 (1068) || 262284 (265124) || 3080(3136) ||  || [wiki:runs_25 Run 25]
+|20101103 || clix || [wiki:compilernames mips-uclib-gcc -O2] || 4.2.1 || 28257189 || 682004 || 57427 (88904) || 128 (1068) || 262284 (265124) || 3080(3136) ||  || [wiki:runs_32 Run 32]
 |20101017 || clix || [wiki:compilernames mips-uclib-gcc -O3] || 4.2.1 || 20702264 || 420608 || 57311 (88844) || 128 (1068) || 262284 (265120) || 3072(3128) ||  || [wiki:runs_25 Run 25]
+|20101103 || clix || [wiki:compilernames mips-uclib-gcc -O3] || 4.2.1 || 16434452 || 667588 || 57311 (88844) || 128 (1068) || 262284 (265120) || 3072(3128) ||  || [wiki:runs_32 Run 32]
 |20101017 || clix || [wiki:compilernames mips-uclib-gcc -Os] || 4.2.1 || 34835655 || 444617 || 56675 (87857) || 128 (1068) || 262284 (265124) || 3176(3232) ||  || [wiki:runs_25 Run 25]
+|20101103 || clix || [wiki:compilernames mips-uclib-gcc -Os] || 4.2.1 || 27965079 || 437727 || 56675 (87857) || 128 (1068) || 262284 (265124) || 3176(3232) ||  || [wiki:runs_32 Run 32]

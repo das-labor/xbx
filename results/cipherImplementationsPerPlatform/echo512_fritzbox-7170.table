@@ -1,8 +1,8 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:platformsimplementations_fritzbox-7170_echo512_sphlib-small sphlib-small] || 580549 || 8162 || 936 || [wiki:compilernames mips-uclib-gcc -Os] || 4.2.1 || [wiki:runs_10 Run 10]
+|[wiki:platformsimplementations_fritzbox-7170_echo512_sphlib-small sphlib-small] || 579303 || 8162 || 936 || [wiki:compilernames mips-uclib-gcc -Os] || 4.2.1 || [wiki:runs_32 Run 32]
 |[wiki:platformsimplementations_fritzbox-7170_echo512_generic_opt32 generic_opt32] || 1629644 || 29428 || 988 || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:runs_25 Run 25]
-|[wiki:platformsimplementations_fritzbox-7170_echo512_sphlib sphlib] || 1969440 || 23640 || 1036 || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:runs_9 Run 9]
-|[wiki:platformsimplementations_fritzbox-7170_echo512_powerpc_pp32cv1 powerpc_pp32cv1] || 2856965 || 24551 || 852 || [wiki:compilernames mips-uclib-gcc -O3] || 4.2.1 || [wiki:runs_25 Run 25]
+|[wiki:platformsimplementations_fritzbox-7170_echo512_sphlib sphlib] || 1968089 || 23640 || 1036 || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:runs_31 Run 31]
+|[wiki:platformsimplementations_fritzbox-7170_echo512_powerpc_pp32cv1 powerpc_pp32cv1] || 2388220 || 24551 || 852 || [wiki:compilernames mips-uclib-gcc -O3] || 4.2.1 || [wiki:runs_32 Run 32]
+|[wiki:platformsimplementations_fritzbox-7170_echo512_powerpc_pp32cv2 powerpc_pp32cv2] || 4816256 || 35466 || 872 || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:runs_32 Run 32]
 |[wiki:platformsimplementations_fritzbox-7170_echo512_armcryptolib armcryptolib] || 4984597 || 5166 || 1016 || [wiki:compilernames mips-uclib-gcc -O3] || 4.2.1 || [wiki:runs_10 Run 10]
-|[wiki:platformsimplementations_fritzbox-7170_echo512_powerpc_pp32cv2 powerpc_pp32cv2] || 5842998 || 35466 || 872 || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:runs_25 Run 25]
 |[wiki:platformsimplementations_fritzbox-7170_echo512_generic_opt64 generic_opt64] || 9477394 || 55314 || 2760 || [wiki:compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:runs_12 Run 12]
