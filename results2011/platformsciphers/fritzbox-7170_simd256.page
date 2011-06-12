@@ -1,5 +1,5 @@
 
-== Implementations of [wiki:ciphers_simd256 simd256] on Platform [wiki:platforms_fritzbox-7170 fritzbox-7170] ==
+== Implementations of [wiki:r2011ciphers_simd256 simd256] on Platform [wiki:r2011platforms_fritzbox-7170 fritzbox-7170] ==
 
 [[SortCSVsourceTable(source:page/trunk/results2011/cipherImplementationsPerPlatform/simd256_fritzbox-7170.table)]]
 

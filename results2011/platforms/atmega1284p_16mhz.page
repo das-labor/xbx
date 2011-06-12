@@ -1,6 +1,6 @@
 
 == Platform atmega1284p_16mhz ==
-[wiki:sha3platforms_atmega1284p_16mhz Show only SHA3 round 2 candidates]
+[wiki:r2011sha3platforms_atmega1284p_16mhz Show only SHA3 round 3 candidates]
 
 
 8 bit microcontroller manufactured by Atmel. RISC design, one of the most powerful 8 bit designs currently
@@ -14,7 +14,7 @@ Memory intensive algorithms may run on the 1284P, but not on the 1281, e.g. SHAV
 See http://www.atmel.com/dyn/products/product_card.asp?part_id=4331 for details.
 
 
-[wiki:platforms_atmega1284p_16mhz#FastestAlgorithms FastestAlgorithms] - [wiki:platforms_atmega1284p_16mhz#SmallestAlgorithmsROM Smallest Algorithms (ROM)] - [wiki:platforms_atmega1284p_16mhz#SmallestAlgorithmsRAM Smallest Algorithms (RAM)]
+[wiki:r2011platforms_atmega1284p_16mhz#FastestAlgorithms FastestAlgorithms] - [wiki:r2011platforms_atmega1284p_16mhz#SmallestAlgorithmsROM Smallest Algorithms (ROM)] - [wiki:r2011platforms_atmega1284p_16mhz#SmallestAlgorithmsRAM Smallest Algorithms (RAM)]
 
 === Fastest Algorithms ===
 

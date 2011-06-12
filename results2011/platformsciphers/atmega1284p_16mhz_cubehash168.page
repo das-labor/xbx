@@ -1,5 +1,5 @@
 
-== Implementations of [wiki:ciphers_cubehash168 cubehash168] on Platform [wiki:platforms_atmega1284p_16mhz atmega1284p_16mhz] ==
+== Implementations of [wiki:r2011ciphers_cubehash168 cubehash168] on Platform [wiki:r2011platforms_atmega1284p_16mhz atmega1284p_16mhz] ==
 
 [[SortCSVsourceTable(source:page/trunk/results2011/cipherImplementationsPerPlatform/cubehash168_atmega1284p_16mhz.table)]]
 

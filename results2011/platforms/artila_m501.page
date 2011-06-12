@@ -1,6 +1,6 @@
 
 == Platform artila_m501 ==
-[wiki:sha3platforms_artila_m501 Show only SHA3 round 2 candidates]
+[wiki:r2011sha3platforms_artila_m501 Show only SHA3 round 3 candidates]
 
 
 ARM920T based single PCB computer. 
@@ -8,7 +8,7 @@ ARM920T based single PCB computer.
 See http://www.artila.com/p_sbc.html#m_501
 
 
-[wiki:platforms_artila_m501#FastestAlgorithms FastestAlgorithms] - [wiki:platforms_artila_m501#SmallestAlgorithmsROM Smallest Algorithms (ROM)] - [wiki:platforms_artila_m501#SmallestAlgorithmsRAM Smallest Algorithms (RAM)]
+[wiki:r2011platforms_artila_m501#FastestAlgorithms FastestAlgorithms] - [wiki:r2011platforms_artila_m501#SmallestAlgorithmsROM Smallest Algorithms (ROM)] - [wiki:r2011platforms_artila_m501#SmallestAlgorithmsRAM Smallest Algorithms (RAM)]
 
 === Fastest Algorithms ===
 

@@ -1,5 +1,5 @@
 
-== Implementations of [wiki:ciphers_sha512 sha512] on Platform [wiki:platforms_lm3s811-evb lm3s811-evb] ==
+== Implementations of [wiki:r2011ciphers_sha512 sha512] on Platform [wiki:r2011platforms_lm3s811-evb lm3s811-evb] ==
 
 [[SortCSVsourceTable(source:page/trunk/results2011/cipherImplementationsPerPlatform/sha512_lm3s811-evb.table)]]
 

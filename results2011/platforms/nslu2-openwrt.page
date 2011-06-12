@@ -1,6 +1,6 @@
 
 == Platform nslu2-openwrt ==
-[wiki:sha3platforms_nslu2-openwrt Show only SHA3 round 2 candidates]
+[wiki:r2011sha3platforms_nslu2-openwrt Show only SHA3 round 3 candidates]
 
 
 ARMv5TE based Intel chip. 
@@ -8,7 +8,7 @@ ARMv5TE based Intel chip.
 We used an NAS server and changed the firmware to !OpenWrt (http://www.nslu2-linux.org/wiki/Main/HomePage).
 
 
-[wiki:platforms_nslu2-openwrt#FastestAlgorithms FastestAlgorithms] - [wiki:platforms_nslu2-openwrt#SmallestAlgorithmsROM Smallest Algorithms (ROM)] - [wiki:platforms_nslu2-openwrt#SmallestAlgorithmsRAM Smallest Algorithms (RAM)]
+[wiki:r2011platforms_nslu2-openwrt#FastestAlgorithms FastestAlgorithms] - [wiki:r2011platforms_nslu2-openwrt#SmallestAlgorithmsROM Smallest Algorithms (ROM)] - [wiki:r2011platforms_nslu2-openwrt#SmallestAlgorithmsRAM Smallest Algorithms (RAM)]
 
 === Fastest Algorithms ===
 

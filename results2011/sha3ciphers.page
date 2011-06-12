@@ -1,5 +1,5 @@
 
-= Hash Function Overview (SHA3 Round 2 Only) =
-[wiki:ciphers Show all hash functions]  
+= Hash Function Overview (SHA3 Round 3 Only) =
+[wiki:r2011ciphers Show all hash functions]  
 
   [[SortCSVsourceTable(source:page/trunk/results2011/sha3ciphers.table)]]

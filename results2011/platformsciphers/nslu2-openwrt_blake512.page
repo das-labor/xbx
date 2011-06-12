@@ -1,5 +1,5 @@
 
-== Implementations of [wiki:ciphers_blake512 blake512] on Platform [wiki:platforms_nslu2-openwrt nslu2-openwrt] ==
+== Implementations of [wiki:r2011ciphers_blake512 blake512] on Platform [wiki:r2011platforms_nslu2-openwrt nslu2-openwrt] ==
 
 [[SortCSVsourceTable(source:page/trunk/results2011/cipherImplementationsPerPlatform/blake512_nslu2-openwrt.table)]]
 

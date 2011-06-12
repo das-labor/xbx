@@ -1,5 +1,5 @@
 
-== Implementations of [wiki:ciphers_bmw256 bmw256] on Platform [wiki:platforms_atmega1284p_16mhz atmega1284p_16mhz] ==
+== Implementations of [wiki:r2011ciphers_bmw256 bmw256] on Platform [wiki:r2011platforms_atmega1284p_16mhz atmega1284p_16mhz] ==
 
 [[SortCSVsourceTable(source:page/trunk/results2011/cipherImplementationsPerPlatform/bmw256_atmega1284p_16mhz.table)]]
 

@@ -1,5 +1,5 @@
 
-== Implementations of [wiki:ciphers_luffa256 luffa256] on Platform [wiki:platforms_nslu2-openwrt nslu2-openwrt] ==
+== Implementations of [wiki:r2011ciphers_luffa256 luffa256] on Platform [wiki:r2011platforms_nslu2-openwrt nslu2-openwrt] ==
 
 [[SortCSVsourceTable(source:page/trunk/results2011/cipherImplementationsPerPlatform/luffa256_nslu2-openwrt.table)]]
 
