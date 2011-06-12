@@ -1,0 +1,23 @@
+
+== Run 23 ==
+
+ * Date: 20101017
+ * Hostname: clix
+ * Platform: lm3s811-evb
+ * XBX Version 2.0.1dev
+ * XBH Revision 01085
+ * Bootloader Revision 01099
+
+
+
+[wiki:runs_23#MeasureResults Measure Results] - [wiki:runs_23#TryResults Try Results] - [wiki:runs_23#DriftMeasurements Drift Measurements]
+
+=== Measure Results ===
+[[SortCSVsourceTable(source:page/trunk/results2011/measuresByRun/23.table)]]
+
+=== Try Results ===
+[[SortCSVsourceTable(source:page/trunk/results2011/triesByRun/23.table)]]
+
+=== Drift Measurements ===
+[[SortCSVsourceTable(source:page/trunk/results2011/driftByRun/23.table)]]
+  

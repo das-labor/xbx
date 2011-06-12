@@ -1,0 +1,8 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:r2011platformsimplementations_fritzbox-7170_echo256_sphlib-small sphlib-small] || 342234 || 8146 || 864 || [wiki:r2011compilernames mips-uclib-gcc -Os] || 4.2.1 || [wiki:r2011runs_31 Run 31]
+|[wiki:r2011platformsimplementations_fritzbox-7170_echo256_generic_opt32 generic_opt32] || 841561 || 29428 || 956 || [wiki:r2011compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:r2011runs_32 Run 32]
+|[wiki:r2011platformsimplementations_fritzbox-7170_echo256_sphlib sphlib] || 1148113 || 23608 || 964 || [wiki:r2011compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:r2011runs_31 Run 31]
+|[wiki:r2011platformsimplementations_fritzbox-7170_echo256_powerpc_pp32cv1 powerpc_pp32cv1] || 1345286 || 24551 || 820 || [wiki:r2011compilernames mips-uclib-gcc -O3] || 4.2.1 || [wiki:r2011runs_32 Run 32]
+|[wiki:r2011platformsimplementations_fritzbox-7170_echo256_powerpc_pp32cv2 powerpc_pp32cv2] || 2775769 || 35466 || 840 || [wiki:r2011compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:r2011runs_32 Run 32]
+|[wiki:r2011platformsimplementations_fritzbox-7170_echo256_armcryptolib armcryptolib] || 2795830 || 5278 || 984 || [wiki:r2011compilernames mips-uclib-gcc -O3] || 4.2.1 || [wiki:r2011runs_11 Run 11]
+|[wiki:r2011platformsimplementations_fritzbox-7170_echo256_generic_opt64 generic_opt64] || 5288393 || 55330 || 2728 || [wiki:r2011compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:r2011runs_32 Run 32]

@@ -1,0 +1,3 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:r2011platformsimplementations_fritzbox-7170_edonr512_swpbe swpbe] || 148824 || 25102 || 2040 || [wiki:r2011compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:r2011runs_32 Run 32]
+|[wiki:r2011platformsimplementations_fritzbox-7170_edonr512_optc optc] || 208250 || 47393 || 2364 || [wiki:r2011compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:r2011runs_32 Run 32]

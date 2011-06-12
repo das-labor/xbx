@@ -1,0 +1,5 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:r2011platformsimplementations_fritzbox-7170_sha256_sphlib-small sphlib-small] || 151832 || 9568 || 368 || [wiki:r2011compilernames mips-uclib-gcc -O3] || 4.2.1 || [wiki:r2011runs_36 Run 36]
+|[wiki:r2011platformsimplementations_fritzbox-7170_sha256_sphlib sphlib] || 285948 || 17556 || 436 || [wiki:r2011compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:r2011runs_36 Run 36]
+|[wiki:r2011platformsimplementations_fritzbox-7170_sha256_avrcryptolib avrcryptolib] || 292308 || 2374 || 880 || [wiki:r2011compilernames mips-uclib-gcc -Os] || 4.2.1 || [wiki:r2011runs_36 Run 36]
+|[wiki:r2011platformsimplementations_fritzbox-7170_sha256_armcryptolib armcryptolib] || 298430 || 2390 || 592 || [wiki:r2011compilernames mips-uclib-gcc -Os] || 4.2.1 || [wiki:r2011runs_36 Run 36]

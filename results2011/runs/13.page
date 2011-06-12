@@ -1,0 +1,23 @@
+
+== Run 13 ==
+
+ * Date: 20100725
+ * Hostname: hal
+ * Platform: artila_m501
+ * XBX Version 2.0.0
+ * XBH Revision 01110
+ * Bootloader Revision 01092
+
+
+
+[wiki:runs_13#MeasureResults Measure Results] - [wiki:runs_13#TryResults Try Results] - [wiki:runs_13#DriftMeasurements Drift Measurements]
+
+=== Measure Results ===
+[[SortCSVsourceTable(source:page/trunk/results2011/measuresByRun/13.table)]]
+
+=== Try Results ===
+[[SortCSVsourceTable(source:page/trunk/results2011/triesByRun/13.table)]]
+
+=== Drift Measurements ===
+[[SortCSVsourceTable(source:page/trunk/results2011/driftByRun/13.table)]]
+  

@@ -1,0 +1,5 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:r2011platformsimplementations_nslu2-openwrt_blake32_sphlib sphlib] || 99933 || 10896 || 1324 || [wiki:r2011compilernames armeb-uclibc-gcc -O3] || 4.1.2 || [wiki:r2011runs_19 Run 19]
+|[wiki:r2011platformsimplementations_nslu2-openwrt_blake32_sphlib-small sphlib-small] || 147048 || 3940 || 496 || [wiki:r2011compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:r2011runs_20 Run 20]
+|[wiki:r2011platformsimplementations_nslu2-openwrt_blake32_light light] || 152917 || 3828 || 500 || [wiki:r2011compilernames armeb-uclibc-gcc -Os] || 4.1.2 || [wiki:r2011runs_24 Run 24]
+|[wiki:r2011platformsimplementations_nslu2-openwrt_blake32_ref ref] || 153233 || 3920 || 496 || [wiki:r2011compilernames armeb-uclibc-gcc -Os] || 4.1.2 || [wiki:r2011runs_24 Run 24]

@@ -1,0 +1,11 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20101017 || clix || [wiki:r2011compilernames arm-elf-gcc -O0] || 4.3.2 (GCC) ||  ||  || 6892 (21520) || 0 (24) || 32 (2520) || unk(unk) || error || [wiki:r2011runs_23 Run 23]
+|20110515 || clix || [wiki:r2011compilernames arm-elf-gcc -O0] || 4.3.2 (GCC) ||  ||  || 11072 (26164) || 0 (24) || 32 (2520) || unk(unk) || error || [wiki:r2011runs_33 Run 33]
+|20101017 || clix || [wiki:r2011compilernames arm-elf-gcc -O1] || 4.3.2 (GCC) ||  ||  || 3660 (13244) || 0 (24) || 32 (2520) || unk(unk) || error || [wiki:r2011runs_23 Run 23]
+|20110515 || clix || [wiki:r2011compilernames arm-elf-gcc -O1] || 4.3.2 (GCC) ||  ||  || 4408 (14420) || 0 (24) || 32 (2520) || unk(unk) || error || [wiki:r2011runs_33 Run 33]
+|20101017 || clix || [wiki:r2011compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || 237138204 || 15943343 || 3376 (12272) || 0 (24) || 32 (2520) || 736(736) ||  || [wiki:r2011runs_23 Run 23]
+|20110515 || clix || [wiki:r2011compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || 107230595 || 7209956 || 3660 (12948) || 0 (24) || 32 (2520) || 884(884) ||  || [wiki:r2011runs_33 Run 33]
+|20101017 || clix || [wiki:r2011compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || 97302272 || 6524236 || 4816 (14692) || 0 (24) || 32 (2520) || 876(876) ||  || [wiki:r2011runs_23 Run 23]
+|20110515 || clix || [wiki:r2011compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || 107103990 || 7200312 || 4204 (14632) || 0 (24) || 32 (2520) || 884(884) ||  || [wiki:r2011runs_33 Run 33]
+|20101017 || clix || [wiki:r2011compilernames arm-elf-gcc -Os] || 4.3.2 (GCC) || 242386615 || 16298493 || 3056 (11449) || 0 (24) || 32 (2520) || 792(792) ||  || [wiki:r2011runs_23 Run 23]
+|20110515 || clix || [wiki:r2011compilernames arm-elf-gcc -Os] || 4.3.2 (GCC) || 119170808 || 8001236 || 3556 (12316) || 0 (24) || 32 (2520) || 883(883) ||  || [wiki:r2011runs_33 Run 33]

@@ -1,0 +1,7 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:r2011platformsimplementations_nslu2-openwrt_shavite3256_sphlib sphlib] || 226915 || 21992 || 924 || [wiki:r2011compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:r2011runs_30 Run 30]
+|[wiki:r2011platformsimplementations_nslu2-openwrt_shavite3256_sphlib-small sphlib-small] || 237688 || 9572 || 1368 || [wiki:r2011compilernames armeb-uclibc-gcc -Os] || 4.1.2 || [wiki:r2011runs_30 Run 30]
+|[wiki:r2011platformsimplementations_nslu2-openwrt_shavite3256_256-nosalt-smallc 256-nosalt-smallc] || 260979 || 31688 || 5192 || [wiki:r2011compilernames armeb-uclibc-gcc -O2] || 4.1.2 || [wiki:r2011runs_24 Run 24]
+|[wiki:r2011platformsimplementations_nslu2-openwrt_shavite3256_low-mem low-mem] || 266582 || 31588 || 1548 || [wiki:r2011compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:r2011runs_30 Run 30]
+|[wiki:r2011platformsimplementations_nslu2-openwrt_shavite3256_lower-mem lower-mem] || 270871 || 19404 || 1304 || [wiki:r2011compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:r2011runs_30 Run 30]
+|[wiki:r2011platformsimplementations_nslu2-openwrt_shavite3256_8-bit 8-bit] || 592465 || 52908 || 5048 || [wiki:r2011compilernames armeb-uclibc-gcc -O3] || 4.1.2 || [wiki:r2011runs_30 Run 30]

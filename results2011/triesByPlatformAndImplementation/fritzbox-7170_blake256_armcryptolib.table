@@ -1,0 +1,6 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20110515 || blix || [wiki:r2011compilernames mips-uclib-gcc -O0] || 4.2.1 || 10505991 || 923114 || 4946 (48401) || 60 (1024) || 0 (2844) || 280(328) || Checksum OK || [wiki:r2011runs_36 Run 36]
+|20110515 || blix || [wiki:r2011compilernames mips-uclib-gcc -O1] || 4.2.1 || 2719523 || 275282 || 3242 (37400) || 60 (1020) || 0 (2844) || 280(336) || Checksum OK || [wiki:r2011runs_36 Run 36]
+|20110515 || blix || [wiki:r2011compilernames mips-uclib-gcc -O2] || 4.2.1 || 2542874 || 258799 || 3114 (35368) || 60 (1020) || 0 (2844) || 296(352) || Checksum OK || [wiki:r2011runs_36 Run 36]
+|20110515 || blix || [wiki:r2011compilernames mips-uclib-gcc -O3] || 4.2.1 || 2476584 || 259197 || 8390 (40805) || 60 (1020) || 0 (2840) || 672(728) || Checksum OK || [wiki:r2011runs_36 Run 36]
+|20110515 || blix || [wiki:r2011compilernames mips-uclib-gcc -Os] || 4.2.1 || 2600949 || 259886 || 2786 (35025) || 60 (1020) || 0 (2844) || 288(344) || Checksum OK || [wiki:r2011runs_36 Run 36]

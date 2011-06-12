@@ -1,0 +1,7 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:r2011platformsimplementations_fritzbox-7170_jh512_opt32 opt32] || 513292 || 8577 || 484 || [wiki:r2011compilernames mips-uclib-gcc -O2] || 4.2.1 || [wiki:r2011runs_36 Run 36]
+|[wiki:r2011platformsimplementations_fritzbox-7170_jh512_bitslice32 bitslice32] || 556527 || 10305 || 456 || [wiki:r2011compilernames mips-uclib-gcc -O3] || 4.2.1 || [wiki:r2011runs_36 Run 36]
+|[wiki:r2011platformsimplementations_fritzbox-7170_jh512_opt64 opt64] || 589638 || 12689 || 548 || [wiki:r2011compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:r2011runs_36 Run 36]
+|[wiki:r2011platformsimplementations_fritzbox-7170_jh512_bitslice64 bitslice64] || 758059 || 11737 || 480 || [wiki:r2011compilernames mips-uclib-gcc -O3] || 4.2.1 || [wiki:r2011runs_36 Run 36]
+|[wiki:r2011platformsimplementations_fritzbox-7170_jh512_opt8 opt8] || 6698630 || 5951 || 1036 || [wiki:r2011compilernames mips-uclib-gcc -O3] || 4.2.1 || [wiki:r2011runs_36 Run 36]
+|[wiki:r2011platformsimplementations_fritzbox-7170_jh512_ref ref] || 15256196 || 4897 || 1352 || [wiki:r2011compilernames mips-uclib-gcc -O3] || 4.2.1 || [wiki:r2011runs_36 Run 36]

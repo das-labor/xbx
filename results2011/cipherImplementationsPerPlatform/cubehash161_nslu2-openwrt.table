@@ -1,0 +1,4 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:r2011platformsimplementations_nslu2-openwrt_cubehash161_unrolled unrolled] || 7093804 || 2336 || 464 || [wiki:r2011compilernames armeb-uclibc-gcc -O3] || 4.1.2 || [wiki:r2011runs_24 Run 24]
+|[wiki:r2011platformsimplementations_nslu2-openwrt_cubehash161_simple simple] || 11618165 || 7984 || 927 || [wiki:r2011compilernames armeb-uclibc-gcc -O3] || 4.1.2 || [wiki:r2011runs_24 Run 24]
+|[wiki:r2011platformsimplementations_nslu2-openwrt_cubehash161_spec spec] || 39780350 || 3004 || 680 || [wiki:r2011compilernames armeb-uclibc-gcc -O3] || 4.1.2 || [wiki:r2011runs_19 Run 19]

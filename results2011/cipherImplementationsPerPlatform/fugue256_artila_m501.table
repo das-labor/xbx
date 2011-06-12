@@ -1,0 +1,4 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:r2011platformsimplementations_artila_m501_fugue256_sphlib sphlib] || 208024 || 47550 || 1352 || [wiki:r2011compilernames arm-artila-gcc -Os] || 3.3.2 || [wiki:r2011runs_16 Run 16]
+|[wiki:r2011platformsimplementations_artila_m501_fugue256_ANSI_opt32 ANSI_opt32] || 284906 || 65016 || 812 || [wiki:r2011compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:r2011runs_15 Run 15]
+|[wiki:r2011platformsimplementations_artila_m501_fugue256_ANSI_opt64 ANSI_opt64] || 2122144 || 165012 || 4984 || [wiki:r2011compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:r2011runs_15 Run 15]

@@ -1,0 +1,11 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20101020 || clix || [wiki:r2011compilernames arm-artila-gcc -O0] || 3.3.2 || 8415124 || 464198 || 14140 (36177) || 0 (472) || 32 (2776) || 700(713) || Checksum OK || [wiki:r2011runs_27 Run 27]
+|20110515 || clix || [wiki:r2011compilernames arm-artila-gcc -O0] || 3.3.2 || 8388878 || 473186 || 14140 (36785) || 0 (472) || 32 (2780) || 700(713) ||  || [wiki:r2011runs_34 Run 34]
+|20101020 || clix || [wiki:r2011compilernames arm-artila-gcc -O1] || 3.3.2 || 4489054 || 194063 || 6220 (23104) || 0 (472) || 32 (2776) || 836(836) || Checksum failed || [wiki:r2011runs_27 Run 27]
+|20110515 || clix || [wiki:r2011compilernames arm-artila-gcc -O1] || 3.3.2 || 4496175 || 193444 || 6220 (23604) || 0 (472) || 32 (2780) || 836(836) ||  || [wiki:r2011runs_34 Run 34]
+|20101020 || clix || [wiki:r2011compilernames arm-artila-gcc -O2] || 3.3.2 || 5691330 || 293906 || 8216 (24896) || 0 (472) || 32 (2776) || 1388(1388) || Checksum failed || [wiki:r2011runs_27 Run 27]
+|20110515 || clix || [wiki:r2011compilernames arm-artila-gcc -O2] || 3.3.2 || 5692669 || 292995 || 8216 (25388) || 0 (472) || 32 (2780) || 1388(1388) ||  || [wiki:r2011runs_34 Run 34]
+|20101020 || clix || [wiki:r2011compilernames arm-artila-gcc -O3] || 3.3.2 || 5660809 || 293603 || 10448 (30468) || 0 (472) || 32 (2776) || 1376(1376) || Checksum failed || [wiki:r2011runs_27 Run 27]
+|20110515 || clix || [wiki:r2011compilernames arm-artila-gcc -O3] || 3.3.2 || 5676469 || 292894 || 10448 (30268) || 0 (472) || 32 (2780) || 1376(1376) ||  || [wiki:r2011runs_34 Run 34]
+|20101020 || clix || [wiki:r2011compilernames arm-artila-gcc -Os] || 3.3.2 || 5785481 || 295920 || 8048 (24589) || 0 (472) || 32 (2776) || 1336(1336) || Checksum failed || [wiki:r2011runs_27 Run 27]
+|20110515 || clix || [wiki:r2011compilernames arm-artila-gcc -Os] || 3.3.2 || 5756254 || 295796 || 8048 (25065) || 0 (472) || 32 (2780) || 1336(1336) ||  || [wiki:r2011runs_34 Run 34]

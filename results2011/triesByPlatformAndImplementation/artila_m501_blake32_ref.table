@@ -1,0 +1,11 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20101020 || clix || [wiki:r2011compilernames arm-artila-gcc -O0] || 3.3.2 || 5754859 || 275468 || 6508 (28545) || 0 (472) || 0 (2744) || 384(397) || Checksum OK || [wiki:r2011runs_27 Run 27]
+|20110515 || clix || [wiki:r2011compilernames arm-artila-gcc -O0] || 3.3.2 || 5751720 || 274669 || 6508 (29153) || 0 (472) || 0 (2748) || 384(397) ||  || [wiki:r2011runs_34 Run 34]
+|20101020 || clix || [wiki:r2011compilernames arm-artila-gcc -O1] || 3.3.2 || 3758468 || 138555 || 3588 (20472) || 0 (472) || 0 (2744) || 416(416) || Checksum OK || [wiki:r2011runs_27 Run 27]
+|20110515 || clix || [wiki:r2011compilernames arm-artila-gcc -O1] || 3.3.2 || 3779258 || 139241 || 3588 (20972) || 0 (472) || 0 (2748) || 416(416) ||  || [wiki:r2011runs_34 Run 34]
+|20101020 || clix || [wiki:r2011compilernames arm-artila-gcc -O2] || 3.3.2 || 3709958 || 141593 || 3920 (20600) || 0 (472) || 0 (2744) || 508(508) || Checksum OK || [wiki:r2011runs_27 Run 27]
+|20110515 || clix || [wiki:r2011compilernames arm-artila-gcc -O2] || 3.3.2 || 3706954 || 141818 || 3920 (21092) || 0 (472) || 0 (2748) || 508(508) ||  || [wiki:r2011runs_34 Run 34]
+|20101020 || clix || [wiki:r2011compilernames arm-artila-gcc -O3] || 3.3.2 || 3686400 || 141570 || 4044 (24064) || 0 (472) || 0 (2744) || 504(504) || Checksum OK || [wiki:r2011runs_27 Run 27]
+|20110515 || clix || [wiki:r2011compilernames arm-artila-gcc -O3] || 3.3.2 || 3705019 || 142819 || 4044 (23864) || 0 (472) || 0 (2748) || 504(504) ||  || [wiki:r2011runs_34 Run 34]
+|20101020 || clix || [wiki:r2011compilernames arm-artila-gcc -Os] || 3.3.2 || 3803389 || 143078 || 3928 (20469) || 0 (472) || 0 (2744) || 516(516) || Checksum OK || [wiki:r2011runs_27 Run 27]
+|20110515 || clix || [wiki:r2011compilernames arm-artila-gcc -Os] || 3.3.2 || 3771518 || 145125 || 3928 (20945) || 0 (472) || 0 (2748) || 516(516) ||  || [wiki:r2011runs_34 Run 34]

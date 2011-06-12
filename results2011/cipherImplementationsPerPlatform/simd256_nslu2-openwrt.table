@@ -1,0 +1,5 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:r2011platformsimplementations_nslu2-openwrt_simd256_sphlib sphlib] || 389939 || 24332 || 1704 || [wiki:r2011compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:r2011runs_18 Run 18]
+|[wiki:r2011platformsimplementations_nslu2-openwrt_simd256_sphlib-small sphlib-small] || 406149 || 10972 || 1448 || [wiki:r2011compilernames armeb-uclibc-gcc -Os] || 4.1.2 || [wiki:r2011runs_30 Run 30]
+|[wiki:r2011platformsimplementations_nslu2-openwrt_simd256_opt opt] || 453879 || 28662 || 2116 || [wiki:r2011compilernames armeb-uclibc-gcc -O3] || 4.1.2 || [wiki:r2011runs_24 Run 24]
+|[wiki:r2011platformsimplementations_nslu2-openwrt_simd256_ref ref] || 34758154 || 5102 || 3816 || [wiki:r2011compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:r2011runs_24 Run 24]

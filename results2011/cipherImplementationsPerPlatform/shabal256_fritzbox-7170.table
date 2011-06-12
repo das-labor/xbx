@@ -1,0 +1,6 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:r2011platformsimplementations_fritzbox-7170_shabal256_tiny_mips32el tiny_mips32el] || 92088 || 716 || 480 || [wiki:r2011compilernames mips-uclib-gcc -O2] || 4.2.1 || [wiki:r2011runs_31 Run 31]
+|[wiki:r2011platformsimplementations_fritzbox-7170_shabal256_tiny_portable tiny_portable] || 118839 || 1084 || 512 || [wiki:r2011compilernames mips-uclib-gcc -Os] || 4.2.1 || [wiki:r2011runs_31 Run 31]
+|[wiki:r2011platformsimplementations_fritzbox-7170_shabal256_sphlib sphlib] || 122655 || 20566 || 1136 || [wiki:r2011compilernames mips-uclib-gcc -O3] || 4.2.1 || [wiki:r2011runs_32 Run 32]
+|[wiki:r2011platformsimplementations_fritzbox-7170_shabal256_tiny_portable-lowram tiny_portable-lowram] || 138370 || 1123 || 240 || [wiki:r2011compilernames mips-uclib-gcc -Os] || 4.2.1 || [wiki:r2011runs_31 Run 31]
+|[wiki:r2011platformsimplementations_fritzbox-7170_shabal256_armcryptolib armcryptolib] || 167931 || 4107 || 508 || [wiki:r2011compilernames mips-uclib-gcc -O3] || 4.2.1 || [wiki:r2011runs_32 Run 32]

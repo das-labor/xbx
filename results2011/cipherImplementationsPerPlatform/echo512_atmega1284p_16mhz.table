@@ -1,0 +1,5 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:r2011platformsimplementations_atmega1284p_16mhz_echo512_avrcryptolib avrcryptolib] || 3511558 || 3662 || 742 || [wiki:r2011compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || [wiki:r2011runs_22 Run 22]
+|[wiki:r2011platformsimplementations_atmega1284p_16mhz_echo512_sphlib sphlib] || 3697776 || 45280 || 5367 || [wiki:r2011compilernames avr-gcc 1284p -Os] || 4.3.4 (GCC) || [wiki:r2011runs_22 Run 22]
+|[wiki:r2011platformsimplementations_atmega1284p_16mhz_echo512_sphlib-small sphlib-small] || 3713307 || 21064 || 5198 || [wiki:r2011compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || [wiki:r2011runs_22 Run 22]
+|[wiki:r2011platformsimplementations_atmega1284p_16mhz_echo512_armcryptolib armcryptolib] || 6356629 || 7164 || 1008 || [wiki:r2011compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || [wiki:r2011runs_28 Run 28]

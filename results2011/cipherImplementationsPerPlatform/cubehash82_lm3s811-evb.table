@@ -1,0 +1,4 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:r2011platformsimplementations_lm3s811-evb_cubehash82_unrolled unrolled] || 2028067 || 1476 || 460 || [wiki:r2011compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:r2011runs_5 Run 5]
+|[wiki:r2011platformsimplementations_lm3s811-evb_cubehash82_simple simple] || 2495637 || 3704 || 920 || [wiki:r2011compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:r2011runs_5 Run 5]
+|[wiki:r2011platformsimplementations_lm3s811-evb_cubehash82_spec spec] || 10130039 || 1696 || 684 || [wiki:r2011compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || [wiki:r2011runs_7 Run 7]

@@ -1,0 +1,11 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20101020 || clix || [wiki:r2011compilernames arm-artila-gcc -O0] || 3.3.2 || 10775464 || 614284 || 43515 (65552) || 196 (668) || 36 (2780) || 1048(1061) || Checksum failed || [wiki:r2011runs_27 Run 27]
+|20110515 || clix || [wiki:r2011compilernames arm-artila-gcc -O0] || 3.3.2 || 10761154 || 614700 || 43196 (65841) || 192 (664) || 32 (2780) || 1048(1061) || Checksum failed || [wiki:r2011runs_34 Run 34]
+|20101020 || clix || [wiki:r2011compilernames arm-artila-gcc -O1] || 3.3.2 || 6111124 || 318263 || 28044 (44928) || 196 (668) || 36 (2780) || 1048(1048) || Checksum failed || [wiki:r2011runs_27 Run 27]
+|20110515 || clix || [wiki:r2011compilernames arm-artila-gcc -O1] || 3.3.2 || 6166519 || 318578 || 27708 (45092) || 192 (664) || 32 (2780) || 1048(1048) || Checksum failed || [wiki:r2011runs_34 Run 34]
+|20101020 || clix || [wiki:r2011compilernames arm-artila-gcc -O2] || 3.3.2 || 7403591 || 422876 || 42584 (59264) || 196 (668) || 36 (2780) || 2436(2436) || Checksum failed || [wiki:r2011runs_27 Run 27]
+|20110515 || clix || [wiki:r2011compilernames arm-artila-gcc -O2] || 3.3.2 || 7414886 || 421661 || 42232 (59404) || 192 (664) || 32 (2780) || 2436(2436) || Checksum failed || [wiki:r2011runs_34 Run 34]
+|20110515 || clix || [wiki:r2011compilernames arm-artila-gcc -O3] || 3.3.2 || 7418284 || 420503 || 44368 (64188) || 192 (664) || 32 (2780) || 3520(3520) || Checksum failed || [wiki:r2011runs_34 Run 34]
+|20101020 || clix || [wiki:r2011compilernames arm-artila-gcc -O3] || 3.3.2 || 7402883 || 422415 || 44688 (64708) || 196 (668) || 36 (2780) || 3520(3520) || Checksum failed || [wiki:r2011runs_27 Run 27]
+|20101020 || clix || [wiki:r2011compilernames arm-artila-gcc -Os] || 3.3.2 || 7625599 || 439448 || 41689 (58230) || 196 (668) || 36 (2780) || 2644(2644) || Checksum failed || [wiki:r2011runs_27 Run 27]
+|20110515 || clix || [wiki:r2011compilernames arm-artila-gcc -Os] || 3.3.2 || 7622314 || 437299 || 41372 (58389) || 192 (664) || 32 (2780) || 2644(2644) || Checksum failed || [wiki:r2011runs_34 Run 34]

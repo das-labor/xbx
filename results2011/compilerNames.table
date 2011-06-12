@@ -1,0 +1,31 @@
+| '''Shortname''' || '''Compiler''' 
+|avr-gcc 1281 -O0 || avr-gcc -pipe -funsigned-char -funsigned-bitfields -fpack-struct -fshort-enums  -mmcu=atmega1281 -DF CPU=16000000L -ffunction-sections -fdata-sections -Wl,-gc-sections -O0
+|avr-gcc 1281 -O1 || avr-gcc -pipe -funsigned-char -funsigned-bitfields -fpack-struct -fshort-enums  -mmcu=atmega1281 -DF CPU=16000000L -ffunction-sections -fdata-sections -Wl,-gc-sections -O1
+|avr-gcc 1281 -O2 || avr-gcc -pipe -funsigned-char -funsigned-bitfields -fpack-struct -fshort-enums  -mmcu=atmega1281 -DF CPU=16000000L -ffunction-sections -fdata-sections -Wl,-gc-sections -O2
+|avr-gcc 1281 -O3 || avr-gcc -pipe -funsigned-char -funsigned-bitfields -fpack-struct -fshort-enums  -mmcu=atmega1281 -DF CPU=16000000L -ffunction-sections -fdata-sections -Wl,-gc-sections -O3
+|avr-gcc 1281 -Os || avr-gcc -pipe -funsigned-char -funsigned-bitfields -fpack-struct -fshort-enums  -mmcu=atmega1281 -DF CPU=16000000L -ffunction-sections -fdata-sections -Wl,-gc-sections -Os
+|arm-elf-gcc -O0 || arm-elf-gcc -pipe -Wl,--entry,ResetISR -Wl,-T,XBD AF ld -mthumb -mcpu=cortex-m3 -MD -std=c99 -DPART LM3S811 -Dgcc -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections -lc -lgcc -O0
+|arm-elf-gcc -O1 || arm-elf-gcc -pipe -Wl,--entry,ResetISR -Wl,-T,XBD AF ld -mthumb -mcpu=cortex-m3 -MD -std=c99 -DPART LM3S811 -Dgcc -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections -lc -lgcc -O1
+|arm-elf-gcc -O2 || arm-elf-gcc -pipe -Wl,--entry,ResetISR -Wl,-T,XBD AF ld -mthumb -mcpu=cortex-m3 -MD -std=c99 -DPART LM3S811 -Dgcc -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections -lc -lgcc -O2
+|arm-elf-gcc -O3 || arm-elf-gcc -pipe -Wl,--entry,ResetISR -Wl,-T,XBD AF ld -mthumb -mcpu=cortex-m3 -MD -std=c99 -DPART LM3S811 -Dgcc -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections -lc -lgcc -O3
+|arm-elf-gcc -Os || arm-elf-gcc -pipe -Wl,--entry,ResetISR -Wl,-T,XBD AF ld -mthumb -mcpu=cortex-m3 -MD -std=c99 -DPART LM3S811 -Dgcc -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections -lc -lgcc -Os
+|mips-uclib-gcc -O0 || mipsel-linux-uclibc-gcc -pipe -O0 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections
+|mips-uclib-gcc -O1 || mipsel-linux-uclibc-gcc -pipe -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections
+|mips-uclib-gcc -O2 || mipsel-linux-uclibc-gcc -pipe -O2 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections
+|mips-uclib-gcc -O3 || mipsel-linux-uclibc-gcc -pipe -O3 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections
+|mips-uclib-gcc -Os || mipsel-linux-uclibc-gcc -pipe -Os -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections
+|arm-artila-gcc -O0 || arm-linux-gcc -O0 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections
+|arm-artila-gcc -O1 || arm-linux-gcc -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections
+|arm-artila-gcc -O2 || arm-linux-gcc -O2 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections
+|arm-artila-gcc -O3 || arm-linux-gcc -O3 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections
+|arm-artila-gcc -Os || arm-linux-gcc -Os -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections
+|armeb-uclibc-gcc -O0 || armeb-linux-uclibc-gcc -pipe -O0 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections
+|armeb-uclibc-gcc -O1 || armeb-linux-uclibc-gcc -pipe -O1 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections
+|armeb-uclibc-gcc -O2 || armeb-linux-uclibc-gcc -pipe -O2 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections
+|armeb-uclibc-gcc -O3 || armeb-linux-uclibc-gcc -pipe -O3 -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections
+|armeb-uclibc-gcc -Os || armeb-linux-uclibc-gcc -pipe -Os -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections
+|avr-gcc 1284p -O0 || avr-gcc -pipe -funsigned-char -funsigned-bitfields -fpack-struct -fshort-enums  -mmcu=atmega1284p -DF CPU=16000000L -ffunction-sections -fdata-sections -Wl,-gc-sections -O0
+|avr-gcc 1284p -O1 || avr-gcc -pipe -funsigned-char -funsigned-bitfields -fpack-struct -fshort-enums  -mmcu=atmega1284p -DF CPU=16000000L -ffunction-sections -fdata-sections -Wl,-gc-sections -O1
+|avr-gcc 1284p -O2 || avr-gcc -pipe -funsigned-char -funsigned-bitfields -fpack-struct -fshort-enums  -mmcu=atmega1284p -DF CPU=16000000L -ffunction-sections -fdata-sections -Wl,-gc-sections -O2
+|avr-gcc 1284p -O3 || avr-gcc -pipe -funsigned-char -funsigned-bitfields -fpack-struct -fshort-enums  -mmcu=atmega1284p -DF CPU=16000000L -ffunction-sections -fdata-sections -Wl,-gc-sections -O3
+|avr-gcc 1284p -Os || avr-gcc -pipe -funsigned-char -funsigned-bitfields -fpack-struct -fshort-enums  -mmcu=atmega1284p -DF CPU=16000000L -ffunction-sections -fdata-sections -Wl,-gc-sections -Os

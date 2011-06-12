@@ -1,0 +1,9 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:r2011platformsimplementations_artila_m501_bmw512_sphlib-small sphlib-small] || 160639 || 15612 || 1388 || [wiki:r2011compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:r2011runs_27 Run 27]
+|[wiki:r2011platformsimplementations_artila_m501_bmw512_ref ref] || 163935 || 14680 || 1800 || [wiki:r2011compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:r2011runs_27 Run 27]
+|[wiki:r2011platformsimplementations_artila_m501_bmw512_armcryptolib-speed armcryptolib-speed] || 395843 || 32600 || 2340 || [wiki:r2011compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:r2011runs_34 Run 34]
+|[wiki:r2011platformsimplementations_artila_m501_bmw512_optc02 optc02] || 433013 || 76532 || 2528 || [wiki:r2011compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:r2011runs_34 Run 34]
+|[wiki:r2011platformsimplementations_artila_m501_bmw512_optc01 optc01] || 433316 || 76540 || 2640 || [wiki:r2011compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:r2011runs_34 Run 34]
+|[wiki:r2011platformsimplementations_artila_m501_bmw512_sphlib sphlib] || 471004 || 29048 || 2016 || [wiki:r2011compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:r2011runs_34 Run 34]
+|[wiki:r2011platformsimplementations_artila_m501_bmw512_armcryptolib armcryptolib] || 595238 || 13228 || 2332 || [wiki:r2011compilernames arm-artila-gcc -O3] || 3.3.2 || [wiki:r2011runs_34 Run 34]
+|[wiki:r2011platformsimplementations_artila_m501_bmw512_optc03 optc03] || 658834 || 77236 || 1276 || [wiki:r2011compilernames arm-artila-gcc -O0] || 3.3.2 || [wiki:r2011runs_15 Run 15]

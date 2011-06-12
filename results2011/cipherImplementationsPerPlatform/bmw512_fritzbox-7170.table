@@ -1,0 +1,13 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:r2011platformsimplementations_fritzbox-7170_bmw512_sphlib-small sphlib-small] || 185036 || 14473 || 1920 || [wiki:r2011compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:r2011runs_32 Run 32]
+|[wiki:r2011platformsimplementations_fritzbox-7170_bmw512_armcryptolib armcryptolib] || 209509 || 11459 || 1564 || [wiki:r2011compilernames mips-uclib-gcc -O3] || 4.2.1 || [wiki:r2011runs_31 Run 31]
+|[wiki:r2011platformsimplementations_fritzbox-7170_bmw512_ref ref] || 232789 || 24656 || 2240 || [wiki:r2011compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:r2011runs_10 Run 10]
+|[wiki:r2011platformsimplementations_fritzbox-7170_bmw512_optabe optabe] || 1023841 || 56358 || 5092 || [wiki:r2011compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:r2011runs_31 Run 31]
+|[wiki:r2011platformsimplementations_fritzbox-7170_bmw512_optc02 optc02] || 1028717 || 111301 || 5624 || [wiki:r2011compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:r2011runs_32 Run 32]
+|[wiki:r2011platformsimplementations_fritzbox-7170_bmw512_optc01 optc01] || 1029287 || 111301 || 5744 || [wiki:r2011compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:r2011runs_32 Run 32]
+|[wiki:r2011platformsimplementations_fritzbox-7170_bmw512_optbbe optbbe] || 1029472 || 56694 || 5092 || [wiki:r2011compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:r2011runs_31 Run 31]
+|[wiki:r2011platformsimplementations_fritzbox-7170_bmw512_optc03 optc03] || 1049784 || 85302 || 5264 || [wiki:r2011compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:r2011runs_32 Run 32]
+|[wiki:r2011platformsimplementations_fritzbox-7170_bmw512_optc04 optc04] || 1066519 || 57542 || 5124 || [wiki:r2011compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:r2011runs_11 Run 11]
+|[wiki:r2011platformsimplementations_fritzbox-7170_bmw512_sphlib sphlib] || 1131431 || 30711 || 2924 || [wiki:r2011compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:r2011runs_32 Run 32]
+|[wiki:r2011platformsimplementations_fritzbox-7170_bmw512_optbgbe optbgbe] || 1209818 || 64001 || 4024 || [wiki:r2011compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:r2011runs_31 Run 31]
+|[wiki:r2011platformsimplementations_fritzbox-7170_bmw512_armcryptolib-speed armcryptolib-speed] || 1236119 || 41151 || 3808 || [wiki:r2011compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:r2011runs_31 Run 31]

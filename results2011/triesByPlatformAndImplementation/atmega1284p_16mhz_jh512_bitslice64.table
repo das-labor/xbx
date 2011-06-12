@@ -1,0 +1,6 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20110515 || blix || [wiki:r2011compilernames avr-gcc 1284p -O0] || 4.3.4 (GCC) || 750986173 || 50076595 || 76278 (96582) || 1856 (2720) || 32 (2448) || 2323(2331) || Checksum OK || [wiki:r2011runs_38 Run 38]
+|20110515 || blix || [wiki:r2011compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || 287114210 || 20046518 || 18458 (27944) || 2112 (2720) || 32 (2448) || 521(521) || Checksum OK || [wiki:r2011runs_38 Run 38]
+|20110515 || blix || [wiki:r2011compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || 285328612 || 19970533 || 17676 (26234) || 2112 (2720) || 32 (2448) || 516(516) || Checksum OK || [wiki:r2011runs_38 Run 38]
+|20110515 || blix || [wiki:r2011compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || 310121098 || 21751377 || 34590 (43742) || 1728 (2336) || 32 (2448) || 579(579) || Checksum OK || [wiki:r2011runs_38 Run 38]
+|20110515 || blix || [wiki:r2011compilernames avr-gcc 1284p -Os] || 4.3.4 (GCC) || 285828820 || 19989256 || 16862 (24848) || 2112 (2720) || 32 (2448) || 516(516) || Checksum OK || [wiki:r2011runs_38 Run 38]

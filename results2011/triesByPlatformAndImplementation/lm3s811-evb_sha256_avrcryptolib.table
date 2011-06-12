@@ -1,0 +1,11 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20110515 || clix || [wiki:r2011compilernames arm-elf-gcc -O0] || 4.3.2 (GCC) ||  ||  || 1760 (16852) || 288 (312) || 0 (2488) || unk(unk) || error || [wiki:r2011runs_33 Run 33]
+|20110515 || blix || [wiki:r2011compilernames arm-elf-gcc -O0] || 4.3.2 (GCC) ||  ||  || 1760 (16852) || 288 (312) || 0 (2488) || unk(unk) || error || [wiki:r2011runs_37 Run 37]
+|20110515 || clix || [wiki:r2011compilernames arm-elf-gcc -O1] || 4.3.2 (GCC) ||  ||  || 1144 (11156) || 288 (312) || 0 (2488) || unk(unk) || error || [wiki:r2011runs_33 Run 33]
+|20110515 || blix || [wiki:r2011compilernames arm-elf-gcc -O1] || 4.3.2 (GCC) ||  ||  || 1144 (11156) || 288 (312) || 0 (2488) || unk(unk) || error || [wiki:r2011runs_37 Run 37]
+|20110515 || clix || [wiki:r2011compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || 6171426 || 609485 || 988 (10276) || 288 (312) || 0 (2488) || 508(508) || Checksum OK || [wiki:r2011runs_33 Run 33]
+|20110515 || blix || [wiki:r2011compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || 6171426 || 609485 || 988 (10276) || 288 (312) || 0 (2488) || 508(508) || Checksum OK || [wiki:r2011runs_37 Run 37]
+|20110515 || clix || [wiki:r2011compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || 6060791 || 600324 || 1664 (12092) || 288 (312) || 0 (2488) || 512(512) || Checksum OK || [wiki:r2011runs_33 Run 33]
+|20110515 || blix || [wiki:r2011compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || 6060791 || 600324 || 1664 (12092) || 288 (312) || 0 (2488) || 512(512) || Checksum OK || [wiki:r2011runs_37 Run 37]
+|20110515 || clix || [wiki:r2011compilernames arm-elf-gcc -Os] || 4.3.2 (GCC) || 6512423 || 624648 || 920 (9680) || 288 (312) || 0 (2488) || 484(484) || Checksum OK || [wiki:r2011runs_33 Run 33]
+|20110515 || blix || [wiki:r2011compilernames arm-elf-gcc -Os] || 4.3.2 (GCC) || 6512423 || 624648 || 920 (9680) || 288 (312) || 0 (2488) || 484(484) || Checksum OK || [wiki:r2011runs_37 Run 37]

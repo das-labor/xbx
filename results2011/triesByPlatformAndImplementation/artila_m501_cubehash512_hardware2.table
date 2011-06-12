@@ -1,0 +1,11 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20101020 || clix || [wiki:r2011compilernames arm-artila-gcc -O0] || 3.3.2 || 22264583 || 1347446 || 3960 (25997) || 0 (472) || 32 (2776) || 591(604) ||  || [wiki:r2011runs_27 Run 27]
+|20110515 || clix || [wiki:r2011compilernames arm-artila-gcc -O0] || 3.3.2 || 22266506 || 1337693 || 3960 (26605) || 0 (472) || 32 (2780) || 592(605) ||  || [wiki:r2011runs_34 Run 34]
+|20101020 || clix || [wiki:r2011compilernames arm-artila-gcc -O1] || 3.3.2 || 10993208 || 606600 || 2148 (19032) || 0 (472) || 32 (2776) || 292(292) ||  || [wiki:r2011runs_27 Run 27]
+|20110515 || clix || [wiki:r2011compilernames arm-artila-gcc -O1] || 3.3.2 || 11000441 || 606611 || 2148 (19532) || 0 (472) || 32 (2780) || 292(292) ||  || [wiki:r2011runs_34 Run 34]
+|20101020 || clix || [wiki:r2011compilernames arm-artila-gcc -O2] || 3.3.2 || 9845618 || 530246 || 2136 (18816) || 0 (472) || 32 (2776) || 292(292) ||  || [wiki:r2011runs_27 Run 27]
+|20110515 || clix || [wiki:r2011compilernames arm-artila-gcc -O2] || 3.3.2 || 9808740 || 531281 || 2136 (19308) || 0 (472) || 32 (2780) || 292(292) ||  || [wiki:r2011runs_34 Run 34]
+|20101020 || clix || [wiki:r2011compilernames arm-artila-gcc -O3] || 3.3.2 || 9948656 || 539888 || 3532 (23552) || 0 (472) || 32 (2776) || 576(576) ||  || [wiki:r2011runs_27 Run 27]
+|20110515 || clix || [wiki:r2011compilernames arm-artila-gcc -O3] || 3.3.2 || 9967320 || 541643 || 3532 (23352) || 0 (472) || 32 (2780) || 576(576) ||  || [wiki:r2011runs_34 Run 34]
+|20101020 || clix || [wiki:r2011compilernames arm-artila-gcc -Os] || 3.3.2 || 10629900 || 577508 || 2088 (18629) || 0 (472) || 32 (2776) || 288(288) ||  || [wiki:r2011runs_27 Run 27]
+|20110515 || clix || [wiki:r2011compilernames arm-artila-gcc -Os] || 3.3.2 || 10517389 || 576000 || 2088 (19105) || 0 (472) || 32 (2780) || 288(288) ||  || [wiki:r2011runs_34 Run 34]

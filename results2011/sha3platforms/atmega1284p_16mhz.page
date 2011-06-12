@@ -1,0 +1,28 @@
+
+== Platform atmega1284p_16mhz (SHA3 Round 2 Only) ==
+[wiki:platforms_atmega1284p_16mhz Show all hash functions] 
+
+8 bit microcontroller manufactured by Atmel. RISC design, one of the most powerful 8 bit designs currently
+in use. 
+
+128kiB Flash, 16kiB RAM, 16MHz. 
+
+Should create almost the same results as the 1281, with the following differences:[[BR]]
+Memory intensive algorithms may run on the 1284P, but not on the 1281, e.g. SHAVITE.
+
+See http://www.atmel.com/dyn/products/product_card.asp?part_id=4331 for details.
+
+
+[wiki:sha3platforms_atmega1284p_16mhz#FastestAlgorithms FastestAlgorithms] - [wiki:sha3platforms_atmega1284p_16mhz#SmallestAlgorithmsROM Smallest Algorithms (ROM)] - [wiki:sha3platforms_atmega1284p_16mhz#SmallestAlgorithmsRAM Smallest Algorithms (RAM)]
+
+=== Fastest Algorithms ===
+
+[[SortCSVsourceTable(source:page/trunk/results2011/fastestPerPlatform/sha3atmega1284p_16mhz.table)]]
+
+=== Smallest Algorithms (ROM) ===
+
+[[SortCSVsourceTable(source:page/trunk/results2011/smallestRomPerPlatform/sha3atmega1284p_16mhz.table)]]
+
+=== Smallest Algorithms (RAM) ===
+
+[[SortCSVsourceTable(source:page/trunk/results2011/smallestRamPerPlatform/sha3atmega1284p_16mhz.table)]]

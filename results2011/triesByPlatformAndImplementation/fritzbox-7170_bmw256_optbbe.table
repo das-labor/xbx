@@ -1,0 +1,11 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20101114 || clix || [wiki:r2011compilernames mips-uclib-gcc -O0] || 4.2.1 || 10985734 || 197690 || 29378 (71608) || 4 (948) || 0 (2840) || 1088(1136) || Checksum OK || [wiki:r2011runs_31 Run 31]
+|20101103 || clix || [wiki:r2011compilernames mips-uclib-gcc -O0] || 4.2.1 || 10975280 || 197836 || 29378 (71608) || 4 (948) || 0 (2840) || 1088(1136) || Checksum OK || [wiki:r2011runs_32 Run 32]
+|20101114 || clix || [wiki:r2011compilernames mips-uclib-gcc -O1] || 4.2.1 || 4283699 || 127333 || 17970 (51063) || 0 (940) || 0 (2840) || 800(856) || Checksum OK || [wiki:r2011runs_31 Run 31]
+|20101103 || clix || [wiki:r2011compilernames mips-uclib-gcc -O1] || 4.2.1 || 4215170 || 127041 || 17970 (51063) || 0 (940) || 0 (2840) || 800(856) || Checksum OK || [wiki:r2011runs_32 Run 32]
+|20101114 || clix || [wiki:r2011compilernames mips-uclib-gcc -O2] || 4.2.1 || 4460944 || 139403 || 19266 (50743) || 0 (940) || 0 (2840) || 1848(1904) || Checksum OK || [wiki:r2011runs_31 Run 31]
+|20101103 || clix || [wiki:r2011compilernames mips-uclib-gcc -O2] || 4.2.1 || 4755982 || 139284 || 19266 (50743) || 0 (940) || 0 (2840) || 1848(1904) || Checksum OK || [wiki:r2011runs_32 Run 32]
+|20101114 || clix || [wiki:r2011compilernames mips-uclib-gcc -O3] || 4.2.1 || 4761242 || 139973 || 19330 (50863) || 0 (940) || 0 (2836) || 1848(1904) || Checksum OK || [wiki:r2011runs_31 Run 31]
+|20101103 || clix || [wiki:r2011compilernames mips-uclib-gcc -O3] || 4.2.1 || 4722088 || 139973 || 19330 (50863) || 0 (940) || 0 (2836) || 1848(1904) || Checksum OK || [wiki:r2011runs_32 Run 32]
+|20101114 || clix || [wiki:r2011compilernames mips-uclib-gcc -Os] || 4.2.1 || 4572535 || 138993 || 18818 (50000) || 0 (940) || 0 (2840) || 1816(1872) || Checksum OK || [wiki:r2011runs_31 Run 31]
+|20101103 || clix || [wiki:r2011compilernames mips-uclib-gcc -Os] || 4.2.1 || 4632704 || 139456 || 18818 (50000) || 0 (940) || 0 (2840) || 1816(1872) || Checksum OK || [wiki:r2011runs_32 Run 32]

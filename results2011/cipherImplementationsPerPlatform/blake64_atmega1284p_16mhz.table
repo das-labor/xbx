@@ -1,0 +1,5 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:r2011platformsimplementations_atmega1284p_16mhz_blake64_armcryptolib armcryptolib] || 6326460 || 6834 || 971 || [wiki:r2011compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || [wiki:r2011runs_28 Run 28]
+|[wiki:r2011platformsimplementations_atmega1284p_16mhz_blake64_avrcryptolib avrcryptolib] || 6601087 || 7200 || 541 || [wiki:r2011compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || [wiki:r2011runs_21 Run 21]
+|[wiki:r2011platformsimplementations_atmega1284p_16mhz_blake64_sphlib sphlib] || 7768343 || 51426 || 2140 || [wiki:r2011compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || [wiki:r2011runs_21 Run 21]
+|[wiki:r2011platformsimplementations_atmega1284p_16mhz_blake64_sphlib-small sphlib-small] || 7768344 || 51426 || 2140 || [wiki:r2011compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || [wiki:r2011runs_22 Run 22]

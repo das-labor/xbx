@@ -1,0 +1,3 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:r2011platformsimplementations_atmega1281_16mhz_sha512_sphlib-small sphlib-small] || 13407196 || 48492 || 2141 || [wiki:r2011compilernames avr-gcc 1281 -O1] || 4.3.4 (GCC) || [wiki:r2011runs_26 Run 26]
+|[wiki:r2011platformsimplementations_atmega1281_16mhz_sha512_sphlib sphlib] || 13407198 || 48492 || 2141 || [wiki:r2011compilernames avr-gcc 1281 -O1] || 4.3.4 (GCC) || [wiki:r2011runs_26 Run 26]

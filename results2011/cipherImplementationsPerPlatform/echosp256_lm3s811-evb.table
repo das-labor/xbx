@@ -1,0 +1,5 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:r2011platformsimplementations_lm3s811-evb_echosp256_generic_opt32 generic_opt32] || 252647 || 20520 || 900 || [wiki:r2011compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:r2011runs_33 Run 33]
+|[wiki:r2011platformsimplementations_lm3s811-evb_echosp256_powerpc_pp32cv2 powerpc_pp32cv2] || 319423 || 26088 || 904 || [wiki:r2011compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:r2011runs_23 Run 23]
+|[wiki:r2011platformsimplementations_lm3s811-evb_echosp256_generic_opt64 generic_opt64] || 366511 || 30372 || 884 || [wiki:r2011compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || [wiki:r2011runs_7 Run 7]
+|[wiki:r2011platformsimplementations_lm3s811-evb_echosp256_powerpc_pp32cv1 powerpc_pp32cv1] || 455417 || 21196 || 904 || [wiki:r2011compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:r2011runs_23 Run 23]

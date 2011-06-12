@@ -1,0 +1,11 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20101017 || clix || [wiki:r2011compilernames mips-uclib-gcc -O0] || 4.2.1 || 422395054 || 27231254 || 12042 (54272) || 0 (944) || 32 (2872) || 552(600) ||  || [wiki:r2011runs_25 Run 25]
+|20101103 || clix || [wiki:r2011compilernames mips-uclib-gcc -O0] || 4.2.1 || 335963727 || 22489835 || 12042 (54272) || 0 (944) || 32 (2872) || 552(600) ||  || [wiki:r2011runs_32 Run 32]
+|20101017 || clix || [wiki:r2011compilernames mips-uclib-gcc -O1] || 4.2.1 || 209339109 || 13653728 || 6666 (39759) || 0 (940) || 32 (2872) || 608(664) ||  || [wiki:r2011runs_25 Run 25]
+|20101103 || clix || [wiki:r2011compilernames mips-uclib-gcc -O1] || 4.2.1 || 168322488 || 11343285 || 6666 (39759) || 0 (940) || 32 (2872) || 608(664) ||  || [wiki:r2011runs_32 Run 32]
+|20101017 || clix || [wiki:r2011compilernames mips-uclib-gcc -O2] || 4.2.1 || 311463417 || 20412155 || 7370 (38847) || 0 (940) || 32 (2872) || 1104(1160) ||  || [wiki:r2011runs_25 Run 25]
+|20101103 || clix || [wiki:r2011compilernames mips-uclib-gcc -O2] || 4.2.1 || 248888557 || 16768379 || 7370 (38847) || 0 (940) || 32 (2872) || 1104(1160) ||  || [wiki:r2011runs_32 Run 32]
+|20101017 || clix || [wiki:r2011compilernames mips-uclib-gcc -O3] || 4.2.1 || 139710186 || 9004144 || 7866 (39399) || 0 (940) || 32 (2868) || 1032(1088) ||  || [wiki:r2011runs_25 Run 25]
+|20101103 || clix || [wiki:r2011compilernames mips-uclib-gcc -O3] || 4.2.1 || 110967504 || 7480235 || 7866 (39399) || 0 (940) || 32 (2868) || 1032(1088) ||  || [wiki:r2011runs_32 Run 32]
+|20101103 || clix || [wiki:r2011compilernames mips-uclib-gcc -Os] || 4.2.1 ||  ||  || 6266 (37448) || 0 (940) || 32 (2872) || unk(unk) || error || [wiki:r2011runs_32 Run 32]
+|20101017 || clix || [wiki:r2011compilernames mips-uclib-gcc -Os] || 4.2.1 || 251241584 || 16134128 || 6266 (37448) || 0 (940) || 32 (2872) || 1064(1120) ||  || [wiki:r2011runs_25 Run 25]

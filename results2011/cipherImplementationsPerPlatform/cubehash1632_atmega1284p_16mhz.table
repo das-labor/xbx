@@ -1,0 +1,8 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:r2011platformsimplementations_atmega1284p_16mhz_cubehash1632_avrcryptolib_cwbasm avrcryptolib_cwbasm] || 9197614 || 1648 || 249 || [wiki:r2011compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || [wiki:r2011runs_21 Run 21]
+|[wiki:r2011platformsimplementations_atmega1284p_16mhz_cubehash1632_sphlib-small sphlib-small] || 9840702 || 40126 || 406 || [wiki:r2011compilernames avr-gcc 1284p -Os] || 4.3.4 (GCC) || [wiki:r2011runs_22 Run 22]
+|[wiki:r2011platformsimplementations_atmega1284p_16mhz_cubehash1632_unrolled unrolled] || 12318129 || 11234 || 556 || [wiki:r2011compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || [wiki:r2011runs_22 Run 22]
+|[wiki:r2011platformsimplementations_atmega1284p_16mhz_cubehash1632_armcryptolib armcryptolib] || 12421185 || 2108 || 253 || [wiki:r2011compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || [wiki:r2011runs_28 Run 28]
+|[wiki:r2011platformsimplementations_atmega1284p_16mhz_cubehash1632_avrcryptolib avrcryptolib] || 12421225 || 2106 || 253 || [wiki:r2011compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || [wiki:r2011runs_21 Run 21]
+|[wiki:r2011platformsimplementations_atmega1284p_16mhz_cubehash1632_simple simple] || 15597338 || 41150 || 992 || [wiki:r2011compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || [wiki:r2011runs_22 Run 22]
+|[wiki:r2011platformsimplementations_atmega1284p_16mhz_cubehash1632_spec spec] || 31615862 || 5298 || 668 || [wiki:r2011compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || [wiki:r2011runs_22 Run 22]

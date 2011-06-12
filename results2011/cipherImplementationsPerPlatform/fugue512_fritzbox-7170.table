@@ -1,0 +1,2 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:r2011platformsimplementations_fritzbox-7170_fugue512_sphlib sphlib] || 395049 || 19958 || 880 || [wiki:r2011compilernames mips-uclib-gcc -Os] || 4.2.1 || [wiki:r2011runs_31 Run 31]

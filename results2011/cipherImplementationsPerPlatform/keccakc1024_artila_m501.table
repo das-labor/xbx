@@ -1,0 +1,11 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:r2011platformsimplementations_artila_m501_keccakc1024_opt32bi-rvku2 opt32bi-rvku2] || 325980 || 17540 || 1000 || [wiki:r2011compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:r2011runs_34 Run 34]
+|[wiki:r2011platformsimplementations_artila_m501_keccakc1024_simple32bi simple32bi] || 337354 || 5640 || 788 || [wiki:r2011compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:r2011runs_34 Run 34]
+|[wiki:r2011platformsimplementations_artila_m501_keccakc1024_opt32bi-s2lcu4 opt32bi-s2lcu4] || 352519 || 31312 || 1044 || [wiki:r2011compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:r2011runs_34 Run 34]
+|[wiki:r2011platformsimplementations_artila_m501_keccakc1024_opt32biT-s2lcu4 opt32biT-s2lcu4] || 406091 || 30972 || 263196 || [wiki:r2011compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:r2011runs_34 Run 34]
+|[wiki:r2011platformsimplementations_artila_m501_keccakc1024_simple simple] || 590974 || 7568 || 800 || [wiki:r2011compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:r2011runs_34 Run 34]
+|[wiki:r2011platformsimplementations_artila_m501_keccakc1024_compact compact] || 2134328 || 2212 || 432 || [wiki:r2011compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:r2011runs_34 Run 34]
+|[wiki:r2011platformsimplementations_artila_m501_keccakc1024_compact8 compact8] || 2645888 || 2172 || 664 || [wiki:r2011compilernames arm-artila-gcc -O3] || 3.3.2 || [wiki:r2011runs_34 Run 34]
+|[wiki:r2011platformsimplementations_artila_m501_keccakc1024_opt64lcu24 opt64lcu24] || 2664079 || 224704 || 1156 || [wiki:r2011compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:r2011runs_34 Run 34]
+|[wiki:r2011platformsimplementations_artila_m501_keccakc1024_opt64u6 opt64u6] || 2723850 || 62888 || 1152 || [wiki:r2011compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:r2011runs_34 Run 34]
+|[wiki:r2011platformsimplementations_artila_m501_keccakc1024_opt64lcu6 opt64lcu6] || 2740388 || 63248 || 1160 || [wiki:r2011compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:r2011runs_34 Run 34]

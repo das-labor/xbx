@@ -1,0 +1,11 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20110515 || clix || [wiki:r2011compilernames arm-elf-gcc -O0] || 4.3.2 (GCC) ||  ||  || 15008 (30100) || 0 (24) || 0 (2488) || unk(unk) || error || [wiki:r2011runs_33 Run 33]
+|20110515 || blix || [wiki:r2011compilernames arm-elf-gcc -O0] || 4.3.2 (GCC) ||  ||  || 15008 (30100) || 0 (24) || 0 (2488) || unk(unk) || error || [wiki:r2011runs_37 Run 37]
+|20110515 || clix || [wiki:r2011compilernames arm-elf-gcc -O1] || 4.3.2 (GCC) ||  ||  || 9256 (19268) || 0 (24) || 0 (2488) || unk(unk) || error || [wiki:r2011runs_33 Run 33]
+|20110515 || blix || [wiki:r2011compilernames arm-elf-gcc -O1] || 4.3.2 (GCC) ||  ||  || 9256 (19268) || 0 (24) || 0 (2488) || unk(unk) || error || [wiki:r2011runs_37 Run 37]
+|20110515 || clix || [wiki:r2011compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || 1160611 || 85100 || 8792 (18080) || 0 (24) || 0 (2488) || 884(884) || Checksum OK || [wiki:r2011runs_33 Run 33]
+|20110515 || blix || [wiki:r2011compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || 1160611 || 85100 || 8792 (18080) || 0 (24) || 0 (2488) || 884(884) || Checksum OK || [wiki:r2011runs_37 Run 37]
+|20110515 || clix || [wiki:r2011compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || 1157735 || 85168 || 8832 (19260) || 0 (24) || 0 (2488) || 884(884) || Checksum OK || [wiki:r2011runs_33 Run 33]
+|20110515 || blix || [wiki:r2011compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || 1157735 || 85168 || 8832 (19260) || 0 (24) || 0 (2488) || 884(884) || Checksum OK || [wiki:r2011runs_37 Run 37]
+|20110515 || clix || [wiki:r2011compilernames arm-elf-gcc -Os] || 4.3.2 (GCC) || 1498228 || 100995 || 10268 (19028) || 0 (24) || 0 (2488) || 884(884) || Checksum OK || [wiki:r2011runs_33 Run 33]
+|20110515 || blix || [wiki:r2011compilernames arm-elf-gcc -Os] || 4.3.2 (GCC) || 1498227 || 100995 || 10268 (19028) || 0 (24) || 0 (2488) || 884(884) || Checksum OK || [wiki:r2011runs_37 Run 37]

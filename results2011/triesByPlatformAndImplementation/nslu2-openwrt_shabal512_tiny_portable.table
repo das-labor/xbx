@@ -1,0 +1,11 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20101017 || clix || [wiki:r2011compilernames armeb-uclibc-gcc -O0] || 4.1.2 || 14900040 || 410887 || 2084 (24538) || 0 (388) || 32 (2860) || 612(620) || Checksum OK || [wiki:r2011runs_24 Run 24]
+|20101114 || clix || [wiki:r2011compilernames armeb-uclibc-gcc -O0] || 4.1.2 || 14996332 || 411070 || 2084 (24538) || 0 (388) || 32 (2860) || 612(620) || Checksum OK || [wiki:r2011runs_30 Run 30]
+|20101017 || clix || [wiki:r2011compilernames armeb-uclibc-gcc -O1] || 4.1.2 || 4725823 || 151969 || 992 (17226) || 0 (384) || 32 (2860) || 584(600) || Checksum OK || [wiki:r2011runs_24 Run 24]
+|20101114 || clix || [wiki:r2011compilernames armeb-uclibc-gcc -O1] || 4.1.2 || 4717493 || 152019 || 992 (17226) || 0 (384) || 32 (2860) || 584(600) || Checksum OK || [wiki:r2011runs_30 Run 30]
+|20101017 || clix || [wiki:r2011compilernames armeb-uclibc-gcc -O2] || 4.1.2 || 3836784 || 120082 || 956 (17098) || 0 (384) || 32 (2860) || 604(612) || Checksum OK || [wiki:r2011runs_24 Run 24]
+|20101114 || clix || [wiki:r2011compilernames armeb-uclibc-gcc -O2] || 4.1.2 || 3835637 || 120182 || 956 (17098) || 0 (384) || 32 (2860) || 604(612) || Checksum OK || [wiki:r2011runs_30 Run 30]
+|20101017 || clix || [wiki:r2011compilernames armeb-uclibc-gcc -O3] || 4.1.2 || 3825828 || 132402 || 9588 (26642) || 0 (384) || 32 (2856) || 1564(1580) || Checksum OK || [wiki:r2011runs_24 Run 24]
+|20101114 || clix || [wiki:r2011compilernames armeb-uclibc-gcc -O3] || 4.1.2 || 3820126 || 132584 || 9588 (26642) || 0 (384) || 32 (2856) || 1564(1580) || Checksum OK || [wiki:r2011runs_30 Run 30]
+|20101017 || clix || [wiki:r2011compilernames armeb-uclibc-gcc -Os] || 4.1.2 || 3654657 || 115710 || 872 (16618) || 0 (384) || 32 (2860) || 592(608) || Checksum OK || [wiki:r2011runs_24 Run 24]
+|20101114 || clix || [wiki:r2011compilernames armeb-uclibc-gcc -Os] || 4.1.2 || 3663818 || 115810 || 872 (16618) || 0 (384) || 32 (2860) || 592(608) || Checksum OK || [wiki:r2011runs_30 Run 30]

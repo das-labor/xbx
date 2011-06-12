@@ -1,0 +1,9 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:r2011platformsimplementations_lm3s811-evb_bmw512_armcryptolib-speed armcryptolib-speed] || 101625 || 19720 || 916 || [wiki:r2011compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || [wiki:r2011runs_33 Run 33]
+|[wiki:r2011platformsimplementations_lm3s811-evb_bmw512_optbgbe optbgbe] || 102234 || 38660 || 920 || [wiki:r2011compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:r2011runs_29 Run 29]
+|[wiki:r2011platformsimplementations_lm3s811-evb_bmw512_sphlib sphlib] || 112922 || 15948 || 916 || [wiki:r2011compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:r2011runs_33 Run 33]
+|[wiki:r2011platformsimplementations_lm3s811-evb_bmw512_optc04 optc04] || 114339 || 34764 || 3432 || [wiki:r2011compilernames arm-elf-gcc -O1] || 4.3.2 (GCC) || [wiki:r2011runs_33 Run 33]
+|[wiki:r2011platformsimplementations_lm3s811-evb_bmw512_optabe optabe] || 145092 || 45416 || 3432 || [wiki:r2011compilernames arm-elf-gcc -O1] || 4.3.2 (GCC) || [wiki:r2011runs_29 Run 29]
+|[wiki:r2011platformsimplementations_lm3s811-evb_bmw512_ref ref] || 153774 || 12444 || 916 || [wiki:r2011compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || [wiki:r2011runs_23 Run 23]
+|[wiki:r2011platformsimplementations_lm3s811-evb_bmw512_sphlib-small sphlib-small] || 166866 || 8488 || 916 || [wiki:r2011compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || [wiki:r2011runs_29 Run 29]
+|[wiki:r2011platformsimplementations_lm3s811-evb_bmw512_armcryptolib armcryptolib] || 180735 || 8592 || 920 || [wiki:r2011compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:r2011runs_29 Run 29]

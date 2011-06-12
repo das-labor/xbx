@@ -1,0 +1,10 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20100801 || blix || [wiki:r2011compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || 104819614 || 7768343 || 50754 (59884) || 672 (1084) || 32 (2447) || 1436(1436) || Checksum OK || [wiki:r2011runs_21 Run 21]
+|20100802 || blix || [wiki:r2011compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || 104819638 || 7768346 || 50754 (59884) || 672 (1084) || 32 (2447) || 1436(1436) || Checksum OK || [wiki:r2011runs_22 Run 22]
+|20101114 || clix || [wiki:r2011compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || 105977738 || 7853828 || 57086 (66216) || 672 (1084) || 32 (2447) || 1544(1544) || Checksum OK || [wiki:r2011runs_28 Run 28]
+|20100801 || blix || [wiki:r2011compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || 111597023 || 8358506 || 59500 (67746) || 672 (1084) || 32 (2447) || 1328(1328) || Checksum OK || [wiki:r2011runs_21 Run 21]
+|20100802 || blix || [wiki:r2011compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || 111597050 || 8358509 || 59500 (67746) || 672 (1084) || 32 (2447) || 1328(1328) || Checksum OK || [wiki:r2011runs_22 Run 22]
+|20101114 || clix || [wiki:r2011compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || 112413125 || 8416224 || 61488 (69734) || 672 (1084) || 32 (2447) || 1312(1312) || Checksum OK || [wiki:r2011runs_28 Run 28]
+|20100801 || blix || [wiki:r2011compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || 111520058 || 8352577 || 59580 (67848) || 672 (1084) || 32 (2447) || 1326(1326) || Checksum OK || [wiki:r2011runs_21 Run 21]
+|20100802 || blix || [wiki:r2011compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || 111520083 || 8352452 || 59580 (67848) || 672 (1084) || 32 (2447) || 1326(1326) || Checksum OK || [wiki:r2011runs_22 Run 22]
+|20101114 || clix || [wiki:r2011compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || 112336158 || 8410193 || 61568 (69836) || 672 (1084) || 32 (2447) || 1310(1310) || Checksum OK || [wiki:r2011runs_28 Run 28]

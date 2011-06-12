@@ -1,0 +1,11 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20101020 || clix || [wiki:r2011compilernames arm-artila-gcc -O0] || 3.3.2 || 152944200 || 9912533 || 14548 (36585) || 0 (472) || 32 (2776) || 938(951) ||  || [wiki:r2011runs_27 Run 27]
+|20110515 || clix || [wiki:r2011compilernames arm-artila-gcc -O0] || 3.3.2 || 163761289 || 9901541 || 14548 (37193) || 0 (472) || 32 (2780) || 938(951) ||  || [wiki:r2011runs_34 Run 34]
+|20101020 || clix || [wiki:r2011compilernames arm-artila-gcc -O1] || 3.3.2 || 49615751 || 3198398 || 4684 (21568) || 0 (472) || 32 (2776) || 728(728) ||  || [wiki:r2011runs_27 Run 27]
+|20110515 || clix || [wiki:r2011compilernames arm-artila-gcc -O1] || 3.3.2 || 61745231 || 3179678 || 4684 (22068) || 0 (472) || 32 (2780) || 728(728) ||  || [wiki:r2011runs_34 Run 34]
+|20101020 || clix || [wiki:r2011compilernames arm-artila-gcc -O2] || 3.3.2 || 53791346 || 3267968 || 5008 (21688) || 0 (472) || 32 (2776) || 887(887) ||  || [wiki:r2011runs_27 Run 27]
+|20110515 || clix || [wiki:r2011compilernames arm-artila-gcc -O2] || 3.3.2 || 50351749 || 3257719 || 5008 (22180) || 0 (472) || 32 (2780) || 888(888) ||  || [wiki:r2011runs_34 Run 34]
+|20101020 || clix || [wiki:r2011compilernames arm-artila-gcc -O3] || 3.3.2 || 53472443 || 3490560 || 6328 (26348) || 0 (472) || 32 (2776) || 1272(1272) ||  || [wiki:r2011runs_27 Run 27]
+|20110515 || clix || [wiki:r2011compilernames arm-artila-gcc -O3] || 3.3.2 || 64389971 || 3523613 || 6328 (26148) || 0 (472) || 32 (2780) || 1271(1271) ||  || [wiki:r2011runs_34 Run 34]
+|20101020 || clix || [wiki:r2011compilernames arm-artila-gcc -Os] || 3.3.2 || 50186835 || 3242790 || 4996 (21537) || 0 (472) || 32 (2776) || 888(888) ||  || [wiki:r2011runs_27 Run 27]
+|20110515 || clix || [wiki:r2011compilernames arm-artila-gcc -Os] || 3.3.2 || 50351186 || 3230089 || 4996 (22013) || 0 (472) || 32 (2780) || 888(888) ||  || [wiki:r2011runs_34 Run 34]

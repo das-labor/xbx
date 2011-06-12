@@ -1,0 +1,7 @@
+| '''Platform''' || '''Number of Datasets''' 
+|[wiki:r2011platforms_artila_m501 artila_m501] || 6
+|[wiki:r2011platforms_atmega1281_16mhz atmega1281_16mhz] || 5
+|[wiki:r2011platforms_atmega1284p_16mhz atmega1284p_16mhz] || 4
+|[wiki:r2011platforms_fritzbox-7170 fritzbox-7170] || 8
+|[wiki:r2011platforms_lm3s811-evb lm3s811-evb] || 8
+|[wiki:r2011platforms_nslu2-openwrt nslu2-openwrt] || 7

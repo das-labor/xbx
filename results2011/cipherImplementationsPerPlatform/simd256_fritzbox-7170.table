@@ -1,0 +1,5 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:r2011platformsimplementations_fritzbox-7170_simd256_sphlib-small sphlib-small] || 402071 || 12386 || 1260 || [wiki:r2011compilernames mips-uclib-gcc -O2] || 4.2.1 || [wiki:r2011runs_31 Run 31]
+|[wiki:r2011platformsimplementations_fritzbox-7170_simd256_opt opt] || 407053 || 32313 || 2124 || [wiki:r2011compilernames mips-uclib-gcc -O3] || 4.2.1 || [wiki:r2011runs_32 Run 32]
+|[wiki:r2011platformsimplementations_fritzbox-7170_simd256_sphlib sphlib] || 1818086 || 27532 || 1028 || [wiki:r2011compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:r2011runs_32 Run 32]
+|[wiki:r2011platformsimplementations_fritzbox-7170_simd256_ref ref] || 7100609 || 7464 || 3960 || [wiki:r2011compilernames mips-uclib-gcc -O2] || 4.2.1 || [wiki:r2011runs_32 Run 32]

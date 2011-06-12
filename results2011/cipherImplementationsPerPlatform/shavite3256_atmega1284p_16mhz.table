@@ -1,0 +1,7 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:r2011platformsimplementations_atmega1284p_16mhz_shavite3256_sphlib sphlib] || 900953 || 59760 || 5506 || [wiki:r2011compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || [wiki:r2011runs_28 Run 28]
+|[wiki:r2011platformsimplementations_atmega1284p_16mhz_shavite3256_sphlib-small sphlib-small] || 983424 || 15082 || 5040 || [wiki:r2011compilernames avr-gcc 1284p -Os] || 4.3.4 (GCC) || [wiki:r2011runs_28 Run 28]
+|[wiki:r2011platformsimplementations_atmega1284p_16mhz_shavite3256_256-nosalt-smallc 256-nosalt-smallc] || 1025991 || 66566 || 7297 || [wiki:r2011compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || [wiki:r2011runs_22 Run 22]
+|[wiki:r2011platformsimplementations_atmega1284p_16mhz_shavite3256_low-mem low-mem] || 1052799 || 87350 || 6717 || [wiki:r2011compilernames avr-gcc 1284p -Os] || 4.3.4 (GCC) || [wiki:r2011runs_28 Run 28]
+|[wiki:r2011platformsimplementations_atmega1284p_16mhz_shavite3256_lower-mem lower-mem] || 1085129 || 77310 || 6823 || [wiki:r2011compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || [wiki:r2011runs_28 Run 28]
+|[wiki:r2011platformsimplementations_atmega1284p_16mhz_shavite3256_8-bit 8-bit] || 1408647 || 35830 || 1989 || [wiki:r2011compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || [wiki:r2011runs_28 Run 28]

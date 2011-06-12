@@ -1,0 +1,6 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20110515 || clix || [wiki:r2011compilernames arm-artila-gcc -O0] || 3.3.2 || 31712659 || 1866353 || 3916 (26561) || 0 (472) || 136 (2884) || 328(341) ||  || [wiki:r2011runs_34 Run 34]
+|20110515 || clix || [wiki:r2011compilernames arm-artila-gcc -O1] || 3.3.2 || 15530647 || 984161 || 2196 (19580) || 0 (472) || 136 (2884) || 332(332) ||  || [wiki:r2011runs_34 Run 34]
+|20110515 || clix || [wiki:r2011compilernames arm-artila-gcc -O2] || 3.3.2 || 15649110 || 995816 || 2344 (19516) || 0 (472) || 136 (2884) || 332(332) ||  || [wiki:r2011runs_34 Run 34]
+|20110515 || clix || [wiki:r2011compilernames arm-artila-gcc -O3] || 3.3.2 || 21424095 || 1000418 || 2340 (22160) || 0 (472) || 136 (2884) || 332(332) ||  || [wiki:r2011runs_34 Run 34]
+|20110515 || clix || [wiki:r2011compilernames arm-artila-gcc -Os] || 3.3.2 || 16027268 || 1014874 || 2312 (19329) || 0 (472) || 136 (2884) || 336(336) ||  || [wiki:r2011runs_34 Run 34]

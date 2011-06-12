@@ -1,0 +1,5 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:r2011platformsimplementations_fritzbox-7170_blake512_ref ref] || 262496 || 8390 || 1032 || [wiki:r2011compilernames mips-uclib-gcc -Os] || 4.2.1 || [wiki:r2011runs_36 Run 36]
+|[wiki:r2011platformsimplementations_fritzbox-7170_blake512_armcryptolib armcryptolib] || 269346 || 3310 || 580 || [wiki:r2011compilernames mips-uclib-gcc -Os] || 4.2.1 || [wiki:r2011runs_36 Run 36]
+|[wiki:r2011platformsimplementations_fritzbox-7170_blake512_sphlib sphlib] || 271850 || 12417 || 1340 || [wiki:r2011compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:r2011runs_36 Run 36]
+|[wiki:r2011platformsimplementations_fritzbox-7170_blake512_sphlib-small sphlib-small] || 272089 || 12419 || 1336 || [wiki:r2011compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:r2011runs_36 Run 36]

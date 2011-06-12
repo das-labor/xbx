@@ -1,0 +1,4 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:r2011platformsimplementations_lm3s811-evb_luffa256_opt32 opt32] || 125913 || 11916 || 736 || [wiki:r2011compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:r2011runs_33 Run 33]
+|[wiki:r2011platformsimplementations_lm3s811-evb_luffa256_sphlib sphlib] || 139490 || 4252 || 396 || [wiki:r2011compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:r2011runs_33 Run 33]
+|[wiki:r2011platformsimplementations_lm3s811-evb_luffa256_arm arm] || 233103 || 10376 || 696 || [wiki:r2011compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:r2011runs_29 Run 29]

@@ -1,0 +1,5 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:r2011platformsimplementations_atmega1281_16mhz_bmw512_avrcryptolib avrcryptolib] || 5326397 || 17896 || 1140 || [wiki:r2011compilernames avr-gcc 1281 -O2] || 4.3.4 (GCC) || [wiki:r2011runs_2 Run 2]
+|[wiki:r2011platformsimplementations_atmega1281_16mhz_bmw512_armcryptolib armcryptolib] || 5328203 || 17800 || 1272 || [wiki:r2011compilernames avr-gcc 1281 -O2] || 4.3.4 (GCC) || [wiki:r2011runs_2 Run 2]
+|[wiki:r2011platformsimplementations_atmega1281_16mhz_bmw512_sphlib-small sphlib-small] || 5383780 || 84518 || 2290 || [wiki:r2011compilernames avr-gcc 1281 -Os] || 4.3.4 (GCC) || [wiki:r2011runs_2 Run 2]
+|[wiki:r2011platformsimplementations_atmega1281_16mhz_bmw512_ref ref] || 5592832 || 104310 || 2454 || [wiki:r2011compilernames avr-gcc 1281 -Os] || 4.3.4 (GCC) || [wiki:r2011runs_2 Run 2]

@@ -1,0 +1,23 @@
+
+== Run 34 ==
+
+ * Date: 20110515
+ * Hostname: clix
+ * Platform: artila_m501
+ * XBX Version 2.0.2dev
+ * XBH Revision 01387
+ * Bootloader Revision 01411
+
+
+
+[wiki:runs_34#MeasureResults Measure Results] - [wiki:runs_34#TryResults Try Results] - [wiki:runs_34#DriftMeasurements Drift Measurements]
+
+=== Measure Results ===
+[[SortCSVsourceTable(source:page/trunk/results2011/measuresByRun/34.table)]]
+
+=== Try Results ===
+[[SortCSVsourceTable(source:page/trunk/results2011/triesByRun/34.table)]]
+
+=== Drift Measurements ===
+[[SortCSVsourceTable(source:page/trunk/results2011/driftByRun/34.table)]]
+  

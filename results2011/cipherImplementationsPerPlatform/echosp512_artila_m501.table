@@ -1,0 +1,5 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:r2011platformsimplementations_artila_m501_echosp512_generic_opt32 generic_opt32] || 420548 || 23350 || 4888 || [wiki:r2011compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:r2011runs_34 Run 34]
+|[wiki:r2011platformsimplementations_artila_m501_echosp512_powerpc_pp32cv1 powerpc_pp32cv1] || 667789 || 20900 || 792 || [wiki:r2011compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:r2011runs_15 Run 15]
+|[wiki:r2011platformsimplementations_artila_m501_echosp512_powerpc_pp32cv2 powerpc_pp32cv2] || 804060 || 35480 || 1036 || [wiki:r2011compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:r2011runs_34 Run 34]
+|[wiki:r2011platformsimplementations_artila_m501_echosp512_generic_opt64 generic_opt64] || 2483494 || 29908 || 5203 || [wiki:r2011compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:r2011runs_16 Run 16]

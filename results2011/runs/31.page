@@ -1,0 +1,23 @@
+
+== Run 31 ==
+
+ * Date: 20101114
+ * Hostname: clix
+ * Platform: fritzbox-7170
+ * XBX Version 2.0.2dev
+ * XBH Revision 01112
+ * Bootloader Revision 01119
+
+
+
+[wiki:runs_31#MeasureResults Measure Results] - [wiki:runs_31#TryResults Try Results] - [wiki:runs_31#DriftMeasurements Drift Measurements]
+
+=== Measure Results ===
+[[SortCSVsourceTable(source:page/trunk/results2011/measuresByRun/31.table)]]
+
+=== Try Results ===
+[[SortCSVsourceTable(source:page/trunk/results2011/triesByRun/31.table)]]
+
+=== Drift Measurements ===
+[[SortCSVsourceTable(source:page/trunk/results2011/driftByRun/31.table)]]
+  

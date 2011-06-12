@@ -1,0 +1,11 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20101017 || clix || [wiki:r2011compilernames mips-uclib-gcc -O0] || 4.2.1 || 12838097 || 643778 || 8105 (50335) || 16 (960) || 32 (2872) || 383(431) ||  || [wiki:r2011runs_25 Run 25]
+|20101103 || clix || [wiki:r2011compilernames mips-uclib-gcc -O0] || 4.2.1 || 10366270 || 641459 || 8105 (50335) || 16 (960) || 32 (2872) || 384(432) ||  || [wiki:r2011runs_32 Run 32]
+|20101017 || clix || [wiki:r2011compilernames mips-uclib-gcc -O1] || 4.2.1 || 4749370 || 313866 || 4009 (37102) || 16 (956) || 32 (2872) || 416(472) ||  || [wiki:r2011runs_25 Run 25]
+|20101103 || clix || [wiki:r2011compilernames mips-uclib-gcc -O1] || 4.2.1 || 4258139 || 311388 || 4009 (37102) || 16 (956) || 32 (2872) || 416(472) ||  || [wiki:r2011runs_32 Run 32]
+|20101017 || clix || [wiki:r2011compilernames mips-uclib-gcc -O2] || 4.2.1 || 7071843 || 451282 || 5641 (37118) || 16 (956) || 32 (2872) || 920(976) ||  || [wiki:r2011runs_25 Run 25]
+|20101103 || clix || [wiki:r2011compilernames mips-uclib-gcc -O2] || 4.2.1 || 6311068 || 448605 || 5641 (37118) || 16 (956) || 32 (2872) || 920(976) ||  || [wiki:r2011runs_32 Run 32]
+|20101017 || clix || [wiki:r2011compilernames mips-uclib-gcc -O3] || 4.2.1 || 7426453 || 451216 || 5518 (37051) || 16 (956) || 32 (2868) || 920(976) ||  || [wiki:r2011runs_25 Run 25]
+|20101103 || clix || [wiki:r2011compilernames mips-uclib-gcc -O3] || 4.2.1 || 6361259 || 449268 || 5518 (37051) || 16 (956) || 32 (2868) || 920(976) ||  || [wiki:r2011runs_32 Run 32]
+|20101017 || clix || [wiki:r2011compilernames mips-uclib-gcc -Os] || 4.2.1 || 7867135 || 455535 || 5649 (36831) || 16 (956) || 32 (2872) || 936(992) ||  || [wiki:r2011runs_25 Run 25]
+|20101103 || clix || [wiki:r2011compilernames mips-uclib-gcc -Os] || 4.2.1 || 6435194 || 453932 || 5649 (36831) || 16 (956) || 32 (2872) || 936(992) ||  || [wiki:r2011runs_32 Run 32]

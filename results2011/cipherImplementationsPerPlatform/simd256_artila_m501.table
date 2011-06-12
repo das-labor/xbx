@@ -1,0 +1,5 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:r2011platformsimplementations_artila_m501_simd256_sphlib-small sphlib-small] || 398003 || 32548 || 1440 || [wiki:r2011compilernames arm-artila-gcc -O2] || 3.3.2 || [wiki:r2011runs_27 Run 27]
+|[wiki:r2011platformsimplementations_artila_m501_simd256_opt opt] || 529313 || 17838 || 2012 || [wiki:r2011compilernames arm-artila-gcc -O3] || 3.3.2 || [wiki:r2011runs_27 Run 27]
+|[wiki:r2011platformsimplementations_artila_m501_simd256_sphlib sphlib] || 941839 || 56868 || 1763 || [wiki:r2011compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:r2011runs_16 Run 16]
+|[wiki:r2011platformsimplementations_artila_m501_simd256_ref ref] || 7197075 || 4838 || 3860 || [wiki:r2011compilernames arm-artila-gcc -O2] || 3.3.2 || [wiki:r2011runs_27 Run 27]

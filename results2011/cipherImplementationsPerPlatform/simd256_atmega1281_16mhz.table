@@ -1,0 +1,3 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:r2011platformsimplementations_atmega1281_16mhz_simd256_sphlib sphlib] || 3766022 || 91276 || 5074 || [wiki:r2011compilernames avr-gcc 1281 -O3] || 4.3.4 (GCC) || [wiki:r2011runs_2 Run 2]
+|[wiki:r2011platformsimplementations_atmega1281_16mhz_simd256_sphlib-small sphlib-small] || 4393243 || 48526 || 2982 || [wiki:r2011compilernames avr-gcc 1281 -O3] || 4.3.4 (GCC) || [wiki:r2011runs_2 Run 2]

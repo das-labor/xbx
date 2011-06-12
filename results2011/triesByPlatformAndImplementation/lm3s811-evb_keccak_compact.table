@@ -1,0 +1,5 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20110515 || clix || [wiki:r2011compilernames arm-elf-gcc -O1] || 4.3.2 (GCC) || 11905201 || 1022430 || 1336 (11348) || 0 (24) || 96 (2584) || 352(352) || Checksum failed || [wiki:r2011runs_33 Run 33]
+|20110515 || clix || [wiki:r2011compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || 11569050 || 1008886 || 1280 (10568) || 0 (24) || 96 (2584) || 348(348) || Checksum failed || [wiki:r2011runs_33 Run 33]
+|20110515 || clix || [wiki:r2011compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || 9784501 || 848892 || 1732 (12160) || 0 (24) || 96 (2584) || 376(376) || Checksum failed || [wiki:r2011runs_33 Run 33]
+|20110515 || clix || [wiki:r2011compilernames arm-elf-gcc -Os] || 4.3.2 (GCC) || 14146690 || 1223236 || 1184 (9944) || 0 (24) || 96 (2584) || 332(332) || Checksum failed || [wiki:r2011runs_33 Run 33]

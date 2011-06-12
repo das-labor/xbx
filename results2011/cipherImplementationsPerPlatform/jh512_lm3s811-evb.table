@@ -1,0 +1,7 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:r2011platformsimplementations_lm3s811-evb_jh512_opt32 opt32] || 523372 || 5588 || 472 || [wiki:r2011compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || [wiki:r2011runs_37 Run 37]
+|[wiki:r2011platformsimplementations_lm3s811-evb_jh512_bitslice32 bitslice32] || 593106 || 6228 || 432 || [wiki:r2011compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:r2011runs_37 Run 37]
+|[wiki:r2011platformsimplementations_lm3s811-evb_jh512_opt64 opt64] || 1373885 || 22692 || 916 || [wiki:r2011compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:r2011runs_37 Run 37]
+|[wiki:r2011platformsimplementations_lm3s811-evb_jh512_bitslice64 bitslice64] || 1592231 || 6840 || 660 || [wiki:r2011compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || [wiki:r2011runs_37 Run 37]
+|[wiki:r2011platformsimplementations_lm3s811-evb_jh512_opt8 opt8] || 7092404 || 2676 || 628 || [wiki:r2011compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:r2011runs_33 Run 33]
+|[wiki:r2011platformsimplementations_lm3s811-evb_jh512_ref ref] || 17213245 || 5820 || 948 || [wiki:r2011compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:r2011runs_37 Run 37]

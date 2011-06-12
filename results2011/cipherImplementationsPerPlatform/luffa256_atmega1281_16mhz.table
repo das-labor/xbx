@@ -1,0 +1,4 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:r2011platformsimplementations_atmega1281_16mhz_luffa256_avr avr] || 1166385 || 894 || 152 || [wiki:r2011compilernames avr-gcc 1281 -O2] || 4.3.4 (GCC) || [wiki:r2011runs_26 Run 26]
+|[wiki:r2011platformsimplementations_atmega1281_16mhz_luffa256_sphlib sphlib] || 4358654 || 20972 || 770 || [wiki:r2011compilernames avr-gcc 1281 -O3] || 4.3.4 (GCC) || [wiki:r2011runs_4 Run 4]
+|[wiki:r2011platformsimplementations_atmega1281_16mhz_luffa256_arm arm] || 4897922 || 44426 || 920 || [wiki:r2011compilernames avr-gcc 1281 -O3] || 4.3.4 (GCC) || [wiki:r2011runs_26 Run 26]

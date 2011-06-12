@@ -1,0 +1,6 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:r2011platformsimplementations_atmega1284p_16mhz_blake512_armcryptolib armcryptolib] || 7173305 || 6734 || 904 || [wiki:r2011compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || [wiki:r2011runs_38 Run 38]
+|[wiki:r2011platformsimplementations_atmega1284p_16mhz_blake512_ref ref] || 7394206 || 30032 || 1393 || [wiki:r2011compilernames avr-gcc 1284p -Os] || 4.3.4 (GCC) || [wiki:r2011runs_38 Run 38]
+|[wiki:r2011platformsimplementations_atmega1284p_16mhz_blake512_avrcryptolib avrcryptolib] || 7571084 || 7076 || 539 || [wiki:r2011compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || [wiki:r2011runs_38 Run 38]
+|[wiki:r2011platformsimplementations_atmega1284p_16mhz_blake512_sphlib sphlib] || 8873635 || 57822 || 2312 || [wiki:r2011compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || [wiki:r2011runs_38 Run 38]
+|[wiki:r2011platformsimplementations_atmega1284p_16mhz_blake512_sphlib-small sphlib-small] || 8873635 || 57822 || 2312 || [wiki:r2011compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || [wiki:r2011runs_38 Run 38]

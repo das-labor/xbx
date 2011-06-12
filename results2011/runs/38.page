@@ -1,0 +1,23 @@
+
+== Run 38 ==
+
+ * Date: 20110515
+ * Hostname: blix
+ * Platform: atmega1284p_16mhz
+ * XBX Version 2.0.2dev
+ * XBH Revision 01120
+ * Bootloader Revision 01391
+
+
+
+[wiki:runs_38#MeasureResults Measure Results] - [wiki:runs_38#TryResults Try Results] - [wiki:runs_38#DriftMeasurements Drift Measurements]
+
+=== Measure Results ===
+[[SortCSVsourceTable(source:page/trunk/results2011/measuresByRun/38.table)]]
+
+=== Try Results ===
+[[SortCSVsourceTable(source:page/trunk/results2011/triesByRun/38.table)]]
+
+=== Drift Measurements ===
+[[SortCSVsourceTable(source:page/trunk/results2011/driftByRun/38.table)]]
+  

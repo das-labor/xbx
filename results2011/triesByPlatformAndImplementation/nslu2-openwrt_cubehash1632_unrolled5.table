@@ -1,0 +1,6 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20101017 || clix || [wiki:r2011compilernames armeb-uclibc-gcc -O0] || 4.1.2 || 18233785 || 572033 || 4504 (26958) || 0 (388) || 32 (2860) || 188(196) || Checksum OK || [wiki:r2011runs_24 Run 24]
+|20101017 || clix || [wiki:r2011compilernames armeb-uclibc-gcc -O1] || 4.1.2 || 5817902 || 200315 || 2600 (18834) || 0 (384) || 32 (2860) || 324(340) || Checksum OK || [wiki:r2011runs_24 Run 24]
+|20101017 || clix || [wiki:r2011compilernames armeb-uclibc-gcc -O2] || 4.1.2 || 7066373 || 242725 || 3132 (19274) || 0 (384) || 32 (2860) || 436(444) || Checksum OK || [wiki:r2011runs_24 Run 24]
+|20101017 || clix || [wiki:r2011compilernames armeb-uclibc-gcc -O3] || 4.1.2 || 7177594 || 251270 || 4996 (22050) || 0 (384) || 32 (2856) || 880(896) || Checksum OK || [wiki:r2011runs_24 Run 24]
+|20101017 || clix || [wiki:r2011compilernames armeb-uclibc-gcc -Os] || 4.1.2 || 7471342 || 260580 || 3004 (18750) || 0 (384) || 32 (2860) || 444(460) || Checksum OK || [wiki:r2011runs_24 Run 24]

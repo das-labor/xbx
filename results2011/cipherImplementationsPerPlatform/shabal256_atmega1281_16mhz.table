@@ -1,0 +1,9 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:r2011platformsimplementations_atmega1281_16mhz_shabal256_tiny_avr8-fast tiny_avr8-fast] || 312048 || 980 || 272 || [wiki:r2011compilernames avr-gcc 1281 -Os] || 4.3.4 (GCC) || [wiki:r2011runs_26 Run 26]
+|[wiki:r2011platformsimplementations_atmega1281_16mhz_shabal256_tiny_avr8 tiny_avr8] || 334411 || 852 || 274 || [wiki:r2011compilernames avr-gcc 1281 -Os] || 4.3.4 (GCC) || [wiki:r2011runs_26 Run 26]
+|[wiki:r2011platformsimplementations_atmega1281_16mhz_shabal256_avrcryptolib_asm avrcryptolib_asm] || 374707 || 1900 || 298 || [wiki:r2011compilernames avr-gcc 1281 -Os] || 4.3.4 (GCC) || [wiki:r2011runs_26 Run 26]
+|[wiki:r2011platformsimplementations_atmega1281_16mhz_shabal256_sphlib sphlib] || 842111 || 78922 || 2702 || [wiki:r2011compilernames avr-gcc 1281 -O1] || 4.3.4 (GCC) || [wiki:r2011runs_4 Run 4]
+|[wiki:r2011platformsimplementations_atmega1281_16mhz_shabal256_tiny_portable tiny_portable] || 939699 || 2076 || 606 || [wiki:r2011compilernames avr-gcc 1281 -O1] || 4.3.4 (GCC) || [wiki:r2011runs_26 Run 26]
+|[wiki:r2011platformsimplementations_atmega1281_16mhz_shabal256_tiny_portable-lowram tiny_portable-lowram] || 981050 || 2062 || 360 || [wiki:r2011compilernames avr-gcc 1281 -O2] || 4.3.4 (GCC) || [wiki:r2011runs_26 Run 26]
+|[wiki:r2011platformsimplementations_atmega1281_16mhz_shabal256_armcryptolib armcryptolib] || 1614170 || 7860 || 337 || [wiki:r2011compilernames avr-gcc 1281 -O3] || 4.3.4 (GCC) || [wiki:r2011runs_26 Run 26]
+|[wiki:r2011platformsimplementations_atmega1281_16mhz_shabal256_avrcryptolib avrcryptolib] || 1614657 || 8308 || 337 || [wiki:r2011compilernames avr-gcc 1281 -O3] || 4.3.4 (GCC) || [wiki:r2011runs_26 Run 26]

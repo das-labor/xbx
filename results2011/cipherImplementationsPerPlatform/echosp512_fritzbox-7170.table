@@ -1,0 +1,5 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:r2011platformsimplementations_fritzbox-7170_echosp512_generic_opt32 generic_opt32] || 984674 || 30128 || 976 || [wiki:r2011compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:r2011runs_32 Run 32]
+|[wiki:r2011platformsimplementations_fritzbox-7170_echosp512_powerpc_pp32cv1 powerpc_pp32cv1] || 1643967 || 25033 || 820 || [wiki:r2011compilernames mips-uclib-gcc -O3] || 4.2.1 || [wiki:r2011runs_11 Run 11]
+|[wiki:r2011platformsimplementations_fritzbox-7170_echosp512_powerpc_pp32cv2 powerpc_pp32cv2] || 3351985 || 36012 || 904 || [wiki:r2011compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:r2011runs_10 Run 10]
+|[wiki:r2011platformsimplementations_fritzbox-7170_echosp512_generic_opt64 generic_opt64] || 6567946 || 53636 || 2751 || [wiki:r2011compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:r2011runs_32 Run 32]

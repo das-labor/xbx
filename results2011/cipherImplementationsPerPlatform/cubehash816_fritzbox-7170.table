@@ -1,0 +1,4 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:r2011platformsimplementations_fritzbox-7170_cubehash816_unrolled unrolled] || 416633 || 3480 || 472 || [wiki:r2011compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:r2011runs_10 Run 10]
+|[wiki:r2011platformsimplementations_fritzbox-7170_cubehash816_simple simple] || 626381 || 10379 || 1120 || [wiki:r2011compilernames mips-uclib-gcc -O3] || 4.2.1 || [wiki:r2011runs_11 Run 11]
+|[wiki:r2011platformsimplementations_fritzbox-7170_cubehash816_spec spec] || 2156663 || 3204 || 704 || [wiki:r2011compilernames mips-uclib-gcc -O2] || 4.2.1 || [wiki:r2011runs_12 Run 12]

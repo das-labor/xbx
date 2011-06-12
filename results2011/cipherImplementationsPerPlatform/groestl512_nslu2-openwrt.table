@@ -1,0 +1,4 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:r2011platformsimplementations_nslu2-openwrt_groestl512_opt32 opt32] || 673828 || 27968 || 1124 || [wiki:r2011compilernames armeb-uclibc-gcc -Os] || 4.1.2 || [wiki:r2011runs_35 Run 35]
+|[wiki:r2011platformsimplementations_nslu2-openwrt_groestl512_sphlib-adapted sphlib-adapted] || 1296118 || 58960 || 3064 || [wiki:r2011compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:r2011runs_35 Run 35]
+|[wiki:r2011platformsimplementations_nslu2-openwrt_groestl512_armcryptolib armcryptolib] || 22116404 || 4264 || 1044 || [wiki:r2011compilernames armeb-uclibc-gcc -O3] || 4.1.2 || [wiki:r2011runs_35 Run 35]

@@ -1,0 +1,7 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:r2011platformsimplementations_nslu2-openwrt_echo512_sphlib-small sphlib-small] || 662972 || 7016 || 776 || [wiki:r2011compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:r2011runs_20 Run 20]
+|[wiki:r2011platformsimplementations_nslu2-openwrt_echo512_sphlib sphlib] || 710353 || 20136 || 1136 || [wiki:r2011compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:r2011runs_18 Run 18]
+|[wiki:r2011platformsimplementations_nslu2-openwrt_echo512_generic_opt32 generic_opt32] || 773927 || 30768 || 2852 || [wiki:r2011compilernames armeb-uclibc-gcc -O3] || 4.1.2 || [wiki:r2011runs_24 Run 24]
+|[wiki:r2011platformsimplementations_nslu2-openwrt_echo512_powerpc_pp32cv2 powerpc_pp32cv2] || 867559 || 38280 || 4672 || [wiki:r2011compilernames armeb-uclibc-gcc -O3] || 4.1.2 || [wiki:r2011runs_19 Run 19]
+|[wiki:r2011platformsimplementations_nslu2-openwrt_echo512_powerpc_pp32cv1 powerpc_pp32cv1] || 1001074 || 23820 || 1416 || [wiki:r2011compilernames armeb-uclibc-gcc -O3] || 4.1.2 || [wiki:r2011runs_17 Run 17]
+|[wiki:r2011platformsimplementations_nslu2-openwrt_echo512_generic_opt64 generic_opt64] || 1286592 || 36004 || 1952 || [wiki:r2011compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:r2011runs_24 Run 24]

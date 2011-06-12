@@ -1,0 +1,7 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:r2011platformsimplementations_artila_m501_jh512_opt32 opt32] || 636503 || 7112 || 392 || [wiki:r2011compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:r2011runs_34 Run 34]
+|[wiki:r2011platformsimplementations_artila_m501_jh512_bitslice32 bitslice32] || 699435 || 4692 || 436 || [wiki:r2011compilernames arm-artila-gcc -Os] || 3.3.2 || [wiki:r2011runs_34 Run 34]
+|[wiki:r2011platformsimplementations_artila_m501_jh512_opt64 opt64] || 1077131 || 13484 || 892 || [wiki:r2011compilernames arm-artila-gcc -Os] || 3.3.2 || [wiki:r2011runs_34 Run 34]
+|[wiki:r2011platformsimplementations_artila_m501_jh512_bitslice64 bitslice64] || 1585496 || 7816 || 580 || [wiki:r2011compilernames arm-artila-gcc -Os] || 3.3.2 || [wiki:r2011runs_34 Run 34]
+|[wiki:r2011platformsimplementations_artila_m501_jh512_opt8 opt8] || 7407506 || 5412 || 728 || [wiki:r2011compilernames arm-artila-gcc -O3] || 3.3.2 || [wiki:r2011runs_34 Run 34]
+|[wiki:r2011platformsimplementations_artila_m501_jh512_ref ref] || 19206911 || 3340 || 1536 || [wiki:r2011compilernames arm-artila-gcc -O2] || 3.3.2 || [wiki:r2011runs_34 Run 34]

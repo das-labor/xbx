@@ -1,0 +1,7 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:r2011platformsimplementations_artila_m501_shabal256_tiny_armel-mixed tiny_armel-mixed] || 66330 || 524 || 572 || [wiki:r2011compilernames arm-artila-gcc -O3] || 3.3.2 || [wiki:r2011runs_27 Run 27]
+|[wiki:r2011platformsimplementations_artila_m501_shabal256_sphlib sphlib] || 69649 || 17288 || 668 || [wiki:r2011compilernames arm-artila-gcc -Os] || 3.3.2 || [wiki:r2011runs_34 Run 34]
+|[wiki:r2011platformsimplementations_artila_m501_shabal256_tiny_portable tiny_portable] || 93510 || 788 || 548 || [wiki:r2011compilernames arm-artila-gcc -O3] || 3.3.2 || [wiki:r2011runs_27 Run 27]
+|[wiki:r2011platformsimplementations_artila_m501_shabal256_tiny_armel-thumb tiny_armel-thumb] || 94050 || 392 || 564 || [wiki:r2011compilernames arm-artila-gcc -O3] || 3.3.2 || [wiki:r2011runs_34 Run 34]
+|[wiki:r2011platformsimplementations_artila_m501_shabal256_tiny_portable-lowram tiny_portable-lowram] || 103185 || 788 || 300 || [wiki:r2011compilernames arm-artila-gcc -O3] || 3.3.2 || [wiki:r2011runs_27 Run 27]
+|[wiki:r2011platformsimplementations_artila_m501_shabal256_armcryptolib armcryptolib] || 124121 || 3164 || 340 || [wiki:r2011compilernames arm-artila-gcc -O2] || 3.3.2 || [wiki:r2011runs_27 Run 27]

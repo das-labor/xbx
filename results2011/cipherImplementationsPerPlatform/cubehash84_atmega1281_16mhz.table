@@ -1,0 +1,4 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:r2011platformsimplementations_atmega1281_16mhz_cubehash84_unrolled unrolled] || 34728920 || 11230 || 556 || [wiki:r2011compilernames avr-gcc 1281 -O3] || 4.3.4 (GCC) || [wiki:r2011runs_3 Run 3]
+|[wiki:r2011platformsimplementations_atmega1281_16mhz_cubehash84_simple simple] || 44240770 || 41138 || 992 || [wiki:r2011compilernames avr-gcc 1281 -O3] || 4.3.4 (GCC) || [wiki:r2011runs_3 Run 3]
+|[wiki:r2011platformsimplementations_atmega1281_16mhz_cubehash84_spec spec] || 58509241 || 5294 || 668 || [wiki:r2011compilernames avr-gcc 1281 -O2] || 4.3.4 (GCC) || [wiki:r2011runs_4 Run 4]

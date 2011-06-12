@@ -1,0 +1,3 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:r2011platformsimplementations_atmega1284p_16mhz_shavite3512_low-mem low-mem] || 1978336 || 88464 || 6035 || [wiki:r2011compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || [wiki:r2011runs_28 Run 28]
+|[wiki:r2011platformsimplementations_atmega1284p_16mhz_shavite3512_lower-mem lower-mem] || 2224458 || 50220 || 5715 || [wiki:r2011compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || [wiki:r2011runs_28 Run 28]

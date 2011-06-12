@@ -1,0 +1,11 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:r2011platformsimplementations_artila_m501_bmw256_optc04 optc04] || 58838 || 11124 || 752 || [wiki:r2011compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:r2011runs_34 Run 34]
+|[wiki:r2011platformsimplementations_artila_m501_bmw256_armcryptolib-speed armcryptolib-speed] || 59411 || 9596 || 1052 || [wiki:r2011compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:r2011runs_34 Run 34]
+|[wiki:r2011platformsimplementations_artila_m501_bmw256_optc03 optc03] || 60311 || 11248 || 808 || [wiki:r2011compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:r2011runs_27 Run 27]
+|[wiki:r2011platformsimplementations_artila_m501_bmw256_sphlib-small sphlib-small] || 64226 || 15612 || 688 || [wiki:r2011compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:r2011runs_27 Run 27]
+|[wiki:r2011platformsimplementations_artila_m501_bmw256_sphlib sphlib] || 64406 || 29048 || 640 || [wiki:r2011compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:r2011runs_27 Run 27]
+|[wiki:r2011platformsimplementations_artila_m501_bmw256_optc02 optc02] || 76556 || 17496 || 904 || [wiki:r2011compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:r2011runs_15 Run 15]
+|[wiki:r2011platformsimplementations_artila_m501_bmw256_optc01 optc01] || 78491 || 76540 || 2608 || [wiki:r2011compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:r2011runs_16 Run 16]
+|[wiki:r2011platformsimplementations_artila_m501_bmw256_ref_xbx-pruned ref_xbx-pruned] || 85365 || 13200 || 820 || [wiki:r2011compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:r2011runs_14 Run 14]
+|[wiki:r2011platformsimplementations_artila_m501_bmw256_ref ref] || 86423 || 14680 || 1220 || [wiki:r2011compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:r2011runs_13 Run 13]
+|[wiki:r2011platformsimplementations_artila_m501_bmw256_armcryptolib armcryptolib] || 117315 || 3784 || 584 || [wiki:r2011compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:r2011runs_34 Run 34]

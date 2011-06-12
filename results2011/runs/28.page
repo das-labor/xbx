@@ -1,0 +1,23 @@
+
+== Run 28 ==
+
+ * Date: 20101114
+ * Hostname: clix
+ * Platform: atmega1284p_16mhz
+ * XBX Version 2.0.2dev
+ * XBH Revision 01120
+ * Bootloader Revision 01039
+
+
+
+[wiki:runs_28#MeasureResults Measure Results] - [wiki:runs_28#TryResults Try Results] - [wiki:runs_28#DriftMeasurements Drift Measurements]
+
+=== Measure Results ===
+[[SortCSVsourceTable(source:page/trunk/results2011/measuresByRun/28.table)]]
+
+=== Try Results ===
+[[SortCSVsourceTable(source:page/trunk/results2011/triesByRun/28.table)]]
+
+=== Drift Measurements ===
+[[SortCSVsourceTable(source:page/trunk/results2011/driftByRun/28.table)]]
+  

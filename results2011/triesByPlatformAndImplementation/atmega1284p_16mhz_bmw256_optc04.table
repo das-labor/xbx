@@ -1,0 +1,11 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20100801 || blix || [wiki:r2011compilernames avr-gcc 1284p -O0] || 4.3.4 (GCC) ||  ||  || 64754 (84630) || 64 (732) || 0 (2415) || unk(unk) || error || [wiki:r2011runs_21 Run 21]
+|20100802 || blix || [wiki:r2011compilernames avr-gcc 1284p -O0] || 4.3.4 (GCC) ||  ||  || 64754 (84630) || 64 (732) || 0 (2415) || unk(unk) || error || [wiki:r2011runs_22 Run 22]
+|20100801 || blix || [wiki:r2011compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || 28078905 || 1577693 || 72060 (81190) || 64 (476) || 0 (2415) || 2202(2202) || Checksum OK || [wiki:r2011runs_21 Run 21]
+|20100802 || blix || [wiki:r2011compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || 28078911 || 1577693 || 72060 (81190) || 64 (476) || 0 (2415) || 2202(2202) || Checksum OK || [wiki:r2011runs_22 Run 22]
+|20100801 || blix || [wiki:r2011compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || 27644317 || 1598059 || 71136 (79382) || 64 (476) || 0 (2415) || 1871(1871) || Checksum OK || [wiki:r2011runs_21 Run 21]
+|20100802 || blix || [wiki:r2011compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || 27644323 || 1598060 || 71136 (79382) || 64 (476) || 0 (2415) || 1871(1871) || Checksum OK || [wiki:r2011runs_22 Run 22]
+|20100801 || blix || [wiki:r2011compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || 27644318 || 1598059 || 71136 (79404) || 64 (476) || 0 (2415) || 1871(1871) || Checksum OK || [wiki:r2011runs_21 Run 21]
+|20100802 || blix || [wiki:r2011compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || 27644323 || 1598060 || 71136 (79404) || 64 (476) || 0 (2415) || 1871(1871) || Checksum OK || [wiki:r2011runs_22 Run 22]
+|20100801 || blix || [wiki:r2011compilernames avr-gcc 1284p -Os] || 4.3.4 (GCC) || 27941844 || 1602508 || 67444 (75150) || 64 (476) || 0 (2415) || 1779(1779) || Checksum OK || [wiki:r2011runs_21 Run 21]
+|20100802 || blix || [wiki:r2011compilernames avr-gcc 1284p -Os] || 4.3.4 (GCC) || 27941851 || 1602508 || 67444 (75150) || 64 (476) || 0 (2415) || 1779(1779) || Checksum OK || [wiki:r2011runs_22 Run 22]

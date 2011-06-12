@@ -1,0 +1,13 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:r2011platformsimplementations_atmega1281_16mhz_bmw256_avrcryptolib_asm avrcryptolib_asm] || 809047 || 11776 || 3166 || [wiki:r2011compilernames avr-gcc 1281 -Os] || 4.3.4 (GCC) || [wiki:r2011runs_1 Run 1]
+|[wiki:r2011platformsimplementations_atmega1281_16mhz_bmw256_avrcryptolib_tinyasm avrcryptolib_tinyasm] || 1369952 || 10092 || 3162 || [wiki:r2011compilernames avr-gcc 1281 -Os] || 4.3.4 (GCC) || [wiki:r2011runs_1 Run 1]
+|[wiki:r2011platformsimplementations_atmega1281_16mhz_bmw256_sphlib sphlib] || 1516777 || 34870 || 1034 || [wiki:r2011compilernames avr-gcc 1281 -O1] || 4.3.4 (GCC) || [wiki:r2011runs_2 Run 2]
+|[wiki:r2011platformsimplementations_atmega1281_16mhz_bmw256_sphlib-small sphlib-small] || 1549926 || 35124 || 1346 || [wiki:r2011compilernames avr-gcc 1281 -O1] || 4.3.4 (GCC) || [wiki:r2011runs_2 Run 2]
+|[wiki:r2011platformsimplementations_atmega1281_16mhz_bmw256_optc02 optc02] || 1571052 || 103924 || 1824 || [wiki:r2011compilernames avr-gcc 1281 -O1] || 4.3.4 (GCC) || [wiki:r2011runs_2 Run 2]
+|[wiki:r2011platformsimplementations_atmega1281_16mhz_bmw256_optc04 optc04] || 1577681 || 72124 || 2266 || [wiki:r2011compilernames avr-gcc 1281 -O1] || 4.3.4 (GCC) || [wiki:r2011runs_2 Run 2]
+|[wiki:r2011platformsimplementations_atmega1281_16mhz_bmw256_optc03 optc03] || 1579105 || 72132 || 2250 || [wiki:r2011compilernames avr-gcc 1281 -O1] || 4.3.4 (GCC) || [wiki:r2011runs_2 Run 2]
+|[wiki:r2011platformsimplementations_atmega1281_16mhz_bmw256_armcryptolib-speed armcryptolib-speed] || 1625579 || 49538 || 3889 || [wiki:r2011compilernames avr-gcc 1281 -O2] || 4.3.4 (GCC) || [wiki:r2011runs_1 Run 1]
+|[wiki:r2011platformsimplementations_atmega1281_16mhz_bmw256_armcryptolib armcryptolib] || 1780500 || 21074 || 3467 || [wiki:r2011compilernames avr-gcc 1281 -O2] || 4.3.4 (GCC) || [wiki:r2011runs_1 Run 1]
+|[wiki:r2011platformsimplementations_atmega1281_16mhz_bmw256_avrcryptolib avrcryptolib] || 2077504 || 27382 || 3635 || [wiki:r2011compilernames avr-gcc 1281 -O3] || 4.3.4 (GCC) || [wiki:r2011runs_1 Run 1]
+|[wiki:r2011platformsimplementations_atmega1281_16mhz_bmw256_ref_xbx-pruned ref_xbx-pruned] || 2264751 || 19182 || 998 || [wiki:r2011compilernames avr-gcc 1281 -O2] || 4.3.4 (GCC) || [wiki:r2011runs_2 Run 2]
+|[wiki:r2011platformsimplementations_atmega1281_16mhz_bmw256_ref ref] || 2265850 || 110482 || 1830 || [wiki:r2011compilernames avr-gcc 1281 -O2] || 4.3.4 (GCC) || [wiki:r2011runs_2 Run 2]

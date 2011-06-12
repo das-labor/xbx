@@ -1,0 +1,6 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20110515 || ultrion || [wiki:r2011compilernames armeb-uclibc-gcc -O0] || 4.1.2 || 71498589 || 4915663 || 10464 (33506) || 0 (388) || 32 (2860) || 360(368) || Checksum OK || [wiki:r2011runs_35 Run 35]
+|20110515 || ultrion || [wiki:r2011compilernames armeb-uclibc-gcc -O1] || 4.1.2 || 12773104 || 871865 || 4680 (21438) || 0 (384) || 32 (2860) || 328(344) || Checksum OK || [wiki:r2011runs_35 Run 35]
+|20110515 || ultrion || [wiki:r2011compilernames armeb-uclibc-gcc -O2] || 4.1.2 || 12125560 || 823237 || 4784 (21386) || 0 (384) || 32 (2860) || 376(384) || Checksum OK || [wiki:r2011runs_35 Run 35]
+|20110515 || ultrion || [wiki:r2011compilernames armeb-uclibc-gcc -O3] || 4.1.2 || 11730600 || 797850 || 9556 (27214) || 0 (384) || 32 (2856) || 600(616) || Checksum OK || [wiki:r2011runs_35 Run 35]
+|20110515 || ultrion || [wiki:r2011compilernames armeb-uclibc-gcc -Os] || 4.1.2 || 10653682 || 724385 || 4504 (20682) || 0 (384) || 32 (2860) || 372(388) || Checksum OK || [wiki:r2011runs_35 Run 35]

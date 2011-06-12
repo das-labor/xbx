@@ -1,0 +1,6 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:r2011platformsimplementations_atmega1284p_16mhz_keccakc512_avr8asm avr8asm] || 1713242 || 1848 || 276 || [wiki:r2011compilernames avr-gcc 1284p -Os] || 4.3.4 (GCC) || [wiki:r2011runs_38 Run 38]
+|[wiki:r2011platformsimplementations_atmega1284p_16mhz_keccakc512_avr8 avr8] || 2304849 || 2766 || 285 || [wiki:r2011compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || [wiki:r2011runs_38 Run 38]
+|[wiki:r2011platformsimplementations_atmega1284p_16mhz_keccakc512_compact8 compact8] || 9685767 || 3512 || 604 || [wiki:r2011compilernames avr-gcc 1284p -Os] || 4.3.4 (GCC) || [wiki:r2011runs_38 Run 38]
+|[wiki:r2011platformsimplementations_atmega1284p_16mhz_keccakc512_simple simple] || 10322446 || 49516 || 1679 || [wiki:r2011compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || [wiki:r2011runs_38 Run 38]
+|[wiki:r2011platformsimplementations_atmega1284p_16mhz_keccakc512_compact compact] || 11007927 || 4098 || 792 || [wiki:r2011compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || [wiki:r2011runs_38 Run 38]

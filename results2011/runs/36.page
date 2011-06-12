@@ -1,0 +1,23 @@
+
+== Run 36 ==
+
+ * Date: 20110515
+ * Hostname: blix
+ * Platform: fritzbox-7170
+ * XBX Version 2.0.2dev
+ * XBH Revision 01423
+ * Bootloader Revision 01425
+
+
+
+[wiki:runs_36#MeasureResults Measure Results] - [wiki:runs_36#TryResults Try Results] - [wiki:runs_36#DriftMeasurements Drift Measurements]
+
+=== Measure Results ===
+[[SortCSVsourceTable(source:page/trunk/results2011/measuresByRun/36.table)]]
+
+=== Try Results ===
+[[SortCSVsourceTable(source:page/trunk/results2011/triesByRun/36.table)]]
+
+=== Drift Measurements ===
+[[SortCSVsourceTable(source:page/trunk/results2011/driftByRun/36.table)]]
+  

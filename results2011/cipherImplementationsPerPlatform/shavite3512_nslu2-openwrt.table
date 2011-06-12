@@ -1,0 +1,7 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:r2011platformsimplementations_nslu2-openwrt_shavite3512_IntelL1Cache IntelL1Cache] || 394661 || 40988 || 1679 || [wiki:r2011compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:r2011runs_30 Run 30]
+|[wiki:r2011platformsimplementations_nslu2-openwrt_shavite3512_low-mem low-mem] || 401959 || 31588 || 1268 || [wiki:r2011compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:r2011runs_30 Run 30]
+|[wiki:r2011platformsimplementations_nslu2-openwrt_shavite3512_lower-mem lower-mem] || 475791 || 25464 || 2008 || [wiki:r2011compilernames armeb-uclibc-gcc -O2] || 4.1.2 || [wiki:r2011runs_30 Run 30]
+|[wiki:r2011platformsimplementations_nslu2-openwrt_shavite3512_8-bit 8-bit] || 1001939 || 52908 || 3024 || [wiki:r2011compilernames armeb-uclibc-gcc -O3] || 4.1.2 || [wiki:r2011runs_30 Run 30]
+|[wiki:r2011platformsimplementations_nslu2-openwrt_shavite3512_no-salt no-salt] || 1392194 || 83228 || 5868 || [wiki:r2011compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:r2011runs_30 Run 30]
+|[wiki:r2011platformsimplementations_nslu2-openwrt_shavite3512_different-order different-order] || 1482368 || 85880 || 4720 || [wiki:r2011compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:r2011runs_30 Run 30]

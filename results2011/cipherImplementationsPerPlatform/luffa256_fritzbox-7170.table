@@ -1,0 +1,5 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:r2011platformsimplementations_fritzbox-7170_luffa256_thomaz_basic thomaz_basic] || 195517 || 4298 || 208 || [wiki:r2011compilernames mips-uclib-gcc -O3] || 4.2.1 || [wiki:r2011runs_32 Run 32]
+|[wiki:r2011platformsimplementations_fritzbox-7170_luffa256_opt32 opt32] || 202579 || 21404 || 988 || [wiki:r2011compilernames mips-uclib-gcc -O3] || 4.2.1 || [wiki:r2011runs_9 Run 9]
+|[wiki:r2011platformsimplementations_fritzbox-7170_luffa256_sphlib sphlib] || 206793 || 7862 || 492 || [wiki:r2011compilernames mips-uclib-gcc -O3] || 4.2.1 || [wiki:r2011runs_31 Run 31]
+|[wiki:r2011platformsimplementations_fritzbox-7170_luffa256_arm arm] || 377771 || 15175 || 828 || [wiki:r2011compilernames mips-uclib-gcc -Os] || 4.2.1 || [wiki:r2011runs_32 Run 32]
