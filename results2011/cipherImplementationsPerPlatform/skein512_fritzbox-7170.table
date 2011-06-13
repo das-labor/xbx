@@ -1,0 +1,3 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:r2011platformsimplementations_fritzbox-7170_skein512_opt opt] || 1672614 || 29761 || 3308 || [wiki:r2011compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:r2011runs_36 Run 36]
+|[wiki:r2011platformsimplementations_fritzbox-7170_skein512_armcryptolib armcryptolib] || 34290868 || 4905 || 952 || [wiki:r2011compilernames mips-uclib-gcc -O3] || 4.2.1 || [wiki:r2011runs_36 Run 36]

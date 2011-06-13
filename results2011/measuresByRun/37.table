@@ -11,3 +11,4 @@
 |[wiki:r2011ciphers_sha1 sha1] || [wiki:r2011platformsimplementations_lm3s811-evb_sha1_avrcryptolib avrcryptolib] || 22270 || 2791 || 690 || 386 || 364 || 353 || 343 || [wiki:r2011measureDetailsPage_37_sha1_avrcryptolib Details]
 |[wiki:r2011ciphers_sha256 sha256] || [wiki:r2011platformsimplementations_lm3s811-evb_sha256_sphlib sphlib] || 3239 || 413 || 91 || 47 || 44 || 42 || 41 || [wiki:r2011measureDetailsPage_37_sha256_sphlib Details]
 |[wiki:r2011ciphers_sha512 sha512] || [wiki:r2011platformsimplementations_lm3s811-evb_sha512_sphlib-small sphlib-small] || 23165 || 2904 || 358 || 218 || 195 || 184 || 173 || [wiki:r2011measureDetailsPage_37_sha512_sphlib-small Details]
+|[wiki:r2011ciphers_skein512 skein512] || [wiki:r2011platformsimplementations_lm3s811-evb_skein512_armcryptolib armcryptolib] || 88835 || 11118 || 1393 || 576 || 517 || 488 || 459 || [wiki:r2011measureDetailsPage_37_skein512_armcryptolib Details]

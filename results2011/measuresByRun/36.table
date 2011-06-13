@@ -11,3 +11,4 @@
 |[wiki:r2011ciphers_sha1 sha1] || [wiki:r2011platformsimplementations_fritzbox-7170_sha1_avrcryptolib avrcryptolib] || 36623 || 4623 || 755 || 255 || 220 || 203 || 185 || [wiki:r2011measureDetailsPage_36_sha1_avrcryptolib Details]
 |[wiki:r2011ciphers_sha256 sha256] || [wiki:r2011platformsimplementations_fritzbox-7170_sha256_sphlib-small sphlib-small] || 45540 || 5903 || 808 || 161 || 115 || 91 || 68 || [wiki:r2011measureDetailsPage_36_sha256_sphlib-small Details]
 |[wiki:r2011ciphers_sha512 sha512] || [wiki:r2011platformsimplementations_fritzbox-7170_sha512_sphlib sphlib] || 56418 || 7195 || 906 || 237 || 180 || 152 || 124 || [wiki:r2011measureDetailsPage_36_sha512_sphlib Details]
+|[wiki:r2011ciphers_skein512 skein512] || [wiki:r2011platformsimplementations_fritzbox-7170_skein512_opt opt] || 183420 || 22954 || 2872 || 1255 || 1131 || 1077 || 1024 || [wiki:r2011measureDetailsPage_36_skein512_opt Details]

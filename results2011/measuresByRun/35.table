@@ -8,3 +8,4 @@
 |[wiki:r2011ciphers_jh512 jh512] || [wiki:r2011platformsimplementations_nslu2-openwrt_jh512_opt32 opt32] || 42061 || 8101 || 1003 || 426 || 384 || 363 || 342 || [wiki:r2011measureDetailsPage_35_jh512_opt32 Details]
 |[wiki:r2011ciphers_sha256 sha256] || [wiki:r2011platformsimplementations_nslu2-openwrt_sha256_sphlib-small sphlib-small] || 22893 || 2905 || 416 || 98 || 76 || 64 || 53 || [wiki:r2011measureDetailsPage_35_sha256_sphlib-small Details]
 |[wiki:r2011ciphers_sha512 sha512] || [wiki:r2011platformsimplementations_nslu2-openwrt_sha512_sphlib-small sphlib-small] || 44106 || 5547 || 695 || 277 || 233 || 211 || 190 || [wiki:r2011measureDetailsPage_35_sha512_sphlib-small Details]
+|[wiki:r2011ciphers_skein512 skein512] || [wiki:r2011platformsimplementations_nslu2-openwrt_skein512_opt opt] || 73865 || 9250 || 1156 || 281 || 217 || 184 || 152 || [wiki:r2011measureDetailsPage_35_skein512_opt Details]

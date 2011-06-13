@@ -1,0 +1,2 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:r2011platformsimplementations_nslu2-openwrt_skein512_opt opt] || 299815 || 28764 || 5384 || [wiki:r2011compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:r2011runs_35 Run 35]

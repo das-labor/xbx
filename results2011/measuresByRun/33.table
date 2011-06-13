@@ -41,3 +41,5 @@
 |[wiki:r2011ciphers_shabal256 shabal256] || [wiki:r2011platformsimplementations_lm3s811-evb_shabal256_sphlib sphlib] || 7184 || 899 || 143 || 42 || 35 || 31 || 28 || [wiki:r2011measureDetailsPage_33_shabal256_sphlib Details]
 |[wiki:r2011ciphers_shabal512 shabal512] || [wiki:r2011platformsimplementations_lm3s811-evb_shabal512_sphlib sphlib] || 7242 || 906 || 144 || 42 || 35 || 31 || 28 || [wiki:r2011measureDetailsPage_33_shabal512_sphlib Details]
 |[wiki:r2011ciphers_simd256 simd256] || [wiki:r2011platformsimplementations_lm3s811-evb_simd256_sphlib sphlib] || 12224 || 3013 || 375 || 209 || 197 || 191 || 185 || [wiki:r2011measureDetailsPage_33_simd256_sphlib Details]
+|[wiki:r2011ciphers_skein256 skein256] || [wiki:r2011platformsimplementations_lm3s811-evb_skein256_armcryptolib armcryptolib] || 45477 || 5698 || 946 || 526 || 496 || 481 || 466 || [wiki:r2011measureDetailsPage_33_skein256_armcryptolib Details]
+|[wiki:r2011ciphers_skein512 skein512] || [wiki:r2011platformsimplementations_lm3s811-evb_skein512_armcryptolib armcryptolib] || 88835 || 11118 || 1393 || 576 || 517 || 488 || 459 || [wiki:r2011measureDetailsPage_33_skein512_armcryptolib Details]
