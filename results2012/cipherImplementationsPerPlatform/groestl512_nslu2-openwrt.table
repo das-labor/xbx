@@ -1,6 +1,6 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:r2011platformsimplementations_nslu2-openwrt_groestl512_opt32 opt32] || 671750 || 27968 || 1124 || [wiki:r2011compilernames armeb-uclibc-gcc -Os] || 4.1.2 || [wiki:r2011runs_307 Run 307]
-|[wiki:r2011platformsimplementations_nslu2-openwrt_groestl512_sphlib sphlib] || 1236900 || 53948 || 3160 || [wiki:r2011compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:r2011runs_307 Run 307]
-|[wiki:r2011platformsimplementations_nslu2-openwrt_groestl512_sphlib-small sphlib-small] || 1266160 || 13936 || 2620 || [wiki:r2011compilernames armeb-uclibc-gcc -Os] || 4.1.2 || [wiki:r2011runs_307 Run 307]
-|[wiki:r2011platformsimplementations_nslu2-openwrt_groestl512_sphlib-adapted sphlib-adapted] || 1320773 || 58960 || 3064 || [wiki:r2011compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:r2011runs_308 Run 308]
-|[wiki:r2011platformsimplementations_nslu2-openwrt_groestl512_armcryptolib armcryptolib] || 22114758 || 4264 || 1044 || [wiki:r2011compilernames armeb-uclibc-gcc -O3] || 4.1.2 || [wiki:r2011runs_308 Run 308]
+|[wiki:r2012platformsimplementations_nslu2-openwrt_groestl512_opt32 opt32] || 671750 || 27968 || 1124 || [wiki:r2012compilernames armeb-uclibc-gcc -Os] || 4.1.2 || [wiki:r2012runs_307 Run 307]
+|[wiki:r2012platformsimplementations_nslu2-openwrt_groestl512_sphlib sphlib] || 1236900 || 53948 || 3160 || [wiki:r2012compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:r2012runs_307 Run 307]
+|[wiki:r2012platformsimplementations_nslu2-openwrt_groestl512_sphlib-small sphlib-small] || 1266160 || 13936 || 2620 || [wiki:r2012compilernames armeb-uclibc-gcc -Os] || 4.1.2 || [wiki:r2012runs_307 Run 307]
+|[wiki:r2012platformsimplementations_nslu2-openwrt_groestl512_sphlib-adapted sphlib-adapted] || 1320773 || 58960 || 3064 || [wiki:r2012compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:r2012runs_308 Run 308]
+|[wiki:r2012platformsimplementations_nslu2-openwrt_groestl512_armcryptolib armcryptolib] || 22114758 || 4264 || 1044 || [wiki:r2012compilernames armeb-uclibc-gcc -O3] || 4.1.2 || [wiki:r2012runs_308 Run 308]

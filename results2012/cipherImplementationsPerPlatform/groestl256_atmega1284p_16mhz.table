@@ -1,5 +1,5 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:r2011platformsimplementations_atmega1284p_16mhz_groestl256_8bit_c 8bit_c] || 1206009 || 9506 || 1013 || [wiki:r2011compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || [wiki:r2011runs_302 Run 302]
-|[wiki:r2011platformsimplementations_atmega1284p_16mhz_groestl256_sphlib-small sphlib-small] || 2396312 || 29468 || 9142 || [wiki:r2011compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || [wiki:r2011runs_302 Run 302]
-|[wiki:r2011platformsimplementations_atmega1284p_16mhz_groestl256_avrcryptolib avrcryptolib] || 18273031 || 4460 || 439 || [wiki:r2011compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || [wiki:r2011runs_302 Run 302]
-|[wiki:r2011platformsimplementations_atmega1284p_16mhz_groestl256_armcryptolib armcryptolib] || 19403928 || 4600 || 737 || [wiki:r2011compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || [wiki:r2011runs_301 Run 301]
+|[wiki:r2012platformsimplementations_atmega1284p_16mhz_groestl256_8bit_c 8bit_c] || 1206009 || 9506 || 1013 || [wiki:r2012compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || [wiki:r2012runs_302 Run 302]
+|[wiki:r2012platformsimplementations_atmega1284p_16mhz_groestl256_sphlib-small sphlib-small] || 2396312 || 29468 || 9142 || [wiki:r2012compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || [wiki:r2012runs_302 Run 302]
+|[wiki:r2012platformsimplementations_atmega1284p_16mhz_groestl256_avrcryptolib avrcryptolib] || 18273031 || 4460 || 439 || [wiki:r2012compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || [wiki:r2012runs_302 Run 302]
+|[wiki:r2012platformsimplementations_atmega1284p_16mhz_groestl256_armcryptolib armcryptolib] || 19403928 || 4600 || 737 || [wiki:r2012compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || [wiki:r2012runs_301 Run 301]

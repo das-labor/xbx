@@ -1,4 +1,4 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:r2011platformsimplementations_artila_m501_skein512256_sphlib-small sphlib-small] || 266546 || 10244 || 676 || [wiki:r2011compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:r2011runs_312 Run 312]
-|[wiki:r2011platformsimplementations_artila_m501_skein512256_sphlib sphlib] || 931534 || 46820 || 460 || [wiki:r2011compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:r2011runs_312 Run 312]
-|[wiki:r2011platformsimplementations_artila_m501_skein512256_opt opt] || 978266 || 54564 || 772 || [wiki:r2011compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:r2011runs_313 Run 313]
+|[wiki:r2012platformsimplementations_artila_m501_skein512256_sphlib-small sphlib-small] || 266546 || 10244 || 676 || [wiki:r2012compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:r2012runs_312 Run 312]
+|[wiki:r2012platformsimplementations_artila_m501_skein512256_sphlib sphlib] || 931534 || 46820 || 460 || [wiki:r2012compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:r2012runs_312 Run 312]
+|[wiki:r2012platformsimplementations_artila_m501_skein512256_opt opt] || 978266 || 54564 || 772 || [wiki:r2012compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:r2012runs_313 Run 313]

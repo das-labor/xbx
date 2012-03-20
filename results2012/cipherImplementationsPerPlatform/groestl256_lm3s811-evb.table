@@ -1,6 +1,6 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:r2011platformsimplementations_lm3s811-evb_groestl256_sphlib-adapted sphlib-adapted] || 504576 || 32596 || 884 || [wiki:r2011compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:r2011runs_320 Run 320]
-|[wiki:r2011platformsimplementations_lm3s811-evb_groestl256_sphlib-small sphlib-small] || 511977 || 15276 || 884 || [wiki:r2011compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:r2011runs_320 Run 320]
-|[wiki:r2011platformsimplementations_lm3s811-evb_groestl256_sphlib sphlib] || 520861 || 29408 || 884 || [wiki:r2011compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:r2011runs_320 Run 320]
-|[wiki:r2011platformsimplementations_lm3s811-evb_groestl256_8bit_c 8bit_c] || 1060528 || 10392 || 884 || [wiki:r2011compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:r2011runs_304 Run 304]
-|[wiki:r2011platformsimplementations_lm3s811-evb_groestl256_armcryptolib armcryptolib] || 11674989 || 3212 || 560 || [wiki:r2011compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:r2011runs_320 Run 320]
+|[wiki:r2012platformsimplementations_lm3s811-evb_groestl256_sphlib-adapted sphlib-adapted] || 504576 || 32596 || 884 || [wiki:r2012compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:r2012runs_320 Run 320]
+|[wiki:r2012platformsimplementations_lm3s811-evb_groestl256_sphlib-small sphlib-small] || 511977 || 15276 || 884 || [wiki:r2012compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:r2012runs_320 Run 320]
+|[wiki:r2012platformsimplementations_lm3s811-evb_groestl256_sphlib sphlib] || 520861 || 29408 || 884 || [wiki:r2012compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:r2012runs_320 Run 320]
+|[wiki:r2012platformsimplementations_lm3s811-evb_groestl256_8bit_c 8bit_c] || 1060528 || 10392 || 884 || [wiki:r2012compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:r2012runs_304 Run 304]
+|[wiki:r2012platformsimplementations_lm3s811-evb_groestl256_armcryptolib armcryptolib] || 11674989 || 3212 || 560 || [wiki:r2012compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:r2012runs_320 Run 320]

@@ -1,2 +1,2 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:r2011platformsimplementations_nslu2-openwrt_0hash_empty empty] || 5952 || 0 || 0 || [wiki:r2011compilernames armeb-uclibc-gcc -Os] || 4.1.2 || [wiki:r2011runs_308 Run 308]
+|[wiki:r2012platformsimplementations_nslu2-openwrt_0hash_empty empty] || 5952 || 0 || 0 || [wiki:r2012compilernames armeb-uclibc-gcc -Os] || 4.1.2 || [wiki:r2012runs_308 Run 308]

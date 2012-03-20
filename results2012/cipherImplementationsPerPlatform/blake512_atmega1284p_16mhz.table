@@ -1,6 +1,6 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:r2011platformsimplementations_atmega1284p_16mhz_blake512_armcryptolib armcryptolib] || 7173321 || 6734 || 904 || [wiki:r2011compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || [wiki:r2011runs_302 Run 302]
-|[wiki:r2011platformsimplementations_atmega1284p_16mhz_blake512_ref ref] || 7394222 || 30032 || 1393 || [wiki:r2011compilernames avr-gcc 1284p -Os] || 4.3.4 (GCC) || [wiki:r2011runs_302 Run 302]
-|[wiki:r2011platformsimplementations_atmega1284p_16mhz_blake512_avrcryptolib avrcryptolib] || 7571101 || 7076 || 539 || [wiki:r2011compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || [wiki:r2011runs_302 Run 302]
-|[wiki:r2011platformsimplementations_atmega1284p_16mhz_blake512_sphlib sphlib] || 8873656 || 57822 || 2312 || [wiki:r2011compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || [wiki:r2011runs_302 Run 302]
-|[wiki:r2011platformsimplementations_atmega1284p_16mhz_blake512_sphlib-small sphlib-small] || 8873656 || 57822 || 2312 || [wiki:r2011compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || [wiki:r2011runs_302 Run 302]
+|[wiki:r2012platformsimplementations_atmega1284p_16mhz_blake512_armcryptolib armcryptolib] || 7173321 || 6734 || 904 || [wiki:r2012compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || [wiki:r2012runs_302 Run 302]
+|[wiki:r2012platformsimplementations_atmega1284p_16mhz_blake512_ref ref] || 7394222 || 30032 || 1393 || [wiki:r2012compilernames avr-gcc 1284p -Os] || 4.3.4 (GCC) || [wiki:r2012runs_302 Run 302]
+|[wiki:r2012platformsimplementations_atmega1284p_16mhz_blake512_avrcryptolib avrcryptolib] || 7571101 || 7076 || 539 || [wiki:r2012compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || [wiki:r2012runs_302 Run 302]
+|[wiki:r2012platformsimplementations_atmega1284p_16mhz_blake512_sphlib sphlib] || 8873656 || 57822 || 2312 || [wiki:r2012compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || [wiki:r2012runs_302 Run 302]
+|[wiki:r2012platformsimplementations_atmega1284p_16mhz_blake512_sphlib-small sphlib-small] || 8873656 || 57822 || 2312 || [wiki:r2012compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || [wiki:r2012runs_302 Run 302]

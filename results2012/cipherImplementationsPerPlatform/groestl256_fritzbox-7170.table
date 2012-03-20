@@ -1,6 +1,6 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:r2011platformsimplementations_fritzbox-7170_groestl256_8bit_c 8bit_c] || 748479 || 12698 || 755 || [wiki:r2011compilernames mips-uclib-gcc -O3] || 4.2.1 || [wiki:r2011runs_311 Run 311]
-|[wiki:r2011platformsimplementations_fritzbox-7170_groestl256_sphlib-small sphlib-small] || 803705 || 20106 || 1284 || [wiki:r2011compilernames mips-uclib-gcc -O2] || 4.2.1 || [wiki:r2011runs_309 Run 309]
-|[wiki:r2011platformsimplementations_fritzbox-7170_groestl256_sphlib sphlib] || 1541439 || 41076 || 796 || [wiki:r2011compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:r2011runs_311 Run 311]
-|[wiki:r2011platformsimplementations_fritzbox-7170_groestl256_sphlib-adapted sphlib-adapted] || 1651083 || 44352 || 800 || [wiki:r2011compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:r2011runs_311 Run 311]
-|[wiki:r2011platformsimplementations_fritzbox-7170_groestl256_armcryptolib armcryptolib] || 12974930 || 3631 || 560 || [wiki:r2011compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:r2011runs_309 Run 309]
+|[wiki:r2012platformsimplementations_fritzbox-7170_groestl256_8bit_c 8bit_c] || 748479 || 12698 || 755 || [wiki:r2012compilernames mips-uclib-gcc -O3] || 4.2.1 || [wiki:r2012runs_311 Run 311]
+|[wiki:r2012platformsimplementations_fritzbox-7170_groestl256_sphlib-small sphlib-small] || 803705 || 20106 || 1284 || [wiki:r2012compilernames mips-uclib-gcc -O2] || 4.2.1 || [wiki:r2012runs_309 Run 309]
+|[wiki:r2012platformsimplementations_fritzbox-7170_groestl256_sphlib sphlib] || 1541439 || 41076 || 796 || [wiki:r2012compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:r2012runs_311 Run 311]
+|[wiki:r2012platformsimplementations_fritzbox-7170_groestl256_sphlib-adapted sphlib-adapted] || 1651083 || 44352 || 800 || [wiki:r2012compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:r2012runs_311 Run 311]
+|[wiki:r2012platformsimplementations_fritzbox-7170_groestl256_armcryptolib armcryptolib] || 12974930 || 3631 || 560 || [wiki:r2012compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:r2012runs_309 Run 309]

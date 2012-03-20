@@ -1,7 +1,7 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:r2011platformsimplementations_atmega1284p_16mhz_blake256_avr-asm-speed avr-asm-speed] || 724339 || 2764 || 303 || [wiki:r2011compilernames avr-gcc 1284p -Os] || 4.3.4 (GCC) || [wiki:r2011runs_302 Run 302]
-|[wiki:r2011platformsimplementations_atmega1284p_16mhz_blake256_sphlib sphlib] || 1990053 || 55032 || 2486 || [wiki:r2011compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || [wiki:r2011runs_302 Run 302]
-|[wiki:r2011platformsimplementations_atmega1284p_16mhz_blake256_ref ref] || 2139246 || 8302 || 763 || [wiki:r2011compilernames avr-gcc 1284p -Os] || 4.3.4 (GCC) || [wiki:r2011runs_302 Run 302]
-|[wiki:r2011platformsimplementations_atmega1284p_16mhz_blake256_sphlib-small sphlib-small] || 2221801 || 11298 || 1196 || [wiki:r2011compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || [wiki:r2011runs_302 Run 302]
-|[wiki:r2011platformsimplementations_atmega1284p_16mhz_blake256_armcryptolib armcryptolib] || 2375647 || 23954 || 523 || [wiki:r2011compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || [wiki:r2011runs_302 Run 302]
-|[wiki:r2011platformsimplementations_atmega1284p_16mhz_blake256_avrcryptolib avrcryptolib] || 2427530 || 3602 || 277 || [wiki:r2011compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || [wiki:r2011runs_302 Run 302]
+|[wiki:r2012platformsimplementations_atmega1284p_16mhz_blake256_avr-asm-speed avr-asm-speed] || 724339 || 2764 || 303 || [wiki:r2012compilernames avr-gcc 1284p -Os] || 4.3.4 (GCC) || [wiki:r2012runs_302 Run 302]
+|[wiki:r2012platformsimplementations_atmega1284p_16mhz_blake256_sphlib sphlib] || 1990053 || 55032 || 2486 || [wiki:r2012compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || [wiki:r2012runs_302 Run 302]
+|[wiki:r2012platformsimplementations_atmega1284p_16mhz_blake256_ref ref] || 2139246 || 8302 || 763 || [wiki:r2012compilernames avr-gcc 1284p -Os] || 4.3.4 (GCC) || [wiki:r2012runs_302 Run 302]
+|[wiki:r2012platformsimplementations_atmega1284p_16mhz_blake256_sphlib-small sphlib-small] || 2221801 || 11298 || 1196 || [wiki:r2012compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || [wiki:r2012runs_302 Run 302]
+|[wiki:r2012platformsimplementations_atmega1284p_16mhz_blake256_armcryptolib armcryptolib] || 2375647 || 23954 || 523 || [wiki:r2012compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || [wiki:r2012runs_302 Run 302]
+|[wiki:r2012platformsimplementations_atmega1284p_16mhz_blake256_avrcryptolib avrcryptolib] || 2427530 || 3602 || 277 || [wiki:r2012compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || [wiki:r2012runs_302 Run 302]

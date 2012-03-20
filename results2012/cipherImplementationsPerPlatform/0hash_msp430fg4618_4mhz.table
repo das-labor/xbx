@@ -1,2 +1,2 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:r2011platformsimplementations_msp430fg4618_4mhz_0hash_empty empty] || 38 || 0 || 0 || msp430-gcc  -mmcu=msp430fg4618 -Wl,-section-start= text=0x3200 -Os -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 4.6.1 20110627 (mspgcc dev 20120125) (GCC) || [wiki:r2011runs_318 Run 318]
+|[wiki:r2012platformsimplementations_msp430fg4618_4mhz_0hash_empty empty] || 38 || 0 || 0 || msp430-gcc  -mmcu=msp430fg4618 -Wl,-section-start= text=0x3200 -Os -fomit-frame-pointer -ffunction-sections -fdata-sections -Wl,-gc-sections || 4.6.1 20110627 (mspgcc dev 20120125) (GCC) || [wiki:r2012runs_318 Run 318]

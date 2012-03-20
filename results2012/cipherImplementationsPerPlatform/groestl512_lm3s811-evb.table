@@ -1,5 +1,5 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:r2011platformsimplementations_lm3s811-evb_groestl512_sphlib-adapted sphlib-adapted] || 779227 || 43700 || 916 || [wiki:r2011compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || [wiki:r2011runs_304 Run 304]
-|[wiki:r2011platformsimplementations_lm3s811-evb_groestl512_sphlib sphlib] || 788126 || 40920 || 916 || [wiki:r2011compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || [wiki:r2011runs_320 Run 320]
-|[wiki:r2011platformsimplementations_lm3s811-evb_groestl512_sphlib-small sphlib-small] || 1194242 || 10460 || 916 || [wiki:r2011compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:r2011runs_320 Run 320]
-|[wiki:r2011platformsimplementations_lm3s811-evb_groestl512_armcryptolib armcryptolib] || 17325903 || 3916 || 916 || [wiki:r2011compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:r2011runs_303 Run 303]
+|[wiki:r2012platformsimplementations_lm3s811-evb_groestl512_sphlib-adapted sphlib-adapted] || 779227 || 43700 || 916 || [wiki:r2012compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || [wiki:r2012runs_304 Run 304]
+|[wiki:r2012platformsimplementations_lm3s811-evb_groestl512_sphlib sphlib] || 788126 || 40920 || 916 || [wiki:r2012compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || [wiki:r2012runs_320 Run 320]
+|[wiki:r2012platformsimplementations_lm3s811-evb_groestl512_sphlib-small sphlib-small] || 1194242 || 10460 || 916 || [wiki:r2012compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:r2012runs_320 Run 320]
+|[wiki:r2012platformsimplementations_lm3s811-evb_groestl512_armcryptolib armcryptolib] || 17325903 || 3916 || 916 || [wiki:r2012compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:r2012runs_303 Run 303]

@@ -1,4 +1,4 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:r2011platformsimplementations_nslu2-openwrt_skein512512_opt opt] || 296806 || 28764 || 5384 || [wiki:r2011compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:r2011runs_307 Run 307]
-|[wiki:r2011platformsimplementations_nslu2-openwrt_skein512512_sphlib-small sphlib-small] || 336590 || 12764 || 1204 || [wiki:r2011compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:r2011runs_307 Run 307]
-|[wiki:r2011platformsimplementations_nslu2-openwrt_skein512512_sphlib sphlib] || 349890 || 57700 || 5224 || [wiki:r2011compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:r2011runs_307 Run 307]
+|[wiki:r2012platformsimplementations_nslu2-openwrt_skein512512_opt opt] || 296806 || 28764 || 5384 || [wiki:r2012compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:r2012runs_307 Run 307]
+|[wiki:r2012platformsimplementations_nslu2-openwrt_skein512512_sphlib-small sphlib-small] || 336590 || 12764 || 1204 || [wiki:r2012compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:r2012runs_307 Run 307]
+|[wiki:r2012platformsimplementations_nslu2-openwrt_skein512512_sphlib sphlib] || 349890 || 57700 || 5224 || [wiki:r2012compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:r2012runs_307 Run 307]

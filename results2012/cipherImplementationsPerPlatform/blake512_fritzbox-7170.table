@@ -1,5 +1,5 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:r2011platformsimplementations_fritzbox-7170_blake512_ref ref] || 262562 || 8390 || 1032 || [wiki:r2011compilernames mips-uclib-gcc -Os] || 4.2.1 || [wiki:r2011runs_309 Run 309]
-|[wiki:r2011platformsimplementations_fritzbox-7170_blake512_armcryptolib armcryptolib] || 269717 || 3310 || 580 || [wiki:r2011compilernames mips-uclib-gcc -Os] || 4.2.1 || [wiki:r2011runs_309 Run 309]
-|[wiki:r2011platformsimplementations_fritzbox-7170_blake512_sphlib-small sphlib-small] || 272261 || 12419 || 1336 || [wiki:r2011compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:r2011runs_309 Run 309]
-|[wiki:r2011platformsimplementations_fritzbox-7170_blake512_sphlib sphlib] || 272288 || 12417 || 1340 || [wiki:r2011compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:r2011runs_311 Run 311]
+|[wiki:r2012platformsimplementations_fritzbox-7170_blake512_ref ref] || 262562 || 8390 || 1032 || [wiki:r2012compilernames mips-uclib-gcc -Os] || 4.2.1 || [wiki:r2012runs_309 Run 309]
+|[wiki:r2012platformsimplementations_fritzbox-7170_blake512_armcryptolib armcryptolib] || 269717 || 3310 || 580 || [wiki:r2012compilernames mips-uclib-gcc -Os] || 4.2.1 || [wiki:r2012runs_309 Run 309]
+|[wiki:r2012platformsimplementations_fritzbox-7170_blake512_sphlib-small sphlib-small] || 272261 || 12419 || 1336 || [wiki:r2012compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:r2012runs_309 Run 309]
+|[wiki:r2012platformsimplementations_fritzbox-7170_blake512_sphlib sphlib] || 272288 || 12417 || 1340 || [wiki:r2012compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:r2012runs_311 Run 311]

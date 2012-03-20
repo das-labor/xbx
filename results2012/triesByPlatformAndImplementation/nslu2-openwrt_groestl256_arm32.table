@@ -1,3 +1,3 @@
 | '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
-|20120117 || clix || [wiki:r2011compilernames armeb-uclibc-gcc -O0] || 4.1.2 || 6430716 || 311187 || 19972 (43014) || 0 (388) || 648 (3476) || 508(516) || Checksum failed || [wiki:r2011runs_307 Run 307]
-|20120120 || clix || [wiki:r2011compilernames armeb-uclibc-gcc -O0] || 4.1.2 || 6440276 || 311968 || 19972 (43014) || 0 (388) || 648 (3476) || 508(516) || Checksum failed || [wiki:r2011runs_308 Run 308]
+|20120117 || clix || [wiki:r2012compilernames armeb-uclibc-gcc -O0] || 4.1.2 || 6430716 || 311187 || 19972 (43014) || 0 (388) || 648 (3476) || 508(516) || Checksum failed || [wiki:r2012runs_307 Run 307]
+|20120120 || clix || [wiki:r2012compilernames armeb-uclibc-gcc -O0] || 4.1.2 || 6440276 || 311968 || 19972 (43014) || 0 (388) || 648 (3476) || 508(516) || Checksum failed || [wiki:r2012runs_308 Run 308]

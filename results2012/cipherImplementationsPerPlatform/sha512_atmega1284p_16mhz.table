@@ -1,3 +1,3 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:r2011platformsimplementations_atmega1284p_16mhz_sha512_sphlib sphlib] || 13407302 || 48492 || 2141 || [wiki:r2011compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || [wiki:r2011runs_301 Run 301]
-|[wiki:r2011platformsimplementations_atmega1284p_16mhz_sha512_sphlib-small sphlib-small] || 13407302 || 48492 || 2141 || [wiki:r2011compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || [wiki:r2011runs_302 Run 302]
+|[wiki:r2012platformsimplementations_atmega1284p_16mhz_sha512_sphlib sphlib] || 13407302 || 48492 || 2141 || [wiki:r2012compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || [wiki:r2012runs_301 Run 301]
+|[wiki:r2012platformsimplementations_atmega1284p_16mhz_sha512_sphlib-small sphlib-small] || 13407302 || 48492 || 2141 || [wiki:r2012compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || [wiki:r2012runs_302 Run 302]
