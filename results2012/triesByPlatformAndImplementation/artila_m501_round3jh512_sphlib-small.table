@@ -1,0 +1,11 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20120117 || clix || [wiki:r2011compilernames arm-artila-gcc -O0] || 3.3.2 || 22026769 || 1365390 || 14064 (36709) || 0 (472) || 32 (2780) || 668(681) ||  || [wiki:r2011runs_312 Run 312]
+|20120120 || clix || [wiki:r2011compilernames arm-artila-gcc -O0] || 3.3.2 || 22009748 || 1366819 || 14064 (36957) || 0 (472) || 32 (2780) || 668(681) ||  || [wiki:r2011runs_313 Run 313]
+|20120117 || clix || [wiki:r2011compilernames arm-artila-gcc -O1] || 3.3.2 || 13542986 || 809719 || 7940 (25324) || 0 (472) || 32 (2780) || 644(644) ||  || [wiki:r2011runs_312 Run 312]
+|20120120 || clix || [wiki:r2011compilernames arm-artila-gcc -O1] || 3.3.2 || 13540478 || 821857 || 7940 (25456) || 0 (472) || 32 (2780) || 644(644) ||  || [wiki:r2011runs_313 Run 313]
+|20120117 || clix || [wiki:r2011compilernames arm-artila-gcc -O2] || 3.3.2 || 16455240 || 1041086 || 13160 (30332) || 0 (472) || 32 (2780) || 1508(1508) ||  || [wiki:r2011runs_312 Run 312]
+|20120120 || clix || [wiki:r2011compilernames arm-artila-gcc -O2] || 3.3.2 || 16565546 || 1019351 || 13160 (30468) || 0 (472) || 32 (2780) || 1508(1508) ||  || [wiki:r2011runs_313 Run 313]
+|20120117 || clix || [wiki:r2011compilernames arm-artila-gcc -O3] || 3.3.2 || 16184846 || 1016989 || 13300 (33120) || 0 (472) || 32 (2780) || 1508(1508) ||  || [wiki:r2011runs_312 Run 312]
+|20120120 || clix || [wiki:r2011compilernames arm-artila-gcc -O3] || 3.3.2 || 16188896 || 994928 || 13300 (33256) || 0 (472) || 32 (2780) || 1508(1508) ||  || [wiki:r2011runs_313 Run 313]
+|20120117 || clix || [wiki:r2011compilernames arm-artila-gcc -Os] || 3.3.2 || 20712701 || 932873 || 11248 (28265) || 0 (472) || 32 (2780) || 1524(1524) ||  || [wiki:r2011runs_312 Run 312]
+|20120120 || clix || [wiki:r2011compilernames arm-artila-gcc -Os] || 3.3.2 || 15123139 || 914479 || 11248 (28397) || 0 (472) || 32 (2780) || 1524(1524) ||  || [wiki:r2011runs_313 Run 313]

@@ -1,0 +1,3 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:r2011platformsimplementations_artila_m501_skein256256_opt opt] || 195277 || 54564 || 568 || [wiki:r2011compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:r2011runs_313 Run 313]
+|[wiki:r2011platformsimplementations_artila_m501_skein256256_armcryptolib armcryptolib] || 1238490 || 2936 || 384 || [wiki:r2011compilernames arm-artila-gcc -O2] || 3.3.2 || [wiki:r2011runs_312 Run 312]

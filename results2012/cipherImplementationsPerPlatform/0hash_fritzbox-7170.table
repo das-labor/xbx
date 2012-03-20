@@ -1,0 +1,2 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:r2011platformsimplementations_fritzbox-7170_0hash_empty empty] || 13648 || 0 || 0 || [wiki:r2011compilernames mips-uclib-gcc -O2] || 4.2.1 || [wiki:r2011runs_309 Run 309]

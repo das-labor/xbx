@@ -1,0 +1,23 @@
+
+== Run 303 ==
+
+ * Date: 20120117
+ * Hostname: clix
+ * Platform: lm3s811-evb
+ * XBX Version 2.0.2dev
+ * XBH Revision 01085
+ * Bootloader Revision 01099
+
+
+
+[wiki:r2012runs_303#MeasureResults Measure Results] - [wiki:r2012runs_303#TryResults Try Results] - [wiki:r2012runs_303#DriftMeasurements Drift Measurements]
+
+=== Measure Results ===
+[[SortCSVsourceTable(source:page/trunk/results2012/measuresByRun/303.table)]]
+
+=== Try Results ===
+[[SortCSVsourceTable(source:page/trunk/results2012/triesByRun/303.table)]]
+
+=== Drift Measurements ===
+[[SortCSVsourceTable(source:page/trunk/results2012/driftByRun/303.table)]]
+  

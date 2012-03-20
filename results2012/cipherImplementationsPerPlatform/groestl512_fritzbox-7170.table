@@ -1,0 +1,5 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:r2011platformsimplementations_fritzbox-7170_groestl512_sphlib-small sphlib-small] || 1239604 || 14922 || 1700 || [wiki:r2011compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:r2011runs_311 Run 311]
+|[wiki:r2011platformsimplementations_fritzbox-7170_groestl512_sphlib sphlib] || 3374139 || 65844 || 1780 || [wiki:r2011compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:r2011runs_311 Run 311]
+|[wiki:r2011platformsimplementations_fritzbox-7170_groestl512_sphlib-adapted sphlib-adapted] || 3543792 || 69072 || 1784 || [wiki:r2011compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:r2011runs_309 Run 309]
+|[wiki:r2011platformsimplementations_fritzbox-7170_groestl512_armcryptolib armcryptolib] || 19090057 || 3631 || 864 || [wiki:r2011compilernames mips-uclib-gcc -O1] || 4.2.1 || [wiki:r2011runs_311 Run 311]

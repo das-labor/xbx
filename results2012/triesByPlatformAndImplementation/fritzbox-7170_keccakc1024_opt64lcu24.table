@@ -1,0 +1,10 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20120122 || clix || [wiki:r2011compilernames mips-uclib-gcc -O0] || 4.2.1 || 90428759 || 8819690 || 404491 (447946) || 96 (1064) || 32 (2876) || 6840(6888) || Checksum OK || [wiki:r2011runs_309 Run 309]
+|20120123 || clix || [wiki:r2011compilernames mips-uclib-gcc -O0] || 4.2.1 || 90295742 || 8824964 || 404491 (447946) || 96 (1064) || 32 (2876) || 6840(6888) || Checksum OK || [wiki:r2011runs_311 Run 311]
+|20120122 || clix || [wiki:r2011compilernames mips-uclib-gcc -O1] || 4.2.1 || 68826741 || 6853112 || 280115 (314273) || 88 (1052) || 32 (2876) || 7136(7192) || Checksum OK || [wiki:r2011runs_309 Run 309]
+|20120123 || clix || [wiki:r2011compilernames mips-uclib-gcc -O1] || 4.2.1 || 68771952 || 6865647 || 280115 (314273) || 88 (1052) || 32 (2876) || 7135(7191) || Checksum OK || [wiki:r2011runs_311 Run 311]
+|20120123 || clix || [wiki:r2011compilernames mips-uclib-gcc -O2] || 4.2.1 || 72821351 || 7244862 || 271571 (303825) || 88 (1052) || 32 (2876) || 7136(7192) || Checksum OK || [wiki:r2011runs_311 Run 311]
+|20120122 || clix || [wiki:r2011compilernames mips-uclib-gcc -O3] || 4.2.1 || 72531282 || 7248426 || 271321 (303736) || 88 (1052) || 32 (2872) || 7136(7192) || Checksum OK || [wiki:r2011runs_309 Run 309]
+|20120123 || clix || [wiki:r2011compilernames mips-uclib-gcc -O3] || 4.2.1 || 72245201 || 7247035 || 271321 (303736) || 88 (1052) || 32 (2872) || 7136(7192) || Checksum OK || [wiki:r2011runs_311 Run 311]
+|20120122 || clix || [wiki:r2011compilernames mips-uclib-gcc -Os] || 4.2.1 || 72338614 || 7245815 || 270459 (302698) || 88 (1052) || 32 (2876) || 7136(7192) || Checksum OK || [wiki:r2011runs_309 Run 309]
+|20120123 || clix || [wiki:r2011compilernames mips-uclib-gcc -Os] || 4.2.1 || 72551342 || 7241443 || 270459 (302698) || 88 (1052) || 32 (2876) || 7136(7192) || Checksum OK || [wiki:r2011runs_311 Run 311]

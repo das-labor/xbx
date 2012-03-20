@@ -1,0 +1,9 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:r2011platformsimplementations_nslu2-openwrt_jh256_opt32 opt32] || 565533 || 6904 || 504 || [wiki:r2011compilernames armeb-uclibc-gcc -Os] || 4.1.2 || [wiki:r2011runs_307 Run 307]
+|[wiki:r2011platformsimplementations_nslu2-openwrt_jh256_bitslice32 bitslice32] || 721758 || 4504 || 372 || [wiki:r2011compilernames armeb-uclibc-gcc -Os] || 4.1.2 || [wiki:r2011runs_307 Run 307]
+|[wiki:r2011platformsimplementations_nslu2-openwrt_jh256_sphlib-small sphlib-small] || 754177 || 7640 || 736 || [wiki:r2011compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:r2011runs_308 Run 308]
+|[wiki:r2011platformsimplementations_nslu2-openwrt_jh256_sphlib sphlib] || 797019 || 17668 || 3012 || [wiki:r2011compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:r2011runs_308 Run 308]
+|[wiki:r2011platformsimplementations_nslu2-openwrt_jh256_opt64 opt64] || 1371795 || 13452 || 1132 || [wiki:r2011compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:r2011runs_308 Run 308]
+|[wiki:r2011platformsimplementations_nslu2-openwrt_jh256_bitslice64 bitslice64] || 1428088 || 7296 || 548 || [wiki:r2011compilernames armeb-uclibc-gcc -Os] || 4.1.2 || [wiki:r2011runs_307 Run 307]
+|[wiki:r2011platformsimplementations_nslu2-openwrt_jh256_opt8 opt8] || 6808603 || 2480 || 528 || [wiki:r2011compilernames armeb-uclibc-gcc -Os] || 4.1.2 || [wiki:r2011runs_307 Run 307]
+|[wiki:r2011platformsimplementations_nslu2-openwrt_jh256_ref ref] || 15565323 || 3924 || 1400 || [wiki:r2011compilernames armeb-uclibc-gcc -O3] || 4.1.2 || [wiki:r2011runs_307 Run 307]

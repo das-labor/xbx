@@ -1,0 +1,4 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:r2011platformsimplementations_lm3s811-evb_blake512_sphlib sphlib] || 272370 || 8768 || 916 || [wiki:r2011compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:r2011runs_304 Run 304]
+|[wiki:r2011platformsimplementations_lm3s811-evb_blake512_sphlib-small sphlib-small] || 272370 || 8768 || 916 || [wiki:r2011compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:r2011runs_304 Run 304]
+|[wiki:r2011platformsimplementations_lm3s811-evb_blake512_armcryptolib armcryptolib] || 343742 || 4740 || 644 || [wiki:r2011compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:r2011runs_320 Run 320]

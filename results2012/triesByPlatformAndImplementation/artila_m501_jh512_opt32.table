@@ -1,0 +1,11 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20120117 || clix || [wiki:r2011compilernames arm-artila-gcc -O0] || 3.3.2 || 131328698 || 9147139 || 30732 (53377) || 0 (472) || 32 (2780) || 376(389) || Checksum OK || [wiki:r2011runs_312 Run 312]
+|20120120 || clix || [wiki:r2011compilernames arm-artila-gcc -O0] || 3.3.2 || 134201554 || 9148140 || 30732 (53625) || 0 (472) || 32 (2780) || 376(389) || Checksum OK || [wiki:r2011runs_313 Run 313]
+|20120117 || clix || [wiki:r2011compilernames arm-artila-gcc -O1] || 3.3.2 || 10921838 || 649339 || 7112 (24496) || 0 (472) || 32 (2780) || 360(360) || Checksum OK || [wiki:r2011runs_312 Run 312]
+|20120120 || clix || [wiki:r2011compilernames arm-artila-gcc -O1] || 3.3.2 || 11056748 || 637436 || 7112 (24628) || 0 (472) || 32 (2780) || 360(360) || Checksum OK || [wiki:r2011runs_313 Run 313]
+|20120117 || clix || [wiki:r2011compilernames arm-artila-gcc -O2] || 3.3.2 || 11823098 || 715320 || 7972 (25144) || 0 (472) || 32 (2780) || 668(668) || Checksum OK || [wiki:r2011runs_312 Run 312]
+|20120120 || clix || [wiki:r2011compilernames arm-artila-gcc -O2] || 3.3.2 || 11923976 || 715095 || 7972 (25280) || 0 (472) || 32 (2780) || 668(668) || Checksum OK || [wiki:r2011runs_313 Run 313]
+|20120117 || clix || [wiki:r2011compilernames arm-artila-gcc -O3] || 3.3.2 || 11918543 || 712024 || 8560 (28380) || 0 (472) || 32 (2780) || 668(668) || Checksum OK || [wiki:r2011runs_312 Run 312]
+|20120120 || clix || [wiki:r2011compilernames arm-artila-gcc -O3] || 3.3.2 || 12029423 || 711754 || 8560 (28516) || 0 (472) || 32 (2780) || 668(668) || Checksum OK || [wiki:r2011runs_313 Run 313]
+|20120117 || clix || [wiki:r2011compilernames arm-artila-gcc -Os] || 3.3.2 || 11156029 || 650104 || 7672 (24689) || 0 (472) || 32 (2780) || 700(700) || Checksum OK || [wiki:r2011runs_312 Run 312]
+|20120120 || clix || [wiki:r2011compilernames arm-artila-gcc -Os] || 3.3.2 || 11151281 || 648619 || 7672 (24821) || 0 (472) || 32 (2780) || 700(700) || Checksum OK || [wiki:r2011runs_313 Run 313]

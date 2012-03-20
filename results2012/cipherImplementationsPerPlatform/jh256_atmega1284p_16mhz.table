@@ -1,0 +1,11 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:r2011platformsimplementations_atmega1284p_16mhz_jh256_sphlib-small sphlib-small] || 4880343 || 22998 || 2293 || [wiki:r2011compilernames avr-gcc 1284p -Os] || 4.3.4 (GCC) || [wiki:r2011runs_302 Run 302]
+|[wiki:r2011platformsimplementations_atmega1284p_16mhz_jh256_sphlib sphlib] || 5064002 || 61508 || 4235 || [wiki:r2011compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || [wiki:r2011runs_302 Run 302]
+|[wiki:r2011platformsimplementations_atmega1284p_16mhz_jh256_opt32 opt32] || 6133283 || 20446 || 2234 || [wiki:r2011compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || [wiki:r2011runs_302 Run 302]
+|[wiki:r2011platformsimplementations_atmega1284p_16mhz_jh256_bitslice32 bitslice32] || 7015336 || 10494 || 2200 || [wiki:r2011compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || [wiki:r2011runs_302 Run 302]
+|[wiki:r2011platformsimplementations_atmega1284p_16mhz_jh256_avrcryptolib-speed avrcryptolib-speed] || 12998120 || 5250 || 390 || [wiki:r2011compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || [wiki:r2011runs_302 Run 302]
+|[wiki:r2011platformsimplementations_atmega1284p_16mhz_jh256_opt64 opt64] || 16855010 || 53072 || 2525 || [wiki:r2011compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || [wiki:r2011runs_302 Run 302]
+|[wiki:r2011platformsimplementations_atmega1284p_16mhz_jh256_avrcryptolib-simple avrcryptolib-simple] || 19826594 || 3958 || 466 || [wiki:r2011compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || [wiki:r2011runs_302 Run 302]
+|[wiki:r2011platformsimplementations_atmega1284p_16mhz_jh256_bitslice64 bitslice64] || 19970322 || 19788 || 2628 || [wiki:r2011compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || [wiki:r2011runs_302 Run 302]
+|[wiki:r2011platformsimplementations_atmega1284p_16mhz_jh256_opt8 opt8] || 22937586 || 7298 || 630 || [wiki:r2011compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || [wiki:r2011runs_301 Run 301]
+|[wiki:r2011platformsimplementations_atmega1284p_16mhz_jh256_ref ref] || 39351618 || 8240 || 1618 || [wiki:r2011compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || [wiki:r2011runs_302 Run 302]

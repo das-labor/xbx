@@ -1,0 +1,3 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:r2011platformsimplementations_atmega1284p_16mhz_sha1_armcryptolib armcryptolib] || 1877204 || 7608 || 543 || [wiki:r2011compilernames avr-gcc 1284p -Os] || 4.3.4 (GCC) || [wiki:r2011runs_302 Run 302]
+|[wiki:r2011platformsimplementations_atmega1284p_16mhz_sha1_avrcryptolib avrcryptolib] || 1877204 || 7608 || 543 || [wiki:r2011compilernames avr-gcc 1284p -Os] || 4.3.4 (GCC) || [wiki:r2011runs_302 Run 302]

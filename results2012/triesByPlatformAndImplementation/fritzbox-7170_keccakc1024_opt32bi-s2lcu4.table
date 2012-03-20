@@ -1,0 +1,10 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20120122 || clix || [wiki:r2011compilernames mips-uclib-gcc -O0] || 4.2.1 || 84706031 || 8259586 || 81576 (125031) || 80 (1048) || 32 (2876) || 1304(1352) || Checksum OK || [wiki:r2011runs_309 Run 309]
+|20120122 || clix || [wiki:r2011compilernames mips-uclib-gcc -O1] || 4.2.1 || 5225111 || 413612 || 43696 (77854) || 80 (1044) || 32 (2876) || 1536(1592) || Checksum OK || [wiki:r2011runs_309 Run 309]
+|20120123 || clix || [wiki:r2011compilernames mips-uclib-gcc -O1] || 4.2.1 || 5422616 || 413678 || 43696 (77854) || 80 (1044) || 32 (2876) || 1536(1592) || Checksum OK || [wiki:r2011runs_311 Run 311]
+|20120122 || clix || [wiki:r2011compilernames mips-uclib-gcc -O2] || 4.2.1 || 12736947 || 655796 || 55456 (87710) || 80 (1044) || 32 (2876) || 3111(3167) || Checksum OK || [wiki:r2011runs_309 Run 309]
+|20120123 || clix || [wiki:r2011compilernames mips-uclib-gcc -O2] || 4.2.1 || 12485422 || 685144 || 55456 (87710) || 80 (1044) || 32 (2876) || 3112(3168) || Checksum OK || [wiki:r2011runs_311 Run 311]
+|20120122 || clix || [wiki:r2011compilernames mips-uclib-gcc -O3] || 4.2.1 || 12218991 || 654577 || 54939 (87354) || 80 (1044) || 32 (2872) || 3080(3136) || Checksum OK || [wiki:r2011runs_309 Run 309]
+|20120123 || clix || [wiki:r2011compilernames mips-uclib-gcc -O3] || 4.2.1 || 12197897 || 654921 || 54939 (87354) || 80 (1044) || 32 (2872) || 3079(3135) || Checksum OK || [wiki:r2011runs_311 Run 311]
+|20120122 || clix || [wiki:r2011compilernames mips-uclib-gcc -Os] || 4.2.1 || 12191272 || 641088 || 54728 (86967) || 80 (1044) || 32 (2876) || 3112(3168) || Checksum OK || [wiki:r2011runs_309 Run 309]
+|20120123 || clix || [wiki:r2011compilernames mips-uclib-gcc -Os] || 4.2.1 || 12302122 || 641181 || 54728 (86967) || 80 (1044) || 32 (2876) || 3112(3168) || Checksum OK || [wiki:r2011runs_311 Run 311]

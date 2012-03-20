@@ -1,0 +1,11 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20120117 || clix || [wiki:r2011compilernames armeb-uclibc-gcc -O0] || 4.1.2 ||  ||  || 10508 (33550) || 0 (388) || 0 (2828) || unk(unk) || error || [wiki:r2011runs_307 Run 307]
+|20120120 || clix || [wiki:r2011compilernames armeb-uclibc-gcc -O0] || 4.1.2 ||  ||  || 10508 (33550) || 0 (388) || 0 (2828) || unk(unk) || error || [wiki:r2011runs_308 Run 308]
+|20120117 || clix || [wiki:r2011compilernames armeb-uclibc-gcc -O1] || 4.1.2 ||  ||  || 9636 (26394) || 0 (384) || 0 (2828) || unk(unk) || error || [wiki:r2011runs_307 Run 307]
+|20120120 || clix || [wiki:r2011compilernames armeb-uclibc-gcc -O1] || 4.1.2 ||  ||  || 9636 (26394) || 0 (384) || 0 (2828) || unk(unk) || error || [wiki:r2011runs_308 Run 308]
+|20120117 || clix || [wiki:r2011compilernames armeb-uclibc-gcc -O2] || 4.1.2 ||  ||  || 9684 (26286) || 0 (384) || 0 (2828) || unk(unk) || error || [wiki:r2011runs_307 Run 307]
+|20120120 || clix || [wiki:r2011compilernames armeb-uclibc-gcc -O2] || 4.1.2 ||  ||  || 9684 (26286) || 0 (384) || 0 (2828) || unk(unk) || error || [wiki:r2011runs_308 Run 308]
+|20120117 || clix || [wiki:r2011compilernames armeb-uclibc-gcc -O3] || 4.1.2 ||  ||  || 10304 (27962) || 0 (384) || 0 (2824) || unk(unk) || error || [wiki:r2011runs_307 Run 307]
+|20120120 || clix || [wiki:r2011compilernames armeb-uclibc-gcc -O3] || 4.1.2 ||  ||  || 10304 (27962) || 0 (384) || 0 (2824) || unk(unk) || error || [wiki:r2011runs_308 Run 308]
+|20120117 || clix || [wiki:r2011compilernames armeb-uclibc-gcc -Os] || 4.1.2 ||  ||  || 9524 (25702) || 0 (384) || 0 (2828) || unk(unk) || error || [wiki:r2011runs_307 Run 307]
+|20120120 || clix || [wiki:r2011compilernames armeb-uclibc-gcc -Os] || 4.1.2 ||  ||  || 9524 (25702) || 0 (384) || 0 (2828) || unk(unk) || error || [wiki:r2011runs_308 Run 308]

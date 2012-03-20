@@ -1,0 +1,5 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:r2011platformsimplementations_lm3s811-evb_sha256_sphlib sphlib] || 65663 || 7636 || 464 || [wiki:r2011compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:r2011runs_320 Run 320]
+|[wiki:r2011platformsimplementations_lm3s811-evb_sha256_sphlib-small sphlib-small] || 71588 || 4312 || 316 || [wiki:r2011compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:r2011runs_320 Run 320]
+|[wiki:r2011platformsimplementations_lm3s811-evb_sha256_avrcryptolib avrcryptolib] || 600324 || 1952 || 800 || [wiki:r2011compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:r2011runs_320 Run 320]
+|[wiki:r2011platformsimplementations_lm3s811-evb_sha256_armcryptolib armcryptolib] || 601924 || 1952 || 512 || [wiki:r2011compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:r2011runs_320 Run 320]

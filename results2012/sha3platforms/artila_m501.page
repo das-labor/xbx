@@ -1,0 +1,22 @@
+
+== Platform artila_m501 (SHA3 Round 3 Only) ==
+[wiki:r2012platforms_artila_m501 Show all hash functions] 
+
+ARM920T based single PCB computer. 
+
+See http://www.artila.com/p_sbc.html#m_501
+
+
+[wiki:r2012sha3platforms_artila_m501#FastestAlgorithms FastestAlgorithms] - [wiki:r2012sha3platforms_artila_m501#SmallestAlgorithmsROM Smallest Algorithms (ROM)] - [wiki:r2012sha3platforms_artila_m501#SmallestAlgorithmsRAM Smallest Algorithms (RAM)]
+
+=== Fastest Algorithms ===
+
+[[SortCSVsourceTable(source:page/trunk/results2012/fastestPerPlatform/sha3artila_m501.table)]]
+
+=== Smallest Algorithms (ROM) ===
+
+[[SortCSVsourceTable(source:page/trunk/results2012/smallestRomPerPlatform/sha3artila_m501.table)]]
+
+=== Smallest Algorithms (RAM) ===
+
+[[SortCSVsourceTable(source:page/trunk/results2012/smallestRamPerPlatform/sha3artila_m501.table)]]

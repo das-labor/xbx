@@ -1,0 +1,5 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:r2011platformsimplementations_artila_m501_blake256_sphlib sphlib] || 121005 || 25488 || 716 || [wiki:r2011compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:r2011runs_313 Run 313]
+|[wiki:r2011platformsimplementations_artila_m501_blake256_sphlib-small sphlib-small] || 153731 || 15188 || 488 || [wiki:r2011compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:r2011runs_313 Run 313]
+|[wiki:r2011platformsimplementations_artila_m501_blake256_ref ref] || 180945 || 3492 || 416 || [wiki:r2011compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:r2011runs_313 Run 313]
+|[wiki:r2011platformsimplementations_artila_m501_blake256_armcryptolib armcryptolib] || 225833 || 2804 || 424 || [wiki:r2011compilernames arm-artila-gcc -O3] || 3.3.2 || [wiki:r2011runs_313 Run 313]

@@ -1,0 +1,11 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20120117 || clix || [wiki:r2011compilernames armeb-uclibc-gcc -O0] || 4.1.2 || 2853149 || 6168 || 0 (23042) || 0 (388) || 0 (2828) || 0(8) || Checksum OK || [wiki:r2011runs_307 Run 307]
+|20120120 || clix || [wiki:r2011compilernames armeb-uclibc-gcc -O0] || 4.1.2 || 2863922 || 6118 || 0 (23042) || 0 (388) || 0 (2828) || 0(8) || Checksum OK || [wiki:r2011runs_308 Run 308]
+|20120117 || clix || [wiki:r2011compilernames armeb-uclibc-gcc -O1] || 4.1.2 || 654626 || 6234 || 0 (16758) || 0 (384) || 0 (2828) || 0(16) || Checksum OK || [wiki:r2011runs_307 Run 307]
+|20120120 || clix || [wiki:r2011compilernames armeb-uclibc-gcc -O1] || 4.1.2 || 676687 || 6168 || 0 (16758) || 0 (384) || 0 (2828) || 0(16) || Checksum OK || [wiki:r2011runs_308 Run 308]
+|20120117 || clix || [wiki:r2011compilernames armeb-uclibc-gcc -O2] || 4.1.2 || 689040 || 6185 || 0 (16602) || 0 (384) || 0 (2828) || 0(8) || Checksum OK || [wiki:r2011runs_307 Run 307]
+|20120120 || clix || [wiki:r2011compilernames armeb-uclibc-gcc -O2] || 4.1.2 || 689256 || 6185 || 0 (16602) || 0 (384) || 0 (2828) || 0(8) || Checksum OK || [wiki:r2011runs_308 Run 308]
+|20120117 || clix || [wiki:r2011compilernames armeb-uclibc-gcc -O3] || 4.1.2 || 689356 || 6052 || 0 (17658) || 0 (384) || 0 (2824) || 0(16) || Checksum OK || [wiki:r2011runs_307 Run 307]
+|20120120 || clix || [wiki:r2011compilernames armeb-uclibc-gcc -O3] || 4.1.2 || 689356 || 6101 || 0 (17658) || 0 (384) || 0 (2824) || 0(16) || Checksum OK || [wiki:r2011runs_308 Run 308]
+|20120117 || clix || [wiki:r2011compilernames armeb-uclibc-gcc -Os] || 4.1.2 || 588392 || 6068 || 0 (16178) || 0 (384) || 0 (2828) || 0(16) || Checksum OK || [wiki:r2011runs_307 Run 307]
+|20120120 || clix || [wiki:r2011compilernames armeb-uclibc-gcc -Os] || 4.1.2 || 588708 || 5952 || 0 (16178) || 0 (384) || 0 (2828) || 0(16) || Checksum OK || [wiki:r2011runs_308 Run 308]

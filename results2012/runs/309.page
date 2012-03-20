@@ -1,0 +1,23 @@
+
+== Run 309 ==
+
+ * Date: 20120122
+ * Hostname: clix
+ * Platform: fritzbox-7170
+ * XBX Version 2.0.2dev
+ * XBH Revision 01423
+ * Bootloader Revision 01578
+
+
+
+[wiki:r2012runs_309#MeasureResults Measure Results] - [wiki:r2012runs_309#TryResults Try Results] - [wiki:r2012runs_309#DriftMeasurements Drift Measurements]
+
+=== Measure Results ===
+[[SortCSVsourceTable(source:page/trunk/results2012/measuresByRun/309.table)]]
+
+=== Try Results ===
+[[SortCSVsourceTable(source:page/trunk/results2012/triesByRun/309.table)]]
+
+=== Drift Measurements ===
+[[SortCSVsourceTable(source:page/trunk/results2012/driftByRun/309.table)]]
+  

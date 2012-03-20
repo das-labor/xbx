@@ -1,0 +1,11 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20120117 || clix || [wiki:r2011compilernames avr-gcc 1284p -O0] || 4.3.4 (GCC) || 65629045 || 1480760 || 30364 (50660) || 98 (962) || 0 (2416) || 386(394) || Checksum failed || [wiki:r2011runs_301 Run 301]
+|20120120 || clix || [wiki:r2011compilernames avr-gcc 1284p -O0] || 4.3.4 (GCC) || 65629045 || 1480760 || 30364 (50660) || 98 (962) || 0 (2416) || 386(394) || Checksum failed || [wiki:r2011runs_302 Run 302]
+|20120117 || clix || [wiki:r2011compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || 14762365 || 811250 || 17192 (26678) || 98 (706) || 0 (2416) || 427(427) || Checksum failed || [wiki:r2011runs_301 Run 301]
+|20120120 || clix || [wiki:r2011compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || 14762365 || 811251 || 17192 (26678) || 98 (706) || 0 (2416) || 427(427) || Checksum failed || [wiki:r2011runs_302 Run 302]
+|20120117 || clix || [wiki:r2011compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || 13399391 || 756965 || 16168 (24726) || 98 (706) || 0 (2416) || 428(428) || Checksum failed || [wiki:r2011runs_301 Run 301]
+|20120120 || clix || [wiki:r2011compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || 13399391 || 756964 || 16168 (24726) || 98 (706) || 0 (2416) || 428(428) || Checksum failed || [wiki:r2011runs_302 Run 302]
+|20120117 || clix || [wiki:r2011compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || 13386258 || 756786 || 16428 (25580) || 98 (706) || 0 (2416) || 428(428) || Checksum failed || [wiki:r2011runs_301 Run 301]
+|20120120 || clix || [wiki:r2011compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || 13386258 || 756787 || 16428 (25580) || 98 (706) || 0 (2416) || 428(428) || Checksum failed || [wiki:r2011runs_302 Run 302]
+|20120117 || clix || [wiki:r2011compilernames avr-gcc 1284p -Os] || 4.3.4 (GCC) || 13845180 || 778844 || 14218 (22204) || 98 (706) || 0 (2416) || 380(380) || Checksum failed || [wiki:r2011runs_301 Run 301]
+|20120120 || clix || [wiki:r2011compilernames avr-gcc 1284p -Os] || 4.3.4 (GCC) || 13845180 || 778844 || 14218 (22204) || 98 (706) || 0 (2416) || 380(380) || Checksum failed || [wiki:r2011runs_302 Run 302]

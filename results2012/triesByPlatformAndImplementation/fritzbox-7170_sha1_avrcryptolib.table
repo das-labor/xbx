@@ -1,0 +1,11 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20120122 || clix || [wiki:r2011compilernames mips-uclib-gcc -O0] || 4.2.1 || 8539956 || 581410 || 3296 (46751) || 60 (1028) || -12 (2832) || 328(376) || Checksum OK || [wiki:r2011runs_309 Run 309]
+|20120123 || clix || [wiki:r2011compilernames mips-uclib-gcc -O0] || 4.2.1 || 8519896 || 581450 || 3296 (46751) || 60 (1028) || -12 (2832) || 328(376) || Checksum OK || [wiki:r2011runs_311 Run 311]
+|20120122 || clix || [wiki:r2011compilernames mips-uclib-gcc -O1] || 4.2.1 || 5138085 || 365289 || 4167 (38325) || 64 (1028) || -12 (2832) || 376(432) || Checksum OK || [wiki:r2011runs_309 Run 309]
+|20120123 || clix || [wiki:r2011compilernames mips-uclib-gcc -O1] || 4.2.1 || 5120900 || 365395 || 4167 (38325) || 64 (1028) || -12 (2832) || 376(432) || Checksum OK || [wiki:r2011runs_311 Run 311]
+|20120122 || clix || [wiki:r2011compilernames mips-uclib-gcc -O2] || 4.2.1 || 4995581 || 357737 || 4087 (36341) || 64 (1028) || -12 (2832) || 384(440) || Checksum OK || [wiki:r2011runs_309 Run 309]
+|20120123 || clix || [wiki:r2011compilernames mips-uclib-gcc -O2] || 4.2.1 || 5015072 || 357671 || 4087 (36341) || 64 (1028) || -12 (2832) || 384(440) || Checksum OK || [wiki:r2011runs_311 Run 311]
+|20120122 || clix || [wiki:r2011compilernames mips-uclib-gcc -O3] || 4.2.1 || 4597763 || 319988 || 4536 (36951) || 64 (1028) || -12 (2828) || 496(552) || Checksum OK || [wiki:r2011runs_309 Run 309]
+|20120123 || clix || [wiki:r2011compilernames mips-uclib-gcc -O3] || 4.2.1 || 4500151 || 319842 || 4536 (36951) || 64 (1028) || -12 (2828) || 496(552) || Checksum OK || [wiki:r2011runs_311 Run 311]
+|20120122 || clix || [wiki:r2011compilernames mips-uclib-gcc -Os] || 4.2.1 || 4589297 || 321617 || 3650 (35889) || 64 (1028) || -12 (2832) || 376(432) || Checksum OK || [wiki:r2011runs_309 Run 309]
+|20120123 || clix || [wiki:r2011compilernames mips-uclib-gcc -Os] || 4.2.1 || 4670877 || 321419 || 3650 (35889) || 64 (1028) || -12 (2832) || 376(432) || Checksum OK || [wiki:r2011runs_311 Run 311]

@@ -1,0 +1,20 @@
+
+== Platform msp430fg4618_4mhz ==
+[wiki:r2012sha3platforms_msp430fg4618_4mhz Show only SHA3 round 3 candidates]
+
+
+
+
+[wiki:r2012platforms_msp430fg4618_4mhz#FastestAlgorithms FastestAlgorithms] - [wiki:r2012platforms_msp430fg4618_4mhz#SmallestAlgorithmsROM Smallest Algorithms (ROM)] - [wiki:r2012platforms_msp430fg4618_4mhz#SmallestAlgorithmsRAM Smallest Algorithms (RAM)]
+
+=== Fastest Algorithms ===
+
+[[SortCSVsourceTable(source:page/trunk/results2012/fastestPerPlatform/msp430fg4618_4mhz.table)]]
+
+=== Smallest Algorithms (ROM) ===
+
+[[SortCSVsourceTable(source:page/trunk/results2012/smallestRomPerPlatform/msp430fg4618_4mhz.table)]]
+
+=== Smallest Algorithms (RAM) ===
+
+[[SortCSVsourceTable(source:page/trunk/results2012/smallestRamPerPlatform/msp430fg4618_4mhz.table)]]

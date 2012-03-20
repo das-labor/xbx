@@ -1,0 +1,23 @@
+
+== Run 316 ==
+
+ * Date: 20120203
+ * Hostname: zeus
+ * Platform: msp430fg4618_4mhz
+ * XBX Version 2.0.1
+ * XBH Revision 2.0.1
+ * Bootloader Revision 2.0.1
+
+
+
+[wiki:r2012runs_316#MeasureResults Measure Results] - [wiki:r2012runs_316#TryResults Try Results] - [wiki:r2012runs_316#DriftMeasurements Drift Measurements]
+
+=== Measure Results ===
+[[SortCSVsourceTable(source:page/trunk/results2012/measuresByRun/316.table)]]
+
+=== Try Results ===
+[[SortCSVsourceTable(source:page/trunk/results2012/triesByRun/316.table)]]
+
+=== Drift Measurements ===
+[[SortCSVsourceTable(source:page/trunk/results2012/driftByRun/316.table)]]
+  

@@ -1,0 +1,23 @@
+
+== Run 306 ==
+
+ * Date: 20120124
+ * Hostname: clix
+ * Platform: beagleboard_xm
+ * XBX Version 2.0.2dev
+ * XBH Revision 01461
+ * Bootloader Revision 01482
+
+
+
+[wiki:r2012runs_306#MeasureResults Measure Results] - [wiki:r2012runs_306#TryResults Try Results] - [wiki:r2012runs_306#DriftMeasurements Drift Measurements]
+
+=== Measure Results ===
+[[SortCSVsourceTable(source:page/trunk/results2012/measuresByRun/306.table)]]
+
+=== Try Results ===
+[[SortCSVsourceTable(source:page/trunk/results2012/triesByRun/306.table)]]
+
+=== Drift Measurements ===
+[[SortCSVsourceTable(source:page/trunk/results2012/driftByRun/306.table)]]
+  

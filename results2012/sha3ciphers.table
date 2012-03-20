@@ -1,0 +1,13 @@
+| '''Hash''' || '''Number of Implementations''' 
+|[wiki:r2011ciphers_blake256 blake256] || 12
+|[wiki:r2011ciphers_blake512 blake512] || 7
+|[wiki:r2011ciphers_groestl256 groestl256] || 11
+|[wiki:r2011ciphers_groestl512 groestl512] || 7
+|[wiki:r2011ciphers_jh256 jh256] || 18
+|[wiki:r2011ciphers_jh512 jh512] || 14
+|[wiki:r2011ciphers_keccakc1024 keccakc1024] || 24
+|[wiki:r2011ciphers_keccakc512 keccakc512] || 26
+|[wiki:r2011ciphers_sha256 sha256] || 5
+|[wiki:r2011ciphers_sha512 sha512] || 2
+|[wiki:r2011ciphers_skein512256 skein512256] || 9
+|[wiki:r2011ciphers_skein512512 skein512512] || 9

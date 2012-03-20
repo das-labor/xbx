@@ -1,0 +1,20 @@
+
+== Platform lpc1114-evb ==
+[wiki:r2012sha3platforms_lpc1114-evb Show only SHA3 round 3 candidates]
+
+
+
+
+[wiki:r2012platforms_lpc1114-evb#FastestAlgorithms FastestAlgorithms] - [wiki:r2012platforms_lpc1114-evb#SmallestAlgorithmsROM Smallest Algorithms (ROM)] - [wiki:r2012platforms_lpc1114-evb#SmallestAlgorithmsRAM Smallest Algorithms (RAM)]
+
+=== Fastest Algorithms ===
+
+[[SortCSVsourceTable(source:page/trunk/results2012/fastestPerPlatform/lpc1114-evb.table)]]
+
+=== Smallest Algorithms (ROM) ===
+
+[[SortCSVsourceTable(source:page/trunk/results2012/smallestRomPerPlatform/lpc1114-evb.table)]]
+
+=== Smallest Algorithms (RAM) ===
+
+[[SortCSVsourceTable(source:page/trunk/results2012/smallestRamPerPlatform/lpc1114-evb.table)]]

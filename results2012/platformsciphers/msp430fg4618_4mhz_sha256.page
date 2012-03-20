@@ -1,0 +1,5 @@
+
+== Implementations of [wiki:r2012ciphers_sha256 sha256] on Platform [wiki:r2012platforms_msp430fg4618_4mhz msp430fg4618_4mhz] ==
+
+[[SortCSVsourceTable(source:page/trunk/results2012/cipherImplementationsPerPlatform/sha256_msp430fg4618_4mhz.table)]]
+

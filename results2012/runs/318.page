@@ -1,0 +1,23 @@
+
+== Run 318 ==
+
+ * Date: 20120207
+ * Hostname: hermes
+ * Platform: msp430fg4618_4mhz
+ * XBX Version 2.0.1
+ * XBH Revision 2.0.1
+ * Bootloader Revision 2.0.1
+
+
+
+[wiki:r2012runs_318#MeasureResults Measure Results] - [wiki:r2012runs_318#TryResults Try Results] - [wiki:r2012runs_318#DriftMeasurements Drift Measurements]
+
+=== Measure Results ===
+[[SortCSVsourceTable(source:page/trunk/results2012/measuresByRun/318.table)]]
+
+=== Try Results ===
+[[SortCSVsourceTable(source:page/trunk/results2012/triesByRun/318.table)]]
+
+=== Drift Measurements ===
+[[SortCSVsourceTable(source:page/trunk/results2012/driftByRun/318.table)]]
+  

@@ -1,0 +1,11 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20120120 || clix || [wiki:r2011compilernames arm-elf-gcc -O1] || 4.3.2 (GCC) || 7722174 || 746649 || 24468 (24468) || 24 (24) || 2520 (2520) || 888(888) || Checksum OK || [wiki:r2011runs_304 Run 304]
+|20120117 || clix || [wiki:r2011compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || 7270563 || 719036 || 13796 (23084) || 0 (24) || 32 (2520) || 884(884) || Checksum OK || [wiki:r2011runs_303 Run 303]
+|20120120 || clix || [wiki:r2011compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || 7270563 || 719036 || 13796 (23084) || 0 (24) || 32 (2520) || 884(884) || Checksum OK || [wiki:r2011runs_304 Run 304]
+|20120216 || clix || [wiki:r2011compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || 7270567 || 719036 || 13796 (23084) || 0 (24) || 32 (2520) || 884(884) || Checksum OK || [wiki:r2011runs_320 Run 320]
+|20120117 || clix || [wiki:r2011compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || 7270563 || 719036 || 13796 (24224) || 0 (24) || 32 (2520) || 884(884) || Checksum OK || [wiki:r2011runs_303 Run 303]
+|20120120 || clix || [wiki:r2011compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || 7270563 || 719036 || 13796 (24224) || 0 (24) || 32 (2520) || 884(884) || Checksum OK || [wiki:r2011runs_304 Run 304]
+|20120216 || clix || [wiki:r2011compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || 7270567 || 719036 || 13796 (24224) || 0 (24) || 32 (2520) || 884(884) || Checksum OK || [wiki:r2011runs_320 Run 320]
+|20120117 || clix || [wiki:r2011compilernames arm-elf-gcc -Os] || 4.3.2 (GCC) || 6929222 || 660234 || 11728 (20488) || 0 (24) || 32 (2520) || 884(884) || Checksum OK || [wiki:r2011runs_303 Run 303]
+|20120120 || clix || [wiki:r2011compilernames arm-elf-gcc -Os] || 4.3.2 (GCC) || 6929222 || 660233 || 11728 (20488) || 0 (24) || 32 (2520) || 884(884) || Checksum OK || [wiki:r2011runs_304 Run 304]
+|20120216 || clix || [wiki:r2011compilernames arm-elf-gcc -Os] || 4.3.2 (GCC) || 6929225 || 660234 || 11728 (20488) || 0 (24) || 32 (2520) || 884(884) || Checksum OK || [wiki:r2011runs_320 Run 320]

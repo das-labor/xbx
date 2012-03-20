@@ -1,0 +1,11 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20120117 || clix || [wiki:r2011compilernames armeb-uclibc-gcc -O0] || 4.1.2 || 26326835 || 1681802 || 12796 (35838) || 0 (388) || 0 (2828) || 764(772) ||  || [wiki:r2011runs_307 Run 307]
+|20120120 || clix || [wiki:r2011compilernames armeb-uclibc-gcc -O0] || 4.1.2 || 26322695 || 1682616 || 12796 (35838) || 0 (388) || 0 (2828) || 764(772) ||  || [wiki:r2011runs_308 Run 308]
+|20120117 || clix || [wiki:r2011compilernames armeb-uclibc-gcc -O1] || 4.1.2 || 11217037 || 753478 || 7640 (24398) || 0 (384) || 0 (2828) || 736(752) ||  || [wiki:r2011runs_307 Run 307]
+|20120120 || clix || [wiki:r2011compilernames armeb-uclibc-gcc -O1] || 4.1.2 || 11231002 || 754127 || 7640 (24398) || 0 (384) || 0 (2828) || 736(752) ||  || [wiki:r2011runs_308 Run 308]
+|20120117 || clix || [wiki:r2011compilernames armeb-uclibc-gcc -O2] || 4.1.2 || 16503338 || 1134058 || 14788 (31390) || 0 (384) || 0 (2828) || 2124(2132) ||  || [wiki:r2011runs_307 Run 307]
+|20120120 || clix || [wiki:r2011compilernames armeb-uclibc-gcc -O2] || 4.1.2 || 16504668 || 1134856 || 14788 (31390) || 0 (384) || 0 (2828) || 2124(2132) ||  || [wiki:r2011runs_308 Run 308]
+|20120117 || clix || [wiki:r2011compilernames armeb-uclibc-gcc -O3] || 4.1.2 || 16229292 || 1112179 || 15012 (32670) || 0 (384) || 0 (2824) || 2088(2104) ||  || [wiki:r2011runs_307 Run 307]
+|20120120 || clix || [wiki:r2011compilernames armeb-uclibc-gcc -O3] || 4.1.2 || 16186399 || 1133010 || 15012 (32670) || 0 (384) || 0 (2824) || 2088(2104) ||  || [wiki:r2011runs_308 Run 308]
+|20120117 || clix || [wiki:r2011compilernames armeb-uclibc-gcc -Os] || 4.1.2 || 14299545 || 980210 || 9880 (26058) || 0 (384) || 0 (2828) || 1656(1672) ||  || [wiki:r2011runs_307 Run 307]
+|20120120 || clix || [wiki:r2011compilernames armeb-uclibc-gcc -Os] || 4.1.2 || 14305430 || 1000077 || 9880 (26058) || 0 (384) || 0 (2828) || 1656(1672) ||  || [wiki:r2011runs_308 Run 308]

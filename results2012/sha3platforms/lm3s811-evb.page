@@ -1,0 +1,23 @@
+
+== Platform lm3s811-evb (SHA3 Round 3 Only) ==
+[wiki:r2012platforms_lm3s811-evb Show all hash functions] 
+
+
+This is a Stellaris LM3S811 Evaluation Board without any hardware modifications.
+
+See http://www.luminarymicro.com/products/ekk-lm3s811_evaluation_kit.html for more information.
+
+
+[wiki:r2012sha3platforms_lm3s811-evb#FastestAlgorithms FastestAlgorithms] - [wiki:r2012sha3platforms_lm3s811-evb#SmallestAlgorithmsROM Smallest Algorithms (ROM)] - [wiki:r2012sha3platforms_lm3s811-evb#SmallestAlgorithmsRAM Smallest Algorithms (RAM)]
+
+=== Fastest Algorithms ===
+
+[[SortCSVsourceTable(source:page/trunk/results2012/fastestPerPlatform/sha3lm3s811-evb.table)]]
+
+=== Smallest Algorithms (ROM) ===
+
+[[SortCSVsourceTable(source:page/trunk/results2012/smallestRomPerPlatform/sha3lm3s811-evb.table)]]
+
+=== Smallest Algorithms (RAM) ===
+
+[[SortCSVsourceTable(source:page/trunk/results2012/smallestRamPerPlatform/sha3lm3s811-evb.table)]]

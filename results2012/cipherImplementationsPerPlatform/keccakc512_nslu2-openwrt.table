@@ -1,0 +1,3 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:r2011platformsimplementations_nslu2-openwrt_keccakc512_sphlib-small sphlib-small] || 470022 || 14640 || 2408 || [wiki:r2011compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:r2011runs_307 Run 307]
+|[wiki:r2011platformsimplementations_nslu2-openwrt_keccakc512_sphlib sphlib] || 971715 || 38028 || 6248 || [wiki:r2011compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:r2011runs_307 Run 307]

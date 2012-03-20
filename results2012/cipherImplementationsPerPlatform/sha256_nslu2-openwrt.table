@@ -1,0 +1,3 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:r2011platformsimplementations_nslu2-openwrt_sha256_sphlib-small sphlib-small] || 102177 || 6108 || 492 || [wiki:r2011compilernames armeb-uclibc-gcc -Os] || 4.1.2 || [wiki:r2011runs_307 Run 307]
+|[wiki:r2011platformsimplementations_nslu2-openwrt_sha256_sphlib sphlib] || 108462 || 10460 || 496 || [wiki:r2011compilernames armeb-uclibc-gcc -O1] || 4.1.2 || [wiki:r2011runs_307 Run 307]

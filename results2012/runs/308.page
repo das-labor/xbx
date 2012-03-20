@@ -1,0 +1,23 @@
+
+== Run 308 ==
+
+ * Date: 20120120
+ * Hostname: clix
+ * Platform: nslu2-openwrt
+ * XBX Version 2.0.2dev
+ * XBH Revision 01250
+ * Bootloader Revision 01474
+
+
+
+[wiki:r2012runs_308#MeasureResults Measure Results] - [wiki:r2012runs_308#TryResults Try Results] - [wiki:r2012runs_308#DriftMeasurements Drift Measurements]
+
+=== Measure Results ===
+[[SortCSVsourceTable(source:page/trunk/results2012/measuresByRun/308.table)]]
+
+=== Try Results ===
+[[SortCSVsourceTable(source:page/trunk/results2012/triesByRun/308.table)]]
+
+=== Drift Measurements ===
+[[SortCSVsourceTable(source:page/trunk/results2012/driftByRun/308.table)]]
+  

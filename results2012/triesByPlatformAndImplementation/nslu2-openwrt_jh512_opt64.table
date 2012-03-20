@@ -1,0 +1,11 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20120117 || clix || [wiki:r2011compilernames armeb-uclibc-gcc -O0] || 4.1.2 || 164868778 || 11459330 || 40168 (63210) || 0 (388) || 32 (2860) || 444(452) || Checksum OK || [wiki:r2011runs_307 Run 307]
+|20120120 || clix || [wiki:r2011compilernames armeb-uclibc-gcc -O0] || 4.1.2 || 164740034 || 11469804 || 40168 (63210) || 0 (388) || 32 (2860) || 444(452) || Checksum OK || [wiki:r2011runs_308 Run 308]
+|20120117 || clix || [wiki:r2011compilernames armeb-uclibc-gcc -O1] || 4.1.2 || 19457734 || 1371795 || 13452 (30210) || 0 (384) || 32 (2860) || 1132(1148) || Checksum OK || [wiki:r2011runs_307 Run 307]
+|20120120 || clix || [wiki:r2011compilernames armeb-uclibc-gcc -O1] || 4.1.2 || 19452829 || 1371729 || 13452 (30210) || 0 (384) || 32 (2860) || 1132(1148) || Checksum OK || [wiki:r2011runs_308 Run 308]
+|20120117 || clix || [wiki:r2011compilernames armeb-uclibc-gcc -O2] || 4.1.2 || 20898905 || 1473657 || 15796 (32398) || 0 (384) || 32 (2860) || 1868(1876) || Checksum OK || [wiki:r2011runs_307 Run 307]
+|20120120 || clix || [wiki:r2011compilernames armeb-uclibc-gcc -O2] || 4.1.2 || 20888714 || 1473574 || 15796 (32398) || 0 (384) || 32 (2860) || 1868(1876) || Checksum OK || [wiki:r2011runs_308 Run 308]
+|20120117 || clix || [wiki:r2011compilernames armeb-uclibc-gcc -O3] || 4.1.2 || 24896902 || 1784810 || 30916 (48574) || 0 (384) || 32 (2856) || 1228(1244) || Checksum OK || [wiki:r2011runs_307 Run 307]
+|20120120 || clix || [wiki:r2011compilernames armeb-uclibc-gcc -O3] || 4.1.2 || 24893593 || 1778858 || 30916 (48574) || 0 (384) || 32 (2856) || 1228(1244) || Checksum OK || [wiki:r2011runs_308 Run 308]
+|20120117 || clix || [wiki:r2011compilernames armeb-uclibc-gcc -Os] || 4.1.2 || 20283946 || 1417913 || 14976 (31154) || 0 (384) || 32 (2860) || 1788(1804) || Checksum OK || [wiki:r2011runs_307 Run 307]
+|20120120 || clix || [wiki:r2011compilernames armeb-uclibc-gcc -Os] || 4.1.2 || 20389681 || 1438179 || 14976 (31154) || 0 (384) || 32 (2860) || 1788(1804) || Checksum OK || [wiki:r2011runs_308 Run 308]

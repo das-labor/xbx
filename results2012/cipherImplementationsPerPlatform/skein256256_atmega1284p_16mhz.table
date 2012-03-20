@@ -1,0 +1,5 @@
+| '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
+|[wiki:r2011platformsimplementations_atmega1284p_16mhz_skein256256_fhreefish-1_3_0 fhreefish-1_3_0] || 474774 || 3572 || 436 || [wiki:r2011compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || [wiki:r2011runs_301 Run 301]
+|[wiki:r2011platformsimplementations_atmega1284p_16mhz_skein256256_avrcryptolib_asm avrcryptolib_asm] || 1929221 || 2406 || 268 || [wiki:r2011compilernames avr-gcc 1284p -Os] || 4.3.4 (GCC) || [wiki:r2011runs_302 Run 302]
+|[wiki:r2011platformsimplementations_atmega1284p_16mhz_skein256256_armcryptolib armcryptolib] || 11352508 || 8212 || 539 || [wiki:r2011compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || [wiki:r2011runs_302 Run 302]
+|[wiki:r2011platformsimplementations_atmega1284p_16mhz_skein256256_avrcryptolib avrcryptolib] || 11352558 || 8210 || 539 || [wiki:r2011compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || [wiki:r2011runs_302 Run 302]

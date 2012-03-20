@@ -1,0 +1,5 @@
+
+== Implementations of [wiki:r2012ciphers_sha256 sha256] on Platform [wiki:r2012platforms_atmega1284p_16mhz atmega1284p_16mhz] ==
+
+[[SortCSVsourceTable(source:page/trunk/results2012/cipherImplementationsPerPlatform/sha256_atmega1284p_16mhz.table)]]
+

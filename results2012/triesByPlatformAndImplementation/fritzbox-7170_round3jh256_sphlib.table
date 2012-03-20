@@ -1,0 +1,11 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20120122 || clix || [wiki:r2011compilernames mips-uclib-gcc -O0] || 4.2.1 || 219060236 || 14874318 || 40066 (83521) || 68 (1036) || 0 (2844) || 776(824) ||  || [wiki:r2011runs_309 Run 309]
+|20120123 || clix || [wiki:r2011compilernames mips-uclib-gcc -O0] || 4.2.1 || 212241336 || 14884639 || 40066 (83521) || 68 (1036) || 0 (2844) || 776(824) ||  || [wiki:r2011runs_311 Run 311]
+|20120122 || clix || [wiki:r2011compilernames mips-uclib-gcc -O1] || 4.2.1 || 8917118 || 552538 || 17138 (51296) || 64 (1028) || 0 (2844) || 1488(1544) ||  || [wiki:r2011runs_309 Run 309]
+|20120123 || clix || [wiki:r2011compilernames mips-uclib-gcc -O1] || 4.2.1 || 8935707 || 552154 || 17138 (51296) || 64 (1028) || 0 (2844) || 1488(1544) ||  || [wiki:r2011runs_311 Run 311]
+|20120122 || clix || [wiki:r2011compilernames mips-uclib-gcc -O2] || 4.2.1 || 63338564 || 4195573 || 22258 (54512) || 64 (1028) || 0 (2844) || 3536(3592) ||  || [wiki:r2011runs_309 Run 309]
+|20120123 || clix || [wiki:r2011compilernames mips-uclib-gcc -O2] || 4.2.1 || 62946245 || 4209856 || 22258 (54512) || 64 (1028) || 0 (2844) || 3536(3592) ||  || [wiki:r2011runs_311 Run 311]
+|20120122 || clix || [wiki:r2011compilernames mips-uclib-gcc -O3] || 4.2.1 || 64017680 || 4161388 || 22780 (55195) || 64 (1028) || 0 (2840) || 3560(3616) ||  || [wiki:r2011runs_309 Run 309]
+|20120123 || clix || [wiki:r2011compilernames mips-uclib-gcc -O3] || 4.2.1 || 64027763 || 4156591 || 22780 (55195) || 64 (1028) || 0 (2840) || 3560(3616) ||  || [wiki:r2011runs_311 Run 311]
+|20120122 || clix || [wiki:r2011compilernames mips-uclib-gcc -Os] || 4.2.1 || 63725385 || 4269415 || 22194 (54433) || 64 (1028) || 0 (2844) || 3440(3496) ||  || [wiki:r2011runs_309 Run 309]
+|20120123 || clix || [wiki:r2011compilernames mips-uclib-gcc -Os] || 4.2.1 || 63715315 || 4262525 || 22194 (54433) || 64 (1028) || 0 (2844) || 3440(3496) ||  || [wiki:r2011runs_311 Run 311]

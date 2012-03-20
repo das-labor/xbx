@@ -1,0 +1,10 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20120117 || clix || [wiki:r2011compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || 136865213 || 7397334 || 2044 (11332) || 64 (88) || 0 (2488) || 500(500) || Checksum OK || [wiki:r2011runs_303 Run 303]
+|20120120 || clix || [wiki:r2011compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || 136865214 || 7397334 || 2044 (11332) || 64 (88) || 0 (2488) || 500(500) || Checksum OK || [wiki:r2011runs_304 Run 304]
+|20120216 || clix || [wiki:r2011compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || 136865291 || 7397338 || 2044 (11332) || 64 (88) || 0 (2488) || 500(500) || Checksum OK || [wiki:r2011runs_320 Run 320]
+|20120117 || clix || [wiki:r2011compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || 131213741 || 7092367 || 2612 (13040) || 64 (88) || 0 (2488) || 532(532) || Checksum OK || [wiki:r2011runs_303 Run 303]
+|20120120 || clix || [wiki:r2011compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || 131213743 || 7092367 || 2612 (13040) || 64 (88) || 0 (2488) || 532(532) || Checksum OK || [wiki:r2011runs_304 Run 304]
+|20120216 || clix || [wiki:r2011compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || 131213815 || 7092371 || 2612 (13040) || 64 (88) || 0 (2488) || 532(532) || Checksum OK || [wiki:r2011runs_320 Run 320]
+|20120117 || clix || [wiki:r2011compilernames arm-elf-gcc -Os] || 4.3.2 (GCC) || 142864142 || 7711722 || 1788 (10548) || 64 (88) || 0 (2488) || 480(480) || Checksum OK || [wiki:r2011runs_303 Run 303]
+|20120120 || clix || [wiki:r2011compilernames arm-elf-gcc -Os] || 4.3.2 (GCC) || 142864143 || 7711722 || 1788 (10548) || 64 (88) || 0 (2488) || 480(480) || Checksum OK || [wiki:r2011runs_304 Run 304]
+|20120216 || clix || [wiki:r2011compilernames arm-elf-gcc -Os] || 4.3.2 (GCC) || 142864222 || 7711726 || 1788 (10548) || 64 (88) || 0 (2488) || 480(480) || Checksum OK || [wiki:r2011runs_320 Run 320]

@@ -1,0 +1,23 @@
+
+== Run 301 ==
+
+ * Date: 20120117
+ * Hostname: clix
+ * Platform: atmega1284p_16mhz
+ * XBX Version 2.0.2dev
+ * XBH Revision 01120
+ * Bootloader Revision 01391
+
+
+
+[wiki:r2012runs_301#MeasureResults Measure Results] - [wiki:r2012runs_301#TryResults Try Results] - [wiki:r2012runs_301#DriftMeasurements Drift Measurements]
+
+=== Measure Results ===
+[[SortCSVsourceTable(source:page/trunk/results2012/measuresByRun/301.table)]]
+
+=== Try Results ===
+[[SortCSVsourceTable(source:page/trunk/results2012/triesByRun/301.table)]]
+
+=== Drift Measurements ===
+[[SortCSVsourceTable(source:page/trunk/results2012/driftByRun/301.table)]]
+  

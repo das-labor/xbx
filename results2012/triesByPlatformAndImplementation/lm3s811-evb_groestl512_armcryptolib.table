@@ -1,0 +1,10 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20120117 || clix || [wiki:r2011compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || 301563506 || 18731016 || 1396 (10684) || 0 (24) || 32 (2520) || 696(696) || Checksum OK || [wiki:r2011runs_303 Run 303]
+|20120120 || clix || [wiki:r2011compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || 301563498 || 18732076 || 1396 (10684) || 0 (24) || 32 (2520) || 696(696) || Checksum OK || [wiki:r2011runs_304 Run 304]
+|20120216 || clix || [wiki:r2011compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || 301563671 || 18727227 || 1396 (10684) || 0 (24) || 32 (2520) || 696(696) || Checksum OK || [wiki:r2011runs_320 Run 320]
+|20120117 || clix || [wiki:r2011compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || 279025265 || 17325903 || 3916 (14344) || 0 (24) || 32 (2520) || 884(884) || Checksum OK || [wiki:r2011runs_303 Run 303]
+|20120120 || clix || [wiki:r2011compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || 279025257 || 17328923 || 3916 (14344) || 0 (24) || 32 (2520) || 884(884) || Checksum OK || [wiki:r2011runs_304 Run 304]
+|20120216 || clix || [wiki:r2011compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || 279025418 || 17328233 || 3916 (14344) || 0 (24) || 32 (2520) || 884(884) || Checksum OK || [wiki:r2011runs_320 Run 320]
+|20120117 || clix || [wiki:r2011compilernames arm-elf-gcc -Os] || 4.3.2 (GCC) || 325199984 || 20174051 || 1336 (10096) || 0 (24) || 32 (2520) || 688(688) || Checksum OK || [wiki:r2011runs_303 Run 303]
+|20120120 || clix || [wiki:r2011compilernames arm-elf-gcc -Os] || 4.3.2 (GCC) || 325199975 || 20174051 || 1336 (10096) || 0 (24) || 32 (2520) || 688(688) || Checksum OK || [wiki:r2011runs_304 Run 304]
+|20120216 || clix || [wiki:r2011compilernames arm-elf-gcc -Os] || 4.3.2 (GCC) || 325200161 || 20174062 || 1336 (10096) || 0 (24) || 32 (2520) || 688(688) || Checksum OK || [wiki:r2011runs_320 Run 320]

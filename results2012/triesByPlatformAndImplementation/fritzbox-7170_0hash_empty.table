@@ -1,0 +1,11 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20120122 || clix || [wiki:r2011compilernames mips-uclib-gcc -O0] || 4.2.1 || 1851118 || 14217 || 0 (43455) || 0 (968) || 0 (2844) || 0(48) || Checksum OK || [wiki:r2011runs_309 Run 309]
+|20120123 || clix || [wiki:r2011compilernames mips-uclib-gcc -O0] || 4.2.1 || 1947326 || 14204 || 0 (43455) || 0 (968) || 0 (2844) || 0(48) || Checksum OK || [wiki:r2011runs_311 Run 311]
+|20120122 || clix || [wiki:r2011compilernames mips-uclib-gcc -O1] || 4.2.1 || 221845 || 14151 || 0 (34158) || 0 (964) || 0 (2844) || 0(56) || Checksum OK || [wiki:r2011runs_309 Run 309]
+|20120123 || clix || [wiki:r2011compilernames mips-uclib-gcc -O1] || 4.2.1 || 222004 || 14151 || 0 (34158) || 0 (964) || 0 (2844) || 0(56) || Checksum OK || [wiki:r2011runs_311 Run 311]
+|20120122 || clix || [wiki:r2011compilernames mips-uclib-gcc -O2] || 4.2.1 || 207879 || 13648 || 0 (32254) || 0 (964) || 0 (2844) || 0(56) || Checksum OK || [wiki:r2011runs_309 Run 309]
+|20120123 || clix || [wiki:r2011compilernames mips-uclib-gcc -O2] || 4.2.1 || 208224 || 13687 || 0 (32254) || 0 (964) || 0 (2844) || 0(56) || Checksum OK || [wiki:r2011runs_311 Run 311]
+|20120122 || clix || [wiki:r2011compilernames mips-uclib-gcc -O3] || 4.2.1 || 248795 || 13846 || 0 (32415) || 0 (964) || 0 (2840) || 0(56) || Checksum OK || [wiki:r2011runs_309 Run 309]
+|20120123 || clix || [wiki:r2011compilernames mips-uclib-gcc -O3] || 4.2.1 || 208025 || 13939 || 0 (32415) || 0 (964) || 0 (2840) || 0(56) || Checksum OK || [wiki:r2011runs_311 Run 311]
+|20120122 || clix || [wiki:r2011compilernames mips-uclib-gcc -Os] || 4.2.1 || 248915 || 13793 || 0 (32239) || 0 (964) || 0 (2844) || 0(56) || Checksum OK || [wiki:r2011runs_309 Run 309]
+|20120123 || clix || [wiki:r2011compilernames mips-uclib-gcc -Os] || 4.2.1 || 249073 || 13793 || 0 (32239) || 0 (964) || 0 (2844) || 0(56) || Checksum OK || [wiki:r2011runs_311 Run 311]

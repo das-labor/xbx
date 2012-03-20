@@ -1,0 +1,23 @@
+
+== Run 319 ==
+
+ * Date: 20120215
+ * Hostname: clix
+ * Platform: lpc1114-evb
+ * XBX Version 2.0.2dev
+ * XBH Revision 01120
+ * Bootloader Revision 01539
+
+
+
+[wiki:r2012runs_319#MeasureResults Measure Results] - [wiki:r2012runs_319#TryResults Try Results] - [wiki:r2012runs_319#DriftMeasurements Drift Measurements]
+
+=== Measure Results ===
+[[SortCSVsourceTable(source:page/trunk/results2012/measuresByRun/319.table)]]
+
+=== Try Results ===
+[[SortCSVsourceTable(source:page/trunk/results2012/triesByRun/319.table)]]
+
+=== Drift Measurements ===
+[[SortCSVsourceTable(source:page/trunk/results2012/driftByRun/319.table)]]
+  

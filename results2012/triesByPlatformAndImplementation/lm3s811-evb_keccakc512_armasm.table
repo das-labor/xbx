@@ -1,0 +1,10 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20120117 || clix || [wiki:r2011compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || 2580610 || 162871 || 6532 (15820) || 0 (24) || 0 (2488) || 792(792) || Checksum OK || [wiki:r2011runs_303 Run 303]
+|20120120 || clix || [wiki:r2011compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || 2580610 || 162871 || 6532 (15820) || 0 (24) || 0 (2488) || 792(792) || Checksum OK || [wiki:r2011runs_304 Run 304]
+|20120216 || clix || [wiki:r2011compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || 2580612 || 162871 || 6532 (15820) || 0 (24) || 0 (2488) || 791(791) || Checksum OK || [wiki:r2011runs_320 Run 320]
+|20120117 || clix || [wiki:r2011compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || 2641715 || 163318 || 6632 (17060) || 0 (24) || 0 (2488) || 788(788) || Checksum OK || [wiki:r2011runs_303 Run 303]
+|20120120 || clix || [wiki:r2011compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || 2641714 || 163318 || 6632 (17060) || 0 (24) || 0 (2488) || 788(788) || Checksum OK || [wiki:r2011runs_304 Run 304]
+|20120216 || clix || [wiki:r2011compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || 2641716 || 163318 || 6632 (17060) || 0 (24) || 0 (2488) || 788(788) || Checksum OK || [wiki:r2011runs_320 Run 320]
+|20120117 || clix || [wiki:r2011compilernames arm-elf-gcc -Os] || 4.3.2 (GCC) || 2751881 || 162765 || 6368 (15128) || 0 (24) || 0 (2488) || 776(776) || Checksum OK || [wiki:r2011runs_303 Run 303]
+|20120120 || clix || [wiki:r2011compilernames arm-elf-gcc -Os] || 4.3.2 (GCC) || 2751881 || 162765 || 6368 (15128) || 0 (24) || 0 (2488) || 776(776) || Checksum OK || [wiki:r2011runs_304 Run 304]
+|20120216 || clix || [wiki:r2011compilernames arm-elf-gcc -Os] || 4.3.2 (GCC) || 2751883 || 162765 || 6368 (15128) || 0 (24) || 0 (2488) || 776(776) || Checksum OK || [wiki:r2011runs_320 Run 320]
