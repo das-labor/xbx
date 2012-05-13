@@ -1,0 +1,11 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20120429 || clix || [wiki:r2012compilernames arm-artila-gcc -O0] || 3.3.2 || 47739611 || 1472355 || 31740 (54633) || 0 (472) || 0 (2748) || 700(713) ||  || [wiki:r2012runs_325 Run 325]
+|20120429 || clix || [wiki:r2012compilernames arm-artila-gcc -O0] || 3.3.2 || 52449930 || 1472209 || 31740 (54633) || 0 (472) || 0 (2748) || 700(713) ||  || [wiki:r2012runs_326 Run 326]
+|20120429 || clix || [wiki:r2012compilernames arm-artila-gcc -O1] || 3.3.2 || 6765998 || 151391 || 14912 (32428) || 0 (472) || 0 (2748) || 748(748) ||  || [wiki:r2012runs_325 Run 325]
+|20120429 || clix || [wiki:r2012compilernames arm-artila-gcc -O1] || 3.3.2 || 6723225 || 150919 || 14912 (32428) || 0 (472) || 0 (2748) || 748(748) ||  || [wiki:r2012runs_326 Run 326]
+|20120429 || clix || [wiki:r2012compilernames arm-artila-gcc -O2] || 3.3.2 || 10818371 || 169650 || 16492 (33800) || 0 (472) || 0 (2748) || 1428(1428) ||  || [wiki:r2012runs_325 Run 325]
+|20120429 || clix || [wiki:r2012compilernames arm-artila-gcc -O2] || 3.3.2 || 10990283 || 169740 || 16492 (33800) || 0 (472) || 0 (2748) || 1428(1428) ||  || [wiki:r2012runs_326 Run 326]
+|20120429 || clix || [wiki:r2012compilernames arm-artila-gcc -O3] || 3.3.2 || 10285054 || 162124 || 16788 (36744) || 0 (472) || 0 (2748) || 1440(1440) ||  || [wiki:r2012runs_325 Run 325]
+|20120429 || clix || [wiki:r2012compilernames arm-artila-gcc -O3] || 3.3.2 || 10296293 || 162023 || 16788 (36744) || 0 (472) || 0 (2748) || 1440(1440) ||  || [wiki:r2012runs_326 Run 326]
+|20120429 || clix || [wiki:r2012compilernames arm-artila-gcc -Os] || 3.3.2 || 10155116 || 162146 || 16344 (33493) || 0 (472) || 0 (2748) || 1420(1420) ||  || [wiki:r2012runs_325 Run 325]
+|20120429 || clix || [wiki:r2012compilernames arm-artila-gcc -Os] || 3.3.2 || 10074600 || 162281 || 16344 (33493) || 0 (472) || 0 (2748) || 1420(1420) ||  || [wiki:r2012runs_326 Run 326]

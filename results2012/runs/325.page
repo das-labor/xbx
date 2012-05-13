@@ -1,0 +1,23 @@
+
+== Run 325 ==
+
+ * Date: 20120429
+ * Hostname: clix
+ * Platform: artila_m501
+ * XBX Version 2.0.2dev
+ * XBH Revision 01464
+ * Bootloader Revision 01578
+
+
+
+[wiki:r2012runs_325#MeasureResults Measure Results] - [wiki:r2012runs_325#TryResults Try Results] - [wiki:r2012runs_325#DriftMeasurements Drift Measurements]
+
+=== Measure Results ===
+[[SortCSVsourceTable(source:page/trunk/results2012/measuresByRun/325.table)]]
+
+=== Try Results ===
+[[SortCSVsourceTable(source:page/trunk/results2012/triesByRun/325.table)]]
+
+=== Drift Measurements ===
+[[SortCSVsourceTable(source:page/trunk/results2012/driftByRun/325.table)]]
+  

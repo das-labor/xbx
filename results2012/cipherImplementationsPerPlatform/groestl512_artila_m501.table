@@ -1,6 +1,7 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
 |[wiki:r2012platformsimplementations_artila_m501_groestl512_arm32 arm32] || 410501 || 49612 || 1524 || [wiki:r2012compilernames arm-artila-gcc -O0] || 3.3.2 || [wiki:r2012runs_313 Run 313]
-|[wiki:r2012platformsimplementations_artila_m501_groestl512_sphlib-small sphlib-small] || 1075579 || 26760 || 2568 || [wiki:r2012compilernames arm-artila-gcc -Os] || 3.3.2 || [wiki:r2012runs_313 Run 313]
-|[wiki:r2012platformsimplementations_artila_m501_groestl512_sphlib sphlib] || 1307959 || 63392 || 1544 || [wiki:r2012compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:r2012runs_313 Run 313]
+|[wiki:r2012platformsimplementations_artila_m501_groestl512_sphlib-small sphlib-small] || 1075331 || 26760 || 2568 || [wiki:r2012compilernames arm-artila-gcc -Os] || 3.3.2 || [wiki:r2012runs_326 Run 326]
+|[wiki:r2012platformsimplementations_artila_m501_groestl512_sphlib sphlib] || 1299668 || 63392 || 1544 || [wiki:r2012compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:r2012runs_325 Run 325]
 |[wiki:r2012platformsimplementations_artila_m501_groestl512_sphlib-adapted sphlib-adapted] || 1651343 || 67012 || 1556 || [wiki:r2012compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:r2012runs_312 Run 312]
-|[wiki:r2012platformsimplementations_artila_m501_groestl512_armcryptolib armcryptolib] || 18601740 || 2272 || 712 || [wiki:r2012compilernames arm-artila-gcc -O3] || 3.3.2 || [wiki:r2012runs_313 Run 313]
+|[wiki:r2012platformsimplementations_artila_m501_groestl512_32bit-bytesliced-c-small 32bit-bytesliced-c-small] || 2790135 || 2200 || 412 || [wiki:r2012compilernames arm-artila-gcc -O2] || 3.3.2 || [wiki:r2012runs_325 Run 325]
+|[wiki:r2012platformsimplementations_artila_m501_groestl512_armcryptolib armcryptolib] || 18601211 || 2104 || 712 || [wiki:r2012compilernames arm-artila-gcc -O2] || 3.3.2 || [wiki:r2012runs_326 Run 326]

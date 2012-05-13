@@ -1,7 +1,13 @@
 | '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
 |20120120 || clix || [wiki:r2012compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || 9565390 || 645921 || 5320 (14608) || 0 (24) || 32 (2520) || 748(748) || Checksum OK || [wiki:r2012runs_304 Run 304]
 |20120216 || clix || [wiki:r2012compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || 9565396 || 645922 || 5320 (14608) || 0 (24) || 32 (2520) || 748(748) || Checksum OK || [wiki:r2012runs_320 Run 320]
+|20120509 || clix || [wiki:r2012compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || 9565375 || 645920 || 5320 (14608) || 0 (24) || 32 (2520) || 748(748) || Checksum OK || [wiki:r2012runs_323 Run 323]
+|20120510 || clix || [wiki:r2012compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || 9565376 || 645920 || 5320 (14608) || 0 (24) || 32 (2520) || 748(748) || Checksum OK || [wiki:r2012runs_324 Run 324]
 |20120120 || clix || [wiki:r2012compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || 9508112 || 642648 || 5740 (16168) || 0 (24) || 32 (2520) || 752(752) || Checksum OK || [wiki:r2012runs_304 Run 304]
 |20120216 || clix || [wiki:r2012compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || 9508117 || 642649 || 5740 (16168) || 0 (24) || 32 (2520) || 752(752) || Checksum OK || [wiki:r2012runs_320 Run 320]
+|20120509 || clix || [wiki:r2012compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || 9508096 || 642647 || 5740 (16168) || 0 (24) || 32 (2520) || 752(752) || Checksum OK || [wiki:r2012runs_323 Run 323]
+|20120510 || clix || [wiki:r2012compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || 9508097 || 642648 || 5740 (16168) || 0 (24) || 32 (2520) || 752(752) || Checksum OK || [wiki:r2012runs_324 Run 324]
 |20120120 || clix || [wiki:r2012compilernames arm-elf-gcc -Os] || 4.3.2 (GCC) || 10148999 || 674727 || 5320 (14080) || 0 (24) || 32 (2520) || 796(796) || Checksum OK || [wiki:r2012runs_304 Run 304]
 |20120216 || clix || [wiki:r2012compilernames arm-elf-gcc -Os] || 4.3.2 (GCC) || 10149005 || 674728 || 5320 (14080) || 0 (24) || 32 (2520) || 796(796) || Checksum OK || [wiki:r2012runs_320 Run 320]
+|20120509 || clix || [wiki:r2012compilernames arm-elf-gcc -Os] || 4.3.2 (GCC) || 10148982 || 674726 || 5320 (14080) || 0 (24) || 32 (2520) || 796(796) || Checksum OK || [wiki:r2012runs_323 Run 323]
+|20120510 || clix || [wiki:r2012compilernames arm-elf-gcc -Os] || 4.3.2 (GCC) || 10148984 || 674727 || 5320 (14080) || 0 (24) || 32 (2520) || 796(796) || Checksum OK || [wiki:r2012runs_324 Run 324]

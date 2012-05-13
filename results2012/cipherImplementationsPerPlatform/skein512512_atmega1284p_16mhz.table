@@ -1,5 +1,5 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:r2012platformsimplementations_atmega1284p_16mhz_skein512512_avrcryptolib_asm avrcryptolib_asm] || 2405647 || 2508 || 429 || [wiki:r2012compilernames avr-gcc 1284p -Os] || 4.3.4 (GCC) || [wiki:r2012runs_302 Run 302]
-|[wiki:r2012platformsimplementations_atmega1284p_16mhz_skein512512_sphlib-small sphlib-small] || 11018065 || 105662 || 1422 || [wiki:r2012compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || [wiki:r2012runs_302 Run 302]
-|[wiki:r2012platformsimplementations_atmega1284p_16mhz_skein512512_armcryptolib armcryptolib] || 12432798 || 6520 || 575 || [wiki:r2012compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || [wiki:r2012runs_302 Run 302]
-|[wiki:r2012platformsimplementations_atmega1284p_16mhz_skein512512_avrcryptolib avrcryptolib] || 12432824 || 6520 || 575 || [wiki:r2012compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || [wiki:r2012runs_302 Run 302]
+|[wiki:r2012platformsimplementations_atmega1284p_16mhz_skein512512_avrcryptolib_asm avrcryptolib_asm] || 2405645 || 2508 || 429 || [wiki:r2012compilernames avr-gcc 1284p -Os] || 4.3.4 (GCC) || [wiki:r2012runs_322 Run 322]
+|[wiki:r2012platformsimplementations_atmega1284p_16mhz_skein512512_sphlib-small sphlib-small] || 11018055 || 105662 || 1422 || [wiki:r2012compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || [wiki:r2012runs_322 Run 322]
+|[wiki:r2012platformsimplementations_atmega1284p_16mhz_skein512512_armcryptolib armcryptolib] || 12432785 || 6520 || 575 || [wiki:r2012compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || [wiki:r2012runs_322 Run 322]
+|[wiki:r2012platformsimplementations_atmega1284p_16mhz_skein512512_avrcryptolib avrcryptolib] || 12432812 || 6520 || 575 || [wiki:r2012compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || [wiki:r2012runs_322 Run 322]

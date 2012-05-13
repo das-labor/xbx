@@ -1,0 +1,11 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20120429 || clix || [wiki:r2012compilernames arm-artila-gcc -O0] || 3.3.2 || 33144795 || 2493911 || 25016 (47909) || 0 (472) || 0 (2748) || 532(545) || Checksum OK || [wiki:r2012runs_325 Run 325]
+|20120429 || clix || [wiki:r2012compilernames arm-artila-gcc -O0] || 3.3.2 || 35869759 || 2490874 || 25016 (47909) || 0 (472) || 0 (2748) || 532(545) || Checksum OK || [wiki:r2012runs_326 Run 326]
+|20120429 || clix || [wiki:r2012compilernames arm-artila-gcc -O1] || 3.3.2 || 8045674 || 474773 || 8868 (26384) || 0 (472) || 0 (2748) || 508(508) || Checksum OK || [wiki:r2012runs_325 Run 325]
+|20120429 || clix || [wiki:r2012compilernames arm-artila-gcc -O1] || 3.3.2 || 8039182 || 472343 || 8868 (26384) || 0 (472) || 0 (2748) || 508(508) || Checksum OK || [wiki:r2012runs_326 Run 326]
+|20120429 || clix || [wiki:r2012compilernames arm-artila-gcc -O2] || 3.3.2 || 7052591 || 396068 || 9208 (26516) || 0 (472) || 0 (2748) || 624(624) || Checksum OK || [wiki:r2012runs_325 Run 325]
+|20120429 || clix || [wiki:r2012compilernames arm-artila-gcc -O2] || 3.3.2 || 7060658 || 395978 || 9208 (26516) || 0 (472) || 0 (2748) || 624(624) || Checksum OK || [wiki:r2012runs_326 Run 326]
+|20120429 || clix || [wiki:r2012compilernames arm-artila-gcc -O3] || 3.3.2 || 7109314 || 397091 || 9768 (29724) || 0 (472) || 0 (2748) || 780(780) || Checksum OK || [wiki:r2012runs_325 Run 325]
+|20120429 || clix || [wiki:r2012compilernames arm-artila-gcc -O3] || 3.3.2 || 7059780 || 396776 || 9768 (29724) || 0 (472) || 0 (2748) || 780(780) || Checksum OK || [wiki:r2012runs_326 Run 326]
+|20120429 || clix || [wiki:r2012compilernames arm-artila-gcc -Os] || 3.3.2 || 6929471 || 393525 || 8956 (26105) || 0 (472) || 0 (2748) || 568(568) || Checksum OK || [wiki:r2012runs_325 Run 325]
+|20120429 || clix || [wiki:r2012compilernames arm-artila-gcc -Os] || 3.3.2 || 6929100 || 380925 || 8956 (26105) || 0 (472) || 0 (2748) || 568(568) || Checksum OK || [wiki:r2012runs_326 Run 326]

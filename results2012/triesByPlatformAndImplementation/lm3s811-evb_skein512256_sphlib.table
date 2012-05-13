@@ -2,3 +2,5 @@
 |20120117 || clix || [wiki:r2012compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || 4362781 || 286251 || 47584 (56872) || 0 (24) || 0 (2488) || 884(884) || Checksum OK || [wiki:r2012runs_303 Run 303]
 |20120120 || clix || [wiki:r2012compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || 4362782 || 286250 || 47584 (56872) || 0 (24) || 0 (2488) || 884(884) || Checksum OK || [wiki:r2012runs_304 Run 304]
 |20120216 || clix || [wiki:r2012compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || 4362783 || 286251 || 47584 (56872) || 0 (24) || 0 (2488) || 884(884) || Checksum OK || [wiki:r2012runs_320 Run 320]
+|20120509 || clix || [wiki:r2012compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || 4362774 || 286250 || 47584 (56872) || 0 (24) || 0 (2488) || 884(884) || Checksum OK || [wiki:r2012runs_323 Run 323]
+|20120510 || clix || [wiki:r2012compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || 4362774 || 286250 || 47584 (56872) || 0 (24) || 0 (2488) || 884(884) || Checksum OK || [wiki:r2012runs_324 Run 324]

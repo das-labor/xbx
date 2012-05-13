@@ -1,0 +1,11 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20120429 || clix || [wiki:r2012compilernames avr-gcc 1284p -O0] || 4.3.4 (GCC) || 85081499 || 3895194 || 910 (21206) || 0 (864) || 32 (2448) || 246(254) || Checksum OK || [wiki:r2012runs_321 Run 321]
+|20120429 || clix || [wiki:r2012compilernames avr-gcc 1284p -O0] || 4.3.4 (GCC) || 85081488 || 3895194 || 910 (21206) || 0 (864) || 32 (2448) || 246(254) || Checksum OK || [wiki:r2012runs_322 Run 322]
+|20120429 || clix || [wiki:r2012compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || 42668336 || 3895203 || 986 (10472) || 0 (608) || 32 (2448) || 260(260) || Checksum OK || [wiki:r2012runs_321 Run 321]
+|20120429 || clix || [wiki:r2012compilernames avr-gcc 1284p -O1] || 4.3.4 (GCC) || 42668332 || 3895202 || 986 (10472) || 0 (608) || 32 (2448) || 260(260) || Checksum OK || [wiki:r2012runs_322 Run 322]
+|20120429 || clix || [wiki:r2012compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || 41957557 || 3895193 || 986 (9544) || 0 (608) || 32 (2448) || 262(262) || Checksum OK || [wiki:r2012runs_321 Run 321]
+|20120429 || clix || [wiki:r2012compilernames avr-gcc 1284p -O2] || 4.3.4 (GCC) || 41957552 || 3895192 || 986 (9544) || 0 (608) || 32 (2448) || 262(262) || Checksum OK || [wiki:r2012runs_322 Run 322]
+|20120429 || clix || [wiki:r2012compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || 41957557 || 3895193 || 986 (10138) || 0 (608) || 32 (2448) || 262(262) || Checksum OK || [wiki:r2012runs_321 Run 321]
+|20120429 || clix || [wiki:r2012compilernames avr-gcc 1284p -O3] || 4.3.4 (GCC) || 41957551 || 3895193 || 986 (10138) || 0 (608) || 32 (2448) || 262(262) || Checksum OK || [wiki:r2012runs_322 Run 322]
+|20120429 || clix || [wiki:r2012compilernames avr-gcc 1284p -Os] || 4.3.4 (GCC) || 42129692 || 3895193 || 986 (8972) || 0 (608) || 32 (2448) || 262(262) || Checksum OK || [wiki:r2012runs_321 Run 321]
+|20120429 || clix || [wiki:r2012compilernames avr-gcc 1284p -Os] || 4.3.4 (GCC) || 42129688 || 3895193 || 986 (8972) || 0 (608) || 32 (2448) || 262(262) || Checksum OK || [wiki:r2012runs_322 Run 322]

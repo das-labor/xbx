@@ -1,2 +1,2 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:r2012platformsimplementations_artila_m501_0hash_empty empty] || 968 || 0 || 0 || [wiki:r2012compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:r2012runs_312 Run 312]
+|[wiki:r2012platformsimplementations_artila_m501_0hash_empty empty] || 956 || 0 || 0 || [wiki:r2012compilernames arm-artila-gcc -O1] || 3.3.2 || [wiki:r2012runs_325 Run 325]

@@ -1,4 +1,12 @@
 | '''ID''' || '''Date''' || '''Platform''' || '''Hostname''' || '''Version''' || '''XBH Revision''' || '''Bootloader Revision''' || '''Details''' 
+|328 || 20120429 || lpc1114-evb || clix || 2.0.2dev || 01120 || 01539 || [wiki:r2012runs_328 Run 328]
+|327 || 20120429 || lpc1114-evb || clix || 2.0.2dev || 01120 || 01539 || [wiki:r2012runs_327 Run 327]
+|326 || 20120429 || artila_m501 || clix || 2.0.2dev || 01464 || 01578 || [wiki:r2012runs_326 Run 326]
+|325 || 20120429 || artila_m501 || clix || 2.0.2dev || 01464 || 01578 || [wiki:r2012runs_325 Run 325]
+|324 || 20120510 || lm3s811-evb || clix || 2.0.2dev || 01085 || 01099 || [wiki:r2012runs_324 Run 324]
+|323 || 20120509 || lm3s811-evb || clix || 2.0.2dev || 01085 || 01099 || [wiki:r2012runs_323 Run 323]
+|322 || 20120429 || atmega1284p_16mhz || clix || 2.0.2dev || 01120 || 01391 || [wiki:r2012runs_322 Run 322]
+|321 || 20120429 || atmega1284p_16mhz || clix || 2.0.2dev || 01120 || 01391 || [wiki:r2012runs_321 Run 321]
 |320 || 20120216 || lm3s811-evb || clix || 2.0.2dev || 01085 || 01099 || [wiki:r2012runs_320 Run 320]
 |319 || 20120215 || lpc1114-evb || clix || 2.0.2dev || 01120 || 01539 || [wiki:r2012runs_319 Run 319]
 |318 || 20120207 || msp430fg4618_4mhz || hermes || 2.0.1 || 2.0.1 || 2.0.1 || [wiki:r2012runs_318 Run 318]

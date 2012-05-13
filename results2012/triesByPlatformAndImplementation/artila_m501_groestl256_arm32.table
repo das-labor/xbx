@@ -1,3 +1,5 @@
 | '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
 |20120117 || clix || [wiki:r2012compilernames arm-artila-gcc -O0] || 3.3.2 || 6542764 || 292804 || 49612 (72257) || 0 (472) || 652 (3400) || 520(533) || Checksum OK || [wiki:r2012runs_312 Run 312]
 |20120120 || clix || [wiki:r2012compilernames arm-artila-gcc -O0] || 3.3.2 || 6520039 || 292365 || 49612 (72505) || 0 (472) || 652 (3400) || 520(533) || Checksum OK || [wiki:r2012runs_313 Run 313]
+|20120429 || clix || [wiki:r2012compilernames arm-artila-gcc -O0] || 3.3.2 || 6536104 || 292556 || 49612 (72505) || 0 (472) || 652 (3400) || 520(533) || Checksum OK || [wiki:r2012runs_325 Run 325]
+|20120429 || clix || [wiki:r2012compilernames arm-artila-gcc -O0] || 3.3.2 || 6519521 || 292343 || 49612 (72505) || 0 (472) || 652 (3400) || 520(533) || Checksum OK || [wiki:r2012runs_326 Run 326]

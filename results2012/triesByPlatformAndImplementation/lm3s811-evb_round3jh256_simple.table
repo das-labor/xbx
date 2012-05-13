@@ -1,0 +1,11 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20120509 || clix || [wiki:r2012compilernames arm-elf-gcc -O0] || 4.3.2 (GCC) ||  ||  || 34616 (34616) || 24 (24) || 2488 (2488) || unk(unk) || error || [wiki:r2012runs_323 Run 323]
+|20120510 || clix || [wiki:r2012compilernames arm-elf-gcc -O0] || 4.3.2 (GCC) ||  ||  || 34616 (34616) || 24 (24) || 2488 (2488) || unk(unk) || error || [wiki:r2012runs_324 Run 324]
+|20120509 || clix || [wiki:r2012compilernames arm-elf-gcc -O1] || 4.3.2 (GCC) ||  ||  || 27848 (27848) || 24 (24) || 2488 (2488) || unk(unk) || error || [wiki:r2012runs_323 Run 323]
+|20120510 || clix || [wiki:r2012compilernames arm-elf-gcc -O1] || 4.3.2 (GCC) ||  ||  || 27848 (27848) || 24 (24) || 2488 (2488) || unk(unk) || error || [wiki:r2012runs_324 Run 324]
+|20120509 || clix || [wiki:r2012compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || 18521568 || 1298446 || 19848 (29136) || 0 (24) || 0 (2488) || 884(884) ||  || [wiki:r2012runs_323 Run 323]
+|20120510 || clix || [wiki:r2012compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || 18521569 || 1298446 || 19848 (29136) || 0 (24) || 0 (2488) || 884(884) ||  || [wiki:r2012runs_324 Run 324]
+|20120509 || clix || [wiki:r2012compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || 18521567 || 1298446 || 19848 (30276) || 0 (24) || 0 (2488) || 884(884) ||  || [wiki:r2012runs_323 Run 323]
+|20120510 || clix || [wiki:r2012compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || 18521569 || 1298446 || 19848 (30276) || 0 (24) || 0 (2488) || 884(884) ||  || [wiki:r2012runs_324 Run 324]
+|20120509 || clix || [wiki:r2012compilernames arm-elf-gcc -Os] || 4.3.2 (GCC) || 22124762 || 1541907 || 20392 (29152) || 0 (24) || 0 (2488) || 884(884) ||  || [wiki:r2012runs_323 Run 323]
+|20120510 || clix || [wiki:r2012compilernames arm-elf-gcc -Os] || 4.3.2 (GCC) || 22124764 || 1541907 || 20392 (29152) || 0 (24) || 0 (2488) || 884(884) ||  || [wiki:r2012runs_324 Run 324]

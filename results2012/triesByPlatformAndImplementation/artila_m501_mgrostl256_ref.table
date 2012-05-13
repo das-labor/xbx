@@ -1,0 +1,11 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20120429 || clix || [wiki:r2012compilernames arm-artila-gcc -O0] || 3.3.2 ||  ||  || 13489 (36382) || 388 (860) || 0 (2748) || unk(unk) || error || [wiki:r2012runs_326 Run 326]
+|20120429 || clix || [wiki:r2012compilernames arm-artila-gcc -O0] || 3.3.2 || 415153530 || 26994364 || 13489 (36382) || 388 (860) || 0 (2748) || 953(966) ||  || [wiki:r2012runs_325 Run 325]
+|20120429 || clix || [wiki:r2012compilernames arm-artila-gcc -O1] || 3.3.2 ||  ||  || 6722 (24238) || 396 (868) || 0 (2748) || unk(unk) || error || [wiki:r2012runs_326 Run 326]
+|20120429 || clix || [wiki:r2012compilernames arm-artila-gcc -O1] || 3.3.2 || 159777551 || 10423429 || 6722 (24238) || 396 (868) || 0 (2748) || 864(864) ||  || [wiki:r2012runs_325 Run 325]
+|20120429 || clix || [wiki:r2012compilernames arm-artila-gcc -O2] || 3.3.2 ||  ||  || 6230 (23538) || 396 (868) || 0 (2748) || unk(unk) || error || [wiki:r2012runs_326 Run 326]
+|20120429 || clix || [wiki:r2012compilernames arm-artila-gcc -O2] || 3.3.2 || 135344610 || 8421143 || 6230 (23538) || 396 (868) || 0 (2748) || 876(876) ||  || [wiki:r2012runs_325 Run 325]
+|20120429 || clix || [wiki:r2012compilernames arm-artila-gcc -O3] || 3.3.2 ||  ||  || 15958 (35914) || 396 (868) || 0 (2748) || unk(unk) || error || [wiki:r2012runs_326 Run 326]
+|20120429 || clix || [wiki:r2012compilernames arm-artila-gcc -O3] || 3.3.2 || 133941476 || 8389249 || 15958 (35914) || 396 (868) || 0 (2748) || 1072(1072) ||  || [wiki:r2012runs_325 Run 325]
+|20120429 || clix || [wiki:r2012compilernames arm-artila-gcc -Os] || 3.3.2 ||  ||  || 6154 (23303) || 396 (868) || 0 (2748) || unk(unk) || error || [wiki:r2012runs_326 Run 326]
+|20120429 || clix || [wiki:r2012compilernames arm-artila-gcc -Os] || 3.3.2 || 127103029 || 8406371 || 6154 (23303) || 396 (868) || 0 (2748) || 872(872) ||  || [wiki:r2012runs_325 Run 325]

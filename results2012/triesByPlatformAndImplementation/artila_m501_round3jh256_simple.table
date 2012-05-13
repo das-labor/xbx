@@ -1,0 +1,11 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20120429 || clix || [wiki:r2012compilernames arm-artila-gcc -O0] || 3.3.2 ||  ||  || 40384 (63277) || 0 (472) || 0 (2748) || unk(unk) || error || [wiki:r2012runs_326 Run 326]
+|20120429 || clix || [wiki:r2012compilernames arm-artila-gcc -O0] || 3.3.2 || 129587164 || 8417846 || 40384 (63277) || 0 (472) || 0 (2748) || 400(413) ||  || [wiki:r2012runs_325 Run 325]
+|20120429 || clix || [wiki:r2012compilernames arm-artila-gcc -O1] || 3.3.2 ||  ||  || 22664 (40180) || 0 (472) || 0 (2748) || unk(unk) || error || [wiki:r2012runs_326 Run 326]
+|20120429 || clix || [wiki:r2012compilernames arm-artila-gcc -O1] || 3.3.2 || 71185624 || 4873140 || 22664 (40180) || 0 (472) || 0 (2748) || 492(492) ||  || [wiki:r2012runs_325 Run 325]
+|20120429 || clix || [wiki:r2012compilernames arm-artila-gcc -O2] || 3.3.2 ||  ||  || 24772 (42080) || 0 (472) || 0 (2748) || unk(unk) || error || [wiki:r2012runs_326 Run 326]
+|20120429 || clix || [wiki:r2012compilernames arm-artila-gcc -O2] || 3.3.2 || 81201386 || 5251770 || 24772 (42080) || 0 (472) || 0 (2748) || 1352(1352) ||  || [wiki:r2012runs_325 Run 325]
+|20120429 || clix || [wiki:r2012compilernames arm-artila-gcc -O3] || 3.3.2 ||  ||  || 24768 (44724) || 0 (472) || 0 (2748) || unk(unk) || error || [wiki:r2012runs_326 Run 326]
+|20120429 || clix || [wiki:r2012compilernames arm-artila-gcc -O3] || 3.3.2 || 79480193 || 5268229 || 24768 (44724) || 0 (472) || 0 (2748) || 1352(1352) ||  || [wiki:r2012runs_325 Run 325]
+|20120429 || clix || [wiki:r2012compilernames arm-artila-gcc -Os] || 3.3.2 ||  ||  || 25068 (42217) || 0 (472) || 0 (2748) || unk(unk) || error || [wiki:r2012runs_326 Run 326]
+|20120429 || clix || [wiki:r2012compilernames arm-artila-gcc -Os] || 3.3.2 || 85899960 || 5334131 || 25068 (42217) || 0 (472) || 0 (2748) || 1356(1356) ||  || [wiki:r2012runs_325 Run 325]

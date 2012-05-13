@@ -1,6 +1,8 @@
 | '''Implementation''' || '''Try Cycles (1536)''' || '''ROM Usage''' || '''RAM Usage''' || '''Compiler''' || '''Version''' || '''Source''' 
-|[wiki:r2012platformsimplementations_lm3s811-evb_skein512512_arm_thumb arm_thumb] || 97247 || 17924 || 556 || [wiki:r2012compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:r2012runs_320 Run 320]
-|[wiki:r2012platformsimplementations_lm3s811-evb_skein512512_sphlib sphlib] || 286286 || 47584 || 916 || [wiki:r2012compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || [wiki:r2012runs_304 Run 304]
-|[wiki:r2012platformsimplementations_lm3s811-evb_skein512512_sphlib-small sphlib-small] || 314468 || 7616 || 916 || [wiki:r2012compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:r2012runs_320 Run 320]
-|[wiki:r2012platformsimplementations_lm3s811-evb_skein512512_opt opt] || 318921 || 25516 || 916 || [wiki:r2012compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || [wiki:r2012runs_320 Run 320]
-|[wiki:r2012platformsimplementations_lm3s811-evb_skein512512_armcryptolib armcryptolib] || 764486 || 2568 || 784 || [wiki:r2012compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:r2012runs_320 Run 320]
+|[wiki:r2012platformsimplementations_lm3s811-evb_skein512512_arm_thumb arm_thumb] || 97247 || 17924 || 556 || [wiki:r2012compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:r2012runs_324 Run 324]
+|[wiki:r2012platformsimplementations_lm3s811-evb_skein512512_sphlib sphlib] || 286286 || 47584 || 916 || [wiki:r2012compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || [wiki:r2012runs_324 Run 324]
+|[wiki:r2012platformsimplementations_lm3s811-evb_skein512512_little little] || 297469 || 24584 || 915 || [wiki:r2012compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:r2012runs_323 Run 323]
+|[wiki:r2012platformsimplementations_lm3s811-evb_skein512512_sphlib-small sphlib-small] || 314467 || 7616 || 916 || [wiki:r2012compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:r2012runs_324 Run 324]
+|[wiki:r2012platformsimplementations_lm3s811-evb_skein512512_opt opt] || 318921 || 25516 || 916 || [wiki:r2012compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:r2012runs_324 Run 324]
+|[wiki:r2012platformsimplementations_lm3s811-evb_skein512512_simple simple] || 323567 || 24876 || 916 || [wiki:r2012compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || [wiki:r2012runs_324 Run 324]
+|[wiki:r2012platformsimplementations_lm3s811-evb_skein512512_armcryptolib armcryptolib] || 764485 || 2568 || 784 || [wiki:r2012compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || [wiki:r2012runs_324 Run 324]

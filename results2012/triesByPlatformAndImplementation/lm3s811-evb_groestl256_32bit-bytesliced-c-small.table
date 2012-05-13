@@ -1,0 +1,7 @@
+| '''Date''' || '''Host''' || '''Compiler''' || '''Version''' || '''Checksum Cyc.''' || '''Benchmark Cyc. (1536 b)''' || '''Text Size''' || '''Data Size''' || '''BSS Size''' || '''Stack Size''' || '''Result''' || '''Source''' 
+|20120509 || clix || [wiki:r2012compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || 18227403 || 1509355 || 1424 (10712) || 0 (24) || 0 (2488) || 284(284) || Checksum OK || [wiki:r2012runs_323 Run 323]
+|20120510 || clix || [wiki:r2012compilernames arm-elf-gcc -O2] || 4.3.2 (GCC) || 18227405 || 1509355 || 1424 (10712) || 0 (24) || 0 (2488) || 284(284) || Checksum OK || [wiki:r2012runs_324 Run 324]
+|20120509 || clix || [wiki:r2012compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || 11250018 || 927316 || 3384 (13812) || 0 (24) || 0 (2488) || 320(320) || Checksum OK || [wiki:r2012runs_323 Run 323]
+|20120510 || clix || [wiki:r2012compilernames arm-elf-gcc -O3] || 4.3.2 (GCC) || 11250019 || 927316 || 3384 (13812) || 0 (24) || 0 (2488) || 320(320) || Checksum OK || [wiki:r2012runs_324 Run 324]
+|20120509 || clix || [wiki:r2012compilernames arm-elf-gcc -Os] || 4.3.2 (GCC) || 19625184 || 1610680 || 1372 (10132) || 0 (24) || 0 (2488) || 244(244) || Checksum OK || [wiki:r2012runs_323 Run 323]
+|20120510 || clix || [wiki:r2012compilernames arm-elf-gcc -Os] || 4.3.2 (GCC) || 19625187 || 1610680 || 1372 (10132) || 0 (24) || 0 (2488) || 244(244) || Checksum OK || [wiki:r2012runs_324 Run 324]
